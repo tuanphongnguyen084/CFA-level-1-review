@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "id": "reading-46",
+  "name": "Reading 46: Equity Valuation: Concepts And Basic Tools",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R46-Q1",
+      "question": "A stock has a required rate of return of 15%, a constant growth rate of 10%, and a dividend payout ratio of 45%. The stock's justi fied price-earnings ratio is closest to:",
+      "options": {
+        "A": "4.5 times.",
+        "B": "9.0 times.",
+        "C": "3.0 times."
+      },
+      "answer": "B",
+      "explanation": "The constant growth dividend discount model can be stated in terms of a company's priceearnings ratio: P0/E1 = (D1/E1) / (k - g) where P0/E1 is the justi fied P/E ratio and D1/E1 is the expected dividend payout ratio. Here, D1/E1 = 0.45, the required rate of return k = 0.15, and the constant growth rate of dividends g = 0.10. P0/E1 = 0.45 / (0.15 - 0.10) = 0.45 / 0.05 = 9.0",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q2",
+      "question": "When a company's return on equity (ROE) is 12% and the dividend payout ratio is 60%, what is the implied sustainable growth rate of earnings and dividends?",
+      "options": {
+        "A": "4.0%.",
+        "B": "4.8%.",
+        "C": "7.8%."
+      },
+      "answer": "B",
+      "explanation": "g = ROE × retention ratio = ROE × (1 - payout ratio) = 12 (0.4) = 4.8%",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q3",
+      "question": "Which of the following statements concerning security valuation is least accurate?",
+      "options": {
+        "A": "A firm with a $1.50 dividend last year, a dividend payout ratio of 40%, a return on equity of 12%, and a 15% required return is worth $18.24.",
+        "B": "The best way to value a company with high and unsustainable growth that exceeds the required return is to use the temporary supernormal growth (multistage) model.",
+        "C": "The best way to value a company expecting to pay a constantly growing dividend as from the third year is to use the Gordon growth model."
+      },
+      "answer": "A",
+      "explanation": "A firm with a $1.50 dividend last year, a dividend payout ratio of 40%, a return on new investment of 12%, and a 15% required return is worth $20.64. The growth rate is (1 - 0.40) × 0.12 = 7.2%. The expected dividend is then ($1.50)(1.072) = $1.61. The value is then (1.61) / (0.15 - 0.072) = $20.64.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q4",
+      "question": "A company's payout ratio is 0.45 and its expected return on equity (ROE) is 23%. What is the company's implied growth rate in dividends?",
+      "options": {
+        "A": "12.65%.",
+        "B": "10.35%.",
+        "C": "4.16%."
+      },
+      "answer": "A",
+      "explanation": "Growth Rate = (ROE)(1 - Payout Ratio) = (0.23)(0.55) = 12.65%",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q5",
+      "question": "Rock, Inc. maintains a policy of paying 30% of earnings to its investors in the form of dividends. Rock is expected to generate a return on equity of 9.3%. Rock's beta is 1.5. The market risk premium is 6% and the risk-free rate is 3%. Rock's required rate of return is closest to:",
+      "options": {
+        "A": "9.0%.",
+        "B": "9.3%.",
+        "C": "12.0%."
+      },
+      "answer": "C",
+      "explanation": "Required return = Rf + β(RM - Rf) = 0.03 + 1.5(0.06) = 0.12",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q6",
+      "question": "If all other factors remain unchanged, which of the following would most likely reduce a company's price/earnings ratio?",
+      "options": {
+        "A": "The dividend payout ratio increases, and the dividend growth rate increases.",
+        "B": "The dividend growth rate increases, and the required rate of return decreases.",
+        "C": "The required rate of return increases, and the dividend payout ratio decreases."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q7",
+      "question": "A stock is expected to pay a dividend of $1.50 at the end of each of the next three years. At the end of three years the stock price is expected to be $25. The equity discount rate is 16 percent. What is the current stock price?",
+      "options": {
+        "A": "$24.92.",
+        "B": "$19.39.",
+        "C": "$17.18."
+      },
+      "answer": "B",
+      "explanation": "The value of the stock today is the present value of the dividends and the expected stock price, discounted at the equity discount rate: $1.50/1.16 + $1.50/1.162 + $1.50/1.163 + $25.00/1.163 = $19.39",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q8",
+      "question": "Assume that a stock paid a dividend of $1.50 last year. Next year, an investor believes that the dividend will be 20% higher and that the stock will be selling for $50 at year-end. Assume a beta of 2.0, a risk-free rate of 6%, and an expected market return of 15%. What is the value of the stock?",
+      "options": {
+        "A": "$40.32.",
+        "B": "$41.77.",
+        "C": "$45.00."
+      },
+      "answer": "B",
+      "explanation": "Using the Capital Asset Pricing Model, we can determine the discount rate equal to 0.06 + 2(0.15 - 0.06) = 0.24. The dividends next year are expected to be $1.50 × 1.2 = $1.80. The present value of the future stock price and the future dividend are determined by discounting the expected cash flows at the discount rate of 24%: (50 + 1.8) / 1.24 = $41.77.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q9",
+      "question": "All else equal, the price-to-earnings (P/E) ratio of a stable firm will increase if the:",
+      "options": {
+        "A": "dividend payout is decreased.",
+        "B": "long-term growth rate is decreased.",
+        "C": "ROE is increased."
+      },
+      "answer": "C",
+      "explanation": "The increase in growth rate will increase the P/E ratio of a stable firm and growth rate can be calculated by the formula g = ROE × retention ratio. All else being equal an increase in ROE will therefore increase the P/E ratio. Note that decreasing the dividend payout ratio and decreasing the long term growth rate will both serve to decrease the P/E ratio.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q10",
+      "question": "Because of dividend displacement of earnings, the net effect on firm value of increasing the dividend payout ratio is:",
+      "options": {
+        "A": "indeterminate.",
+        "B": "to decrease firm value.",
+        "C": "to increase firm value."
+      },
+      "answer": "A",
+      "explanation": "The net effect on firm value of increasing the dividend payout ratio is ambiguous because the positive effect of larger dividends may be offset by a negative effect on the firm's sustainable growth rate. If increasing the payout ratio always increased firm value, all firms would have 100% payout ratios.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q11",
+      "question": "Holding all else equal, if the beta of a stock increases, the stock's price will:",
+      "options": {
+        "A": "be unaffected.",
+        "B": "decrease.",
+        "C": "increase."
+      },
+      "answer": "B",
+      "explanation": "When the beta of a stock increases, its required return will increase. This increases the discount rate investors use to estimate the present value of the stock's future cash flows, which decreases the value of the stock.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q12",
+      "question": "A company with a return on equity (ROE) of 27%, required return on equity (ke) of 20%, and a dividend payout ratio of 40% has an implied sustainable growth rate closest to:",
+      "options": {
+        "A": "10.80%.",
+        "B": "12.00%.",
+        "C": "16.20%."
+      },
+      "answer": "C",
+      "explanation": "g = (RR)(ROE) = (.60)(.27) = 0.162 or 16.2%",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q13",
+      "question": "A company has just paid a $2.00 dividend per share and dividends are expected to grow at a rate of 6% indefinitely. If the required return is 13%, what is the value of the stock today?",
+      "options": {
+        "A": "$30.29.",
+        "B": "$34.16.",
+        "C": "$32.25."
+      },
+      "answer": "A",
+      "explanation": "The dividend just paid is D0. To use the constant growth dividend discount model, we need the next period's dividend, D1: D1 = $2.00 × 0.06 = $2.12 P0 = D1 / (k - g) = 2.12 / (0.13 - 0.06) = $30.29",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q14",
+      "question": "Given the following information, compute the price/cash flow ratio for EAV Technology, a U.S. GAAP reporting firm. Net income per share = $6 Price per share = $100 Depreciation per share = $2 Interest expense per share = $4 Marginal tax rate = 25%",
+      "options": {
+        "A": "12.5X.",
+        "B": "8.3X.",
+        "C": "9.1X"
+      },
+      "answer": "A",
+      "explanation": "Operating cash flow = Net income per share + Depreciation per share = $6 + $2 = $8 Price/cash flow = $100 / $8.0X = 12.5X",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q15",
+      "question": "A firm is expected to have four years of growth with a retention ratio of 100%. Afterwards the firm's dividends are expected to grow 4% annually, and the dividend payout ratio will be set at 50%. If earnings per share (EPS) = $2.4 in year 5 and the required return on equity is 10%, what is the stock's value today?",
+      "options": {
+        "A": "$30.00.",
+        "B": "$13.66.",
+        "C": "$20.00."
+      },
+      "answer": "B",
+      "explanation": "Dividend in year 5 = (EPS)(payout ratio) = 2.4 × 0.5 = 1.2 P4 = 1.2 / (0.1 - 0.04) = 1.2 / 0.06 = $20 P0 = PV (P4) = $20 / (1.10)4 = $13.66",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q16",
+      "question": "The free cash flow to equity model is best described as a(n):",
+      "options": {
+        "A": "enterprise value model.",
+        "B": "present value model.",
+        "C": "single-factor model."
+      },
+      "answer": "B",
+      "explanation": "The free cash flow to equity model is one type of present value model or discounted cash flow model. It estimates a stock's value as the present value of cash available to common shareholders. The enterprise value model is an example of a multiplier model.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q17",
+      "question": "The yield on a company's 7.5%, $50 par preferred stock is 6%. The value of the preferred stock is closest to:",
+      "options": {
+        "A": "$50.00.",
+        "B": "$62.50.",
+        "C": "$12.50."
+      },
+      "answer": "B",
+      "explanation": "The preferred dividend is 0.075($50) = $3.75. The value of the preferred = $3.75 / 0.06 = $62.50.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q18",
+      "question": "An analyst projects the following pro forma financial results for Magic Holdings, Inc., in the next year: Sales of $1,000,000 Earnings of $200,000 Total assets of $750,000 Equity of $500,000 Dividend payout ratio of 62.5% Shares outstanding of 50,000 Risk free interest rate of 7.5% Expected market return of 13.0% Stock Beta at 1.8 If the analyst assumes Magic Holdings, Inc. will produce a constant rate of dividend growth, the value of the stock is closest to :",
+      "options": {
+        "A": "$104.",
+        "B": "$44.",
+        "C": "$19."
+      },
+      "answer": "A",
+      "explanation": "Infinite period DDM: P0 = D1 / (ke - g) D1 = (Earnings × Payout ratio) / average number of shares outstanding = ($200,000 × 0.625) / 50,000 = $2.50. k e = risk free rate + [beta × (expected market return - risk free rate)] k e = 7.5% + [1.8 × (13.0% - 7.5%)] = 17.4%. g = (retention rate × ROE) Retention = (1 - Payout) = 1 - 0.625 = 0.375. ROE = net income/equity = 200,000/500,000 = 0.4 g = 0.375 × 0.4 = 0.15. P0 = D1 / (ke - g) = $2.50 / (0.174 - 0.15) = 104.17.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q19",
+      "question": "Using an infinite period dividend discount model, find the value of a stock that last paid a dividend of $1.50. Dividends are expected to grow at 6 percent forever, the expected return on the market is 12 percent and the stock's beta is 0.8. The risk-free rate of return is 5 percent.",
+      "options": {
+        "A": "$26.50.",
+        "B": "$32.61.",
+        "C": "$34.57."
+      },
+      "answer": "C",
+      "explanation": "First find the required rate of return using the CAPM equation. k = 0.05 + 0.8(0.12 - 0.05) = 10.6% $1.50(1.06) /(0.106 - 0.06) = $34.57",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q20",
+      "question": "According to the earnings multiplier model, which of the following factors is the least important in estima ting a stock's price-to-earnings ratio? The:",
+      "options": {
+        "A": "historical dividend payout ratio.",
+        "B": "expected dividend payout ratio.",
+        "C": "estimated required rate of return on the stock."
+      },
+      "answer": "A",
+      "explanation": "P/E = (D1/E1)/(k - g) where: D1/E1 = the expected dividend payout ratio k = estimated required rate of return on the stock g = expected growth rate of dividends for the stock The P/E is most sensitive to movements in the denominator",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q21",
+      "question": "What is the value of a stock that paid a $0.25 dividend last year, if dividends are expected to grow at a rate of 6% forever? Assume that the risk-free rate is 5%, the expected return on the market is 10%, and the stock's beta is 0.5.",
+      "options": {
+        "A": "$17.67.",
+        "B": "$3.53.",
+        "C": "$16.67."
+      },
+      "answer": "A",
+      "explanation": "The discount rate is k e = 0.05 + 0.5(0.10 - 0.05) = 0.075. Use the infinite period dividend discount model to value the stock. The stock value = D1 / (ke - g) = (0.25 × 1.06) / (0.075 - 0.06) = $17.67.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q22",
+      "question": "A firm has a return on equity (ROE) of 15% and a dividend payout rate of 80%. If last year's dividend was $0.80 and the required return on equity is 10%, the stock price today is closest to:",
+      "options": {
+        "A": "$11.77.",
+        "B": "$10.87.",
+        "C": "$9.96."
+      },
+      "answer": "A",
+      "explanation": "The expected growth rate of dividends is the retention rate (RR) times the return on the equity portion of new investments (ROE), g = (RR)(ROE). The retention rate is 1 minus the payout rate. RR = 1 - 0.80 = 0.20. g = (0.20)(0.15)= 3.0%. The value of the stock will be the dividend paid next year divided by the required rate of return minus the growth rate. Next year's dividend is $0.80 × 1.03 = $0.824. So the value is 0.824 / (0.10 - 0.03) = 0.824 / 0.07 = $11.77.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q23",
+      "question": "Asset-based valuation models are most appropriate for a firm that:",
+      "options": {
+        "A": "has cyclical earnings.",
+        "B": "has significant intangible assets.",
+        "C": "is being liquidated."
+      },
+      "answer": "C",
+      "explanation": "Asset-based valuation models are appropriate for a firm that is being liquidated because when a firm ceases to operate as a going concern, its value to equity owners depends on the difference between the fair value of its assets and liabilities. Asset-based models are unlikely to be reliable for estima ting the value of firms that have significant intangible assets because fair values of such assets are often difficult to determine. Such a firm may or may not have cyclical earnings.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q24",
+      "question": "The required rate of return on equity used as an input to the dividend discount model is influenced by each of the following factors EXCEPT:",
+      "options": {
+        "A": "the stock's appropriate risk premium.",
+        "B": "the expected infla tion rate.",
+        "C": "the stock's dividend payout ratio."
+      },
+      "answer": "C",
+      "explanation": "A stock's required rate of return is equal to the nominal risk-free rate plus a risk premium. The nominal risk-free rate is approximately equal the real risk-free rate plus expected infla tion.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R46-Q25",
+      "question": "Use the following information to determine the value of River Gardens' common stock: Expected dividend payout ratio is 45%. Expected dividend growth rate is 6.5%. River Gardens' required return is 12.4%. Expected earnings per share next year are $3.25.",
+      "options": {
+        "A": "$24.80.",
+        "B": "$30.12.",
+        "C": "$27.25."
+      },
+      "answer": "A",
+      "explanation": "First, estimate the price to earnings (P/E) ratio as: (0.45) / (0.124 - 0.065) = 7.63. Then, multiply the expected earnings by the estimated P/E ratio: ($3.25)(7.63) = $24.80. The End !",
+      "answer_source": "bold"
+    }
+  ]
+}

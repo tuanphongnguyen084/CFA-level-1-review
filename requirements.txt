@@ -1,0 +1,4 @@
+# Runtime dependencies (installed by Streamlit Community Cloud).
+# Keep this lean — content tooling deps live in requirements-dev.txt.
+streamlit>=1.40
+streamlit-local-storage>=0.0.25

@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-2",
+  "name": "Đề 2 — Câu 21–40",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q21",
+      "question": "What is the value of a stock that paid a $0.25 dividend last year, if dividends are expected to grow at a rate of 6% forever? Assume that the risk-free rate is 5%, the expected return on the market is 10%, and the stock's beta is 0.5.",
+      "options": {
+        "A": "$17.67.",
+        "B": "$3.53.",
+        "C": "$16.67."
+      },
+      "answer": "A",
+      "explanation": "The discount rate is k e = 0.05 + 0.5(0.10 - 0.05) = 0.075. Use the infinite period dividend discount model to value the stock. The stock value = D 1 / (k e - g) = (0.25 × 1.06) / (0.075 - 0.06) = $17.67. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q22",
+      "question": "A firm has a return on equity (ROE) of 15% and a dividend payout rate of 80%. If last year's dividend was $0.80 and the required return on equity is 10%, the stock price today is closest to:",
+      "options": {
+        "A": "$11.77.",
+        "B": "$10.87.",
+        "C": "$9.96."
+      },
+      "answer": "A",
+      "explanation": "The expected growth rate of dividends is the retention rate (RR) times the return on the equity portion of new investments (ROE), g = (RR)(ROE). The retention rate is 1 minus the payout rate. RR = 1 - 0.80 = 0.20. g = (0.20)(0.15)= 3.0%. The value of the stock will be the dividend paid next year divided by the required rate of return minus the growth rate. Next year's dividend is $0.80 × 1.03 = $0.824. So the value is 0.824 / (0.10 - 0.03) = 0.824 / 0.07 = $11.77. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q23",
+      "question": "Robert Higgins is estimating the price-earnings (P/E) ratio that will be appropriate for an index at the end of next year. He has estimated that: Expected annual dividends will increase by 10% compared to this year. Expected earnings per share will increase by 10% compared to this year. The expected growth rate of dividends will be the same as the current estimate of 5%. The required rate of return will rise from 8% to 11%. Compared to the current P/E, the end-of-the-year P/E will be:",
+      "options": {
+        "A": "50% lower.",
+        "B": "2% higher.",
+        "C": "10% higher."
+      },
+      "answer": "A",
+      "explanation": "The numerator of the formula for the P/E is the payout ratio, which is unchanged (both expected earnings and dividends increase by the same percentage). The denominator (k - g) doubles from 3% to 6%, which will decrease the P/E by half. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q24",
+      "question": "Given the following estimated financial results for the next period, value the stock of FishnChips, Inc., using the infinite period dividend discount model (DDM). Sales of $1,000,000. Earnings of $150,000. Total assets of $800,000. Equity of $400,000. Dividend payout ratio of 60.0%. Average shares outstanding of 75,000. Real risk free interest rate of 4.0%. Expected inflation rate of 3.0%. Expected market return of 13.0%. Stock Beta at 2.1. The per share value of FishnChips stock is approximately: (Note: Carry calculations out to at least 3 decimal places.)",
+      "options": {
+        "A": "$17.91.",
+        "B": "$26.86.",
+        "C": "$30.89."
+      },
+      "answer": "B",
+      "explanation": "Here, we are given all the inputs we need. Use the following steps to calculate the value of the stock: First , expand the infinite period DDM: DDM formula: P 0 = D 1 / (k e - g) D 1 = (Earnings × Payout ratio) / average number of shares outstanding = ($150,000 × 0.60) / 75,000 = $1.20 k e = nominal risk free rate + [beta × (expected market return - nominal risk free rate)] Note: Nominal risk-free rate = (1 + real risk free rate) × (1 + expected inflation) - 1 = (1.04)×(1.03) - 1 = 0.0712, or 7.12%. k e = 7.12% + [2.1 × (13.0% - 7.12%)] = 0.19468 g = (retention rate × ROE) Retention = (1 - Payout) = 1 - 0.60 = 0.40. ROE = (net income / sales)(sales / total assets)(total assets / equity) = (150,000 / 1,000,000)(1,000,000 / 800,000)(800,000 / 400,000) = 0.375 g = 0.375 × 0.40 = 0.15 Then , calculate: P 0 = D 1 / (k e - g) = $1.20 / (0.19468 - 0.15) = 26.86. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q25",
+      "question": "Asset-based valuation models are most appropriate for a firm that:",
+      "options": {
+        "A": "has cyclical earnings.",
+        "B": "has significant intangible assets.",
+        "C": "is being liquidated."
+      },
+      "answer": "C",
+      "explanation": "Asset-based valuation models are appropriate for a firm that is being liquidated because when a firm ceases to operate as a going concern, its value to equity owners depends on the difference between the fair value of its assets and liabilities. Asset-based models are unlikely to be reliable for estimating the value of firms that have significant intangible assets because fair values of such assets are often difficult to determine. Such a firm may or may not have cyclical earnings. (Module 48.3, LOS 48.m)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q26",
+      "question": "The required rate of return on equity used as an input to the dividend discount model is influenced by each of the following factors EXCEPT:",
+      "options": {
+        "A": "the stock's appropriate risk premium.",
+        "B": "the expected infiation rate.",
+        "C": "the stock's dividend payout ratio."
+      },
+      "answer": "C",
+      "explanation": "A stock's required rate of return is equal to the nominal risk-free rate plus a risk premium. The nominal risk-free rate is approximately equal the real risk-free rate plus expected inflation. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q27",
+      "question": "Use the following information to determine the value of River Gardens' common stock: Expected dividend payout ratio is 45%. Expected dividend growth rate is 6.5%. River Gardens' required return is 12.4%. Expected earnings per share next year are $3.25.",
+      "options": {
+        "A": "$24.80.",
+        "B": "$30.12.",
+        "C": "$27.25."
+      },
+      "answer": "A",
+      "explanation": "First, estimate the price to earnings (P/E) ratio as: (0.45) / (0.124 - 0.065) = 7.63. Then, multiply the expected earnings by the estimated P/E ratio: ($3.25)(7.63) = $24.80. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q28",
+      "question": "An analyst has gathered the following data for Webco, Inc: Retention = 40% ROE = 25% k = 14% Using the infinite period, or constant growth, dividend discount model, calculate the price of Webco's stock assuming that next year's earnings will be $4.25.",
+      "options": {
+        "A": "$125.00.",
+        "B": "$55.00.",
+        "C": "$63.75."
+      },
+      "answer": "C",
+      "explanation": "g = (ROE)(RR) = (0.25)(0.4) = 10% V = D 1 / (k - g) D 1 = 4.25 (1 - 0.4) = 2.55 G = 0.10 K - g = 0.14 - 0.10 = 0.04 V = 2.55 / 0.04 = 63.75 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q29",
+      "question": "In its latest annual report, a company reported the following: Net income = $1,000,000 Total equity = $5,000,000 Total assets = $10,000,000 Dividend payout ratio = 40% Based on the sustainable growth model, the most likely forecast of the company's future earnings growth rate is:",
+      "options": {
+        "A": "6%.",
+        "B": "8%.",
+        "C": "12%."
+      },
+      "answer": "C",
+      "explanation": "g = (RR)(ROE) RR = 1 - dividend payout ratio = 1 - 0.4 = 0.6 ROE = NI / Total Equity = 1,000,000 / 5,000,000 = 1 / 5 = 0.2 Note: This is the \"simple\" calculation of ROE. Since we are only given these inputs, these are what you should use. Also, if given beginning and ending equity balances, use the average in the denominator. g = (0.6)(0.2) = 0.12 or 12% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q30",
+      "question": "Of the following types of firm, which is most suitable for P/B ratio analysis?",
+      "options": {
+        "A": "A service industry firm without significant fixed assets.",
+        "B": "A firm with accounting standards difierent from other firms.",
+        "C": "A firm with accounting standards consistent to other firms."
+      },
+      "answer": "C",
+      "explanation": "Assuming consistent accounting standards across firms, P/B ratios can reveal signs of misvaluation across firms. (Module 48.3, LOS 48.j)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q31",
+      "question": "A firm will not pay dividends until four years from now. Starting in year four dividends will be $2.20 per share, the retention ratio will be 40%, and ROE will be 15%. If k = 10%, what should be the value of the stock?",
+      "options": {
+        "A": "$55.25.",
+        "B": "$41.32.",
+        "C": "$58.89."
+      },
+      "answer": "B",
+      "explanation": "g = ROE × retention ratio = ROE × b = 15 × 0.4 = 6% Based on the growth rate we can calculate the expected price in year 3: P 3 = D 4 / (k - g) = 2.2 / (0.10 - 0.06) = $55 The stock value today is: P 0 = PV (55) at 10% for 3 periods = $41.32 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q32",
+      "question": "What value would be placed on a stock that currently pays no dividend but is expected to start paying a $1 dividend five years from now? Once the stock starts paying dividends, the dividend is expected to grow at a 5 percent annual rate. The appropriate discount rate is 12 percent.",
+      "options": {
+        "A": "$8.11.",
+        "B": "$9.08.",
+        "C": "$14.29."
+      },
+      "answer": "B",
+      "explanation": "P 4 = D5/(k-g) = 1/(.12-.05) = 14.29 P 0 = [FV = 14.29; n = 4; i = 12] = $9.08. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q33",
+      "question": "Calculate the value of a preferred stock that pays an annual dividend of $5.50 if the current market yield on AAA rated preferred stock is 75 basis points above the current T-Bond rate of 7%.",
+      "options": {
+        "A": "$42.63.",
+        "B": "$70.97.",
+        "C": "$78.57."
+      },
+      "answer": "B",
+      "explanation": "k preferred = base yield + risk premium = 0.07 + 0.0075 = 0.0775 Value Preferred = Dividend / k preferred Value = 5.50 / 0.0775 = $70.97 (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q34",
+      "question": "Given the following information, compute price/book value. Book value of assets = $550,000 Total sales = $200,000 Net income = $20,000 Dividend payout ratio = 30% Operating cash flow = $40,000 Price per share = $100 Shares outstanding = 1000 Book value of liabilities = $500,000",
+      "options": {
+        "A": "2.0X.",
+        "B": "2.5X.",
+        "C": "5.5X."
+      },
+      "answer": "A",
+      "explanation": "Book value of equity = $550,000 - $500,000 = $50,000 Market value of equity = ($100)(1000) = $100,000 Price/Book = $100,000/$50,000 = 2.0X (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q35",
+      "question": "According to the earnings multiplier model, a stock's P/E ratio (P 0 /E 1 ) is affected by all of the following EXCEPT the:",
+      "options": {
+        "A": "expected dividend payout ratio.",
+        "B": "expected stock price in one year.",
+        "C": "required return on equity."
+      },
+      "answer": "B",
+      "explanation": "According to the earnings multiplier model, the P/E ratio is equal to P 0 /E 1 = (D 1 /E 1 )/(k e - g). Thus, the P/E ratio is determined by: The expected dividend payout ratio (D 1 /E 1 ). The required rate of return on the stock (k e ). The expected growth rate of dividends (g). (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q36",
+      "question": "A company's growth rate in dividends and earnings can be estimated as the:",
+      "options": {
+        "A": "product of the retention ratio and the return on equity.",
+        "B": "product of the return on equity and the dividend payout ratio.",
+        "C": "difierence between the retention ratio and the return on equity."
+      },
+      "answer": "A",
+      "explanation": "Assuming past investments are stable and earnings are calculated to allow for maintenance of past earnings power, then the firm's expected dividend growth rate (g) can be defined as the firm's earnings plowback or retention rate (RR) times the return on the equity (ROE) portion of new investments. This growth rate is also called the sustainable growth rate. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q37",
+      "question": "One advantage of using price-to-book value (PBV) multiples for stock valuation is that:",
+      "options": {
+        "A": "book value of a firm can never be negative.",
+        "B": "it is a stable and simple benchmark for comparison to the market price.",
+        "C": "most of the time it is close to the market value."
+      },
+      "answer": "B",
+      "explanation": "Book value provides a relatively stable measure of value that can be compared to the market price. For investors who mistrust the discounted cash flow estimates of value, it provides a much simpler benchmark for comparison. Book value may or may not be closer to the market value. A firm may have negative book value if it shows accounting losses consistently. (Module 48.3, LOS 48.j)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q38",
+      "question": "Day and Associates is experiencing a period of abnormal growth. The last dividend paid by Day was $0.75. Next year, they anticipate growth in dividends and earnings of 25% followed by negative 5% growth in the second year. The company will level off to a normal growth rate of 8% in year three and is expected to maintain an 8% growth rate for the foreseeable future. Investors require a 12% rate of return on Day. The value of Day stock today is closest to:",
+      "options": {
+        "A": "$24.05.",
+        "B": "$20.70.",
+        "C": "$18.65."
+      },
+      "answer": "B",
+      "explanation": "First find the abnormal dividends: D 1 = $0.75 × 1.25 = $0.9375 D 2 = $0.9375 × 0.95 = $0.89 D 2 is the first dividend that will grow at a constant rate. We can use this dividend in the constant growth DDM to get a value for the stock in period 1: $0.89 / (0.12 - 0.08) = $22.25 Value of the stock today = ($22.25 + $0.9375) / 1.12 = $20.70. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q39",
+      "question": "Utilizing the infinite period dividend discount model, all else held equal, if the required rate of return (K e ) decreases, the model yields a price that is:",
+      "options": {
+        "A": "increased, due to a smaller spread between required return and growth.",
+        "B": "reduced, due to increased spread between growth and required return.",
+        "C": "reduced, due to the reduction in discount rate."
+      },
+      "answer": "A",
+      "explanation": "The denominator of the single-stage DDM is the spread between required return K e , and expected growth rate, g. The smaller the denominator, all else held equal, the larger the computed value. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q40",
+      "question": "Use the following information and the multi-period dividend discount model to find the value of Computech's common stock. Last year's dividend was $1.62. The dividend is expected to grow at 12% for three years. The growth rate of dividends after three years is expected to stabilize at 4%. The required return for Computech's common stock is 15%. Which of the following statements about Computech's stock is least accurate?",
+      "options": {
+        "A": "At the end of two years, Computech's stock will sell for $20.69.",
+        "B": "Computech's stock is currently worth $17.46.",
+        "C": "The dividend at the end of year three is expected to be $2.28."
+      },
+      "answer": "B",
+      "explanation": "The dividends for years 1, 2, and 3 are expected to be ($1.62)(1.12) = $1.81; ($1.81)(1.12) = $2.03; and ($2.03)(1.12) = $2.27. At the end of year 2, the stock should sell for $2.27 / (0.15 - 0.04) = $20.64. The stock should sell currently for ($20.64 + $2.03) / (1.15) 2 + ($1.81) / (1.15) = $18.71. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    }
+  ]
+}

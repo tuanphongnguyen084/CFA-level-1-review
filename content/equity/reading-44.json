@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "id": "reading-44",
+  "name": "Reading 44: Industry And Competitive Analysis",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R44-Q1",
+      "question": "After completing a thorough industry analysis, which of the following is most likely an additional element an analyst should examine when analyzing a specific company within the industry?",
+      "options": {
+        "A": "Competitive strategy.",
+        "B": "Power of buyers.",
+        "C": "Threat of entry."
+      },
+      "answer": "A",
+      "explanation": "Company analysis involves examining a specific firm's financial condition, products and services, and competitive strategy (cost leadership or differentia tion). Industry analysis should include examining competitive forces such as the threat of entry and the power of buyers.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q2",
+      "question": "Adrian Martin, CFA, is tasked with evaluating profitability for a mature industry in the textile space. Given that the industry consists entirely of publicly traded companies, the best measure for her to use is:",
+      "options": {
+        "A": "return on invested capital.",
+        "B": "gross profit margin.",
+        "C": "return on equity."
+      },
+      "answer": "A",
+      "explanation": "Return on invested capital measures return (after taxes) on a base of total invested capital (debt and equity). Because it accounts for total capital structure, it is better than return on equity (which only accounts for equity capital). Gross profit margin, which is equal to sales less cost of goods sold divided by sales, does not assess total profitability because there are myriad other costs beyond just cost of goods sold.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q3",
+      "question": "If an investor is looking for exposure to more industry-specific risk and less company'specific risk, a financial advisor is most likely to recommend which of the following approaches?",
+      "options": {
+        "A": "Smaller investments in fewer companies across many industries.",
+        "B": "Larger investments in fewer companies within a targeted industry.",
+        "C": "Smaller investments in several companies within a targeted industry."
+      },
+      "answer": "C",
+      "explanation": "A good investment strategy for gaining exposure to more industry-specific risk and less company'specific risk is to make smaller investments in many companies within the same targeted industry",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q4",
+      "question": "Which of the following types of industries is typically characterized by above-normal expansion in sales and profits independent of the business cycle?",
+      "options": {
+        "A": "Defensive.",
+        "B": "Counter-cyclical.",
+        "C": "Growth."
+      },
+      "answer": "C",
+      "explanation": "A growth industry is typically characterized by above-normal expansion in sales and profits independent of the business cycle.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q5",
+      "question": "An industry has a Herfindahl-Hirschman Index (HHI) of 2,740. An implication of this measure is that the industry will most likely have:",
+      "options": {
+        "A": "greater competitive intensity.",
+        "B": "less pricing power.",
+        "C": "greater profitability."
+      },
+      "answer": "C",
+      "explanation": "An industry with an HHI above 2,500 is considered highly concentrated. High concentration implies greater profitability (for the companies in the industry), greater pricing power, and less competitive intensity",
+      "answer_source": "manual"
+    },
+    {
+      "id": "R44-Q6",
+      "question": "Which of the following statements is most accurate regarding a firm that chooses to employ a focus-based competitive strategy?",
+      "options": {
+        "A": "It is often a hybrid strategy, as it may involve elements of both cost leadership and differentia tion.",
+        "B": "The appeal is for customers who are willing to pay more for perceived value.",
+        "C": "The target is a wide range of customers whose needs may differ considerably."
+      },
+      "answer": "A",
+      "explanation": "A focus (or niche) strategy can be thought of as hybrid, as it contains elements of both cost leadership and differentia tion. Companies whose customers will pay more for perceived value are more likely to pursue a differentia tion strategy. The target for a focus strategy is on a narrower (rather than wide) range of customers.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q7",
+      "question": "Which of the following competitive strategies lends itself most to industries where product offerings are relatively stable and the rate of innovation is slow?",
+      "options": {
+        "A": "Differentia tion.",
+        "B": "Focus.",
+        "C": "Cost leadership."
+      },
+      "answer": "C",
+      "explanation": "A cost leadership strategy is one where firms look to generate profits through lower sale prices (to a ttract and maintain customers) and lower production costs. If product offerings are relatively stable and innovation is slow, cost leadership is an appropriate strategy.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q8",
+      "question": "How would a commercial industry classification system provider classify a firm with two business lines, with one line representing 65% of its total revenue and the other representing 35%?",
+      "options": {
+        "A": "The firm would be classified into two business lines based on a 65/35 split.",
+        "B": "The firm would be classified equally into the two business lines.",
+        "C": "The firm would be classified into the line that is associated with 65% of its revenue."
+      },
+      "answer": "C",
+      "explanation": "A firm with multiple business lines, with one of them representing more than 60% of its revenue, will be classified into that single business line. Here, with one line representing 65%, the entire firm will be put into that business line for classification purposes.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q9",
+      "question": "An analyst is using the Herfindahl-Hirschman Index (HHI) to evaluate industry concentration. The industry has four firms with the following market shares: 45%, 25%, 20%, and 10%. This industry's concentration will be considered:",
+      "options": {
+        "A": "moderate.",
+        "B": "low.",
+        "C": "high."
+      },
+      "answer": "C",
+      "explanation": "The HHI of this industry is equal to the summation of the squares of each market share. HHI = (45 × 45) + (25 × 25) + (20 × 20) + (10 × 10) = 3,150. An HHI greater than 2,500 is indicative of high concentration. Low concentration is less than 1,500, and moderate concentration is between 1,500 and 2,500.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q10",
+      "question": "If a company shows relatively stable demand for its services through naturalfluctua tions in the overall economy, the company will be considered a:",
+      "options": {
+        "A": "defensive company.",
+        "B": "growth company.",
+        "C": "cyclical company."
+      },
+      "answer": "A",
+      "explanation": "A defensive company shows stable demand for its products and services, even as business cycles trend from expansionary to contractionary to recovery, and so on. A cyclical company will exhibitfluctua ting demand based on what is happening with the economy. Stable demand is not indicative of a growth company",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q11",
+      "question": "An analyst is reviewing an industry and its associated barriers to entry and bargaining power of suppliers. This assessment of industry profitability and competitiveness is a part of which step of the industry and competitive analysis process?",
+      "options": {
+        "A": "Analyze the industry structure.",
+        "B": "Define the industry.",
+        "C": "Survey the industry."
+      },
+      "answer": "A",
+      "explanation": "Of thefive steps of industry and competitive analysis, analyzing the industry structure would include using frameworks like Porter's Five Forces (which includes barriers to entry and bargaining power of suppliers) to assess competitiveness and profitability. Defining and surveying the industry are steps in the process, but they are not where the action in the narrative is performed",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q12",
+      "question": "In differentia ting between an industry and a sector, an analyst may describe transportation and airlines in what manner?",
+      "options": {
+        "A": "Transportation is the sector, and airline is the industry.",
+        "B": "Airline is the sector, and transportation is the industry.",
+        "C": "Both airline and transportation are industries."
+      },
+      "answer": "A",
+      "explanation": "An industry is identi fied by the products it produces and services it provides. A sector is a grouping of similar industries. Transportation is a sector, and airline is an industry within the transportation sector.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q13",
+      "question": "The competitive forces identi fied by Michael Porter include:",
+      "options": {
+        "A": "power of existing competitors and threat of entry.",
+        "B": "rivalry among existing competitors and power of buyers.",
+        "C": "threat of substitutes and rivalry among suppliers."
+      },
+      "answer": "B",
+      "explanation": "Porter'sfive competitive forces are: (1) rivalry among existing competitors; (2) threat of entry; (3) threat of substitutes; (4) power of buyers; (5) power of suppliers.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q14",
+      "question": "Which of the following barriers to entry will increase the competitiveness of the companies within an industry?",
+      "options": {
+        "A": "Pre-existing customer loyalties.",
+        "B": "Low up-front capital requirements.",
+        "C": "Significant regulatory costs."
+      },
+      "answer": "B",
+      "explanation": "The higher the threats to entry, the more competitive the industry becomes. If up-front capital requirements are low, it makes it easier for outside companies to enter the industry and compete with the companies already in the industry. Significant regulatory costs will deter outside companies from trying to enter, as will pre-existing customer loyalties",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q15",
+      "question": "Which of the following types of industries is typically characterized by stable performance during both expansions and contractions of the business cycle?",
+      "options": {
+        "A": "Defensive.",
+        "B": "Growth.",
+        "C": "Cyclical."
+      },
+      "answer": "A",
+      "explanation": "A defensive industry is typically characterized by stable performance during both expansions and contractions of the business cycle.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q16",
+      "question": "A firm that pursues a differentia tion strategy is most likely to emphasize:",
+      "options": {
+        "A": "gains in market share.",
+        "B": "market research.",
+        "C": "operating efficiency."
+      },
+      "answer": "B",
+      "explanation": "A firm that follows a product or service differentia tion strategy needs to emphasize market research to identify needs for which customers are willing to pay a premium. Market share and operating efficiency are more of a focus for firms that pursue a low-cost strategy.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q17",
+      "question": "Commercial index providers typically classify companies by:",
+      "options": {
+        "A": "principal business activity.",
+        "B": "statis tical grouping.",
+        "C": "sensitivity to business cycles."
+      },
+      "answer": "A",
+      "explanation": "Commercial providers such as Standard and Poor's and MSCI Barra classify companies according to their principal business activity and the products and services they provide.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q18",
+      "question": "Commercial industry classification systems such as the Global Industry Classification Standard (GICS) typically classify firms according to their:",
+      "options": {
+        "A": "principal business activi ties.",
+        "B": "correlations of historical returns.",
+        "C": "sensitivity to business cycles."
+      },
+      "answer": "A",
+      "explanation": "Commercial providers of industry classification systems such as the GICS classify firms according to principal business activity, such as Consumer Staples, Financial Services, or Health Care",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q19",
+      "question": "An analyst studying the defense industry will focus on political influences in a PESTLE analysis for which of the following reasons?",
+      "options": {
+        "A": "Defense spending is the number-one priority for governments.",
+        "B": "The primary buyers are governmental entities.",
+        "C": "Political parties determine whether or not to spend on defense."
+      },
+      "answer": "B",
+      "explanation": "It is an accurate statement that governments are not only the primary, but also often the only buyers for the defense sector. Defense spending is an important priority, but not necessarily the top priority. Political parties may influence how much is spent on defense, but it is not a question of whether or not to spend on defense.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q20",
+      "question": "An analyst develops a style box that categorizes industries based on growth rate and sensitivity to economic business cycles. Which of the following industries will most likely land in the box for (higher) growth and defensive sensitivity to cycles?",
+      "options": {
+        "A": "Biotechnology.",
+        "B": "Utili ties.",
+        "C": "Crude oil production."
+      },
+      "answer": "A",
+      "explanation": "The growth rate category can be further classified as mature versus growth. The business cycle sensitivity category can be further classified as cyclical versus defensive. Biotechnology is most likely considered growth and defensive. Utili ties are mature and defensive. Crude oil production is mature and cyclical.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q21",
+      "question": "The threat of substitutes is most likely to be low for a firm that:",
+      "options": {
+        "A": "operates in a fragmented market with little unused capacity.",
+        "B": "produces a commodity product in an industry with significant unused capacity.",
+        "C": "produces a differentiated product with high switching costs."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q22",
+      "question": "Industry analysis is most likely to provide an analyst with insight about a company's:",
+      "options": {
+        "A": "competitive strategy.",
+        "B": "financial performance.",
+        "C": "pricing power."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q23",
+      "question": "An aggressive price reduction to gain market share is most likely to be associated with a:",
+      "options": {
+        "A": "product differentia tion strategy.",
+        "B": "service differentia tion strategy.",
+        "C": "cost leadership strategy."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q24",
+      "question": "In conducting a PESTLE analysis of external factors impacting an industry, an analyst will examine economic influences focused on trends in which types of structural measures?",
+      "options": {
+        "A": "Interest rates.",
+        "B": "Unemployment rates and labor force numbers.",
+        "C": "Growth in gross domestic product."
+      },
+      "answer": "B",
+      "explanation": "A PESTLE analysis is used to evaluate external factors impacting an industry. These factors are political (P), economic (E), social (S), technological (T), legal (L), and environmental (E). Economic influences can be captured by examining cyclical trends (e.g., interest rates, gross domestic product) or structural trends (e.g., labor force, unemployment).",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R44-Q25",
+      "question": "Company X runs a series of high-end hotels in the Northeastern United States. The average room rate per night is higher than any other hotel in the region. Which of the following best allows the company to build upon its differentia tion strategy?",
+      "options": {
+        "A": "Economies of scale and low variable costs.",
+        "B": "Strong cost controls, which allow the company to maintain profit margins.",
+        "C": "A culture of strong customer experience."
+      },
+      "answer": "C",
+      "explanation": "A company running high-end hotels with high average room rates is executing a differentia tion strategy, where customers see value in paying more for a product or service. A culture of strong customer experience lends itself to this strategy. Economies of scale, low variable costs, and strong cost controls are needed with a cost leadership strategy The End!",
+      "answer_source": "bold"
+    }
+  ]
+}

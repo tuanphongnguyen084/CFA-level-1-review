@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "id": "reading-39",
+  "name": "Reading 39: Market Organization And Structure",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R39-Q1",
+      "question": "In contrast with a typical forward contract, futures contracts have:",
+      "options": {
+        "A": "standardized terms.",
+        "B": "less liquidity.",
+        "C": "greater counterparty risk."
+      },
+      "answer": "A",
+      "explanation": "Futures are forward contracts that trade on exchanges and have standardized terms, in contrast with forward contracts, which are customized instruments. A futures clearinghouse reduces counterparty risk by guaranteeing the performance of buyers and sellers. Futures contracts trade on organized exchanges and are more liquid than forward contracts.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q2",
+      "question": "An investor purchases stock on 25% initial margin, posting $10 of the original stock price of $40 as equity. The position has a required maintenance margin of 20%. The investor later sells the stock for $45. Ignoring transaction costs and margin loan interest, which of the following statements is most accurate?",
+      "options": {
+        "A": "Leverage ratio is 3:1.",
+        "B": "Margin call price is $36.",
+        "C": "Return on investment is 50%."
+      },
+      "answer": "C",
+      "explanation": "Return on invested equity is ($45 - $40) / $10 = 50%. The leverage ratio is purchase price / equity = $40 / $10 = 4. Margin call price is $40 × [(1 - 0.25) / (1 - 0.20)] = $37.50.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q3",
+      "question": "Which of the following orders is said to be \"behind the market\"?",
+      "options": {
+        "A": "Market sell order when the best bid is 38 and the best ask is 39.",
+        "B": "Limit sell order at 38 when the best ask is 39.",
+        "C": "Limit buy order at 38 when the best bid is 39."
+      },
+      "answer": "C",
+      "explanation": "A limit buy order is behind the market if its limit price is below the best bid. A limit sell order is behind the market if its limit price is above the best ask. Market orders are never said to be behind the market.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q4",
+      "question": "Toby Jensen originally purchased 400 shares of CSC stock on margin at a price of $60 per share. The initial margin requirement is 50% and the maintenance margin is 25%. CSC stock price has fallen dramatically in recent months and it closed today with a sharp decline bringing the closing price to $40 per share. Will Jensen receive a margin call?",
+      "options": {
+        "A": "No, he meets the minimum initial margin requirement.",
+        "B": "No, he meets the minimum maintenance margin requirement.",
+        "C": "Yes, he does not meet the minimum maintenance margin requirement."
+      },
+      "answer": "B",
+      "explanation": "Total original value held by Jensen is 400 × $60 = $24,000. Amount of equity is 50% ($24,000) = $12,000. Current total value is 400 × $40 = $16,000. So Jensen's equity is $16,000 - $12,000 = $4,000 which is 4,000/16,000 = 25% of the total market value.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q5",
+      "question": "Which of the following statements about securities exchanges is most accurate?",
+      "options": {
+        "A": "Call markets are markets in which the stock is only traded at specific times.",
+        "B": "Continuous markets are markets where trades occur 24 hours per day.",
+        "C": "Setting a negotiated price to clear the market is a method used to set the closing price in major continuous markets."
+      },
+      "answer": "A",
+      "explanation": "Continuous markets are markets where trades occur at any time the market is open (i.e., they do not need to be open 24 hours per day). Setting one negotiated price is a method used in major continuous markets to set the opening price.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q6",
+      "question": "Which of the following statements about financial intermediaries is most accurate?",
+      "options": {
+        "A": "Arbitrageurs buy securities with the anticipation that they will be able to sell the securities in the future at higher prices.",
+        "B": "Brokers seek out traders that are willing to take the opposite sides of their clients' orders.",
+        "C": "Dealers buy a security in one market and simultaneously sell the same security in a different market."
+      },
+      "answer": "B",
+      "explanation": "Brokers seek out traders that are willing to take the opposite side of their clients' orders. Arbitrageurs buy an instrument in one market and simultaneously sell the same instrument in a different market at a higher price. Dealers buy securities from clients, with the expectation that they will be able to sell the securities to other clients in the future at higher prices.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q7",
+      "question": "A financial system in which transactions have low costs is said to exhibit:",
+      "options": {
+        "A": "allocational efficiency.",
+        "B": "informational efficiency.",
+        "C": "operational efficiency"
+      },
+      "answer": "C",
+      "explanation": "Operational efficiency refers to low transactions costs. A financial system exhibits informational efficiency if prices quickly reflect all information relevant to fundamental value. A market exhibits allocational efficiency if it results in capital being directed to its most productive uses.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q8",
+      "question": "A buy limit order is said to be \"inside the market\" when:",
+      "options": {
+        "A": "the limit is between the best bid and the best ask.",
+        "B": "the order can be executed.",
+        "C": "the order is entered in the limit book."
+      },
+      "answer": "A",
+      "explanation": "A limit order with a limit price between the best bid and the best ask is said to be \"inside the market\" or \"making a new market.\" A limit order that has not yet been executed is a \"standing limit order.\"",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q9",
+      "question": "Becky Kirk contacted her broker and placed an order to purchase 1,000 shares of Bricko Corp. stock at a price of $60 per share. Kirk wishes to buy on margin. Assuming the margin requirement is 40%, how much money does Kirk have to pay up front to make the purchase?",
+      "options": {
+        "A": "$60,000.",
+        "B": "$36,000.",
+        "C": "$24,000."
+      },
+      "answer": "C",
+      "explanation": "The margin requirement represents the amount of money an investor must put down on the purchase. So Kirk must put $24,000 down ($60,000 × .40 = $24,000) and can borrow the balance.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q10",
+      "question": "A trader pays $100 per share to buy 500 shares of a non-dividend-paying firm. The purchase is done on margin, and the leverage ratio at purchase is 3.0X. Three months later, the trader sells the shares for $90 per share. Ignoring transaction costs and interest paid on the margin loan, the trader's 3-month return was closest to:",
+      "options": {
+        "A": "-40%.",
+        "B": "-10%.",
+        "C": "-30%."
+      },
+      "answer": "C",
+      "explanation": "With a leverage ratio of 3 and a 10% decrease in share value, the investor's return is 3 × - 10% = -30%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q11",
+      "question": "An investor purchases 100 shares at $75 per share with an initial margin of 50%. Assume there is no interest on the call loan and no transactions fees. If the stock price rises to $112.50, the rate of return to the investor is:",
+      "options": {
+        "A": "100%.",
+        "B": "200%.",
+        "C": "50%."
+      },
+      "answer": "A",
+      "explanation": "$75/share × 100 shares = $7,500. 50% margin means investor only pays half of the $7,500 in cash, or $3,750, and borrows the remaining $3,750. Rate of return = (market value - initial investment - margin loan repayment) / initial equity = ($11,250 - $3,750 - $3,750) / $3,750 = 100%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q12",
+      "question": "Which of the following is most likely an objective of market regulation?",
+      "options": {
+        "A": "Limit downside risk to investors.",
+        "B": "Preserve trust in financial markets.",
+        "C": "Educate unsophisticated investors."
+      },
+      "answer": "B",
+      "explanation": "Rules against insider trading and enforcement of laws regarding fraud and theft by corporate managers are intended to preserve trust in the markets of public investors. While clear and honest disclosure and fraud prevention are goals, limiting the downside risk of equities markets is not a likely objective of financial regulation. Neither is the education of unsophisticated investors.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q13",
+      "question": "An order placed to protect a short position is called a:",
+      "options": {
+        "A": "protective call.",
+        "B": "stop loss buy.",
+        "C": "stop loss sell."
+      },
+      "answer": "B",
+      "explanation": "A short position profits from declines in stock price and experiences losses as the price rises. A stop loss buy is a limit order that is placed above the market price. When the stock price reaches the stop price, the limit order is executed curtailing further loses.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q14",
+      "question": "If an investor buys 100 shares of a $50 stock on margin when the initial margin requirement is 40%, how much money must she borrow from her broker?",
+      "options": {
+        "A": "$2,000.",
+        "B": "$3,000.",
+        "C": "$4,000."
+      },
+      "answer": "B",
+      "explanation": "An initial margin requirement of 40% would mean that the investor must put up 40% of the funds and brokerage firm may lend the 60% balance. Therefore, for this example (100 shares) * ($50) = $5,000 total cost. $5,000 * 0.60 = $3,000.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q15",
+      "question": "Markets for financial assets with maturities of one year or less are best characterized as:",
+      "options": {
+        "A": "money markets.",
+        "B": "primary markets.",
+        "C": "forward markets."
+      },
+      "answer": "A",
+      "explanation": "\"Money markets\" generally refers to markets for debt securities maturing in one year or less. Forward markets refer to contracts for the future exchange of an asset at a price established today. Primary markets are the markets for newly issued securities.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q16",
+      "question": "Using the following assumptions, calculate the rate of return on a margin transaction for an investor who purchases the stock and the stock price at which the investor would have received a margin call. Market Price Per Share: $32 Number of Shares Purchased: 1,000 Holding Period: 1 year Ending Share Price: $34 Initial Margin Requirement: 40% Maintenance margin: 25% Transaction and borrowing costs: $0 The company pays no dividends Margin Return Margin Call Price",
+      "options": {
+        "A": "15.6% $25.60",
+        "B": "15.6% $17.07",
+        "C": "6.3% $25.60"
+      },
+      "answer": "A",
+      "explanation": "Part 1: Calculate Margin Return: Margin Return % = [((Ending Value - Loan Payoff) / Beginning Equity Position) - 1] × 100 = [(([$34 × 1,000] - [$32 × 1,000 × 0.60]) / ($32 × 0.40 × 1,000)) - 1] × 100 = 15.6% Alternative (Check): Calculate the all cash return and multiply by the margin leverage factor. [(34,000 - 32,000) / 32,000] × [1 / 0.40] = 6.35% × 2.5 = 15.6% Part 2: Calculate Margin Call Price: The formula for the margin call price is: Margin Call = (original price) × (1 - initial margin) / (1 - maintenance margin) = $32 × (1 - 0.40) / (1 - 0.25) = approximately $25.60",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q17",
+      "question": "Which of the following statements about primary and secondary markets is least accurate?",
+      "options": {
+        "A": "A primary market is a market in which new securities are sold.",
+        "B": "The proceeds from a sale in the secondary market go to the issuer.",
+        "C": "The primary market benefit from the liquidity provided by the secondary market."
+      },
+      "answer": "B",
+      "explanation": "Proceeds in a primary market go to the issuing firm. Proceeds from a sale in the secondary market go to the current owner who is selling the securities.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q18",
+      "question": "An electronic crossing network is best described as:",
+      "options": {
+        "A": "an order-driven market.",
+        "B": "a quotedriven market.",
+        "C": "a price-driven market."
+      },
+      "answer": "A",
+      "explanation": "A crossing network is an example of an order-driven market. Orders are batched together and crossed (matched) at specific times during the trading day at prices based on those of another exchange. Price-driven markets and quotedriven markets are other terms for dealer or over-the-counter markets.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q19",
+      "question": "A unique item such as fine art is most likely to be exchanged in a(n):",
+      "options": {
+        "A": "brokered market.",
+        "B": "order-driven market.",
+        "C": "quotedriven market"
+      },
+      "answer": "A",
+      "explanation": "Brokered markets are typically the best market structure for unique items. A broker adds value by locating a counterparty to take the opposite side of a trade of such an item.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q20",
+      "question": "An investor purchases 100 shares of Lloyd Computer at $26 a share. The initial margin requirement is 50%, and the maintenance margin requirement is 25%. The price below which the investor would receive a margin call is closest to:",
+      "options": {
+        "A": "17.33.",
+        "B": "15.25.",
+        "C": "19.45."
+      },
+      "answer": "A",
+      "explanation": "26 × (1 - 0.5)/(1 - 0.25) = $17.33",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q21",
+      "question": "An investor buys 200 shares of ABC at the market price of $100 on full margin. The initial margin requirement is 40% and the maintenance margin requirement is 25%. If the shares of stock later sold for $200 per share, what is the rate of return on the margin transaction?",
+      "options": {
+        "A": "100%.",
+        "B": "250%.",
+        "C": "400%."
+      },
+      "answer": "B",
+      "explanation": "One quick (and less than intensive) way to calculate the answer to this on the examination (and it is very important to save time on the examination) is to first calculate the return if all cash, then calculate the margin leverage factor and then finally, multiply the leverage factor times the all cash return to obtain the margin return. Calculations: Step 1: Calculate All Cash Return: Cash Return % = [(Ending Value / Beginning Equity Position) - 1] × 100 = [(($200 × 200) / ($100 × 200)) - 1] × 100 = 100% Step 2: Calculate Leverage Factor: Leverage Factor = 1 / Initial Margin % = 1 / 0.40 = 2.50 Step 3: Calculate Margin Return: Margin Transaction Return = All cash return × Leverage Factor = 100% × 2.50 = 250% Note: You can verify the margin return as follows: Margin Return % = [((Ending Value - Loan Payoff) / Beginning Equity Position) - 1] × 100 = [(([$200 × 200] - [$100 × 200 × 0.60]) / ($100 × 0.40 × 200)) - 1] × 100 = [((40,000 - 12,000) / 8,000) - 1] × 100 = 250%",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q22",
+      "question": "An investor buys 200 shares of ABC at the market price of $100 and posts the required initial margin of $8,000. The maintenance margin requirement is 25%. At what share price will the investor's account balance be reduced to the maintenance margin level?",
+      "options": {
+        "A": "$48.",
+        "B": "$80.",
+        "C": "$112."
+      },
+      "answer": "B",
+      "explanation": "The initial margin requirement is $8,000 / (200 × $100) = 0.40. In a long stock position, the equation to determine the margin call price is: long = [(original price)(1 - initial margin %)] / [1 - maintenance margin %] = $100(1 - 0.4) / (1 - 0.25) = $80 Alternatively, the margin loan is (200 × $100) - $8,000 = $12,000. The minimum value of the long position that meets the maintenance margin requirement is $12,000 / (1 - 0.25) = $16,000. The share price at which the long position has this value is $16,000 / 200 = $80.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q23",
+      "question": "Which of the following limit orders is least likely to be filled?",
+      "options": {
+        "A": "Inside-the-market limit sell order.",
+        "B": "Aggressively priced limit buy order.",
+        "C": "Behind-the-market limit buy order."
+      },
+      "answer": "C",
+      "explanation": "\"Behind the market\" refers to a buy order with a limit price less than the best bid, or a sell order with a limit price higher than the best ask. A limit order that is behind the market (i.e., an order to buy for less than the market price or sell for more than the market price) will not be filled unless the market price moves to the order's limit price. \"Inside the market\" refers to orders with limit prices between the best bid and best ask. \"Aggressively priced\" refers to a buy order with limit prices higher than the best ask or a sell order with a limit price lower than the best bid. Aggressively priced limit orders are most likely to be filled immediately.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q24",
+      "question": "With respect to a well-functioning securities market, a market that exhibits operational efficiency will have:",
+      "options": {
+        "A": "price continuity.",
+        "B": "low transaction costs.",
+        "C": "rapid price reactions to new information"
+      },
+      "answer": "B",
+      "explanation": "An operationally efficient market is a market in which the cost of each transaction is minimal. Informational efficiency means prices in the market reflect all information currently available to participants. Price continuity means that prices do not adjust much from one transaction to the next unless new information about firm value becomes available",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R39-Q25",
+      "question": "Among the classifications of investment assets, \"real assets\" most likely include:",
+      "options": {
+        "A": "foreign currencies.",
+        "B": "durable equipment.",
+        "C": "industrial stocks."
+      },
+      "answer": "B",
+      "explanation": "Real assets include real estate, durable equipment, and other physical assets. Equity securities such as industrial stocks are classified as financial assets. Currencies are a separate classification of investment assets. The end!",
+      "answer_source": "manual"
+    }
+  ]
+}

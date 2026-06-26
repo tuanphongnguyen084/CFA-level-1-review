@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-7",
+  "name": "Đề 7 — Câu 121–140",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q121",
+      "question": "If an analyst estimates the intrinsic value for a security that is different from its market value, the analyst should most likely take an investment position based on this difference if:",
+      "options": {
+        "A": "many analysts independently evaluate the security.",
+        "B": "the model used is not highly sensitive to its input values.",
+        "C": "the security lacks a liquid market and trades infrequently."
+      },
+      "answer": "B",
+      "explanation": "In general, an analyst can be more confident about an estimate of intrinsic value if the model used is not highly sensitive to changes in its inputs. If a large number of analysts follow a security, its market value is more likely to be a reliable estimate of its intrinsic value. A security that does not trade frequently or in a liquid market may remain mispriced for an extended time, and thus may not result in a profit within the investment horizon even if the analyst's estimate of intrinsic value is correct. (Module 48.1, LOS 48.a)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q122",
+      "question": "An analyst gathered the following data: An earnings retention rate of 40%. An ROE of 12%. The stock's beta is 1.2. The nominal risk free rate is 6%. The expected market return is 11%. Assuming next year's earnings will be $4 per share, the stock's current value is closest to:",
+      "options": {
+        "A": "$26.67.",
+        "B": "$45.45.",
+        "C": "$33.32."
+      },
+      "answer": "C",
+      "explanation": "Dividend payout = 1 - earnings retention rate = 1 - 0.4 = 0.6 R S = R f + β (R M - R f ) = 0.06 + 1.2(0.11 - 0.06) = 0.12 g = (retention rate)(ROE) = (0.4)(0.12) = 0.048 D 1 = E 1 × payout ratio = $4.00 × 0.60 = $2.40 Price = D 1 / (k - g) = $2.40 / (0.12 - 0.048) = $33.32 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q123",
+      "question": "Shareholders selling shares between the ex-dividend date and holder-of-record date:",
+      "options": {
+        "A": "do not receive the dividend, which is paid to the share buyer.",
+        "B": "do not receive the dividend, which stays with the company.",
+        "C": "receive the dividend."
+      },
+      "answer": "C",
+      "explanation": "The holder-of-record date is the date on which the shareholders of record are designated to receive the dividend. Shares sold on or after the ex-dividend date are sold without claim to the dividend, even if they are sold prior to the date of record. The dividend would be paid to the holder as of the close of trading on the day prior to the ex-dividend date. (Module 48.1, LOS 48.d)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q124",
+      "question": "Other things equal, the effect of a stock split on shareholder wealth is to:",
+      "options": {
+        "A": "leave it unchanged.",
+        "B": "decrease it.",
+        "C": "increase it."
+      },
+      "answer": "A",
+      "explanation": "Stock splits divide each existing share into multiple shares. Other things equal, the price of each share decreases proportionately to the number of shares created, resulting in no change in the owner's wealth. (Module 48.1, LOS 48.c)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q125",
+      "question": "A valuation model based on the cash flows that a firm will have available to pay dividends in the future is best characterized as a(n):",
+      "options": {
+        "A": "free cashfiow to equity model.",
+        "B": "free cashfiow to the firm model.",
+        "C": "infinite period dividend discount model."
+      },
+      "answer": "A",
+      "explanation": "Free cash flow to equity represents a firm's capacity to pay future dividends. A free cash flow to equity model estimates the firm's FCFE for future periods and values the stock as the present value of the firm's future FCFE per share. (Module 48.2, LOS 48.e)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q126",
+      "question": "Assume a company has earnings per share of $5 and pays out 40% in dividends. The earnings growth rate for the next 3 years will be 20%. At the end of the third year the company will start paying out 100% of earnings in dividends and earnings will increase at an annual rate of 5% thereafter. If a 12% rate of return is required, the value of the company is closest to:",
+      "options": {
+        "A": "$92.90.",
+        "B": "$55.70.",
+        "C": "$102.80."
+      },
+      "answer": "C",
+      "explanation": "First, calculate the dividends in years 0 through 3: (We need D 3 to calculate the value in Year 2) D 0 = (0.4)(5) = 2 D 1 = (2)(1.2) = 2.40 D 2 = (2.4)(1.2) = 2.88 D 3 = E 3 = 5(1.2) 3 = 8.64 Because D 3 will grow at a constant rate, we can use it to estimate a terminal value for the stock at t = 2: P 2 = D 3 / (k - g) = 8.64 / (0.12 - 0.05) = $123.43 Present value of the cash flows = value of stock = 2.4 / (1.12) 1 + 2.88 / (1.12) 2 + 123.43 / (1.12) 2 = 102.83 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q127",
+      "question": "Which of the following is NOT an assumption of the constant growth dividend discount model (DDM)?",
+      "options": {
+        "A": "Dividend payout is constant.",
+        "B": "ROE is constant.",
+        "C": "The growth rate of the firm is higher than the overall growth rate of the economy."
+      },
+      "answer": "C",
+      "explanation": "Other assumptions of the DDM are: dividends grow at a constant rate and the growth rate continues for an infinite period. (Module 48.2, LOS 48.i)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q128",
+      "question": "Jaylin Company declares a dividend that will be paid on August 28. The holder-of-record date is August 16. Will an investor who buys Jaylin stock on August 15 receive this dividend?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, because the purchase occurs before the payment date.",
+        "C": "Yes, because the purchase occurs before the holder-of-record date."
+      },
+      "answer": "A",
+      "explanation": "The stock will trade ex-dividend one or two business days before the holder-of-record date. (Module 48.1, LOS 48.d)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q129",
+      "question": "According to the earnings multiplier model, all else equal, as the required rate of return on a stock increases, the:",
+      "options": {
+        "A": "earnings per share will increase.",
+        "B": "P/E ratio will increase.",
+        "C": "P/E ratio will decrease."
+      },
+      "answer": "C",
+      "explanation": "According to the earnings multiplier model, the P/E ratio is equal to P 0 /E 1 = (D 1 /E 1 )/(k e - g). As k e increases, P 0 /E 1 will decrease, all else equal. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q130",
+      "question": "Assuming all other factors remain unchanged, which of the following would most likely lead to a decrease in the market P/E ratio?",
+      "options": {
+        "A": "An increase in the dividend payout ratio.",
+        "B": "A rise in the stock risk premium.",
+        "C": "A decline in the risk-free rate."
+      },
+      "answer": "B",
+      "explanation": "P/E = (1 - RR)/(k - g) To lower P/E: RR increases, g decreases and or k increases. Both a decline in the RF rate and a decline in the rate of inflation will reduce k. An increase in the stock's risk premium will increase k. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q131",
+      "question": "A company has 8 percent preferred stock outstanding with a par value of $100. The required return on the preferred is 5 percent. What is the value of the preferred stock?",
+      "options": {
+        "A": "$100.00.",
+        "B": "$152.81.",
+        "C": "$160.00."
+      },
+      "answer": "C",
+      "explanation": "The annual dividend on the preferred is $100(.08) = $8.00. The value of the preferred is $8.00/0.05 = $160.00. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q132",
+      "question": "The following data pertains to a common stock: It will pay no dividends for two years. The dividend three years from now is expected to be $1. Dividends are expected to grow at a 7% rate from that point onward. If an investor requires a 17% return on this stock, what will they be willing to pay for this stock now?",
+      "options": {
+        "A": "$ 6.24.",
+        "B": "$ 7.30.",
+        "C": "$10.00."
+      },
+      "answer": "B",
+      "explanation": "time line = $0 now; $0 in yr 1; $0 in yr 2; $1 in yr 3. P 2 = D 3 /(k - g) = 1/(.17 - .07) = $10 Note the math. The price is always one year before the dividend date. Solve for the PV of $10 to be received in two years. FV = 10; n = 2; i = 17; compute PV = $7.30 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q133",
+      "question": "All else equal, if a firm's return on equity (ROE) increases, the stock's value as estimated by the constant growth dividend discount model (DDM) will most likely :",
+      "options": {
+        "A": "decrease.",
+        "B": "increase.",
+        "C": "not change."
+      },
+      "answer": "B",
+      "explanation": "Increase in ROE: ROE is a component of g. As g increases, the spread between k e and g, or the P/E denominator, will decrease, and the P/E ratio will increase. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q134",
+      "question": "The rationale for using dividend discount models to value equity is that the:",
+      "options": {
+        "A": "inputs are easily estimated and the model's estimates are robust.",
+        "B": "intrinsic value of a stock is the present value of its future dividends.",
+        "C": "model works well for the finite period of time over which dividends are paid."
+      },
+      "answer": "B",
+      "explanation": "The rationale for dividend discount models is that the fundamental or intrinsic value of a stock is the present value of all its future dividends. Dividend discount models can be applied to either a finite or infinite stream of dividends. There are many ways to calculate the inputs and the estimated stock values may vary significantly with small changes in the inputs. (Module 48.2, LOS 48.e)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q135",
+      "question": "A stock has the following data associated with it: A required rate of return of 14%. A return on equity of 15%. An earnings retention rate of 40%. The stock's justified price-to-earnings ratio is closest to:",
+      "options": {
+        "A": "5.0.",
+        "B": "6.7.",
+        "C": "7.5."
+      },
+      "answer": "C",
+      "explanation": "dividend payout ratio = 1 - retention ratio = 1 - 0.4 = 0.6 growth rate (g) = retention rate × ROE = 0.4 × 15% = 6% (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q136",
+      "question": "Using the one-year holding period and multiple-year holding period dividend discount model (DDM), calculate the change in value of the stock of Monster Burger Place under the following scenarios. First, assume that an investor holds the stock for only one year. Second, assume that the investor intends to hold the stock for two years. Information on the stock is as follows: Last year's dividend was $2.50 per share. Dividends are projected to grow at a rate of 10.0% for each of the next two years. Estimated stock price at the end of year 1 is $25 and at the end of year 2 is $30. Nominal risk-free rate is 4.5%. The required market return is 10.0%. Beta is estimated at 1.0. The value of the stock if held for one year and the value if held for two years are: Year one Year two",
+      "options": {
+        "A": "$25.23 $29.79",
+        "B": "$25.23 $35.25",
+        "C": "$27.50 $35.25"
+      },
+      "answer": "A",
+      "explanation": "P/E = dividend payout ratio k - g P/E = = 7.5 0.6 0.14 - 0.06 First , we need to calculate the required rate of return. When a stock's beta equals 1, the required return is equal to the market return, or 10.0%. Thus, k e = 0.10. Alternative: Using the capital asset pricing model (CAPM), k e = R f + Beta * (R m - R f ) = 4.5% + 1 * (10.0% - 4.5%) = 4.5% + 5.5% = 10.0%. Next , we need to calculate the dividends for years 1 and 2. D 1 = D 0 × (1 + g) = 2.50 × (1.10) = 2.75 D 2 = D 1 × (1 + g) = 2.75 × (1.10) = 3.03 Then , we use the one-year holding period DDM to calculate the present value of the expected stock cash flows (assuming the one-year hold). P 0 = [D 1 / (1 + k e )] + [P 1 / (1 + k e )] = [$2.75 / (1.10)] + [$25.0 / (1.10)] = $25.23. Shortcut: since the growth rate in dividends, g, was equal to k e , the present value of next year's dividend is equal to last year's dividend. Finally , we use the multi-period DDM to calculate the return for the stock if held for two years. P 0 = [D 1 / (1 + k e )] + [D 2 / (1 + k e ) 2 ] + [P 2 / (1 + k e ) 2 ] = [$2.75 / (1.10)] + [$3.03 / (1.10) 2 ] + [$30.0 / (1.10) 2 ] = $29.79. Note: since the growth rate in dividends, g, was equal to k e , the present value of next year's dividend is equal to last year's dividend (for periods 1 and 2). Thus, a quick calculation would be 2.5 × 2 + $30.00 / (1.10) 2 = 29.79. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q137",
+      "question": "The last dividend paid on a common stock was $2.00, the growth rate is 5% and investors require a 10% return. Using the infinite period dividend discount model, calculate the value of the stock.",
+      "options": {
+        "A": "$42.00.",
+        "B": "$40.00.",
+        "C": "$13.33."
+      },
+      "answer": "A",
+      "explanation": "2(1.05) / (0.10 - 0.05) = $42.00 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q138",
+      "question": "The earnings multiplier model, derived from the dividend discount model, expresses a stock's P/E ratio (P 0 /E 1 ) as the :",
+      "options": {
+        "A": "expected dividend in one year divided by the difierence between the required return on equity and the expected dividend growth rate.",
+        "B": "expected dividend payout ratio divided by the difierence between the required return on equity and the expected dividend growth rate.",
+        "C": "expected dividend payout ratio divided by the sum of the expected dividend growth rate and the required return on equity."
+      },
+      "answer": "B",
+      "explanation": "Starting with the dividend discount model P 0 = D 1 /(k e - g), and dividing both sides by E 1 yields: P 0 /E 1 = (D 1 /E 1 )/(k e - g) Thus, the P/E ratio is determined by: The expected dividend payout ratio (D 1 /E 1 ). The required rate of return on the stock (k e ). The expected growth rate of dividends (g). (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q139",
+      "question": "Assume the following information for a stock: Beta coefficient = 1.50 Risk-free rate = 6% Expected rate of return on market = 14% Dividend payout ratio = 30% Expected dividend growth rate = 11% The estimated earnings multiplier (P/E ratio) is closest to:",
+      "options": {
+        "A": "3.33.",
+        "B": "4.29.",
+        "C": "10.00."
+      },
+      "answer": "B",
+      "explanation": "P/E = D/E1 / (k - g) D/E1 = Dividend payout ratio = 0.3 g = 0.11 k = 6 + (1.5)(14 - 6) = 18% P/E = 0.3 / (0.18 - 0.11) = 0.3 / 0.07 = 4.29 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q140",
+      "question": "An analyst gathered the following information about a company: The stock is currently trading at $31.00 per share. Estimated growth rate for the next three years is 25%. Beginning in the year 4, the growth rate is expected to decline and stabilize at 8%. The required return for this type of company is estimated at 15%. The dividend in year 1 is estimated at $2.00. The stock is undervalued by approximately:",
+      "options": {
+        "A": "$0.00.",
+        "B": "$15.70.",
+        "C": "$6.40."
+      },
+      "answer": "C",
+      "explanation": "The high \"supernormal\" growth in the first three years and the decrease in growth thereafter signals that we should use a combination of the multi-period and finite dividend growth models (DDM) to value the stock. Step 1: Determine the dividend stream through year 4 D 1 = $2.00 (given) D 2 = D 1 × (1 + g) = 2.00 × (1.25) = $2.50 D 3 = D 2 × (1 + g) = $2.50 × (1.25) = $3.13 D 4 = D 3 × (1 + g) = $3.13 × (1.08) = $3.38 Step 2: Calculate the value of the stock at the end of year 3 (using D 4 ) P 3 = D 4 / (k e - g) = $3.38 / (0.15 - 0.08) = $48.29 Step 3: Calculate the PV of each cash flow stream at k e = 15%, and sum the cash flows. Note: We suggest you clear the financial calculator memory registers before calculating the value. The present value of: D 1 = 1.74 = 2.00 / (1.15) 1 , or FV = -2.00, N = 1, I/Y = 15, PV = 1.74 D 2 = 1.89 = 2.50 / (1.15) 2 , or FV = -2.50, N = 2, I/Y = 15, PV = 1.89 D 3 = 2.06 = 3.13 / (1.15) 3 , or FV = -3.13, N = 3, I/Y = 15, PV = 2.06 P 3 = 31.75 = 48.29 / (1.15) 3 , or FV = -48.29, N = 3, I/Y = 15, PV = 31.75 Sum of cash flows = 37.44. Thus, the stock is undervalued by 37.44 - 31.00 = approximately 6.40. Note: Future values are entered in a financial calculator as negatives to ensure that the PV result is positive. It does not mean that the cash flows are negative. Also, your calculations may differ slightly due to rounding. Remember that the question asks you to select the closest answer. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    }
+  ]
+}

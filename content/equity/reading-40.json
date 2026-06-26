@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "id": "reading-40",
+  "name": "Reading 40: Security Market Indexes",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R40-Q1",
+      "question": "The type of securities market index that has a bias toward value stocks is an index with weights based on:",
+      "options": {
+        "A": "earnings.",
+        "B": "security prices.",
+        "C": "market capitalization."
+      },
+      "answer": "A",
+      "explanation": "Fundamental-weighted indexes, such as those weighted on earnings, dividends, or book values, tend to weight value stocks more heavily than growth stocks.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q2",
+      "question": "Assume a stock index consists of many firms who have recently split their stock. Which of the following weighting schemes will see a bias due to the impact of stock splits?",
+      "options": {
+        "A": "Unweighted price series.",
+        "B": "Market value-weighted series.",
+        "C": "Price-weighted series."
+      },
+      "answer": "C",
+      "explanation": "Firms that split their stock price will have the identical weight before and after the split in both the unweighted and the market value-weighted series. However, in the price weighted series, large successful firms will lose weight within the index due to simply splittng their stock. This creates a downward bias in a price-weighted series. Standard and Poor's 500 Index is a market value-weighted index.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q3",
+      "question": "Which type of stock index must be adjusted for stock splits?",
+      "options": {
+        "A": "Market capitalization weighted index.",
+        "B": "Equal weighted index.",
+        "C": "Price weighted index."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q4",
+      "question": "Which of the following is least likely required when defining a security market index? The:",
+      "options": {
+        "A": "number of securities in the index.",
+        "B": "target market the index will represent.",
+        "C": "weighting method for the index."
+      },
+      "answer": "A",
+      "explanation": "A market index does not necessarily have to consist of a fixed number of securities. For example, some indices are defined to include all the stocks that trade on a certain exchange, a number that can vary over time.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q5",
+      "question": "An analyst using the capital asset pricing model is most likely to use a security market index as a proxy for:",
+      "options": {
+        "A": "the market return.",
+        "B": "beta.",
+        "C": "the risk-free rate."
+      },
+      "answer": "A",
+      "explanation": "The return on a security market index can be used as a proxy for the market return in a pricing model such as the CAPM",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q6",
+      "question": "What is the price-weighted index of the following three stocks? Company Stock Price Shares Outstanding A $50 10,000 B $35 20,000 C $110 30,000",
+      "options": {
+        "A": "80.",
+        "B": "75.",
+        "C": "65."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q7",
+      "question": "Ken Miller, CFA, wants to compare the returns on government agency bonds to the returns on corporate bonds. Peg Egan, CFA, wants to compare the returns on high yield bonds in developed markets to the returns on investment grade bonds in emerging markets. Which of these analysts is most likely able to use bond indexes for their analysis?",
+      "options": {
+        "A": "Both of these analysts.",
+        "B": "Neither of these analysts.",
+        "C": "Only one of these analysts."
+      },
+      "answer": "A",
+      "explanation": "Because of the wide universe of bonds that trade in financial markets, indexes are available (or can be constructed) based on virtually any feature or classification of bonds.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q8",
+      "question": "Which of the following statements regarding bond market indexes is least accurate?",
+      "options": {
+        "A": "The bond universe is more stable than the stock universe.",
+        "B": "There are more bond issues than stocks.",
+        "C": "Unlike stocks, bonds lack continuous price trading data."
+      },
+      "answer": "A",
+      "explanation": "One reason why the creation of a bond index is more difficult than a stock index is due to the fact that the universe of bonds is constantly changing because of numerous new issues, bond maturities, calls, and bond sinking funds.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q9",
+      "question": "An index was recently begun with the following two stocks: Company A - 50 shares valued at $2 each. Company B - 10 shares valued at $10 each. Given that the value-weighted index was originally set at 100 and Company A's stock is currently selling for $4 per share while Company B's stock is still at $10 per share, what is the current value of the price-weighted index and the market-cap-weighted index? Price-weighted - Market-cap-weighted",
+      "options": {
+        "A": "7 - 150",
+        "B": "7 - 300",
+        "C": "8 - 150"
+      },
+      "answer": "A",
+      "explanation": "Price weight = [(4) + (10)] / 2 = 7 Market-cap weight = [(4)(50) + (10)(10)] / [(2)(50) + (10)(10)](100) = 150",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q10",
+      "question": "The first step in developing a security market index is choosing the index's:",
+      "options": {
+        "A": "constituent securities.",
+        "B": "target market.",
+        "C": "weighting method."
+      },
+      "answer": "B",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q11",
+      "question": "The value of a total return index:",
+      "options": {
+        "A": "may increase at either a faster or slower rate than the value of a price return index with the same constituent securities and weights.",
+        "B": "can be calculated by multiplying the beginning value by the geometrically linked series of periodic total returns.",
+        "C": "is determined by the price changes of the securities that constitute the index."
+      },
+      "answer": "B",
+      "explanation": "The value of a total return index can be calculated by multiplying the beginning value by the geometrically linked series of index total returns. The value of a total return index includes both the price changes of the securities that constitute the index and any cash flows from the securities (dividends, interest, and other distributions). A total return index cannot increase at a slower rate (or decrease at a faster rate) than an otherwise identical price return index because cash flows from the securities cannot be negative.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q12",
+      "question": "Commodity price indexes are based on the prices of:",
+      "options": {
+        "A": "commodities.",
+        "B": "futures contracts.",
+        "C": "real assets such as grains, oil, and precious metals."
+      },
+      "answer": "B",
+      "explanation": "The constituent securities of commodity price indexes are commodity futures contracts. As a result, the return on a commodity index can be different than the returns from holding the constituent commodities themselves",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q13",
+      "question": "Contreras Fund is a mutual fund that invests in value stocks. The most appropriate type of equity index to use as a benchmark of manager performance for Contreras Fund is a:",
+      "options": {
+        "A": "sector index.",
+        "B": "style index.",
+        "C": "broad market index."
+      },
+      "answer": "B",
+      "explanation": "The index selected as a benchmark for manager performance should represent the investment universe from which the manager actually selects stocks. If the manager only invests in value stocks, then the most appropriate index is a style index that seeks to represent the returns from a value strategy. A sector index is appropriate for managers who invest in specific sectors (e.g., technology stocks, emerging market bonds).",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q14",
+      "question": "Compared to a value-weighted index, the type of index most likely to have a valuetilt is a(n):",
+      "options": {
+        "A": "equal-weighted index.",
+        "B": "fundamental-weighted index.",
+        "C": "price-weighted index."
+      },
+      "answer": "B",
+      "explanation": "An index based on company fundamentals, for example on earnings or book value, will assign more weight to stocks with low P/E or price-to-book ratios compared to a value weighted index. This is similar to managing an equity portfolio using a value strategy.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q15",
+      "question": "Compared to S&P 500 index weighting, an equities index that is weighted based on a fundamental factor, such as earnings, will most likely:",
+      "options": {
+        "A": "have a valuetilt.",
+        "B": "have a momentumtilt.",
+        "C": "overweight firms with high EPS."
+      },
+      "answer": "A",
+      "explanation": "Compared to the S&P 500 index, which is market cap weighted, an index that is weighted based on fundamentals will have a valuetilt. Firms that have a higher earnings weight than market cap weight will be those with higher earnings yields. Weights are based on firm earnings, not earnings per share.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q16",
+      "question": "An equity index comprised of value stocks, identi fied by their price-to-earnings ratios, is best described as a:",
+      "options": {
+        "A": "sector index.",
+        "B": "style index.",
+        "C": "fundamental weighted index."
+      },
+      "answer": "B",
+      "explanation": "An index of value stocks is an example of a style index. Sector indexes measure the performance of securities in specific industries or industry sectors. Fundamental weighting is used to weight indexes by a factor such as the size of the firms or economies represented in the index.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q17",
+      "question": "In one year, a security market index has the following quarterly price returns: First quarter 3% Second quarter 4% Third quarter -2% Fourth quarter 5% The price return for the year is closest to:",
+      "options": {
+        "A": "10.00%.",
+        "B": "10.2%.",
+        "C": "9.9%."
+      },
+      "answer": "B",
+      "explanation": "Return for the year = (1.03)(1.04)(0.98)(1.05) - 1 = 10.23%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q18",
+      "question": "Which type of equity market index is most likely to be adjusted for free float?",
+      "options": {
+        "A": "Price weighted.",
+        "B": "Value weighted.",
+        "C": "Fundamental weighted."
+      },
+      "answer": "B",
+      "explanation": "Value-weighted (market-capitalization weighted) index weights may be based on the total value of shares available for investment (the market float) rather than on all the outstanding shares of a firm.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q19",
+      "question": "The target market for a security market index is best described as the:",
+      "options": {
+        "A": "market or segment the index is designed to measure.",
+        "B": "portfolio managers who will track the index.",
+        "C": "investors who will follow the index."
+      },
+      "answer": "A",
+      "explanation": "The target market of an index is the securities market or portion of a securities market that the index will be designed to represent. The securities from the target market that are included in the index are called its constituent securities.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q20",
+      "question": "The value of a security market index at the end of December is 1,200. The index returns for the next six months are: Month Return January 3.89% February 8.76% March -4.74% April 6.88% May -5.39% June -8.12% The index value at the end of June is closest to:",
+      "options": {
+        "A": "1,186.",
+        "B": "1,214.",
+        "C": "1,200"
+      },
+      "answer": "C",
+      "explanation": "The index value at the end of June is 1,200(1.0389)(1.0876)(0.9526)(1.0688)(0.9461)(0.9188) = 1,200. Note that the compound rate of return is (1.0389)(1.0876)(0.9526)(1.0688)(0.9461)(0.9188) - 1 = 0.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q21",
+      "question": "Voluntary reporting of performance by hedge fund managers leads to:",
+      "options": {
+        "A": "an upward bias in hedge fund index returns.",
+        "B": "a downward bias in hedge fund index returns.",
+        "C": "no appreciable bias in hedge fund index returns."
+      },
+      "answer": "A",
+      "explanation": "Empirical studies have shown that since hedge fund managers have the option to report performance results only funds with good results will report. Since funds with poor performance do not report their results, the results of hedge fund indexes will be biased upwards.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q22",
+      "question": "When a security is added to a widely followed market index, the security's price is most likely to:",
+      "options": {
+        "A": "be unaffected.",
+        "B": "decrease.",
+        "C": "increase."
+      },
+      "answer": "C",
+      "explanation": "Adding a security to a market index typically causes an increase in that security's price as portfolio managers who track the index purchase the security",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q23",
+      "question": "Creating a bond market index is more difficult than constructing a stock market index due to:",
+      "options": {
+        "A": "lack of continuous trade data for bonds.",
+        "B": "lower price volatility of bonds versus stocks.",
+        "C": "a narrower universe of bonds versus stocks"
+      },
+      "answer": "A",
+      "explanation": "It is difficult to price individual bond issues in an index because continuous trade data may not exist for some bonds. In addition, it is challenging to create a bond market index because the bond universe is much broader, and the price volatility of a bond (i.e., its duration) changes over time as the bond approaches maturity.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q24",
+      "question": "Equal weighting is the most common weighting methodology for indexes of which of the following types of assets?",
+      "options": {
+        "A": "Equities.",
+        "B": "Fixed income securities.",
+        "C": "Hedge funds."
+      },
+      "answer": "C",
+      "explanation": "Most hedge fund indexes are equal-weighted. Equity and fixed income indexes are predominately market capitalization weighted.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R40-Q25",
+      "question": "Which of the following statements about indexes is CORRECT?",
+      "options": {
+        "A": "A price-weighted index assumes an equal number of shares (one of each stock) represented in the index.",
+        "B": "An equal weighted index assumes a proportionate market value investment in each company in the index.",
+        "C": "A market weighted series must adjust the denominator to reflect stock splits in the sample over time."
+      },
+      "answer": "A",
+      "explanation": "The descriptions of value weighted and unweighted indexes are switched. The denominator of a price-weighted index must be adjusted to reflect stock splits and changes in the sample over time. A market value-weighted series assumes you make a proportionate market value investment in each company in the index The end!",
+      "answer_source": "manual"
+    }
+  ]
+}

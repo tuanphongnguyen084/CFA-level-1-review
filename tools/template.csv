@@ -1,0 +1,3 @@
+﻿exam_id,exam_name,group,question,A,B,C,D,answer,explanation,tags
+reading-1,Reading 1 — Demo,Chương 1,2 + 2 bằng mấy?,3,4,5,,B,2 cộng 2 bằng 4.,demo;math
+reading-1,Reading 1 — Demo,Chương 1,Thủ đô Việt Nam là?,TP.HCM,Đà Nẵng,Hà Nội,,C,Thủ đô là Hà Nội.,demo

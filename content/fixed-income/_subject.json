@@ -1,0 +1,7 @@
+{
+  "name": "Fixed Income",
+  "icon": "💵",
+  "order": 7,
+  "weight": "11–14%",
+  "description": "Bond features, valuation, yield curves, duration, credit risk."
+}

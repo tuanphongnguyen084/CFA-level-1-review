@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "id": "reading-45",
+  "name": "Reading 45: Company Analysis: Forecasting",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R45-Q1",
+      "question": "Pam Jones, CFA, creates pro forma financial statements for a company she is analyzing. In developing the income statements, she needs to forecast growth for the selling, general, and administrative (SG&A) line item. Her forecasted number will most likely be driven by:",
+      "options": {
+        "A": "infla tion forecasts for fixed SG&A, and sales growth for variable SG&A.",
+        "B": "sales growth for fixed SG&A, and infla tion forecasts for variable SG&A.",
+        "C": "sales growth for both fixed and variable SG&A."
+      },
+      "answer": "A",
+      "explanation": "SG&A costs are both fixed and variable. The fixed portion will be less impacted by sales, which means an infla tion growth factor would be appropriate. Variable SG&A will have a higher correlation to sales, so sales growth is appropriate as a driving factor.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q2",
+      "question": "Which of the following measures will an analyst most likely use to develop a forecasted capital structure mix for a company he is reviewing?",
+      "options": {
+        "A": "Working capital.",
+        "B": "Current ratio.",
+        "C": "Debt-to-equity ratio."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q3",
+      "question": "A company's days sales outstanding (DSO) is equal to 42 days. With current revenues of $20 million and 8% forecasted growth, accounts receivable on the pro forma balance sheet will be closest to:",
+      "options": {
+        "A": "$2,485,480.",
+        "B": "$2,301,370.",
+        "C": "$2,684,320."
+      },
+      "answer": "A",
+      "explanation": "Forecasted accounts receivable can be calculated by multiplying the days sales outstanding by forecasted revenue and then dividing by 365. With forecasted revenue of $21,600,000 ($20 million × 1.08) and DSO of 42, forecasted receivables will be equal to (42 × $21,600,000) / 365 = $2,485,480. The number $2,301,370 incorrectly uses $20,000,000 as forecasted revenues, and $2,684,320 incorrectly incorporates the 8% growth to the DSO total as well.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q4",
+      "question": "Which of the following scenarios may an analyst use to forecast sales growth for a company in the next fiscal year?",
+      "options": {
+        "A": "20% chance of sales increasing, 50% chance of no growth, 20% chance of sales decreasing.",
+        "B": "40% chance of sales increasing, 30% chance of no growth, 30% chance of sales decreasing.",
+        "C": "30% chance of sales increasing, 40% chance of no growth, 40% chance of sales decreasing."
+      },
+      "answer": "B",
+      "explanation": "In a scenario analysis used to forecast a change in sales, the probabilities associated with each scenario must be between 0% and 100% and must sum to 100%. The correct answer choice sums to 100% (40% chance of an increase + 30% chance of no growth + 30% chance of sales decreasing). The other two choices do not sum to 100%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q5",
+      "question": "Current year balances for working capital accounts are $8 million for accounts payable, $13 million for inventory, and $10 million for accounts receivable. If the former is forecasted to grow 3% and the latter two line items are forecasted to grow 4%, an analyst will estimate a working capital total closest to:",
+      "options": {
+        "A": "$15,450,000.",
+        "B": "$15,600,000.",
+        "C": "$15,680,000."
+      },
+      "answer": "C",
+      "explanation": "Based on forecasted growth totals, next year's amounts will be equal to the following: Accounts payable: $8,000,000 × 1.03 = $8,240,000 Inventory: $13,000,000 × 1.04 = $13,520,000 Accounts receivable: $10,000,000 × 1.04 = $10,400,000 Forecasted working capital = $10,400,000 + $13,520,000 - $8,240,000 = $15,680,000 The number $15,450,000 results from growing all three line items at 3%, and $15,600,000 results from growing all three line items at 4%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q6",
+      "question": "In forecasting revenue for the next year, an analyst is most likely going to exclude which of the following situations from his forecasted number?",
+      "options": {
+        "A": "Significant gains due to the remeasurement of subsidiary financial statements.",
+        "B": "Gains on the sales of aged fixed assets that were replaced by newer assets with longer useful lives.",
+        "C": "Losses stemming from the launch of a new product that is not expected to be profitable for two years."
+      },
+      "answer": "A",
+      "explanation": "In forecasting revenue, an analyst will look to exclude nonrecurring items because they are not deemed to be sustainable going forward. Gains due to the remeasurement of subsidiary financial statements result from exchange rate changes, and those are not predictable. The sale and replacement of aged fixed assets occurs on a regular basis for companies, and new products often lose money early on. These would not be excluded because they are not considered nonrecurring",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q7",
+      "question": "A top-down revenue forecast is most likely to be based on expected:",
+      "options": {
+        "A": "GDP growth.",
+        "B": "sales at existing and new outlets.",
+        "C": "product prices and volumes."
+      },
+      "answer": "A",
+      "explanation": "Top-down forecasts are based on macro variables such as GDP growth. Bottom-up forecasts are based on company'specific factors such as product prices and volumes or sales at existing and new outlets.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q8",
+      "question": "Based on growth strategies outlined by the company's CEO, an analyst forecasts overall growth of 5%. With infla tion forecasted by economists at 3%, an analyst will likely forecast capital expenditures related to maintenance to grow by what percentage next year?",
+      "options": {
+        "A": "5%.",
+        "B": "3%.",
+        "C": "8%."
+      },
+      "answer": "B",
+      "explanation": "Maintenance-related capital expenditures are typically forecasted to grow by the infla tion rate (3%, in this case). Capital expenditures related to growth will align with the overall forecasted growth rate of the company (5% here). The 8% answer choice incorrectly sums the two forecasts.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q9",
+      "question": "Sandra Page, CFA, is preparing a pro forma balance sheet for a company. Page is planning to incorporate several ad hoc additions into her forecast that are not currently accounted for on the company's recently published balance sheet from the prior year. Which of the following items will Page most likely need to add?",
+      "options": {
+        "A": "A potential gain stemming from a lawsuit in which the company was the plainti ff.",
+        "B": "Unrealized gains on equity securities since the date of the previous balance sheet.",
+        "C": "Forecasted losses due to exchange ratefluctua tions over the course of the year."
+      },
+      "answer": "A",
+      "explanation": "Contingent gains (e.g., those stemming from lawsuits) are not recorded on the financial statements until they have occurred. So, Page may want to incorporate these gains as a receivable (for the amount to be paid to the company) on the balance sheet and a gain on the income statement. Exchange ratefluctua tions are unpredictable and would not likely be accounted for in a pro forma. Market value changes cause unrealized gains or losses on equity securities, and these are unlikely to qualify as ad hoc items incorporated into a forecasted balance sheet.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q10",
+      "question": "In creating a forecast for capital spending devoted to maintenance projects, an analyst will often start her analysis by looking at a company's:",
+      "options": {
+        "A": "prior-year asset sales.",
+        "B": "historical depreciation expenses in prior years.",
+        "C": "current year gross property, plant, and equipment balance."
+      },
+      "answer": "B",
+      "explanation": "Historical depreciation expense gives an analyst an idea of how old the current asset infrastructure is, and what maintenance and replacements may need to be made. Prioryear sales and current year gross PP&E balances do not provide insight into the amount of maintenance costs a company should budget for the next year.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q11",
+      "question": "Revenue for ABC Company will close the year at $15 million. In projecting next year's revenue, the CFO assumes nominal GDP growth of 3% and company revenue growing 15% faster than GDP. Projected revenue next year will be closest to:",
+      "options": {
+        "A": "$15,517,500.",
+        "B": "$15,472,500.",
+        "C": "$15,450,000."
+      },
+      "answer": "A",
+      "explanation": "If GDP is expected to grow 3%, company revenue growing 15% faster is equivalent to 3.45% growth (3% × (1 + 0.15) = 3.45%). So, $15 million in revenues × 1.0345 = $15,517,500. The number $15,450,000 reflects revenue growth of only 3% (the GDP growth alone), and $15,472,500 reflects revenue growth of 3.15%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q12",
+      "question": "Current-year sales for ABC Co. are $20 million. Although Annie Mann, CFA, forecasts overall growth of 5% heading into next year, she would like to further refine her estimates by assigning the following probabilities based on actions she thinks the competition may take. GROWTH PROBABILITY 6% 30% 5% 20% 4% 50% Using these probabilities, what is Mann's forecasted sales total for next year?",
+      "options": {
+        "A": "$20,960,000.",
+        "B": "$21,000,000.",
+        "C": "$20,800,000."
+      },
+      "answer": "A",
+      "explanation": "The weighted average probability of the three scenarios is equal to 4.8% (6% × 30%) + (5% × 20%) + (4% × 50%); $20,000,000 × 1.048 = $20,960,000. The number $20,800,000 assumes 4% growth (because 50% is the highest probability), and $21,000,000 assumes 5% growth (because that is the overall figure).",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q13",
+      "question": "Using a baseline revenue amount of $6 million for A Co., an analyst estimates that next year's revenue will grow by 3%. If the forecasted gross margin is equal to 65%, forecasted cost of goods sold (COGS) will be closest to:",
+      "options": {
+        "A": "$4,017,000.",
+        "B": "$2,163,000.",
+        "C": "$1,920,000."
+      },
+      "answer": "B",
+      "explanation": "On a baseline of $6 million and forecasted 3% revenue growth, next year's revenue will be estimated at $6,180,000 ($6 million × 1.03). COGS as a percentage of sales will be 35%, given a gross margin of 65%. Forecasted COGS is equal to $6,180,000 × 35% = $2,163,000. The number $1,920,000 is equal to the baseline of $6 million multiplied by 32% (which assumes the gross margin of 65% grows by 3%), and $4,017,000 is equal to the forecasted $6,180,000 multiplied by 65%.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q14",
+      "question": "A company's CFO plans to spend $45 million on capital expenditures in the next year. These expenditures will be funded through cash held in the company's bank accounts ($30 million) and $15 million coming from a planned debt issuance at the end of the current year. An analyst forecasting the capital structure of the firm will project which of the following?",
+      "options": {
+        "A": "An increase in cash flows from investing activi ties.",
+        "B": "A decrease in financial leverage.",
+        "C": "An increase in the debt-to-equity ratio."
+      },
+      "answer": "C",
+      "explanation": "A new debt issuance will increase the amount of debt for a company, with no change to equity. The debt-to-equity ratio, therefore, will increase, which is an increase in financial leverage. Cash flows from investing activi ties will decrease, with the outflow of $45 million for capital expenditures.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q15",
+      "question": "In estima ting sales for future years, an analyst will most likely account for which of the following potential assumptions?",
+      "options": {
+        "A": "Tax rate changes.",
+        "B": "Reductions in fixed costs due to new negotia tions with warehouse landlords.",
+        "C": "New product launches by the competition."
+      },
+      "answer": "C",
+      "explanation": "While sales will likely be directly impacted by competitors' actions such as new product launches, tax rate changes and fixed cost reductions will not have a direct impact on sales totals",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q16",
+      "question": "An analyst forecasts average selling prices for each product and service a company provides, as well as expected sales volumes. Using these estimates is an example of which type of revenue forecasting?",
+      "options": {
+        "A": "Top down.",
+        "B": "Economic driven.",
+        "C": "Bottom up."
+      },
+      "answer": "C",
+      "explanation": "A bottom-up approach to revenue forecasting begins with an analysis of an individual company. This will include forecasting selling prices and expected sales volumes. Topdown approaches begin with estimates of macroeconomic variables such as gross domestic product (GDP). Economic driven is not a formal approach.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q17",
+      "question": "Which of the following represents a benefit to an analyst incorporating scenario analysis into her forecasting?",
+      "options": {
+        "A": "Accounting for potential changes in the company's economic environment.",
+        "B": "Adjusting past results for unidenti fied errors.",
+        "C": "Solidifying a single forecasted number for bottom-line profits."
+      },
+      "answer": "A",
+      "explanation": "Because analysts must use estimates and assumptions in forecasting future financial statements, scenario analysis accounts for the reality that unforeseen changes may impact line items in a positive or negative way. The analyst will, therefore, be able to produce a range of estimates based on potential changes in the economy, rather than having to stick to one point estimate. Past results are not adjusted for unidenti fied errors, and a single forecasted number is not \"solidified\" through scenario analysis",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q18",
+      "question": "An analyst is most likely to forecast summary measures for a company, rather than forecasting specific financial statement items, when:",
+      "options": {
+        "A": "users of the forecast require transparency.",
+        "B": "ad hoc items affect the results.",
+        "C": "summary measures are relatively stable over time."
+      },
+      "answer": "C",
+      "explanation": "Forecasting summary measures is most useful when these measures do not fluctuate significantly from period to period. Such forecasts are less transparent to users than forecasts based on financial statement items. Ad hoc items refer to events that a company's past financial results do not reflect and typically need to be accounted for explicitly in a forecast.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q19",
+      "question": "An analyst is using an historical base rate convergence approach to estimate the growth rate of a company in an established industry. If the analyst forecasts sales growth for this company of 4% next year, it is most likely because:",
+      "options": {
+        "A": "GDP growth is forecasted to remain stable.",
+        "B": "sales have grown 6% over the last couple of years and are due to grow more next year.",
+        "C": "the industry average is forecasted at 4%."
+      },
+      "answer": "C",
+      "explanation": "With the historical base rate convergence approach, an analyst will estimate growth in line with the industry overall, median growth rate, or a macroeconomic measure such as gross domestic product (GDP). Forecasted sales growth of 4% would make sense under this approach if the industry average were expected to be similar. If GDP growth is forecasted to be stable, that would not drive a growth projection of 4%. Also, sales growth of 6% in previous years that is expected to increase even more would not drive a 4% growth estimate.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q20",
+      "question": "An analyst would like to use historical results as a baseline to prepare his forecasted financial statements for the next year. Which of the following types of companies are appropriate for this type of approach?",
+      "options": {
+        "A": "Mature-stage companies.",
+        "B": "Companies in cyclical industries.",
+        "C": "Companies moving to a differentia tion strategy."
+      },
+      "answer": "A",
+      "explanation": "Companies that are in a mature stage are more stable (less volatile), which means historical results are more useful as predictors for future performance. Cyclical industry companies are heavily impacted by economic business cycles, which makes historical data less relevant depending on the current cycle of the economy. Also, companies changing competitive strategies will have historical data based on the old strategy rather than the new strategy.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q21",
+      "question": "An analyst a ttends a management call where the CEO projects revenue and operating expense growth of 4%-6% next year, respectively. Understanding the natural tendency of management when communicating these numbers, an analyst will most likely project which of the following?",
+      "options": {
+        "A": "Revenue growth of 5%- 7%.",
+        "B": "Operating expense growth of 4%-6%.",
+        "C": "Operating expense growth of 5%-7%."
+      },
+      "answer": "A",
+      "explanation": "In an effort to show better actual results than estimated, management will often project lower revenue growth and higher operating expense growth. So, with management providing estimated growth of 4%-6% for both, an analyst is likely to project revenue growth higher and operating expense growth lower than management estimates.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q22",
+      "question": "Forecasting a fixed growth rate is most appropriate for estima ting:",
+      "options": {
+        "A": "cost of goods sold.",
+        "B": "selling expenses.",
+        "C": "administrative expenses."
+      },
+      "answer": "C",
+      "explanation": "General and administrative expenses are often more fixed than variable and can be modeled using a fixed growth rate that includes expected infla tion. Cost of goods sold and selling expenses are related to sales volumes and are more appropriately modeled based on expected revenues.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R45-Q23",
+      "question": "A company has a market share of 5% and sales of $16 million. If overall industry sales are forecasted to grow 4% and the company's market share is expected to increase to 6%, expected sales for the company will be closest to:",
+      "options": {
+        "A": "$17,600,000.",
+        "B": "$19,968,000.",
+        "C": "$16,640,000."
+      },
+      "answer": "B",
+      "explanation": "With company sales of $16 million and market share of 5%, sales for the industry are equal to $320 million ($16 million / 0.05). If overall industry sales are forecasted to grow 4%, industry sales will be equal to $332,800,000. With a forecasted market share of 6%, the company's forecasted revenue will be $332,800,000 × 0.06 = $19,968,000. The number $16,640,000 is the current $16,000,000 in revenues grown by the 4% industry growth, and $17,600,000 is the current $16,000,000 in revenues grown by the combination of 4% industry growth and the 6% market share. The End !",
+      "answer_source": "bold"
+    }
+  ]
+}

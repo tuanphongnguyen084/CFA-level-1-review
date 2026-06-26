@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-3",
+  "name": "Đề 3 — Câu 41–60",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q41",
+      "question": "James Fry, CFA, is evaluating the potential investment merit of Cushing Corporation. Fry forecasts that Cushing's earnings next year will be $4.70 and it will pay a $1.65 dividend. Fry estimates Cushing's future growth rate will be 10%, with a required rate of return of 12%. Based on the information provided, Cushing's leading price to earnings (P/E) ratio is closest to:",
+      "options": {
+        "A": "15.0.",
+        "B": "15.9.",
+        "C": "17.6."
+      },
+      "answer": "C",
+      "explanation": "D 1 = 1.5 × 1.1 = 1.65 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q42",
+      "question": "= = ( ( ) ) = ( ) = 17.6 P 0 E 1 ( ) D 1 E 1 ( k - g ) 1.65 4.70 ( 0.12 - 0.10 ) 0.351 0.02 A company last paid a $1.00 dividend, the current market price of the stock is $20 per share and the dividends are expected to grow at 5 percent forever. What is the required rate of return on the stock?",
+      "options": {
+        "A": "10.00%.",
+        "B": "10.25%.",
+        "C": "9.78%."
+      },
+      "answer": "B",
+      "explanation": "D 0 (1 + g) / P 0 + g = k 1.00 (1.05) / 20 + 0.05 = 10.25%. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q43",
+      "question": "An enterprise value multiple is typically calculated as the ratio of enterprise value to a measure of:",
+      "options": {
+        "A": "operating income.",
+        "B": "net income.",
+        "C": "pretax income."
+      },
+      "answer": "A",
+      "explanation": "An enterprise value multiple is typically calculated as the ratio of enterprise value to EBITDA or some other measure of operating income. Net income or pretax income are not typically used because they reflect a firm's current capital structure and non-cash charges, and because the ratio becomes meaningless when income is negative. (Module 48.3, LOS 48.l)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q44",
+      "question": "REM Corp.'s return on equity (ROE) is 19.5% and its dividend payout rate is 45%. What is the company's implied dividend growth rate?",
+      "options": {
+        "A": "19.5%.",
+        "B": "10.73%.",
+        "C": "8.78%."
+      },
+      "answer": "C",
+      "explanation": "g = (ROE)(RR) g = (19.5)(1 - 0.45) g = (0.195)(0.55) = 0.1073 or 10.73% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q45",
+      "question": "A payment to shareholders in the form of additional shares instead of cash is most accurately characterized as a:",
+      "options": {
+        "A": "private placement.",
+        "B": "stock dividend.",
+        "C": "stock split."
+      },
+      "answer": "B",
+      "explanation": "Stock dividends are dividends paid out in new shares of stock instead of cash. While a stock split has essentially the same effects as a stock dividend, it is carried out by declaring that each existing share will become some number of new shares (for example a 2-for-1 split). A private placement is an issuance of new shares to one or a group of investors in exchange for cash, when the issuance is not carried out as a public offering. (Module 48.1, LOS 48.c)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q46",
+      "question": "Baker Computer earned $6.00 per share last year, has a retention ratio of 55%, and a return on equity (ROE) of 20%. Assuming their required rate of return is 15%, how much would an investor pay for Baker on the basis of the earnings multiplier model?",
+      "options": {
+        "A": "$74.93.",
+        "B": "$40.00.",
+        "C": "$173.90."
+      },
+      "answer": "A",
+      "explanation": "g = Retention × ROE = (0.55) × (0.2) = 0.11 P 0 /E 1 = 0.45 / (0.15 - 0.11) = 11.25 Next year's earnings E 1 = E 0 × (1 + g) = (6.00) × (1.11) = $6.66 P 0 = 11.25($6.66) = $74.93 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q47",
+      "question": "An asset-based valuation model is most appropriate for a company that:",
+      "options": {
+        "A": "has a high proportion of intangible assets among its total assets.",
+        "B": "is likely to be liquidated.",
+        "C": "is expected to remain profitable for the foreseeable future."
+      },
+      "answer": "B",
+      "explanation": "For companies that are likely to be liquidated, the asset-based approach may be the most appropriate value as the assets may be worth more to another entity. Asset-based valuation models do not work well for companies that have large amounts of intangible assets. Because asset-based valuation is not forward-looking, an asset-based approach may underestimate the value of companies that are expected to be profitable. (Module 48.3, LOS 48.m)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q48",
+      "question": "Use the following information on Brown Partners, Inc. to compute the current stock price. Dividend just paid = $6.10 Expected dividend growth rate = 4% Expected stock price in one year = $60 Risk-free rate = 3% Risk premium on the stock = 12%",
+      "options": {
+        "A": "$59.55.",
+        "B": "$57.70.",
+        "C": "$57.48."
+      },
+      "answer": "B",
+      "explanation": "The current stock price is equal to (D 1 + P 1 ) / (1 + k e ). D 1 equals $6.10(1.04) = $6.34. The equity discount rate is 3% + 12% = 15%. Therefore the current stock price is ($6.34 + $60)/(1.15) = $57.70 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q49",
+      "question": "The current price of XYZ, Inc., is $40 per share with 1,000 shares of equity outstanding. Sales are $4,000 and the book value of the firm is $10,000. What is the price/sales ratio of XYZ, Inc.?",
+      "options": {
+        "A": "10.000.",
+        "B": "4.000.",
+        "C": "0.010."
+      },
+      "answer": "A",
+      "explanation": "The price/sales ratio is (price per share)/(sales per share) = (40)/(4,000/1,000) = 10.0. Alternatively, the price/sales ratio may be thought of as the market value of the company divided by its sales, or (40 × 1,000)/4,000, or 10.0 again. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q50",
+      "question": "General, Inc., has net income of $650,000 and one million shares outstanding. The profit margin is 6 percent and General, Inc., is selling for $30.00. The price/sales ratio is equal to:",
+      "options": {
+        "A": "0.65.",
+        "B": "2.77.",
+        "C": "10.83."
+      },
+      "answer": "B",
+      "explanation": "6% profit margin = $650,000/x; x (sales) = $10,833,333. Sales per share = $10.83 M/1,000,000 = $10.83 per share. P/Sales = $30.00/$10.83 = 2.77. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q51",
+      "question": "Which of the following shows the dividend payment chronology in its proper sequence?",
+      "options": {
+        "A": "Declaration date, ex-dividend date, holder-of-record date, payment date.",
+        "B": "Declaration date, holder-of-record date, ex-dividend date, payment date.",
+        "C": "Ex-dividend date, holder-of-record date, declaration date, payment date."
+      },
+      "answer": "A",
+      "explanation": "The dividend payment chronology begins with the declaration of a dividend by the board of directors. The ex-dividend date occurs one or two business days before the holder-of-record date. (Module 48.1, LOS 48.d)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q52",
+      "question": "Given the following information, compute price/sales. Book value of assets = $550,000. Total sales = $200,000. Net income = $20,000. Dividend payout ratio = 30%. Operating cash flow = $40,000. Price per share = $100. Shares outstanding = 1,000. Book value of liabilities = $500,000.",
+      "options": {
+        "A": "2.50X.",
+        "B": "0.50X.",
+        "C": "2.00X."
+      },
+      "answer": "B",
+      "explanation": "Market value of equity = ($100)(1000) = $100,000 Price / Sales = $100,000 / $200,000 = 0.5X (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q53",
+      "question": "Assume that a firm has an expected dividend payout ratio of 20%, a required rate of return of 9%, and an expected dividend growth of 5%. What is the firm's estimated price-to-earnings (P/E) ratio?",
+      "options": {
+        "A": "2.22.",
+        "B": "5.00.",
+        "C": "20.00."
+      },
+      "answer": "B",
+      "explanation": "The price-to-earnings (P/E) ratio is equal to (D 1 /E 1 )/(k - g) = 0.2/(.09 - 0.05) = 5.00. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q54",
+      "question": "A high growth rate of dividends is most likely to be consistent with:",
+      "options": {
+        "A": "a high dividend payout ratio.",
+        "B": "a high ROE.",
+        "C": "a low retention rate."
+      },
+      "answer": "B",
+      "explanation": "The growth rate of dividends can be estimated as retention rate × ROE, or (1 - payout ratio) × ROE. Thus high ROE is consistent with a high growth rate. A high dividend payout ratio (which is the same as a low retention rate) is more likely to be consistent with a low growth rate of dividends. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q55",
+      "question": "A stock has a steady 5% growth rate in dividends. The required rate of return for stocks of this risk class is 15%. The stock is expected to pay a $1 dividend this coming year. The expected value of the stock at the end of the fourth year is:",
+      "options": {
+        "A": "$12.16.",
+        "B": "$16.32.",
+        "C": "$14.21."
+      },
+      "answer": "A",
+      "explanation": "First solve for D 5 : D 5 = (D 1 )(1 + g) n = $1(1.05) 4 = $1.216 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q56",
+      "question": "A company has 6% preferred stock outstanding with a par value of $100. The required return on the preferred is 8%. What is the value of the preferred stock?",
+      "options": {
+        "A": "$100.00.",
+        "B": "$75.00.",
+        "C": "$92.59."
+      },
+      "answer": "B",
+      "explanation": "The annual dividend on the preferred is $100(.06) = $6.00. The value of the preferred is $6.00/0.08 = $75.00. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q57",
+      "question": "A firm has an expected dividend payout ratio of 50%, a required rate of return of 12% and a constant growth rate of 6%. If earnings for the next year are expected to be $4.50, the value of the stock today is closest to :",
+      "options": {
+        "A": "$33.50. P 4 = = = $ 12.16 or P 0 = = 10 P 4 = 10 ( 1.05 ) 4 = $ 12.16 D 5 ( k - g ) $ 1.216 ( 0.15 - 0.05 ) 1 0.15 - 0.05",
+        "B": "$37.50.",
+        "C": "$39.75."
+      },
+      "answer": "C",
+      "explanation": "Expected dividend = $4.50 × 0.50 = $2.25 Value today = $2.25 / (0.12 - 0.06) = $37.50 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q58",
+      "question": "Which of the following statements concerning security valuation is least accurate ?",
+      "options": {
+        "A": "A stock with a dividend last year of $3.25 per share, an expected dividend growth rate of 3.5%, and a required return of 12.5% is estimated to be worth $36.11.",
+        "B": "A stock to be held for two years with a year-end dividend of $2.20 per share, an estimated value of $20.00 at the end of two years, and a required return of 15% is estimated to be worth $18.70 currently.",
+        "C": "A stock with an expected dividend payout ratio of 30%, a required return of 8%, an expected dividend growth rate of 4%, and expected earnings of $4.15 per share is estimated to be worth $31.13 currently."
+      },
+      "answer": "A",
+      "explanation": "A stock with a dividend last year of $3.25 per share, an expected dividend growth rate of 3.5%, and a required return of 12.5% is estimated to be worth $37.33 using the DDM where P o = D 1 / (k - g). We are given D o = $3.25, g = 3.5%, and k = 12.5%. What we need to find is D 1 which equals D o × (1 + g) therefore D 1 = $3.25 × 1.035 = $3.36 thus P o = 3.36 / (0.125 - 0.035) = $37.33. In the answer choice where the stock value is $18.70, discounting the future cash flows back to the present gives the present value of the stock. the future cash flows are the dividend in year 1 plus the dividend and value of the stock in year 2 thus the equation becomes: V o = 2.2 / 1.15 + (2.2 + 20) / 1.15 2 = $18.70 For the answer choice where the stock value is $31.13 use the DDM which is P o = D 1 / (k - g). We are given k = 0.08, g = 0.04, and what we need to find is next year's dividend or D 1 . D 1 = Expected earnings × payout ratio = $4.15 × 0.3 = $1.245 thus P o = $1.245 / (0.08 - 0.04) = $31.13 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q59",
+      "question": "Bybee is expected to have a temporary supernormal growth period and then level off to a \"normal,\" sustainable growth rate forever. The supernormal growth is expected to be 25 percent for 2 years, 20 percent for one year and then level off to a normal growth rate of 8 percent forever. The market requires a 14 percent return on the company and the company last paid a $2.00 dividend. What would the market be willing to pay for the stock today?",
+      "options": {
+        "A": "$52.68.",
+        "B": "$67.50.",
+        "C": "$47.09."
+      },
+      "answer": "A",
+      "explanation": "First, find the future dividends at the supernormal growth rate(s). Next, use the infinite period dividend discount model to find the expected price after the supernormal growth period ends. Third, find the present value of the cash flow stream. D 1 = 2.00 (1.25) = 2.50 (1.25) = D 2 = 3.125 (1.20) = D 3 = 3.75 P 2 = 3.75/(0.14 - 0.08) = 62.50 N = 1; I/Y = 14; FV = 2.50; compute PV = 2.19. N = 2; I/Y = 14; FV = 3.125; compute PV = 2.40. N = 2; I/Y = 14; FV = 62.50; compute PV = 48.09. Now sum the PV's: 2.19 + 2.40 + 48.09 = $52.68. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q60",
+      "question": "Which type of cash dividend is most likely to be declared by a cyclical firm during good times?",
+      "options": {
+        "A": "Regular dividend.",
+        "B": "Special dividend.",
+        "C": "Stock dividend."
+      },
+      "answer": "B",
+      "explanation": "Special dividends are used when favorable circumstances allow the firm to make a one-time cash payment to shareholders, in addition to any regular dividends the firm pays. Many cyclical firms (e.g., automakers) will use a special dividend to share profits with shareholders when times are good but maintain the flexibility to conserve cash when profits are down. (Module 48.1, LOS 48.c)",
+      "answer_source": "green"
+    }
+  ]
+}

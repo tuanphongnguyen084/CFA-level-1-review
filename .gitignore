@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# --- Source study materials (kept OUT of the deploy repo on purpose) ---
+# The app only needs content/*.json at runtime. Original PDFs/DOCX/slides
+# stay in the parent CFA folder and are never committed.
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.DS_Store
+
+# --- Raw spreadsheets you convert with tools/xlsx_to_json.py ---
+# (the generated content/*.json IS committed; the raw input is not)
+tools/input/
+
+# --- Local-only progress mirror (production uses browser localStorage) ---
+.progress/
+
+# --- Streamlit secrets ---
+.streamlit/secrets.toml

@@ -1,0 +1,6 @@
+# Tooling used only by admins to build/validate content (NOT needed at runtime).
+#   pip install -r requirements-dev.txt
+pandas>=2.0
+openpyxl>=3.1
+jsonschema>=4.0
+pypdf>=4.0

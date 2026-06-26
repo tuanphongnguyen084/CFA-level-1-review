@@ -1,0 +1,368 @@
+{
+  "schema_version": 1,
+  "id": "reading-41",
+  "name": "Reading 41: Market Efficiency",
+  "group": "Câu hỏi ôn tập (Reading 39–46)",
+  "questions": [
+    {
+      "id": "R41-Q1",
+      "question": "Which of the following statements on the forms of the efficient market hypothesis (EMH) is least accurate?",
+      "options": {
+        "A": "The semi-strong form EMH assumes market prices reflect all public information",
+        "B": "The strong-form EMH assumes market prices reflect all public and private information.",
+        "C": "The weak-form EMH assumes market prices reflect current public mark information and expectations."
+      },
+      "answer": "C",
+      "explanation": "The weak-form EMH assumes the price of a security reflects all historical price and volume information. The other statements are true. The semi-strong form EMH assumes market prices reflect all public information. The strong-form EMH states that stock prices reflect all types of information: market, non-public market, and private.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q2",
+      "question": "If stock markets are semi strong-form efficient, a portfolio manager is least likely to create value for investors by:",
+      "options": {
+        "A": "allocating invested funds among asset classes.",
+        "B": "analyzing financial statements to select undervalued stock",
+        "C": "monitoring clients' needs and circumstances."
+      },
+      "answer": "B",
+      "explanation": "Semis trong-form market efficiency implies that fundamental analysis of publicly available information will not generate abnormal returns on average. Portfolio managers should help quantify a client's risk tolerances and return needs, offer portfolio policies and strategies to meet these needs, and construct a portfolio by allocating funds to appropriate asset classes. Portfolio managers can also create value by diversifying their clients' portfolios globally to reduce risk, monitoring and evaluating changing capital market conditions, monitoring their clients' needs and circumstances, and rebalancing their clients' portfolios when necessary.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q3",
+      "question": "A market's efficiency is most likely to decrease by:",
+      "options": {
+        "A": "substantial analyst coverage of exchange-listed companies.",
+        "B": "a ban on short selling.",
+        "C": "high volumes of trading activity."
+      },
+      "answer": "B",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q4",
+      "question": "Under the efficient market hypothesis (EMH), the major effort of the portfolio manager should be to:",
+      "options": {
+        "A": "achieve complete diversification of the portfolio",
+        "B": "follow a strict buy and hold strategy.",
+        "C": "minimize systematic risk in the portfolio."
+      },
+      "answer": "A",
+      "explanation": "In an efficient market, portfolio managers must create and maintain the appropriate mix of assets to meet their client's needs. The portfolio should be diversified to eliminate unsystematic risk. The appropriate systematic risk will depend on the clients risk tolerance and return requirement. Over time the needs of the client and environment will justify changes to the portfolio. The manager should also try to minimize transaction costs and at least try to match the performance of a benchmark.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q5",
+      "question": "Which of the following forms of the EMH assumes that no group of investors has monopolistic access to relevant information?",
+      "options": {
+        "A": "Strong-form.",
+        "B": "Weak-form.",
+        "C": "Both weak and semistrong form."
+      },
+      "answer": "A",
+      "explanation": "According to the strong-form EMH, security prices reflect all information, which includes the privately available (monopolistic) information.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q6",
+      "question": "The strong-form efficient market hypothesis (EMH) asserts that stock prices fully reflect which of the following types of information?",
+      "options": {
+        "A": "Market.",
+        "B": "Public and private.",
+        "C": "Public, private, and future."
+      },
+      "answer": "B",
+      "explanation": "The strong-form EMH assumes that stock prices fully reflect all information from public and private sources.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q7",
+      "question": "Which of the following statements best describes the overreaction effect?",
+      "options": {
+        "A": "High returns over a one-year period are followed by high returns over the following year.",
+        "B": "High returns over a one-year period are followed by low returns over the following three years.",
+        "C": "Low returns over a three-year period are followed by high returns over the following three years."
+      },
+      "answer": "C",
+      "explanation": "The overreaction effect refers to stocks with poor returns over three tofive-year periods that had higher subsequent performance than stocks with high returns in the prior period. The result is a ttributed to overreaction in stock prices that reverses over longer periods of time. Stocks with high previous short-term returns that have high subsequent returns show a momentum effect",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q8",
+      "question": "Which of the following statements about the efficient market hypothesis (EMH) is most accurate?",
+      "options": {
+        "A": "The weak form of the EMH maintains that current security prices fully reflect all past information.",
+        "B": "The strong form of the EMH implies that no group of investors should be able to consistently achieve positive abnormal returns.",
+        "C": "The semistrong form of the EMH states that current security prices fully reflect all public and nonpublic information, both market and nonmarket."
+      },
+      "answer": "B",
+      "explanation": "If the strong form of the EMH holds, no group of investors should be able to achieve positive abnormal returns consistently. The weak form addresses only past price and trading volume information, not all information. The semistrong form of the EMH does not assume that current security prices reflect nonpublic information.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q9",
+      "question": "If the momentum effect persists over time, it would provide evidence against which of the following forms of market efficiency?",
+      "options": {
+        "A": "Semistrong form only.",
+        "B": "Weak form only.",
+        "C": "Both weak form and semistrong form."
+      },
+      "answer": "C",
+      "explanation": "The momentum effect suggests it is possible to earn abnormal returns using market data. All three forms of market efficiency (weak form, semistrong form, and strong form) assume that market prices fully reflect market data.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q10",
+      "question": "In behavioral finance theory, loss aversion is most accurately defined as asserting that for gains and losses of equal amounts, investors:",
+      "options": {
+        "A": "dislike losses more than they like gains.",
+        "B": "like gains more than they dislike losses.",
+        "C": "dislike for losses and like for gains are proportionate."
+      },
+      "answer": "A",
+      "explanation": "Behavioral finance proposes that investors are loss averse. Loss aversion means investors dislike losses more than they like gains of the same amount.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q11",
+      "question": "The opportunity to take advantage of the downward pressure on stock prices that result from end-of-the-year tax selling is known as the:",
+      "options": {
+        "A": "January anomaly.",
+        "B": "end-of-the-year effect",
+        "C": "end-of-the-year anomaly."
+      },
+      "answer": "A",
+      "explanation": "The January Anomaly is most likely the result of tax induced trading at year end. An investor can profit by buying stocks in December and selling them during the first week in January.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q12",
+      "question": "An investor who is more risk averse with respect to potential negative outcomes than potential positive outcomes most likely exhibits which behavioral finance characteristic?",
+      "options": {
+        "A": "Conservatism.",
+        "B": "Loss aversion.",
+        "C": "Mental accounting."
+      },
+      "answer": "B",
+      "explanation": "Loss aversion is exhibited by an investor who dislikes a loss more than he likes an equal gain. That is, the investor's risk preferences are asymmetric. Mental accounting refers to mentally classifying investments in separate accounts rather than considering them from a portfolio perspective. In behavioral finance, conservatism refers to a tendency to maintain one's prior views even in the presence of new information.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q13",
+      "question": "Tom Edwin, CFA, states, \"Individuals exhibit biases, such as loss aversion and herding, that result in observed pricing anomalies in financial markets. However, a strategy based on exploiting these anomalies will not earn positive abnormal returns over time.\" With regard to the efficient markets and behavioral finance views of market pricing, Edwin's statement is most likely consistent with:",
+      "options": {
+        "A": "behavioral finance, but not informationally efficient markets",
+        "B": "neither behavioral finance nor informationally efficient markets",
+        "C": "both behavioral finance and informationally efficient markets"
+      },
+      "answer": "C",
+      "explanation": "Edwin's statement is consistent with both behavioral finance and informationally efficient markets. While behavioral biases that cause individuals to act irrationally can cause assets to be mispriced, markets can still be considered efficient if asset mispricing cannot consistently be exploited to earn positive risk-adjusted returns on average over time.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q14",
+      "question": "Which of the following forms of the EMH assumes that no group of investors has monopolistic access to relevant information?",
+      "options": {
+        "A": "Weak-form.",
+        "B": "Strong-form.",
+        "C": "Both weak and semistrong form."
+      },
+      "answer": "B",
+      "explanation": "The strong-form EMH assumes that stock prices fully reflect all information from public and private sources. In addition, no group of investors has monopolistic access to information relevant to the formation of prices.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q15",
+      "question": "The value of an asset that a rational investor with full knowledge about the asset's characteristics would willingly pay is best described as the asset's:",
+      "options": {
+        "A": "intrinsic value.",
+        "B": "market value.",
+        "C": "theoretical value."
+      },
+      "answer": "A",
+      "explanation": "Intrinsic value is the price a rational investor with full knowledge about an asset's characteristics would willingly pay for the asset.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q16",
+      "question": "Which of the following would be inconsistent with an efficient market?",
+      "options": {
+        "A": "Price adjustments are biased.",
+        "B": "Price changes are independent.",
+        "C": "Stock prices adjust rapidly to new information."
+      },
+      "answer": "A",
+      "explanation": "Market efficiency assumes that investors adjust their estimates of security prices rapidly to reflect their unbiased interpretation of the new information. New information arrives randomly and independently. Therefore, price changes are independent.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q17",
+      "question": "Which of the following statements least likely describes the role of a portfolio manager in perfectly efficient markets? Portfolio managers should:",
+      "options": {
+        "A": "quantify client's risk tolerance, communicate portfolio policies and strategies, and maintain a strict buy and hold policy avoiding any changes in the portfolio to minimize transaction costs.",
+        "B": "construct diversified portfolios that include international securities to eliminate unsystematic risk.",
+        "C": "construct a portfolio that includes financial and real assets"
+      },
+      "answer": "A",
+      "explanation": "A portfolio manager should quantify each client's risk tolerance and communicate portfolio policies and strategies. However, portfolio managers should monitor client's needs and changing circumstances and make appropriate changes to the portfolio. Adhering to a strict buy and hold policy would not be in the client's best interest. Portfolios need to be rebalanced and changed to meet client's changing needs",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q18",
+      "question": "Investor overreaction that has been documented in securities markets is most likely a ttributable to investors exhibiting:",
+      "options": {
+        "A": "conservatism.",
+        "B": "loss aversion.",
+        "C": "risk aversion."
+      },
+      "answer": "B",
+      "explanation": "Loss aversion refers to the tendency for investors to dislike downside risks more than upside risks creating asymmetrical risk preferences. This dislike of losses may be a cause of investor overreaction. The standard economic notion of risk aversion assumes symmetric risk preferences. Conservatism is the behavioral bias whereby investors react slowly to new information and is unlikely to cause overreaction.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q19",
+      "question": "The semi-strong form of the efficient market hypothesis (EMH) is most accurately described as asserting that security prices fully reflect all:",
+      "options": {
+        "A": "historical price and volume information.",
+        "B": "publicly available information.",
+        "C": "relevant information, including information not publicly available."
+      },
+      "answer": "B",
+      "explanation": "The semi-strong form of the EMH asserts that security prices fully reflect all publicly available information. This includes all historical price and volume information, which the weak form of the EMH asserts is fully reflected in security prices. The strong form of the EMH asserts that security prices fully reflect all public and private information.",
+      "answer_source": "manual"
+    },
+    {
+      "id": "R41-Q20",
+      "question": "The weak form of the efficient market hypothesis (EMH) implies that:",
+      "options": {
+        "A": "investors cannot achieve abnormal returns, on average, using technical analysis, after adjusting for transaction costs and taxes.",
+        "B": "insiders, such as specialists and corporate board members, cannot achieve abnormal returns on average.",
+        "C": "no one can achieve abnormal returns using market information."
+      },
+      "answer": "A",
+      "explanation": "The weak form of the EMH implies that an investor cannot earn positive abnormal returns on average using technical analysis (market information), after adjusting for transaction costs and taxes. Evidence has shown that insiders can achieve positive abnormal returns on average, but this relates to the strong form of the EMH.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q21",
+      "question": "In a perfectly efficient market, portfolio managers should do all of the following EXCEPT:",
+      "options": {
+        "A": "diversify to eliminate systematic risk.",
+        "B": "monitor their client's needs and circumstances.",
+        "C": "quantify their risk and return needs within the bounds of the client's liquidity, income, time horizon, legal, and regulatory constraints."
+      },
+      "answer": "A",
+      "explanation": "Portfolio managers cannot eliminate systematic risk (i.e., market risk) thru the use of diversification. Portfolio managers should try to eliminate unsystematic portfolio risk.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q22",
+      "question": "An efficient capital market:",
+      "options": {
+        "A": "does not fully reflect all of the information currently available about a given security including risk.",
+        "B": "fully reflects all of the information currently available about a given security including risk.",
+        "C": "fully reflects all of the information currently available about a given security excluding risk."
+      },
+      "answer": "B",
+      "explanation": "An efficient capital market fully reflects all of the information currently available about a given security, including risk.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q23",
+      "question": "Behavioral finance theory suggests that investors tend to:",
+      "options": {
+        "A": "mimic the actions of better-informed investors.",
+        "B": "underestimate their ability to analyze security information.",
+        "C": "be more risk averse with respect to gains than with respect to losses."
+      },
+      "answer": "A",
+      "explanation": "Mimicking the actions of better-informed investors is an example of herding behavior. Behavioral finance suggests investors are more risk averse with respect to losses than gains and tend to overestimate their ability to analyze security information.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q24",
+      "question": "In an informationally efficient market:",
+      "options": {
+        "A": "buying and holding a broad market portfolio is the preferred investment strategy.",
+        "B": "share prices adjust rapidly when companies announce results in line with expectations.",
+        "C": "the conditions exist for active investment strategies to achieve superior riskadjusted returns."
+      },
+      "answer": "A",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q25",
+      "question": "Octagon Advisors believes that the market is semi-strong efficient. The firm's portfolio managers most likely will use:",
+      "options": {
+        "A": "an enhanced indexing strategy that relies on trading patterns.",
+        "B": "passive portfolio management strategies.",
+        "C": "active portfolio management strategies."
+      },
+      "answer": "B",
+      "explanation": "If the market is semi-strong efficient, portfolio managers should use passive management because neither technical analysis nor fundamental analysis will generate positive abnormal returns on average over time.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q26",
+      "question": "The statement, \"Stock prices fully reflect all information from public and private sources,\" can be a ttributed to which form of the efficient market hypothesis (EMH)?",
+      "options": {
+        "A": "Strong-form EMH.",
+        "B": "Semistrong-form EMH.",
+        "C": "Weak-form EMH."
+      },
+      "answer": "A",
+      "explanation": "This is the definition of the strong-form EMH. Private sources include insider information, such as persons holding monopolistic access to information relevant to the formation of prices.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q27",
+      "question": "The semi-strong form of efficient market hypothesis (EMH) asserts that:",
+      "options": {
+        "A": "all public information is already reflected in security price",
+        "B": "both public and private information is already incorporated into security prices.",
+        "C": "only past market information is reflected in security price"
+      },
+      "answer": "A",
+      "explanation": "Semi-strong EMH states that publicly available information cannot be used to consistently beat the market performance.",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q28",
+      "question": "Which of the following would provide evidence against the semistrong form of the efficient market theory?",
+      "options": {
+        "A": "All investors have learned to exploit signals related to future performance.",
+        "B": "Low P/E stocks tend to have positive abnormal returns over the long run.",
+        "C": "Trend analysis is worthless in determining stock prices."
+      },
+      "answer": "B",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q29",
+      "question": "An increase in which of the following factors would most likely improve a market's efficiency?",
+      "options": {
+        "A": "Bid-ask spreads.",
+        "B": "Restrictions on short selling.",
+        "C": "Number of participants."
+      },
+      "answer": "C",
+      "explanation": "",
+      "answer_source": "bold"
+    },
+    {
+      "id": "R41-Q30",
+      "question": "David Farrington is an analyst at Farrington Capital Management. He is aware that many people believe that the capital markets are fully efficient. However, he is not convinced and would like to disprove this claim. Which of the following statements would support Farrington in his effort to demonstrate the limitations to fully efficient markets?",
+      "options": {
+        "A": "Processing new information entails costs and takes at least some time, so security prices are not always immediately affected",
+        "B": "Stock prices adjust to their new efficient levels within hours of the release of new information.",
+        "C": "Technical analysis has been rendered useless by many academics who have shown that analyzing market trends, past volume and trading data will not lead to abnormal returns. The End!"
+      },
+      "answer": "A",
+      "explanation": "",
+      "answer_source": "bold"
+    }
+  ]
+}

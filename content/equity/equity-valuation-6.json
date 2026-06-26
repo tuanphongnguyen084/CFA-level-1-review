@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-6",
+  "name": "Đề 6 — Câu 101–120",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q101",
+      "question": "What is the value of a preferred stock that is expected to pay a $5.00 annual dividend per year forever if similar risk securities are now yielding 8%?",
+      "options": {
+        "A": "$60.00.",
+        "B": "$40.00.",
+        "C": "$62.50."
+      },
+      "answer": "C",
+      "explanation": "$5.00/0.08 = $62.50. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q102",
+      "question": "The capital asset pricing model can be used to estimate which of the following inputs to the dividend discount model?",
+      "options": {
+        "A": "The expected infiation rate.",
+        "B": "The required return on equity.",
+        "C": "The expected growth rate in dividends."
+      },
+      "answer": "B",
+      "explanation": "The capital asset pricing model is a rate of return model that can be used to estimate a stock's required rate of return, given the nominal risk-free rate, the market risk premium, and the stock's beta: k = R nominal risk free rate + (beta)(R market - R nominal risk free rate ). (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q103",
+      "question": "Use the following data to analyze a stock's price earnings ratio (P/E ratio): The stock's beta is 1.2. The dividend payout ratio is 60%. The stock's expected growth rate is 7%. The risk free rate is 6% and the expected rate of return on the market is 13%. Using the dividend discount model, the expected P/E ratio of the stock is closest to:",
+      "options": {
+        "A": "10.0.",
+        "B": "5.4.",
+        "C": "8.1."
+      },
+      "answer": "C",
+      "explanation": "k = ER = Rf + Beta(RM - Rf) = 0.06 + (1.2)(0.13 - 0.06) = 0.144 Dividend payout ratio = 0.60 P/E = div payout / (k - g) = 0.6 / (0.144 - 0.07) = 8.1 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q104",
+      "question": "The risk-free rate is 5%, and the expected return on the market index is 15%. A stock has a: Beta of 1.0. Dividend payout ratio of 40%. Return on equity (ROE) of 15%. If the stock is expected to pay a $2.50 dividend, its intrinsic value using dividend discount model is closest to:",
+      "options": {
+        "A": "$27.77.",
+        "B": "$41.67.",
+        "C": "$53.33."
+      },
+      "answer": "B",
+      "explanation": "E(R) = R f + beta(R M - R f ) k = E(R) = 0.05 + 1(0.15 - 0.05) = 0.15 Retention (b) = (1 - dividend payout ratio) = 1 - 0.4 = 0.6 g = (ROE)(b) = (0.15)(0.6) = 0.09 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q105",
+      "question": "Which valuation method is most appropriate to estimate a floor value for a firm being liquidated?",
+      "options": {
+        "A": "Multiple based on fundamentals.",
+        "B": "Asset-based.",
+        "C": "Discounted cashfiow."
+      },
+      "answer": "B",
+      "explanation": "An asset-based model would likely be most appropriate to estimate a floor value for a firm entering liquidation. Future cash flows and firm fundamentals such as earnings or sales are not relevant for a firm that is not a going concern. (Module 48.3, LOS 48.f) Value = = = $ 41.67 D 1 k - g $ 2.50 0.15 - 0.09",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q106",
+      "question": "Assuming a discount rate of 15%, the price of a preferred stock with a dividend of $10 is closest to:",
+      "options": {
+        "A": "$67.",
+        "B": "$150.",
+        "C": "$105."
+      },
+      "answer": "A",
+      "explanation": "The formula for the value of preferred stock with a perpetual dividend is: D / kp. In this case, 10.0 / 0.15 = $66.67. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q107",
+      "question": "Yong Kim, CFA, buys a preferred stock that has a 6% dividend yield (defined as the ratio of the preferred dividend to the market price of the preferred stock). One year later, Kim sells the stock when it is selling at a 5% dividend yield. The preferred stock pays a fixed annual dividend, which Kim received right before selling. What rate of return did Kim realize on his investment?",
+      "options": {
+        "A": "20%.",
+        "B": "14%.",
+        "C": "26%."
+      },
+      "answer": "C",
+      "explanation": "The dividend can be of any size. Suppose it is $1.00. The purchase price is 1.00 / 0.06 = 16.667. The sale price is 1.00 / 0.05 = 20. Kim pays 16.667 and receives 20.00 plus a 1.00 dividend one year later. The rate of return is [(20 + 1)/16.667] - 1 = 26%. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q108",
+      "question": "A firm has an expected dividend payout ratio of 50 percent, a required rate of return of 18 percent, and an expected dividend growth rate of 3 percent. The firm's price to earnings ratio (P/E) is:",
+      "options": {
+        "A": "3.33.",
+        "B": "6.66.",
+        "C": "2.78."
+      },
+      "answer": "A",
+      "explanation": "P/E = .5 / (18%-3%) = 3.33. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q109",
+      "question": "An investor is considering acquiring a common stock that he would like to hold for one year. At the end of the year he expects to receive both $1.50 in dividends and $26 from the sale of the stock. What is the maximum price he should pay for the stock today to earn a 15 percent return?",
+      "options": {
+        "A": "$24.11.",
+        "B": "$27.30.",
+        "C": "$23.91."
+      },
+      "answer": "C",
+      "explanation": "With a required rate of return of 15%, the most the investor should pay for the stock today is (26 + 1.50) / 1.15 = $23.91. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q110",
+      "question": "Assume that at the end of the next year, Company A will pay a $2.00 dividend per share, an increase from the current dividend of $1.50 per share. After that, the dividend is expected to increase at a constant rate of 5%. If an investor requires a 12% return on the stock, what is the value of the stock?",
+      "options": {
+        "A": "$28.57.",
+        "B": "$30.00.",
+        "C": "$31.78."
+      },
+      "answer": "A",
+      "explanation": "P 0 = D 1 / k - g D 1 = $2 g = 0.05 k = 0.12 P 0 = 2 / 0.12 - 0.05 = 2 / 0.07 = $28.57 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q111",
+      "question": "A company's required return on equity is 15% and its dividend payout ratio is 55%. If its return on equity (ROE) is 17% and its beta is 1.40, then its sustainable growth rate is closest to:",
+      "options": {
+        "A": "6.75%.",
+        "B": "7.65%.",
+        "C": "9.35%."
+      },
+      "answer": "B",
+      "explanation": "Growth rate = (ROE)(Retention Ratio) = (0.17)(0.45) = 0.0765 or 7.65% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q112",
+      "question": "Use the following information and the dividend discount model to find the value of GoFlower, Inc.'s, common stock. Last year's dividend was $3.10 per share. The growth rate in dividends is estimated to be 10% forever. The return on the market is expected to be 12%. The risk-free rate is 4%. GoFlower's beta is 1.1.",
+      "options": {
+        "A": "$26.64.",
+        "B": "$34.95.",
+        "C": "$121.79."
+      },
+      "answer": "C",
+      "explanation": "The required return for GoFlower is 0.04 + 1.1(0.12 - 0.04) = 0.128 or 12.8%. The expect dividend is ($3.10)(1.10) = $3.41. GoFlower's common stock is then valued using the infinite period dividend discount model (DDM) as ($3.41) / (0.128 - 0.10) = $121.79. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q113",
+      "question": "Asset-based models are most appropriate when examining firms:",
+      "options": {
+        "A": "with the same stock prices.",
+        "B": "that hold primarily liquid assets.",
+        "C": "with older assets compared to those with newer assets."
+      },
+      "answer": "B",
+      "explanation": "Asset-based analysis works best for firms that hold primarily tangible short-term assets and assets with readily available market values. (Module 48.3, LOS 48.f)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q114",
+      "question": "Donna Drake is interested in a stock that is expected to pay a dividend of $1.50 in one year, $1.75 in two years, and $2.05 in three years. Drake expects to sell the stock for $43.87 after three years, after which the dividend will grow at 7% annually. If Drake requires a 12% return on the stock, the price she is willing to pay today is closest to:",
+      "options": {
+        "A": "$34.",
+        "B": "$36.",
+        "C": "$38."
+      },
+      "answer": "B",
+      "explanation": "Find the present values of the cash flows and add them together. N = 1; I/Y = 12; FV = 1.50; CPT → PV = 1.34 N = 2; I/Y = 12; FV = 1.75; CPT → PV = 1.40 N = 3; I/Y = 12; FV = 2.05 + 43.87 = 45.92; CPT → PV = 32.68 stock price = $1.34 + $1.40 + $32.68 = $35.42 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q115",
+      "question": "A firm pays an annual dividend of $1.15. The risk-free rate (RF) is 2.5%, and the total risk premium (RP) for the stock is 7%. What is the value of the stock, if the dividend is expected to remain constant?",
+      "options": {
+        "A": "$16.03.",
+        "B": "$12.10.",
+        "C": "$25.00."
+      },
+      "answer": "B",
+      "explanation": "If the dividend remains constant, g = 0. P = D 1 / (k-g) = 1.15 / (0.095 - 0) = $12.10 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q116",
+      "question": "If the return on equity for a firm is 15% and the retention rate is 40%, the firm's sustainable growth rate is closest to:",
+      "options": {
+        "A": "9%.",
+        "B": "6%.",
+        "C": "15%."
+      },
+      "answer": "B",
+      "explanation": "g = (RR)(ROE) = (0.15)(0.40) = 0.06 or 6% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q117",
+      "question": "Given the following information, compute the implied dividend growth rate. Profit margin = 10.0% Total asset turnover = 2.0 times Financial leverage = 1.5 times Dividend payout ratio = 40.0%",
+      "options": {
+        "A": "12.0%.",
+        "B": "18.0%.",
+        "C": "4.5%."
+      },
+      "answer": "B",
+      "explanation": "Retention ratio equals 1 - 0.40, or 0.60. Return on equity equals (10.0%)(2.0)(1.5) = 30.0%. Dividend growth rate equals (0.60)(30.0%) = 18.0%. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q118",
+      "question": "Which of the following statements about the constant growth dividend discount model (DDM) in its application to investment analysis is least accurate? The model:",
+      "options": {
+        "A": "can't be applied when g > K.",
+        "B": "is best applied to young, rapidly growing firms.",
+        "C": "is inappropriate for firms with variable dividend growth."
+      },
+      "answer": "B",
+      "explanation": "The model is most appropriately used when the firm is mature, with a moderate growth rate, paying a constant stream of dividends. In order for the model to produce a finite result, the company's growth rate must not exceed the required rate of return. (Module 48.2, LOS 48.i)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q119",
+      "question": "Witronix is a rapidly growing U.S. company that has increased free cash flow to equity and dividends at an average rate of 25% per year for the last four years. The present value model that is most appropriate for estimating the value of this company is a:",
+      "options": {
+        "A": "Gordon growth model.",
+        "B": "multistage dividend discount model.",
+        "C": "single stage free cashfiow to equity model."
+      },
+      "answer": "B",
+      "explanation": "A multistage model is the most appropriate model because the company is growing dividends at a higher rate than can be sustained in the long run. Though the company may be able to grow dividends at a higher-than-sustainable 25% annual rate for a finite period, at some point dividend growth will have to slow to a lower, more sustainable rate. The Gordon growth model is appropriate to use for mature companies that have a history of increasing their dividend at a steady and sustainable rate. A single stage free cash flow to equity model is similar to the Gordon growth model, but values future free cash flow to equity rather than dividends. (Module 48.2, LOS 48.e)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q120",
+      "question": "Gourmet and Company has the following information: Current market value = $250 million Current book value = $225 million Sales = $750 million Earnings = $75 million Cash flow = $125 million Stock price = $7.50 Which of the following statements regarding Gourmet and Company is most accurate?",
+      "options": {
+        "A": "The price/book ratio is 0.90.",
+        "B": "The price/sales ratio is 0.33.",
+        "C": "The price/earnings ratio is 33.3."
+      },
+      "answer": "B",
+      "explanation": "The price/sales ratio is $250/$750 = 0.33. Price/book = $250/$225 = 1.11. Price/earnings = $250/$75 = 3.33. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    }
+  ]
+}

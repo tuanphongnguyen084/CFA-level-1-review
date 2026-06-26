@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CFA Quiz Exam",
+  "description": "One JSON file = one exam (set of questions) inside a subject folder.",
+  "type": "object",
+  "required": ["questions"],
+  "properties": {
+    "schema_version": { "type": "integer" },
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "group": { "type": "string" },
+    "shuffle": { "type": "boolean" },
+    "source": { "type": "string" },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["question", "options", "answer"],
+        "properties": {
+          "id": { "type": "string" },
+          "question": { "type": "string", "minLength": 1 },
+          "options": {
+            "type": "object",
+            "minProperties": 2,
+            "additionalProperties": { "type": "string" }
+          },
+          "answer": { "type": "string" },
+          "explanation": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "answer_source": { "type": "string" },
+          "num": { "type": "integer" }
+        }
+      }
+    }
+  }
+}

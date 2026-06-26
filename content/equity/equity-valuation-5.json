@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-5",
+  "name": "Đề 5 — Câu 81–100",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q81",
+      "question": "A stock's price currently is $100. An analyst forecasts the following for the stock: The normalized trailing price earnings (P/E) ratio will be 12×. The stock is expected to pay a $5 dividend this coming year on projected earnings of $10 per share. If the analyst were to buy and hold the stock for the year, the projected rate of return based on these forecasts is closest to:",
+      "options": {
+        "A": "20%.",
+        "B": "15%.",
+        "C": "25%."
+      },
+      "answer": "C",
+      "explanation": "The forecast year-end price, P , is: (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q82",
+      "question": "Company B paid a $1.00 dividend per share last year and is expected to continue to pay out 40% of its earnings as dividends for the foreseeable future. If the firm is expected to earn a 10% return on equity in the future, and if an investor requires a 12% return on the stock, the stock's value is closest to:",
+      "options": {
+        "A": "$16.67.",
+        "B": "$12.50.",
+        "C": "$17.67."
+      },
+      "answer": "C",
+      "explanation": "P 0 = Value of the stock = D 1 / (k - g) g = (RR)(ROE) RR = 1 - dividend payout = 1 - 0.4 = 0.6 ROE = 0.1 g = (0.6)(0.1) = 0.06 D 1 = (D 0 )(1 + g) = (1)(1 + 0.06) = $1.06 P 0 = 1.06 / (0.12 - 0.06) = 1.06 / 0.06 = $17.67 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q83",
+      "question": "All of the following factors affects the firm's P/E ratio EXCEPT: P = EPS × ( P / E ) = 10 ( 12 ) = 120 expected return = = = 0.25 or 25 % dividend + ( ending price - beginning price ) beginning price $ 5 + $ 120 - $ 100 $ 100",
+      "options": {
+        "A": "the expected interest rate on the bonds of the firm.",
+        "B": "the required rate of return.",
+        "C": "growth rates of dividends."
+      },
+      "answer": "A",
+      "explanation": "The factors that affect the P/E ratio are the same factors that affect the value of a firm in the infinite growth dividend discount model. The expected interest rate on the bonds is not a significant factor affecting the P/E ratio. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q84",
+      "question": "The purchaser of a stock will receive the next dividend if the order is filled before the:",
+      "options": {
+        "A": "ex-dividend date.",
+        "B": "holder-of-record date.",
+        "C": "payment date."
+      },
+      "answer": "A",
+      "explanation": "The ex-dividend date is the cutoff date for receiving the dividend and occurs one or two business days before the holder-of-record date. An investor who buys a share on or after the ex-dividend date will not receive the dividend. (Module 48.1, LOS 48.d)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q85",
+      "question": "The Sustainable Growth Rate is equal to:",
+      "options": {
+        "A": "(ROE) × (RR).",
+        "B": "(ROE) × (1-RR).",
+        "C": "(ROE) × (1+RR)."
+      },
+      "answer": "A",
+      "explanation": "The Sustainable Growth Rate is equal to the return on the equity portion of new investments (ROE) multiplied by the firm's retention rate (RR). (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q86",
+      "question": "Which of the following is least likely an advantage of using price-to-book value (PBV) multiples in stock valuation?",
+      "options": {
+        "A": "Book value is often positive, even when earnings are negative.",
+        "B": "Book values are highly useful measures for firms in service industries.",
+        "C": "PBV ratios can be compared across similar firms if accounting standards are consistent."
+      },
+      "answer": "B",
+      "explanation": "Book values tend not to be useful valuation measures for firms in service industries because they typically have fewer tangible assets on their balance sheets than firms in other industries. Two of the advantages of using P/BV ratios for equity valuation are that P/BV ratios can be compared across similar firms if accounting standards are consistent, and that book value is typically positive even when earnings are negative and P/E ratios are not meaningful. (Module 48.3, LOS 48.f)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q87",
+      "question": "Assume the Wansch Corporation is expected to pay a dividend of $2.25 per share this year. Sales and profit for Wansch are forecasted to grow at a rate of 20% for two years after that, then grow at 5% per year forever. Dividend and sales growth are expected to be equal. If Wansch's shareholders require a 15% return, the per-share value of Wansch's common stock based on the dividend discount model is closest to:",
+      "options": {
+        "A": "$28.50.",
+        "B": "$22.75.",
+        "C": "$26.00."
+      },
+      "answer": "A",
+      "explanation": "(Module 48.2, LOS 48.h) P 2 = = = 32.40 P 0 = + + = $ 28.50 D 3 k - g 2.25 ( 1.2 ) 2 0.15 - 0.05 $ 2.25 1.15 2.70 ( 1.15 ) 2 32.40 ( 1.15 ) 2",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q88",
+      "question": "At the end of the last 12-month period, Romano's Italian Foods had net income of $16.68 million and equity of $115 million. Romano's declared a $7.5 million dividend for the year. Using internally generated funds, Romano's can grow its equity by approximately:",
+      "options": {
+        "A": "8.0% per year.",
+        "B": "14.5% per year.",
+        "C": "10.0% per year."
+      },
+      "answer": "A",
+      "explanation": "g = ROE × retention rate = [16.68 / 115] × [1 - (7.5 / 16.68)] = 0.145 × (1 - 0.45) = 7.975%. This growth rate represents the rate at which a company can grow its equity using internally generated funds. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q89",
+      "question": "Preferred stock most likely has a:",
+      "options": {
+        "A": "fixed dividend and no maturity.",
+        "B": "fixed dividend and maturity.",
+        "C": "variable dividend and no maturity."
+      },
+      "answer": "A",
+      "explanation": "Preferred stock typically pays a fixed dividend and does not mature. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q90",
+      "question": "Assuming the risk-free rate is 5% and the expected return on the market is 12%, what is the value of a stock with a beta of 1.5 that paid a $2 dividend last year if dividends are expected to grow at a 5% rate forever?",
+      "options": {
+        "A": "$12.50.",
+        "B": "$17.50.",
+        "C": "$20.00."
+      },
+      "answer": "C",
+      "explanation": "P 0 = D 1 / (k - g) R s = R f + β (R M - R f ) = 0.05 + 1.5(0.12 - 0.05) = 0.155 D 1 = D 0 (1 + g) = 2 × (1.05) = 2.10 P 0 = 2.10 / (0.155 - 0.05) = $20.00 (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q91",
+      "question": "Gwangwa Gold, a South African gold producer, has as its primary asset a mine which is shown on the balance sheet with a value of R100 million. An analyst estimates the market value of this mine to be 90% of book value. The company's balance sheet shows other assets of R20 million and liabilities of R40 million, and the analyst feels that the book value of these items reflects their market values. Using the asset-based valuation approach, what should the analyst estimate the value of the company to be?",
+      "options": {
+        "A": "R110 million.",
+        "B": "R70 million.",
+        "C": "R80 million."
+      },
+      "answer": "B",
+      "explanation": "Market value of assets = 0.9(R100 million) + R20 million = R110 million Market value of liabilities = R40 million Estimated net value of company = R110 million - R40 million = R70 million. (Module 48.3, LOS 48.m)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q92",
+      "question": "If a preferred stock that pays a $11.50 dividend is trading at $88.46, what is the market's required rate of return for this security?",
+      "options": {
+        "A": "7.69%.",
+        "B": "11.76%.",
+        "C": "13.00%."
+      },
+      "answer": "C",
+      "explanation": "From the formula: Value Preferred Stock = D / k p , we derive k p = D / Value Preferred Stock = 11.50 / 88.46 = 0.1300, or 13.00%. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q93",
+      "question": "Beth Knight, CFA, and David Royal, CFA, are independently analyzing the value of Bishop, Inc., stock. Bishop paid a dividend of $1 last year. Knight expects the dividend to grow by 10% in each of the next three years, after which it will grow at a constant rate of 4% per year. Royal also expects a temporary growth rate of 10% followed by a constant growth rate of 4%, but he expects the supernormal growth to last for only two years. Knight estimates that the required return on Bishop stock is 9%, but Royal believes the required return is 10%. Royal's valuation of Bishop stock is approximately:",
+      "options": {
+        "A": "equal to Knight's valuation.",
+        "B": "$5 less than Knight's valuation.",
+        "C": "$5 greater than Knight's valuation."
+      },
+      "answer": "B",
+      "explanation": "You can select the correct answer without calculating the share values. Royal is using a shorter period of supernormal growth and a higher required rate of return on the stock. Both of these factors will contribute to a lower value using the multistage DDM. Royal's valuation is $5.10 less that Knight's valuation. (Module 48.2, LOS 48.h) Knight: + + = $ 24.43 $ 1 ( 1.10 ) 1.09 $ 1 ( 1.10 ) 2 1.09 2 $ 1 ( 1.10 ) 3 / ( 0.09 - 0.04 ) 1.09 2 Royal: + = $ 19.33 $ 1 ( 1.10 ) 1.10 $ 1 ( 1.10 ) 2 / ( 0.10 - 0.04 ) 1.10",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q94",
+      "question": "If a company has a \"0\" earnings retention rate, the firm's P/E ratio will equal:",
+      "options": {
+        "A": "1 / k.",
+        "B": "D/P + g.",
+        "C": "k + g."
+      },
+      "answer": "A",
+      "explanation": "P/E = div payout ratio / (k - g) where g = (retention rate)(ROE) = (0)(ROE) = 0 Dividend payout = 1 - retention ratio = 1 - 0 = 1 P/E = 1 / (k - 0) = 1 / k (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q95",
+      "question": "If the expected dividend payout ratio of a firm is expected to rise from 50 percent to 55 percent, the cost of equity is expected to increase from 10 percent to 11 percent, and the firm's growth rate remains at 5 percent, what will happen to the firm's price-to-equity (P/E) ratio? It will:",
+      "options": {
+        "A": "be unchanged.",
+        "B": "increase.",
+        "C": "decline."
+      },
+      "answer": "C",
+      "explanation": "Payout increases from 50% to 55%, cost of equity increases from 10% to 11%, and dividend growth rate stays at 5%, the P/E will change from 10 to 9.16: P/E = (D/E) / (k - g). P/E 0 = 0.50 / (0.10 - 0.05) = 10. P/E 1 = 0.55 / (0.11 - 0.05) = 9.16. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q96",
+      "question": "Which of the following is least likely a reason the price to cash flow (P/CF) model has grown in popularity?",
+      "options": {
+        "A": "CFs are generally more dificult to manipulate than earnings.",
+        "B": "CFs are used extensively in valuation models.",
+        "C": "CFs are more easily estimated than future dividends."
+      },
+      "answer": "C",
+      "explanation": "CFs are not easier to estimate than dividends. (Module 48.3, LOS 48.j)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q97",
+      "question": "A firm has an expected dividend payout ratio of 48 percent and an expected future growth rate of 8 percent. What should the firm's price to earnings ratio (P/E) be if the required rate of return on stocks of this type is 14 percent and what is the retention ratio of the firm? P/E ratio Retention ratio",
+      "options": {
+        "A": "6.5 52%",
+        "B": "6.5 48%",
+        "C": "8.0 52%"
+      },
+      "answer": "C",
+      "explanation": "P/E = (dividend payout ratio)/(k - g) P/E = 0.48/(0.14 - 0.08) = 8 The retention ratio = (1 - dividend payout) = (1 - 0.48) = 52% (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q98",
+      "question": "An enterprise value model for equity valuation is most accurately described as a(n):",
+      "options": {
+        "A": "asset-based model.",
+        "B": "discounted cashfiow model.",
+        "C": "multiplier model."
+      },
+      "answer": "C",
+      "explanation": "An enterprise value model is an example of a multiplier model. Enterprise value is analyzed as a multiple of revenue or earnings and compared among firms in a peer group. (Module 48.1, LOS 48.b)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q99",
+      "question": "Calculate the value of a common stock that last paid a $2.00 dividend if the required rate of return on the stock is 14 percent and the expected growth rate of dividends and earnings is 6 percent. What growth model is an example of this calculation? Value of stock Growth model",
+      "options": {
+        "A": "$26.50 Gordon growth",
+        "B": "$26.50 Supernormal growth",
+        "C": "$25.00 Gordon growth"
+      },
+      "answer": "A",
+      "explanation": "$2(1.06)/0.14 - 0.06 = $26.50. This calculation is an example of the Gordon Growth Model also known as the constant growth model. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q100",
+      "question": "All else equal, an increase in a company's growth rate will most likely cause its P/E ratio to:",
+      "options": {
+        "A": "decrease.",
+        "B": "either increase or decrease.",
+        "C": "increase."
+      },
+      "answer": "C",
+      "explanation": "Increase in g: As g increases, the spread between k e and g, or the P/E denominator, will decrease, and the P/E ratio will increase. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    }
+  ]
+}

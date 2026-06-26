@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "equity-valuation-4",
+  "name": "Đề 4 — Câu 61–80",
+  "group": "Reading Equity Valuation (Reading 48)",
+  "questions": [
+    {
+      "id": "Q61",
+      "question": "The constant-growth dividend discount model would typically be most appropriate in valuing a stock of a:",
+      "options": {
+        "A": "new venture expected to retain all earnings for several years.",
+        "B": "company in a mature-stage industry.",
+        "C": "rapidly growing company."
+      },
+      "answer": "B",
+      "explanation": "Companies in the mature stage of the industry life cycle are the most likely to fit the assumptions of the constant growth dividend discount model. The constant growth DDM has the following assumptions: The stock pays dividends that grow at a constant rate. The constant growth rate, g, continues for an infinite period. The required return on equity, k, must be greater than g. The constant growth DDM is unlikely to be appropriate for valuing growth companies. A multistage dividend discount model that accounts for a supernormal growth period is likely to be more appropriate. (Module 48.2, LOS 48.i)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q62",
+      "question": "A preferred stock's dividend is $5 and the firm's bonds currently yield 6.25%. The preferred shares are priced to yield 75 basis points below the bond yield. The price of the preferred is closest to:",
+      "options": {
+        "A": "$80.00.",
+        "B": "$90.91.",
+        "C": "$5.00."
+      },
+      "answer": "A",
+      "explanation": "Preferred stock yield (K p ) = bond yield - 0.75% = 6.25% - 0.75% = 5.5% Value = dividend / K p = $5 / 0.055 = $90.91. (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q63",
+      "question": "A stock has the following elements: last year's dividend = $1, next year's dividend is 10% higher, the price will be $25 at year-end, the risk-free rate is 5%, the market risk premium is 5%, and the stock's beta is 1.5. The stock's price is closest to :",
+      "options": {
+        "A": "$20.20.",
+        "B": "$23.20.",
+        "C": "$23.50."
+      },
+      "answer": "B",
+      "explanation": "Cost of equity capital = 5% + 1.5(5%) = 12.5% P 0 = (1.1 / 1.125) + (25 / 1.125) = $23.20. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q64",
+      "question": "An equity valuation model that values a firm based on the market value of its outstanding debt and equity securities, relative to a firm fundamental, is best described as:",
+      "options": {
+        "A": "a discounted cashfiow model.",
+        "B": "an enterprise value model.",
+        "C": "an asset-based model."
+      },
+      "answer": "B",
+      "explanation": "An enterprise value model relates a firm's enterprise value (the market value of its outstanding equity and debt securities minus its cash and marketable securities holdings) to its EBITDA, operating earnings, or revenue. (Module 48.1, LOS 48.b)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q65",
+      "question": "An analyst gathered the following data for the Parker Corp. for the year ended December 31, 2005: EPS 2005 = $1.75 Dividends 2005 = $1.40 Beta Parker = 1.17 Long-term bond rate = 6.75% Rate of return S&P 500 = 12.00% The firm is expected to continue their dividend policy in future. If the long-term growth rate in earnings and dividends is expected to be 6%, the forward P/E ratio for Parker Corp. will be:",
+      "options": {
+        "A": "12.31.",
+        "B": "21.54.",
+        "C": "11.61."
+      },
+      "answer": "C",
+      "explanation": "The required rate of return on equity for Parker will be 12.89% = 6.75% + 1.17(12.00% - 6.75%) and the firm pays 80% (1.40 / 1.75) of its earnings as dividends. Forward P/E ratio = 0.80 / (0.1289 - 0.0600) = 11.61 Where r = required rate of return on equity, g n = growth rate in dividends (forever). (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q66",
+      "question": "A stock has a required return of 14% percent, a constant growth rate of 5% and a retention rate of 60%. The firm's P/E ratio should be:",
+      "options": {
+        "A": "4.44.",
+        "B": "5.55.",
+        "C": "6.66."
+      },
+      "answer": "A",
+      "explanation": "P/E = (1 - RR) / (k - g) = 0.4 / (0.14 - 0.05) = 4.44 (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q67",
+      "question": "Assume that the expected dividend growth rate ( g ) for a firm decreased from 5% to zero. Further, assume that the firm's cost of equity ( k ) and dividend payout ratio will maintain their historic levels. The firm's P/E ratio will most likely:",
+      "options": {
+        "A": "become undefined.",
+        "B": "increase.",
+        "C": "decrease."
+      },
+      "answer": "C",
+      "explanation": "The P/E ratio may be defined as: Payout ratio / ( k - g ), so if k is constant and g goes to zero, the P/E will decrease. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q68",
+      "question": "If a firm's growth rate is 12% and its dividend payout ratio is 30%, its current return on equity (ROE) is closest to:",
+      "options": {
+        "A": "40.00%.",
+        "B": "36.00%.",
+        "C": "17.14%."
+      },
+      "answer": "C",
+      "explanation": "g = (RR)(ROE) g / RR = ROE 0.12 / (1 - 0.30) = 0.12 / 0.70 = 0.1714 or 17.14% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q69",
+      "question": "If a stock sells for $50 that has an expected annual dividend of $2 and has a sustainable growth rate of 5%, what is the market discount rate for this stock?",
+      "options": {
+        "A": "10.0%.",
+        "B": "7.5%.",
+        "C": "9.0%."
+      },
+      "answer": "C",
+      "explanation": "k = [(D 1 / P) + g] = [(2/50) + 0.05] = 0.09, or 9.00%. (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q70",
+      "question": "Which of the following is least likely an advantage of using price/sales (P/S) multiple to value an equity security, as compared to using price/earnings (P/E) multiples?",
+      "options": {
+        "A": "P/S multiples are more reliable than P/E multiples because sales data cannot be distorted by management.",
+        "B": "P/S multiples are not as volatile as P/E multiples and hence may be more reliable in valuation analysis.",
+        "C": "P/S multiples provide a meaningful framework for evaluating distressed firms when negative earnings prevent the use of P/E multiples."
+      },
+      "answer": "A",
+      "explanation": "Because aggressive revenue recognition practices can influence reported sales, it is not the case that sales data cannot be distorted by management. P/S multiples tend to me less volatile than P/E multiples and can be used to value the equity securities of firms with negative earnings. (Module 48.3, LOS 48.f)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q71",
+      "question": "An analyst gathered the following information about an industry. The industry beta is 0.9. The industry profit margin is 8%, the total asset turnover ratio is 1.5, and the leverage multiplier is 2. The dividend payout ratio of the industry is 50%. The risk-free rate is 7% and the expected market return is 15%. The industry P/E is closest to:",
+      "options": {
+        "A": "14.20.",
+        "B": "12.00.",
+        "C": "22.73."
+      },
+      "answer": "C",
+      "explanation": "Using the CAPM: k i = 7% + 0.9(0.15 - 0.07) = 14.2%. Using the DuPont equation: ROE = 8% × 1.5 × 2 = 24%. g = retention ratio × ROE = 0.50 × 24% = 12%. P/E = 0.5/(0.142 - 0.12) = 22.73. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q72",
+      "question": "An analyst studying Albion Industries determines that the average EV/EBITDA ratio for Albion's industry is 10. The analyst obtains the following information from Albion's financial statements: EBITDA = £11,000,000 Market value of debt = £30,000,000 Cash = £1,000,000 Based on the industry's average enterprise value multiple, what is the equity value of Albion Industries?",
+      "options": {
+        "A": "£110,000,000.",
+        "B": "£80,000,000.",
+        "C": "£81,000,000."
+      },
+      "answer": "C",
+      "explanation": "Enterprise value = Average EV/EBITDA × company EBITDA = 10 × £11,000,000 = £110,000,000 Enterprise value = Equity value + debt - cash Equity value = Enterprise value - debt + cash = £110,000,000 - £30,000,000 + £1,000,000 = £81,000,000 (Module 48.3, LOS 48.l)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q73",
+      "question": "Enterprise value is most accurately described as a firm's:",
+      "options": {
+        "A": "market value of assets minus market value of liabilities, plus cash and short-term investments.",
+        "B": "market value of stock plus cash and short-term investments, minus market value of debt.",
+        "C": "market value of stock plus market value of debt, minus cash and short-term investments."
+      },
+      "answer": "C",
+      "explanation": "Enterprise value = market value of common and preferred stock + market value of debt - cash and short-term investments. (Module 48.3, LOS 48.l)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q74",
+      "question": "The preferred stock of the Delco Investments Company has a par value of $150 and a dividend of $11.50. A shareholder's required return on this stock is 14%. What is the maximum price he would pay?",
+      "options": {
+        "A": "$150.00.",
+        "B": "$54.76.",
+        "C": "$82.14."
+      },
+      "answer": "C",
+      "explanation": "Value of preferred = D / kp = $11.50 / 0.14 = $82.14 (Module 48.2, LOS 48.g)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q75",
+      "question": "A firm has a profit margin of 10%, an asset turnover of 1.2, an equity multiplier of 1.3, and an earnings retention ratio of 0.5. What is the firm's internal growth rate?",
+      "options": {
+        "A": "4.5%.",
+        "B": "6.7%.",
+        "C": "7.8%."
+      },
+      "answer": "C",
+      "explanation": "ROE = (Net Income / Sales)(Sales / Total Assets)(Total Assets / Total Equity) ROE = (0.1)(1.2)(1.3) = 0.156 g = (retention ratio)(ROE) = 0.5(0.156) = 0.078 or 7.8% (Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q76",
+      "question": "One advantage to using the price/book value (P/B) ratio over using the price/earnings (P/E) ratio is that P/B can be used when:",
+      "options": {
+        "A": "stock markets are volatile.",
+        "B": "the firm is in a slow growth phase.",
+        "C": "earnings are negative."
+      },
+      "answer": "C",
+      "explanation": "When earnings are negative, P/E ratios cannot be used but P/B ratios can be used. The firm's rate of growth and the volatility of markets do not suggest advantages of using P/B ratios rather than P/E ratios. (Module 48.3, LOS 48.f)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q77",
+      "question": "A firm has a constant growth rate of 7% and just paid a dividend of $6.25. If the required rate of return is 12%, what will the stock sell for two years from now based on the dividend discount model?",
+      "options": {
+        "A": "$153.13.",
+        "B": "$149.80.",
+        "C": "$133.75."
+      },
+      "answer": "A",
+      "explanation": "(Module 48.2, LOS 48.h)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q78",
+      "question": "value @ t = 2 = = = = $ 153.13 D 3 k - g D 0 ( 1 + g ) 3 k - g $ 6.25 ( 1.07 ) 3 0.12 - 0.07 An analyst gathered the following data for the Parker Corp. for the year ended December 31, 2005: EPS 2005 = $1.75 Dividends 2005 = $1.40 Beta Parker = 1.17 Long-term bond rate = 6.75% Rate of return S&P 500 = 12.00% The firm has changed its dividend policy and now plans to pay out 60% of its earnings as dividends in the future. If the long-term growth rate in earnings and dividends is expected to be 5%, the appropriate price to earnings (P/E) ratio for Parker will be:",
+      "options": {
+        "A": "9.14.",
+        "B": "7.98.",
+        "C": "7.60."
+      },
+      "answer": "C",
+      "explanation": "Required rate of return on equity will be 12.89% = 6.75% + 1.17(12.00% - 6.75). P/E Ratio = 0.60 / (0.1289 - 0.0500) = 7.60. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q79",
+      "question": "If the payout ratio increases, the justified P/E multiple will:",
+      "options": {
+        "A": "increase, if we assume that the growth rate remains constant.",
+        "B": "decrease, if we assume that the growth rate remains constant.",
+        "C": "always increase."
+      },
+      "answer": "A",
+      "explanation": "When payout ratio increases, the justified P/E multiple increases only if we assume that the growth rate will not change as a result. (Module 48.3, LOS 48.k)",
+      "answer_source": "green"
+    },
+    {
+      "id": "Q80",
+      "question": "Which of the following statements regarding price multiples is most accurate?",
+      "options": {
+        "A": "A disadvantage of the price/book value ratio is that it is not an appropriate measure for firms that primarily hold liquid assets.",
+        "B": "An advantage of the price/sales ratio is that it is meaningful even for distressed firms.",
+        "C": "A rationale for using the price/cashfiow ratio is that there is only one clear definition of cashfiow."
+      },
+      "answer": "B",
+      "explanation": "The P/S ratio is meaningful even for distressed firms, since sales revenue is always positive. This is not the case for the P/E and P/BV ratios, which can be negative. In the P/BV ratio book value is an appropriate measure of net asset value for firms that primarily hold liquid assets. Analysts use several different definitions of cash flow (CFO, adjusted CFO, FCFE, EBITDA, etc.) to calculate P/CF ratios. When earnings are negative, the P/E ratio is meaningless. (Module 48.3, LOS 48.j)",
+      "answer_source": "green"
+    }
+  ]
+}

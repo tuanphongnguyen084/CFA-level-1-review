@@ -1,0 +1,25 @@
+# Spotify-inspired dark theme (see DESIGN-spotify.md)
+# Near-black surfaces, Spotify Green accent, pill buttons, content-first darkness.
+[theme]
+base = "dark"
+primaryColor = "#1ed760"
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#181818"
+textColor = "#ffffff"
+linkColor = "#1ed760"
+baseFontWeight = 500
+borderColor = "#2a2a2a"
+baseRadius = "8px"
+buttonRadius = "full"
+showWidgetBorder = false
+showSidebarBorder = false
+
+[theme.sidebar]
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#181818"
+
+[client]
+showErrorDetails = true
+
+[browser]
+gatherUsageStats = false

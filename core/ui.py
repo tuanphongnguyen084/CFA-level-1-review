@@ -159,12 +159,8 @@ def go(view, **kwargs):
 
 def sidebar(library):
     with st.sidebar:
-        st.markdown("#### Progress")
-        st.caption("Progress is saved in this browser. Back it up to move "
-                   "between devices.")
-
         st.download_button(
-            "Download progress (.json)",
+            "Download progress",
             data=json.dumps(st.session_state.get("progress", {}),
                             ensure_ascii=False, indent=2),
             file_name="cfa_progress.json",
@@ -172,12 +168,14 @@ def sidebar(library):
             use_container_width=True,
         )
 
-        up = st.file_uploader("Upload progress file", type=["json"],
+        up = st.file_uploader("Upload progress file",
                               label_visibility="collapsed")
         if up is not None:
             uid = getattr(up, "file_id", up.name)
             if st.session_state.get("_imported") != uid:
                 try:
+                    if not up.name.lower().endswith(".json"):
+                        raise ValueError("Please upload a .json file.")
                     progress.load_from_dict(json.load(up))
                     st.session_state["_imported"] = uid
                     st.success("Progress loaded.")

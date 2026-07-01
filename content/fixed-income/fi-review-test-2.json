@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "fi-review-test-2",
+  "name": "FI Review Test 2 — 40 câu",
+  "group": "2026 FI Review Tests",
+  "source": "2026 FI Review Test 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "A 6-year bond that pays an annual coupon at 6.2% with a face value of $100 per bond is currently trading at $104.768. It is 143 days since the last coupon was paid and the bond’s yield to maturity is 5.11% per annum. Following the 30/360 day-count convention, the bond’s current flat price is closest to:",
+      "options": {
+        "A": "$101.0",
+        "B": "$102.3",
+        "C": "$107.2"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Accrued interest (AI) = t/T × Coupon = 143/360 × $6.20 = $2.463 Flat price = Full price – AI = $104.768 − $2.463 = $102.305",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "An institutional investor is considering purchasing sovereign government debt, but is worried that in the event the issuing government refused to pay its obligations, it would have no recourse to the government. To evaluate this risk, the investors should assess the sovereign government's:",
+      "options": {
+        "A": "institutions and policy factors.",
+        "B": "fiscal flexibility factors.",
+        "C": "monetary effectiveness factors."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because the investor would have no recourse to the issuing government (national governments are said to have sovereign immunity), it should evaluate the government's willingness to repay its obligations. This assessment is incorporated under institutions and policy factors. Fiscal flexibility factors (like capacity to collect taxes) and monetary effectiveness factors (like central bank actions) measure the sovereign government's ability to repay its obligations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "What effects will an increase in yield volatility have on the values of a putable bond and a callable bond?",
+      "options": {
+        "A": "Both bonds will increase in value.",
+        "B": "Callable bond will increase in value and putable bond will decrease in value.",
+        "C": "Callable bond will decrease in value and putable bond will increase in value."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Value of callable bond = Value of noncallable bond - Value of embedded call option. Therefore, an increase in volatility increases the value of the call option and decreases the value of the callable bond. Value of putable bond = Value of nonputable bond + Value of embedded put option. Therefore, an increase in volatility increases the value of the put option and therefore increases the value of the putable bond.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "A borrower agrees to purchase a home and enters into a fully amortizing mortgage loan with a financial intermediary based on the following terms: • Home price: USD500,000. • Loan amount: USD400,000. • Annual interest rate: 3.50%. • Loan term: 360 months. • Interest and principal payment: To be paid monthly. The homeowner’s monthly mortgage payment is closest to:",
+      "options": {
+        "A": "USD10,821",
+        "B": "USD2,245",
+        "C": "USD1,796"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Noting that the borrower’s monthly interest rate is 0.29167% (= 3.50%/12), we can calculate the homeowner’s monthly mortgage payment on the USD400,000 loan as follows: Using the formula: N = 360; I/Y = 3.5/12 = 0.29167; PV = 400,000; FV = 0; → CPT PMT = 1,796.18.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "The price value of a basis point (PVBP) for the following bond is closest to: • Full price =103.50, • Modified duration = 6.2 • Time-to-maturity = 5 years • Yield to maturity = 2.0%",
+      "options": {
+        "A": "0.3339.",
+        "B": "0.0642.",
+        "C": "0.1283."
+      },
+      "answer": "B",
+      "explanation": "B is correct because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity: %𝛥𝑃𝑉𝐹𝑢𝑙𝑙 ≈ -AnnModDur × 𝛥Yield. Also, another version of money duration is the price value of a basis point (PVBP) for the bond. The PVBP is an estimate of the change in the full price given a 1 bp change in the yield-tomaturity. => PVBP = AnnModDur × 𝛥Yield × Full price = 6.2 × 0.0001 × 103.50 = 0.06417, rounded to 0.0642.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "The following spot and forward rates currently exist in the market: • The 1-year spot rate is 3.75%. • The 1-year forward rate one year from today is 9.50%. • The 1-year forward rate two years from today is 15.80%. Given these rates and based on annual compounding, how much should an investor be willing to pay for each $100 in par value for a three-year, zero-coupon bond?",
+      "options": {
+        "A": "$33.",
+        "B": "$44.",
+        "C": "$76."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The discount rate on an N-year, zero-coupon bond is the spot rate for Year N. Thus, find the spot rate in Year 3: (1 + Z3)^3 = 1.0375 × 1.095 × 1.158 = 1.31556, so Z3 = 1.31556^(1/3) − 1 = 0.0957 = 9.573%. Now, price this three-year, zero-coupon bond to yield 9.57%: N = 3; I/Y = 9.57; FV = 100; CPT PV = −76.02 (ignore sign). Hint: 100 / (1.0375 × 1.095 × 1.158) = 76.02 saves a couple of calculations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A bond with nine years to maturity is quoted at an interpolated spread of +150 basis points. The benchmark yield for this bond is:",
+      "options": {
+        "A": "a swap rate.",
+        "B": "a matrix rate.",
+        "C": "a government bond yield."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Interpolated spreads (I-spreads) are spreads to swap rates.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "A hedge fund manager is estimating a value for a non-traded bond of Yoder Company. The bond has an annual-pay 6% coupon, matures in six years, and has a CCC credit rating. Actively traded annual-pay bonds with similar credit ratings include the following: Coupon Maturity Yield to maturity 8% 5 years 9.45% 5% 5 years 9.55% 7% 10 years 10.00% Based on matrix pricing, the value of the Yoder bond as a percentage of par is closest to:",
+      "options": {
+        "A": "83.9.",
+        "B": "84.1.",
+        "C": "84.5."
+      },
+      "answer": "B",
+      "explanation": "B is correct. To find an appropriate discount rate for the Yoder bond, first take the average of the 5-year bonds: (9.45% + 9.55%) / 2 = 9.50% Next, use linear interpolation to estimate a yield for a bond with six years to maturity: 9.50% + [(6 − 5) / (10 − 5)] × (10.00% − 9.50%) = 9.60% Finally, discount the Yoder bond's cash flows at this rate: N = 6; I/Y = 9.6; PMT = 6; FV = 100; CPT PV = –84.14",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Money market yields are:",
+      "options": {
+        "A": "annualized and compounded.",
+        "B": "stated on a simple interest basis.",
+        "C": "stated for a common periodicity."
+      },
+      "answer": "B",
+      "explanation": "B is correct because the rate of return on a money market instrument is stated on a simple interest basis. A is incorrect because bond yields-to-maturity are annualized and compounded. Yield measures in the money market are annualized but not compounded. C is incorrect because money market instruments having different times-to-maturity have different periodicities for the annual rate.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A two-year Italian floating-rate note pays three-month Euribor of –0.50% plus 250 bp. The floater is priced at 99 per 100 of par value. Assuming the 30/360 day-count convention and evenly spaced periods, the discount margin for the floater is closest to:",
+      "options": {
+        "A": "201 bps.",
+        "B": "301 bps.",
+        "C": "351 bps."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The discount margin for the floater is closest to 300 bps. Using the information provided, the periodic PMT is: (MRR + QM) × FV / m = (−0.005 + 0.0025) × 100 / 4 = 0.5. Using a financial calculator with PV = −99, FV = 100, PMT = 0.5, and N = 8, we solve for the discount rate per period of 0.628562%. The discount margin is estimated by solving for DM: r = (MRR + DM) / m, so 0.00628562 = (−0.005 + DM) / 4, giving DM = 0.03014 = 3.014%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "An investor with an investment horizon of 2.8 years purchases a bond with 3 years remaining to maturity, a coupon of 6% paid annually, and a yield-to-maturity of 7.8%. With respect to interest rate risk, the investor is primarily concerned about:",
+      "options": {
+        "A": "neither rising nor falling interest rates.",
+        "B": "falling interest rates.",
+        "C": "rising interest rates."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Macaulay duration can be calculated by summing the period-weights for each period's cash flow. To calculate the weights of each cash flow, the present value of each cash flow is divided by the total present value of cash flows (bond price). Period 1: CF = 6, PV of CF = 5.5659, weight = 0.0584, period × weight = 0.0584. Period 2: CF = 6, PV of CF = 5.1631, weight = 0.0542, period × weight = 0.1083. Period 3: CF = 106, PV of CF = 84.6154, weight = 0.8875, period × weight = 2.6624. Bond price = 95.3444 and Macaulay duration = 2.8291. When the investor's investment horizon (2.8 years) is lower than the Macaulay duration of the bond (2.8291 years), price risk dominates reinvestment risk and the investor's primary downside concern is rising interest rates.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following statements is most accurate? US commercial paper typically:",
+      "options": {
+        "A": "requires the issuer to pledge collateral.",
+        "B": "has a maturity ranging from a few days up to two years.",
+        "C": "requires the issuer to have a backup line of credit."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Credit agencies often require that commercial paper issuers secure a backup line of credit from banks. A is incorrect because commercial paper is a short-term unsecured promissory note issued in the public marker or via a private placement that represents a debt obligation of the issuer; being unsecured the issuer is not required to pledge collateral. C is incorrect because maturities for US commercial paper typically range from a few days up to 270 days.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "With respect to the notching process adopted by credit rating agencies, a corporate’s subordinated debt is most likely:",
+      "options": {
+        "A": "notched up from the corporate’s junior subordinated debt.",
+        "B": "notched down from the corporate’s issuer rating due to higher probability of default.",
+        "C": "subject to a smaller notching adjustment the higher the corporate’s issuer rating."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default so, the need to 'notch' the rating to capture the potential difference in loss severity is greatly reduced. For lower rated credits, however, the risk of default is greater and thus be potential difference in loss severity is higher. A is incorrect because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. Issue ratings are thus notched up or down from the issuer rating, and not from more junior ratings such as junior subordinated ratings. B is incorrect because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating and also cross-default provisions, whereby events of default (such as nonpayment of interest) on one bond trigger default on all outstanding debt, imply the same default probability for all issues, specific issues may be assigned different credit ratings higher or lower-due to a rating adjustment methodology known as notching. It is the higher loss severity, and not higher probability of default, that is driving the notching process.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Which of the following is a disadvantage to bondholders if a bond has a sinking fund provision?",
+      "options": {
+        "A": "Lower credit quality.",
+        "B": "Unfavorable tax status.",
+        "C": "Greater reinvestment risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Reinvestment risk is a disadvantage of a sinking fund provision. Some bondholders will be repaid the bond principal earlier than the maturity date. If interest rates have declined since they bought the bonds, these bondholders will only be able to reinvest the returned principal at a lower rate of return. A sinking fund provision increases the credit quality of an issue and typically does not affect a bond's taxable status.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Which of the following is least likely to be included in a bond indenture?",
+      "options": {
+        "A": "Collaterals",
+        "B": "Issue price",
+        "C": "Credit enhancements"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The issue price is generally discovered in the primary market and not set by the issuer. Thus, the issue price is not likely to be included in the bond indenture.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "A five-year corporate bond and its benchmark government bond had the following yields over a one-month period: Maturity Beginning of Month End of Month Corporate bond yield 6.75% 7.00% Government bond yield 4.25% 4.75% Over this month, the price of the corporate bond most likely experienced:",
+      "options": {
+        "A": "unfavorable macroeconomic and microeconomic factors.",
+        "B": "unfavorable macroeconomic factors and favorable microeconomic factors.",
+        "C": "favorable macroeconomic factors and unfavorable microeconomic factors."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The benchmark yield increased, which suggests macroeconomic factors were unfavorable for bond prices overall. The corporate bond's spread to its benchmark decreased from 250 basis points to 225 basis points, which suggests microeconomic factors were favorable for the bond's price.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Trading in the secondary market most likely helps identify the proper price for:",
+      "options": {
+        "A": "a seasoned offering.",
+        "B": "a best effort offering.",
+        "C": "an underwritten offering."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because a seasoned security is a security that an issuer has already issued. If the issuer wants to sell additional units of a previously issued security, it makes a seasoned offering (sometimes called a secondary offering). Trading in the secondary market helps identify the proper price for the seasoned offering. B and C are incorrect because for both types of offerings (underwritten offering and best effort offering), the issuer and the bank usually jointly set the offering price following a negotiation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Which of the following asset-backed securities provides the highest level of protection against prepayment risk?",
+      "options": {
+        "A": "A commercial mortgage-backed security",
+        "B": "A mortgage pass-through security",
+        "C": "A collateralized mortgage obligation"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because a critical investment feature that distinguishes CMBS from RMBS is the protection against early prepayments available to investors known as call protection. An investor in an RMBS is exposed to considerable prepayment risk because the borrower has the right to prepay a loan, in whole or in part, before the scheduled principal repayment date. The discussion of CMOs highlighted how investors can purchase certain types of tranches to modify or reduce prepayment risk. CMBS investors have considerable call protection, which results in CMBS trading more like corporate bonds than RMBS. B is incorrect because mortgage pass-through security cash flows are uncertain because they depend on actual prepayments. This risk is called prepayment risk. C is incorrect because the creation of a collateralized mortgage obligation cannot eliminate or change prepayment risk, it can only distribute the various forms of this risk among different bond classes.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A bond investor analyzing an unsecured bond estimates a probability of default of 4% and a recovery rate of 30%. The bond has a 5% coupon and is currently trading at par. A government security of similar maturity yields 2.5%. Which of the following statements is correct?",
+      "options": {
+        "A": "An investor would be fairly compensated.",
+        "B": "An investor would be more than fairly compensated.",
+        "C": "An investor would be less than fairly compensated."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The bond is trading at par => YTM = coupon = 5%. Actual credit spread = 5% - 2.5% = 2.5%. Estimated credit spread = POD × (1 - recovery rate) = 4% × (1 - 0.3) = 2.8%. The bond is providing an actual spread that is lower that which is fair, meaning that bond investors are less than adequately compensated for the credit risk of the bond.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "The internal rate of return on the cash flows assuming the payments are made on the scheduled dates is referred to as:",
+      "options": {
+        "A": "true yield.",
+        "B": "government equivalent yield.",
+        "C": "street convention."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The internal rate of return on the cash flows assuming the payments are made on the scheduled dates is referred as street convention.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "DC, a financial institution, and Bank A, a large regional bank, enter into a repurchase agreement in which DC is the security seller and Bank A is the security buyer. The repo is subject to a 102% initial margin. Which of the following statements is most likely correct?",
+      "options": {
+        "A": "Bank A benefits from a publicly traded, collateralized short-term transaction with minimal liquidity risk.",
+        "B": "Bank A could generate higher returns for longer repo terms and/or by accepting higher- quality collateral.",
+        "C": "The repo transaction reduces Bank A’s funding requirement for the security to a fraction of the bond’s purchase price."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the repo transaction reduces Bank A’s funding requirement for the security to a fraction of the bond’s purchase price due to the 102% initial margin. A is incorrect because a repurchase agreement or repo is the sale of a security with a simultaneous agreement by the seller to buy the same security back from the purchaser at an agreed-on price and future date. It is a private transaction between parties and not publicly- traded. B is incorrect because Bank A could generate higher returns for longer repo terms and/or by accepting lower-quality collateral.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Securitization least likely benefits the financial system by:",
+      "options": {
+        "A": "increasing liquidity for mortgages and other loans.",
+        "B": "removing liabilities from bank balance sheets.",
+        "C": "increasing the amount banks are able to lend."
+      },
+      "answer": "B",
+      "explanation": "B is correct. By enabling banks to raise cash by selling their existing loans and mortgages (which are balance sheet assets for banks), securitization increases the amount banks are able to lend.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "An analyst gathers the following information about a strip bond: • Time to maturity = 5 years • Annual convexity = 28.835 • Annual yield to maturity = 2% If the yield decreases by 1%, the bond's percentage change in price is closest to:",
+      "options": {
+        "A": "4.76%.",
+        "B": "5.14%.",
+        "C": "5.05%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Macaulay duration of a strip (or zero-coupon) bond is its time-to-maturity, and modified duration is the Macaulay duration statistic divided by one plus the yield per period. Here, modified duration = 5 / 1.02 = 4.901961. Thus, the percentage change in price = −4.901961 × (−0.01) + 0.5 × 28.835 × (−0.01)^2 = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "For a coupon bond with a positive yield, compounding more frequently within the year results in a yield-to-maturity that is:",
+      "options": {
+        "A": "less positive.",
+        "B": "the same.",
+        "C": "more positive."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Compounding more frequently within the year results in a lower (less positive) yield-to-maturity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Credit analyst assessing high-quality debt issuers most likely focus:",
+      "options": {
+        "A": "equally on the default probability and on the loss given default.",
+        "B": "primarily on the default probability, and less on the loss given default.",
+        "C": "primarily on loss given default, and less on the default probability."
+      },
+      "answer": "B",
+      "explanation": "B is correct. As default risk (default probability) is quite low for most high-quality debt issuers, bond investors tend to focus primarily on assessing this probability and devote less effort to assessing the potential loss severity arising from default.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "For a domestic investor purchasing bonds in a foreign market and currency:",
+      "options": {
+        "A": "appreciation of both the asset and the foreign currency benefits the domestic investor.",
+        "B": "depreciation of both the asset and the foreign currency benefits the domestic investor.",
+        "C": "appreciation of the asset and depreciation of the foreign currency benefit the domestic investor."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When the foreign currency appreciates, each foreign currency-denominated cash flow buys more domestic currency units—increasing the domestic currency return from the investment. The appreciation of the foreign asset benefits the investor as well.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Jefferson Blake, CFA, believes there is a good opportunity to purchase an option-free 4% annual pay bond with three years left until maturity, a zero-volatility spread of 40 basis points, and a par value of $1,000. Blake observes that 1-year, 2-year, and 3-year government bond spot rates are currently 4.0%, 4.5%, and 4.75%, respectively. The maximum price Blake should be willing to pay for the bond is closest to:",
+      "options": {
+        "A": "$940.",
+        "B": "$970.",
+        "C": "$980."
+      },
+      "answer": "B",
+      "explanation": "B is correct. To compute the value of this bond, discount each of the cash flows at a different interest rate appropriate for the timing of the cash flow. The appropriate rates are 40 bp greater than the spot rates: 40/(1.0400 + 0.0040) + 40/(1.0450 + 0.0040)^2 + (40 + 1,000)/(1.0475 + 0.0040)^3 = 969.22.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following debt covenants is most likely to be found with a high-yield debt issuance?",
+      "options": {
+        "A": "A minimum dividend payment of $5 per share to common stockholders.",
+        "B": "A cap of $20 million on total debt outstanding.",
+        "C": "A debt-to-equity ratio that cannot go below 40%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Debt covenants are put in place to protect debt investors. A cap on the total amount of debt a company can have outstanding will protect current debt investors from the company borrowing more money and putting current obligation interest and principal payments at risk. The debt-to-equity ratio debt covenant will likely be a maximum (not a minimum) threshold. Dividend payments are likely to be maximum amounts not to be exceeded, rather than minimum amounts.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Which of the following forward rates can be used to construct a forward yield curve?",
+      "options": {
+        "A": "2-year and 3-year forward rates 1 year from now.",
+        "B": "3-year forward rates 5 years and 10 years from now.",
+        "C": "2-year forward rate 2 years from now and 3-year forward rate 3 years from now."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A forward yield curve is composed of forward rates of the same tenor at different future periods.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "If interest rates are very low, the effective duration of a bond with an embedded put option is:",
+      "options": {
+        "A": "less than the effective duration of an option-free bond.",
+        "B": "similar to the effective duration of an option-free bond.",
+        "C": "greater than the effective duration of an option-free bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because effective durations for a putable bond and a non-putable bond are very similar when benchmark yields are low, because the embedded put option is unlikely to be exercised.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "An annual-pay, 4% coupon bond has a yield to maturity of 5.2%. If the price of this bond is unchanged two years later, its yield to maturity at that time is:",
+      "options": {
+        "A": "greater than 5.2%.",
+        "B": "equal 5.2%.",
+        "C": "less than 5.2%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This bond is priced at a discount to par value because its 4% coupon is less than its 5.2% yield to maturity. As the bond gets closer to maturity, the discount will amortize toward par value, which means its price will increase if its yield remains unchanged. For its price to remain unchanged, its yield would have to increase.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "From the perspective of a CDO manager, an arbitrage collateralized debt obligation most likely differs from a traditional asset-backed security because it involves the:",
+      "options": {
+        "A": "pooling of debt obligations.",
+        "B": "active management of the collateral.",
+        "C": "creation of a special purpose entity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Unlike a traditional asset-backed security, an arbitrage collateralized debt obligation involves active management because the CDO manager buys and sells debt obligations with the objective of paying off different classes of bondholders as well as generating a high return for the subordinated/equity tranche and the manager. A and C are incorrect because both arbitrage collateralized debt obligations and traditional asset- backed securities involve the pooling of debt obligations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Consider the following statements: • Statement 1: Given the term to maturity, a corporate bond cannot possibly offer a lower yield than a U.S. Treasury. • Statement 2: U.S. Treasures are free of credit risk, but not risk‐free. Which of the following is most likely correct?",
+      "options": {
+        "A": "Both statements are correct.",
+        "B": "Only Statement 2 is correct.",
+        "C": "Only Statement 1 is correct."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Given the term to maturity, a putable corporate bond may actually offer a lower yield than a U.S. Treasury. Statement 2 is correct, as U.S. Treasures have an element of reinvestment risk among other risks.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which bond is most likely to exhibit a reduction in duration as time to maturity increases?",
+      "options": {
+        "A": "a zero-coupon bond.",
+        "B": "a low-coupon, long-term bond trading at a discount.",
+        "C": "a low-coupon, long-term bond trading at a premium."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A longer time to maturity usually leads to higher duration. It always does so for a bond priced at a premium or a zero-coupon bond. But if the bond is priced at a discount, a longer time to maturity might lead to a lower duration. The situation occurs only if the coupon rate is low (but not zero) relative to the yield and the time to maturity is long. Because a low-coupon bond that is trading below par means it is trading at a high YTM. Due to the YTM effect, higher YTM means lower duration and, with a longer term, it totally offsets the maturity effect. (As shown in the standard Macaulay-duration vs. time-to-maturity chart: a zero-coupon bond's duration rises linearly; premium bonds and perpetuities level off toward (1 + r)/r; a discount bond's duration can rise and then decline as maturity lengthens.)",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Mary Janes has set a 7% yield as the goal for the bond portion of her portfolio. To achieve this goal, she has purchased a $1,000 par, 7%, 15-year corporate bond at a discount price of $935. What amount of reinvestment income will she need to earn over this 15-year period to achieve a compound return of 7% on an annual basis?",
+      "options": {
+        "A": "$530.",
+        "B": "$574.",
+        "C": "$624."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Total return required after 15 years = 935 × (1.07)^15 = $2,580. Total bond coupons in 15 years = 15 × 70 = $1,050. Principal repayment = $1,000. Required reinvestment income = 2,580 − 1,000 − 1,050 = $530.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "After the lockout period for credit card ABS, how are the cash flows for loan repayments directed?",
+      "options": {
+        "A": "No principal is reinvested, and all is distributed to different tranches",
+        "B": "Part of the principal is reinvested if the collateral pool is depleted.",
+        "C": "All of the principal is reinvested to acquire additional loans."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When the lockout period is over and the amortization period starts, any principal that is repaid will not be reinvested in new loans but will be distributed to the different tranches.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following is the least likely reason a company would issue subordinated debt? Subordinated debt is less:",
+      "options": {
+        "A": "expensive than equity.",
+        "B": "restrictive than secured debt.",
+        "C": "expensive than senior debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Issuing subordinated debt is costlier than issuing secured debt because of the increased credit risk inherent in its lower priority of claims. A is incorrect. Issuing subordinated debt is less expensive than issuing equity because debtholders require a lower return than equity holders require. Debtholders have a higher priority of claim in the event of default, which is why they accept a lower return on investment. B is incorrect. Subordinated debt is typically less restrictive than senior debt.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following statements about U.S. Treasury Inflation Protection Securities (TIPS) is most likely accurate?",
+      "options": {
+        "A": "The coupon payment is fixed for the life of the issue.",
+        "B": "Adjustments to principal values are made annually.",
+        "C": "The inflation-adjusted principal value can be less than par."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because of the possibility of deflation, the adjusted principal value may be less than par. However, at maturity, the Treasury redeems the bonds at the greater of the inflation-adjusted principal or the initial par value. For U.S. Treasury TIPS, the coupon rate (not coupon payment) is set at a fixed rate determined via auction. The principal that serves as the basis of the coupon payment and the maturity value is adjusted semiannually.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Eldora Ltd. recently issued deferred-coupon bonds for which no coupon payments will be paid in the first two years of the bond's life. Regular annual coupon payments at a rate of 9% will then be made until the bonds mature at the end of six years. The spot rates for various maturities are: 1 year = 8.0%; 2 years = 7.5%; 3 years = 7.0%; 4 years = 6.5%; 5 years = 6.0%; 6 years = 5.5%. On the basis of these spot rates, the price of the bond today is closest to:",
+      "options": {
+        "A": "100.12.",
+        "B": "108.20.",
+        "C": "116.24."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The bond price is computed as: P0 = 9/(1.070)^3 + 9/(1.065)^4 + 9/(1.060)^5 + (9 + 100)/(1.055)^6 = 100.12.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Which of the following bonds experiences a bond default and accelerated bond payments if payments are not made according to the original schedule?",
+      "options": {
+        "A": "Hard-bullet covered bonds",
+        "B": "Soft-bullet covered bonds",
+        "C": "Conditional pass-through covered bonds"
+      },
+      "answer": "A",
+      "explanation": "A is correct or hard-bullet covered bonds, if payments do not occur according to the original schedule, a bond default is triggered and bond payments are accelerated. B is incorrect because soft-bullet covered bonds delay the bond default and payment acceleration of bond cash flows until a new final maturity date, which is usually up to a year after the original maturity date. C is incorrect because conditional pass-through covered bonds convert to pass-through securities after the original maturity date if all bond payments have not been made.",
+      "answer_source": "red"
+    }
+  ]
+}

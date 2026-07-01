@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "fi-review-test-1",
+  "name": "FI Review Test 1 — 40 câu",
+  "group": "2026 FI Review Tests",
+  "source": "2026 FI Review Test 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "An analyst collects the following spot rates, stated as annual yields: • 6-month spot rate = 6%. • 12-month spot rate = 6.5%. • 18-month spot rate = 7%. • 24-month spot rate = 7.5%. Given only this information, the price of a 2-year, semiannual-pay, 10% coupon bond with a face value of $1,000 is closest to:",
+      "options": {
+        "A": "$918.30.",
+        "B": "$1,000.00.",
+        "C": "$1,046.77."
+      },
+      "answer": "C",
+      "explanation": "C is correct. This question can be answered without calculations. Since the spot rates are less than the coupon rate, the price must be greater than par value, so C is the only possible correct choice. Or, 50/1.03 + 50/1.0325^2 + 50/1.035^3 + 1,050/1.0375^4 = $1,046.77.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "At the initiation of a securitization, the primary role of the special purpose entity is to:",
+      "options": {
+        "A": "sell the collateral.",
+        "B": "service the collateral.",
+        "C": "purchase the collateral"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the three main parties to a securitization are the seller of the collateral, sometimes called the depositor, the SPE that purchases the loans or receivables and uses them as collateral to issue the ABS and the servicer of the loans. Therefore the SPE purchases the collateral.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "When interest rates increase, mortgage pass-through securities most likely exhibit increased:",
+      "options": {
+        "A": "contraction risk.",
+        "B": "reinvestment risk.",
+        "C": "extension risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Extension risk is the risk that when interest rates rise, prepayments will be lower than forecasted because homeowners are reluctant to give up the benefits of a contractual interest rate that now looks low. As a result, a security backed by mortgages will typically have a longer maturity than was anticipated at the time of purchase.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Which of the following is an underlying assumption of yield to maturity as a measure of expected return for a bond?",
+      "options": {
+        "A": "The credit quality of the issuer remains the same.",
+        "B": "The bond is sold at the same price as the purchase price.",
+        "C": "Coupons are reinvested at the same rate as the yield to maturity at purchase."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the yield-to-maturity at the time of purchase measures the investor's rate of return under three assumptions: (1) The investor holds the bond to maturity, (2) there is no default by the issuer, and (3) the coupon interest payments are reinvested at that same rate of interest.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "The interest rate on excess reserves borrowed by one bank from another bank is most accurately described as a(n):",
+      "options": {
+        "A": "swap rate.",
+        "B": "interbank lending rate.",
+        "C": "central bank funds rate."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Required reserves are deposits with a country's central bank. Banks that deposit more than the required amount with the central bank are said to have excess reserves and may lend these to other banks. This lending is said to take place in the central bank funds market and the interest rates on such loans are known as central bank funds rates.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Other things equal, an increase in an option-free bond's yield to maturity will:",
+      "options": {
+        "A": "decrease its interest rate risk.",
+        "B": "increase its interest rate risk.",
+        "C": "not change its interest rate risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because the price-yield relationship for an option-free bond is convex, interest rate risk as measured by duration changes when a bond's YTM changes. An increase in YTM reaches a flatter part of the price-yield curve, from which changes in yield will have relatively smaller effects on the bond's value.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "In using matrix pricing to estimate the required yield spread on a new corporate bond issue, the benchmark rate used is most likely to be the:",
+      "options": {
+        "A": "coupon rate on a government bond with a similar time to maturity.",
+        "B": "yield to maturity on a corporate bond with similar credit risk and time to maturity.",
+        "C": "yield to maturity on a government bond with a similar time to maturity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The benchmark rate is the yield to maturity on a government bond with the same, or similar, time to maturity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Eurobonds are most likely:",
+      "options": {
+        "A": "denominated only in euros.",
+        "B": "more regulated than US bonds.",
+        "C": "registered bonds"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because Eurobonds, domestic, and foreign bonds are now registered bonds for which ownership is recorded by either name or serial number. A is incorrect because bonds issued and traded on the Eurobond market are called Eurobonds, and they are named after the currency in which they are denominated. For example, Eurodollar and Euroyen bonds are denominated in US dollars and Japanese yens, respectively. Bonds that are denominated in euros are called euro- denominated Eurobonds. B is incorrect because Eurobonds are issued outside the jurisdiction of any single country, therefore they are created primarily to bypass the legal, regulatory, and tax constraints imposed on bond issuers and investors, particularly in the United States.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Assume the four-year and five-year spot rate are 4.67% and 5.35%, respectively, stated on a semiannual bond basis. The implied 1-year forward rate 4 years from now is closest to:",
+      "options": {
+        "A": "8.092%.",
+        "B": "8.114%.",
+        "C": "4.046%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Applying the forward rate formula: (1 + 0.0467/2)^8 × (1 + IFR)^2 = (1 + 0.0535/2)^10, which gives IFR = 0.04046 per semiannual period. Applying a factor of 2 annualizes for a periodicity of 2, for a forward rate of 8.092%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following statements about zero-coupon bonds is least accurate?",
+      "options": {
+        "A": "Price appreciation creates only some of the zero-coupon bond’s return if the investor does not hold it to maturity.",
+        "B": "A zero-coupon bond may sell at a premium to par.",
+        "C": "All interest is earned at maturity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because zero-coupon bonds have no coupons, all of the bond's return comes from price appreciation. Zero coupon bonds may sell above their par value, or at a premium prior to maturity when market interest rate is negative.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "A synthetic collateralized debt obligation is a CDO backed by a portfolio of:",
+      "options": {
+        "A": "leveraged bank loans.",
+        "B": "residential or commercial mortgage-backed securities.",
+        "C": "credit default swaps."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Synthetic collateralized debt obligations are CDOs that are backed by a portfolio of credit default swaps. A is incorrect because CDOs backed by a portfolio of leveraged bank loans are collateralized loan obligations. B is incorrect because CDOs backed by a portfolio of residential or commercial mortgage-backed securities are structured finance CDOs.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "The semiannual bond basis yield is most likely:",
+      "options": {
+        "A": "equal to the effective annual yield.",
+        "B": "more than the effective annual yield.",
+        "C": "equal to double the yield per semiannual period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A semiannual bond basis yield is the yield per semiannual period times 2. A and B are incorrect because the semiannual bond basis yield is lower than the effective annual yield.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Miko Corp. (Miko) is an electronics manufacturer which frequently issues senior unsecured bonds. Miko's largest subsidiary, BluTech Inc. (BluTech), also issues senior unsecured bonds. BluTech's debt covenants prohibit transferring cash to the parent before BluTech's debt obligations are satisfied. Based on this scenario:",
+      "options": {
+        "A": "Miko’s and BluTech’s bonds would rank pari passu given that the two entities are related, regardless of the restriction.",
+        "B": "BluTech’s bonds are structurally subordinated to Miko’s bonds.",
+        "C": "Miko’s bonds are structurally subordinated to BluTech’s bonds."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Based on this scenario, BluTech's bondholders have priority of claims to its cash flows. As a result, Miko's bonds are effectively structurally subordinated to BluTech's bonds with respect to BluTech's cash flows. Therefore, the two bonds would not rank equally to each other (pari passu).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "In which scenario would yields most likely narrow?",
+      "options": {
+        "A": "Weak financial markets.",
+        "B": "High demand for bonds.",
+        "C": "Slowdown in market-making activity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because in periods of high demand, bond prices will increase and yields will decrease (since bond price and yield are inversely related), consequently, yield spreads (the difference in yield between a corporate bond and default-tree bond) will tighten (narrow). A is incorrect because in weak financial markets, credit spreads will widen, whereas in strong markets, credit spreads will narrow. C is incorrect because bonds are primarily traded over the counter, so investors need broker/dealers to engage in market-making activity. A slowdown in market-making activity will cause spreads to widen.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment best describes a:",
+      "options": {
+        "A": "step-up coupon bond.",
+        "B": "deferred coupon bond.",
+        "C": "payment-in-kind coupon bond."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because a payment-in-kind (PIK) coupon bond typically allows the issuer to pay interest in the form of additional amounts of the bond issue rather than as a cash payment. A is incorrect because the coupon of a step-up coupon bond, which may be fixed or floating, increases by specified margins at specified dates. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment. B is incorrect because a deferred coupon bond, sometimes called a split coupon bond, pays no coupons for its first few years but then pays a higher coupon than it otherwise normally would for the remainder of its life. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Consider the asset-backed security (ABS) structure below, including the various tranches and collateral. Tranche A senior notes: face value $120 mil, interest rate MRR + 0.25%. Tranche B subordinated notes: face value $20 mil, interest rate MRR + 1.25%. Tranche C equity tranche: face value $10 mil, no stated rate. Collateral: face value $150 mil, interest rate MRR + 0.75%. If the market reference rate (MRR) is 3%, the excess spread is:",
+      "options": {
+        "A": "positive.",
+        "B": "zero.",
+        "C": "negative."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The excess spread is positive, and therefore there is a built-in safety margin that protects the ABS from credit losses. With MRR = 3%, the collateral earns (3% + 0.75%) × 150 = $5.63 mil, while tranche A pays (3% + 0.25%) × 120 = $3.90 mil and tranche B pays (3% + 1.25%) × 20 = $0.85 mil. Excess spread = 5.63 − 3.90 − 0.85 = $0.88 mil, which is positive.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Compared with an otherwise identical option-free bond, when interest rates fall, the price of a callable bond will:",
+      "options": {
+        "A": "rise more.",
+        "B": "fall less.",
+        "C": "rise less."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When interest rates fall, the price of the embedded call option increases. The price of a callable bond equals the price of an option-free bond minus the price of the embedded call option. The price of the callable bond will not increase as much as an option-free bond because the price of the call option is increasing. As interest rates fall, the bond is more likely to be called, limiting the upside price increase potential.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "The Bloomberg Barclays Global Aggregate Index includes:",
+      "options": {
+        "A": "all issuer sizes.",
+        "B": "high-yield and unrated issuers.",
+        "C": "issuers in multiple currencies."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Bloomberg Barclays Global Aggregate Index includes fixed-coupon capital market securities from all major issuer types in 28 developed and emerging markets that meet the inclusion criteria. However, the index excludes high-yield and unrated debt instruments and those that do not meet minimum issuance size.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Consider the following statements about floating rate notes (FRNs)? • Statement 1: The higher the issuer’s credit quality, the higher the spread of a floating rate note. • Statement 2: The interest payments of a floating rate note are highly dependent on the current level of a reference interest rate. • Statement 3: The spread of a floating rate note is set when the bond is issued and then resets periodically during the tenure of the bond. • Statement 4: Market reference rate is a standard lending rate for issuers with the highest creditworthiness for different currencies and maturities. How many statements above are most likely correct?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Statement 2 and 4 are correct. The interest payments of a floating rate note are highly dependent on the current level of a reference interest rate. Market reference rate is a standard borrowing or lending rate for issuers with the highest creditworthiness or lowest default risk for different currencies and maturities. The higher the issuer’s credit quality, the lower the spread of a floating rate note. The coupon rate of a floating rate note has two components: reference rate + spread. The spread of a floating rate note is set when the bond is issued based on the issuer’s credit worthiness at issuance and it remains constant. The reference rate, however, resets periodically.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Government entity is using a single-price auction to issue new debt in the hopes of minimizing yield volatility. The price that all investors will pay under this format is associated with the:",
+      "options": {
+        "A": "lowest price offered.",
+        "B": "highest price offered.",
+        "C": "average yield to maturity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. All investors will pay the price associated with the cutoff yield in a single-price auction. The cutoff yield is defined as the highest yield that fills the offering amount or the yield with the lowest price.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "A 90-day certificate of deposit is quoted at a discount rate of 0.120%, assuming a 360-day year. Given that the price of the instrument is paid 100 per face value, its bond equivalent yield rate is closest to:",
+      "options": {
+        "A": "0.107%.",
+        "B": "0.120%.",
+        "C": "0.135%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The price (PV) of the commercial paper instrument is: PV = FV × (1 − Days/Year × DR) = 100 × (1 − 90/360 × 0.0012) = 99.97. PV is used to calculate the add-on rate or bond equivalent yield: AOR = (Year/Days) × (FV − PV)/PV = (360/90) × (100 − 99.97)/99.97 = 0.0012 = 0.12%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following mortgage features most likely benefits the lender?",
+      "options": {
+        "A": "Non-recourse loan",
+        "B": "Prepayment penalty",
+        "C": "Prepayment option"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because the purpose of the prepayment penalty is to compensate the lender for the difference between the contract rate and the prevailing mortgage rate if the borrower prepays when interest rates decline. A is incorrect because because in a recourse loan, the lender has a claim against the borrower for the shortfall between the amount of the outstanding mortgage balance and the proceeds received from the sale of the property. In a non- recourse loan, the lender does not have such a claim and thus can look only to the property to recover the outstanding mortgage balance. C is incorrect because because a mortgage may entitle the borrower to prepay all or part of the outstanding mortgage principal prior to the scheduled due date when the principal must be repaid. This contractual provision is referred to as a prepayment option or an early repayment option. From the lender's or investor's viewpoint, the effect of a prepayment option is that the amount and timing of the cash flows from a mortgage cannot be known with certainty. The prepayment option benefits the borrower rather than the lender.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Which of the following statements regarding certificates of deposit (CDs) is most accurate?",
+      "options": {
+        "A": "Small-denomination CDs are typically traded among institutional investors.",
+        "B": "CDs are available in domestic bond markets as well as in the Eurobond market.",
+        "C": "Non-negotiable CDs can be sold in the open market prior to the maturity date."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because because like other money market securities, CDs are available in domestic bond markets as well as in the Eurobond market. A is incorrect because small-denomination CDs are mostly traded by retail clients, while large- denomination CDs are traded by institutional investors. Small-denomination CDs are a retail-oriented product, and they are of secondary importance as a funding alternative, Large-denomination CDs, in contrast, are an important source of wholesale funds and are typically traded among institutional investors. C is incorrect because only negotiable CDs can be sold in the open market prior to maturity. If the CD is non-negotiable, the deposit plus the interest are paid to the initial depositor at maturity. Alternatively, a negotiable CD allows any depositor (initial or subsequent) to sell the CD in the open market prior to the maturity date.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "An investor purchased a 2-year bond at 1,050 with par value of 1,000 in a country, which lacks an issue premium tax provision in its tax code. He has not paid or deducted any tax on that bond for two years. When the bond is redeemed at maturity he can:",
+      "options": {
+        "A": "declare a capital gain of 50.",
+        "B": "declare a capital loss of 50.",
+        "C": "deduct 25 from his taxable income for year-2 only."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Since the country’s tax code lacks any issue premium tax provision, the investor will not make any deductions to its taxable income and instead declare a capital loss of 50 when the bond is redeemed at maturity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Parsons Inc. is issuing an annual-pay bond that will pay no coupon for the first five years and then pay a 10% coupon for the remaining five years to maturity. The 10% coupon interest for the first five years will all be paid (without additional interest) at maturity. If the annual YTM on this bond is 10%, the price of the bond per $1,000 of face value is closest to:",
+      "options": {
+        "A": "$814.",
+        "B": "$778.",
+        "C": "$856."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This bond has no cash flows for the first five years. It then has a $100 cash flow for years 6 through 10. Additionally, the accrued interest ($500) that wasn't paid in the first five years would have to be paid at the end, along with the principal. A financial calculator using the CF/NPV worksheet can handle this type of problem. The required inputs are CF0 = 0, CF1 = 0, F1 = 5, CF2 = 100, F2 = 4, CF3 = 1,600, F3 = 1, NPV, I = 10%, CPT = 813.69. Note that CF is made up of the principal ($1,000) plus the remaining $100 coupon plus the accrued interest ($500) that was not paid during the first five years of the bond's life.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "An analyst gathers the following details about a bond portfolio: Bond Market Price (per 100 of par value) Money Duration (per 100 of par value) If each bond has a par value of £25 million, the modified duration of this bond portfolio is closest to:",
+      "options": {
+        "A": "5.8.",
+        "B": "6.1.",
+        "C": "6.2."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because money duration (Money Dur) is calculated as the annual modified duration times the full price (𝑃𝑉𝐹𝑢𝑙𝑙) of the bond, including accrued interest. Thus the modified durations of the bonds are 730/95 = 7.6842 and 515/120 = 4.29167, respectively. The modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. As the 2 bonds have the same par value, the weight of the first bond in the portfolio is 95/(95 + 120) = 44.186% and the weight of the second bond in the portfolio is 120/(120 + 95) = 55.814%. The modified duration of the portfolio is therefore 44.186% × 7.6842 + 55.814% × 4.29167 = 3.3953 + 2.3953 = 5.7907, rounded to 5.8.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Consider the following 3 bonds: • Bond A is a zero-coupon bond maturing in 9 years. • Bond B is a perpetual bond with a coupon of 8%. • Bond C is a floating rate note maturing in 10 years with current period’s coupon of 9%. If 3 bonds are priced to yield 11%, which bond has highest interest rate risk:",
+      "options": {
+        "A": "Bond A.",
+        "B": "Bond B.",
+        "C": "Bond C."
+      },
+      "answer": "B",
+      "explanation": "B is correct. • Since Bond A is a zero-coupon bond, Macaulay duration for Bond A = time-to-maturity = 9 years. • Since Bond B is a perpetual bond, Macaulay duration for Bond B = (1 + r)/r = 1.11/0.11 = 10 years. • Since Bond C is a floating rate note, Macaulay duration for Bond C = (T – t)/T < 1 year. Therefore, Bond B has highest Macaulay duration or highest interest rate risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "An investor purchases an option-free bond paying an annual coupon rate of 10% and maturing in 10 years at its par value of $100. The investor sells the bond after seven years, receiving a total of seven coupons over this period. Assume that the coupons are reinvested at an annual interest rate of 8% over the investor’s holding period. The future value of the reinvested coupon payments at the end of the investor’s holding period is closest to:",
+      "options": {
+        "A": "70.00.",
+        "B": "75.90.",
+        "C": "89.23."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The future value of the reinvested coupon payments is computed as follows: 10(1.08)^6 + 10(1.08)^5 + 10(1.08)^4 + 10(1.08)^3 + 10(1.08)^2 + 10(1.08)^1 + 10 = 89.23.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Which of the following statements is least likely correct:",
+      "options": {
+        "A": "The price of a bond issued in the USA by a US-based company and denominated in British pounds most likely changes when US interest rates change.",
+        "B": "Implied forward rates are the breakeven reinvestment rates between zero-coupon bonds.",
+        "C": "Effective duration is the most appropriate measure of interest rate risk for a mortgage-backed bond."
+      },
+      "answer": "A",
+      "explanation": "A is correct because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates. B is incorrect implied forward rates (also known as forward yields) are calculated from spot rates. An implied forward rate is a break-even reinvestment rate. When the market is in equilibrium (no arbitrage) the implied forward rate is the same as the forward rate. C is incorrect because in brief, a mortgage-backed security does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "An analyst gathers the following information about a 4% annual-payment bond with a current yield-to- maturity of 4.0%: Annualized Yield to Maturity Bond Price 3.9% 100.45 4.0% 100.00 4.1% 99.56 The bond's annualized Macaulay duration is closest to:",
+      "options": {
+        "A": "4.63.",
+        "B": "4.45.",
+        "C": "4.28."
+      },
+      "answer": "A",
+      "explanation": "A is correct. because it adjusts the Approximate Modified Duration by 1+ yield to maturity to determine the Macaulay duration. AppxModDur = [(𝑃𝑉-) - (𝑃𝑉+)]/[2 × (𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45 – 99.56) / (2 × 0.001 × 100) = 4.45. Macaulay duration = modified duration × (1 + YTM) = 4.45 × (1 + 0.04) = 4.628 ≈ 4.63.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "A coupon-bearing bond was purchased at par. If the bond were held until maturity and interest rates fell during the period, the actual horizontal yield would most likely be:",
+      "options": {
+        "A": "Lower than the YTM at time of purchase.",
+        "B": "Higher than the YTM at time of purchase.",
+        "C": "Equal to the YTM at time of purchase because the bond was held until maturity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The fall in interest rates during the term of the bond leads to a lower yield on reinvestment of income than the YTM calculated upon purchase. Therefore, the horizontal yield on the bond would be lower than the YTM.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Which of the following statements about fallen angels is correct?",
+      "options": {
+        "A": "Their outstanding debt has high-yield bond features.",
+        "B": "Their likelihood of financial distress is similar to that of other high-yield issuers.",
+        "C": "The improvement in issuer credit quality results in gains to the original investors."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fallen angels’ likelihood of financial distress is similar to that of other high-yield issuers. A is incorrect because their outstanding debt has investment-grade (not high-yield) bond features; they are typically non-callable, with few restrictions and covenants and longer maturities. C is incorrect because the deterioration (not improvement) in issuer credit quality results in losses (not gains) to the original investors, many of whom must divest these bonds because they no longer meet minimum rating requirements. This can result in significant price deterioration because the high- yield bond market is a fraction of the size of the investment-grade bond market.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Compared to general obligation (GO) bonds, revenue bonds typically:",
+      "options": {
+        "A": "are backed by the full faith and credit of the issuing government.",
+        "B": "have higher yields.",
+        "C": "have higher credit ratings."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Revenue bonds typically have higher credit risk than GO bonds because the only source of revenue for payment on the bonds is the revenue from the projects being financed. As a result, revenue bonds typically have higher yields than GO bonds. Only GO bonds are backed by the full faith and credit of the issuing government.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "When comparing analytical duration versus empirical duration, which of the following statements is correct? • Statement 1: During crises, empirical duration estimates is higher than analytical duration estimates. • Statement 2: Analytical duration is estimated duration statistics using mathematical formulas while empirical duration is estimated using historical data in non-statistical models that incorporate various factors affecting bond prices.",
+      "options": {
+        "A": "Only Statement 1 is correct.",
+        "B": "Only Statement 2 is correct.",
+        "C": "Neither of the Statement is correct."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Empirical duration uses historical data in statistical models and incorporating factors affecting bond prices to determine the price–yield relationship. Statistical estimate accounts for correlation between yield spreads and benchmark yield-to-maturity changes under different economic scenarios. If government bond yields are driven lower in a market stress scenario, the “flight to safety” will also cause credit spreads to widen because of an increase in expected default risk. Since credit spreads and benchmark yields are negatively correlated under this scenario, wider credit spreads will partially or fully offset the decline in government benchmark yields, resulting in lower empirical duration estimates than analytical duration estimates.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "The Zera Company has borrowed capital by issuing a number of different securities. Which of the following most likely ranks the highest with respect to priority of payments?",
+      "options": {
+        "A": "Subordinate loan",
+        "B": "Third lien debt",
+        "C": "Senior unsecured bond"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Third lien debt is secured debt. It has a secured interest in the pledged assets and ranks higher than all other unsecured debts. A is incorrect because a subordinate loan is an unsecured debt. Among the various creditor classes, these obligations have among the lowest priority of claims and frequently have little or no recovery in the event of default. C is incorrect because senior unsecured bond is also an unsecured debt. It ranks highest among all the unsecured debts, but it ranks below secured debts.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Annual Macaulay duration is least accurately interpreted as the:",
+      "options": {
+        "A": "weighted average number of years until a bond’s cash flows are scheduled to be paid.",
+        "B": "approximate percentage change in a bond’s value for a 1% change in its yield to maturity.",
+        "C": "investment horizon at which a bond’s market price risk and reinvestment risk exactly offset."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modified duration is the approximate percentage change in a bond's value for a 1% change in its YTM. Macaulay duration is the weighted average number of periods until a bond's cash flows are scheduled to be paid and represents the investment horizon at which a bond's market price risk and reinvestment risk exactly offset.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "For a 5-year pure discount bond that is callable at par after two years, which of the following yield measures will be lowest?",
+      "options": {
+        "A": "Yield to first call.",
+        "B": "Current yield.",
+        "C": "Yield to maturity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Current yield = annual coupon / bond price. A pure discount bond is a zero-coupon bond, which has a current yield of zero.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An 8% annual coupon, 5-year corporate bond has a yield spread of 275 basis points to its benchmark bond. The bond's bid and offer prices are 98.25 and 98.75. The yield spread is best described as being composed of:",
+      "options": {
+        "A": "8% liquidity risk and 92% credit risk.",
+        "B": "12% liquidity risk and 88% credit risk.",
+        "C": "5% liquidity risk and 95% credit risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Yield at the bid price: N = 5; PMT = 8; FV = 100; PV = –98.25; CPT I/Y = 8.4434 Yield at the offer price: PV = –98.75; CPT I/Y = 8.3157 Liquidity spread = 8.4434 – 8.3157 = 0.1277 = 12.77 basis points The proportion of the yield spread attributable to liquidity risk is 12.77 / 275 = 4.64%. The remaining 95.36% of the spread is attributable to credit risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Which component of traditional credit analysis includes evaluation of industry structure, industry fundamentals, and company fundamentals?",
+      "options": {
+        "A": "Capacity.",
+        "B": "Covenants.",
+        "C": "Collateral."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Analyzing a corporate borrower's capacity to repay its debt obligations is similar to the top- down process used in equity analysis. Collateral analysis is evaluating the issuer's assets. Analyzing covenants involves reviewing the terms and conditions of lending agreements.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "A credit analyst determines that one of the sovereign governments it recently assessed has a very high interest-to-GDP ratio, while also having low real GDP growth volatility. Based on these two factors only, the analyst would most likely conclude that the sovereign government has:",
+      "options": {
+        "A": "weak fiscal strength and strong economic growth and stability factors.",
+        "B": "weak fiscal strength and weak economic growth and stability factors.",
+        "C": "strong fiscal strength and weak economic growth and stability factors."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A very high interest-to-GDP ratio indicates an unfavorable (weak) fiscal strength factor because it implies weaker debt affordability by the sovereign. Low real GDP growth volatility indicates more favorable economic conditions and therefore stronger economic growth and stability factors.",
+      "answer_source": "red"
+    }
+  ]
+}

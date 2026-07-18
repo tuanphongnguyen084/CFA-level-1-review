@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "ethics-1000-6",
+  "name": "1000 Câu Hỏi — Đề 6 (câu 106–126)",
+  "group": "1000 Question Bank — Ethics",
+  "source": "1000 Practice Questions — Ethics",
+  "questions": [
+    {
+      "id": "Q106",
+      "num": 106,
+      "question": "According to the Standard relating to independence and objectivity.",
+      "options": {
+        "A": "a gift from a client could be considered supplementary compensation.",
+        "B": "compensation arrangements should link analyst remuneration to investment banking \nassignments.",
+        "C": "portfolio managers may report sell-side analysts to covered companies if analysts' changes in \nrecommendation adversely affect client portfolios."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Receiving a gift, benefit, or consideration from a client can be distinguished from \ngifts given by entities seeking to influence a member or candidate to the detriment of other clients. \nIn a client relationship, the client has already entered some type of compensation arrangement with \nthe member, candidate, or his or her firm. A gift from a client could be considered supplementary \ncompensation. B is incorrect because compensation arrangements should not link analyst remuneration directly to \ninvestment banking assignments in which the analyst may participate as a team member. C is incorrect because portfolio managers have a responsibility to respect and foster the intellectual \nhonesty of sell- side research. Therefore, it is improper for portfolio managers to threaten or engage \nin retaliatory practices, such as reporting sell-side analysts to the covered company in order to \ninstigate negative corporate reactions.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q107",
+      "num": 107,
+      "question": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech sector. \nWhile researching the market prospects for a drug being trialed by BioHeal Inc., Regali \ninterviews industry experts who are not affiliated with the trials or BioHeal. These experts \nexpress confidence that the drug will pass the trials and be a market success. After thorough \nanalysis and based on these experts' insights, Regali issues a \"buy\" recommendation for \nBioHeal and distributes it to her clients and not to the public. Has Regali most likely violated \nthe Standard relating to material nonpublic information?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by distributing the recommendation to her clients and not to the public",
+        "C": "Yes, by issuing a \"buy\" recommendation for BioHeal based on insights from industry experts"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Regali did not violate Standard II (A), Nonpublic Material Information The \nStandards permit the use of industry experts. Members and candidates may provide compensation \nto individuals [industry experts] for their insights without violating this standard in this case, the \nindustry experts are unaffiliated with the trials and thus do not have access to inside information on \nthe trials so their insights can be used to make investment decisions The Standards also permit the \n\nsell-side analysts to dismbute material information to only clients. Simply because the pubis in \ngeneral would find the conclusions material does not require that the analyst make his or her work \npublic. B is incorrect because distributing the report to only her clients (and not making it public) is not a \nviviolation of Standard II (A), Nonpublic Material Information. The Standards permit the sell-side \nanalysts to distribute material information only to clients. Simply because the public in general \nwould find the conclusions material does not require that the analyst make his or her work public. C is incorrect because Regali did not violate Standard II (A), Nonpublic Material Information The \nStandards permit the use of industry experts. Members end candidates may provide compensation \nto individuals [industry experts] for their insights without violating this standard In this case, the \nindustry experts are unaffiliated with the trials and thus do not have access to inside information on \nthe trials, so their opinions can be used to make investment decisions.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q108",
+      "num": 108,
+      "question": "Which of the following member actions most likely violates the Standard relating to \nmaterial nonpublic information? \nAction 1: An analyst buys call options on a stock after learning from the company's CEO that \nthe company will report earnings exceeding analyst expectations  \nAction An analyst buys an oil company stock after speaking to a well-known industry expert \nwho believes oil prices will rise due to geopolitical risk.",
+      "options": {
+        "A": "Action 1 only",
+        "B": "Action 2 only",
+        "C": "both Action 1 and Action 2"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard II(A), Material Nonpublic Information, states that Members and \nCandidates who possess material nonpublic information that could affect the value of an investment \nmust not act or cause others to act on the information Also, Members and candidates must not use \nmaterial nonpublic information to influence their investment actions related to derivatives. \nTherefore, a member analyst buying call option on a company stock after learning from its CEO that \nthe company will report earnings exceeding analyst expectation is a viviolation of Standard II(A). In \ncontrast, a member analyst buying an oil company stock after speaking to a well- known industry \nexpert who believes oil prices will rise due to geopolitical risk is not a viviolation of Standard II(A) This \nis because a well-known industry expert's view is unlikely to be nonpublic information. Therefore, \nonly Action 1 violates Standard II(A). B is incorrect because only Action 1 violates Standard II(A), Material Nonpublic Information as \ndescribed in the response rationale of the correct answer. C is incorrect because only Action 1 violates Standard II(A), Material Nonpublic Information as \ndescribed in the response rationale of the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q109",
+      "num": 109,
+      "question": "David Andrews, CFA, is an investment manager with Aldona Investments. Aldona \nsecures a block of stock in an oversubscribed initial public offering. Andrews decides to \nprorate the issue to all fee-paying accounts for which it is appropriate, including the fee-\npaying accounts of his immediate family members. Has Andrews violated the Standard \nrelating to fair dealing?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, by prorating the issue to all subscribers.",
+        "C": "Yes, by including immediate family members in the transaction."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard III (B), Fair Dealing, states that if the issue is oversubscribed, then the \nissue should be prorated to all subscribers. In addition, if the investment professional's family-\nmember accounts are managed similarly to the accounts of other clients of the firm, however, the \nfamily-member accounts should not be excluded from buying such shares. B is incorrect because Standard III (B), Fair Dealing, states that if the issue is oversubscribed, then the \nissue should be prorated to all subscribers. C is incorrect because Standard III (B), Fair Dealing, states that if the investment professional's family-\nmember accounts are managed similarly to the accounts of other clients of the firm, however, the \nfamily-member accounts should not be excluded from buying such shares.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q110",
+      "num": 110,
+      "question": "John Lee, CFA, manages portfolios for several individuals, including his brother. All of \nLee's clients are standard fee-paying clients. Lee subscribes to an IPO for only those clients for \nwhom the IPO is suitable, which includes his brother. Lee does not receive the number of \nshares requested by his clients and allocates shares of the IPO pro-rata to those clients, \nincluding his brother. Are Lee's actions most likely consistent with the Standards?",
+      "options": {
+        "A": "Yes",
+        "B": "No, because he allocates the IPO shares to his brother",
+        "C": "No, because he fails to allocate the IPO shares to all of his clients"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard III (B), Fair Dealing, states. For example, when making investments in \nnew offerings or in secondary financings, members and candidates should distribute the issues to all \ncustomers for whom the investments are appropriate in a manner consistent with the policies of the \nfirm for allocating blocks of stock. In addition, if the issue is oversubscribed, members and \ncandidates should forgo any sales to themselves or their immediate families in order to free up \nadditional shares for clients. If the investment professional's family-mernber accounts are managed \nsimilarly to the accounts of other clients of the firm, however the family-member accounts should \nnot be excluded from buying such shares In this case. Lee's brother has a standard fee-paying regular \naccount, the IPO is suitable, so Lee should include his brother in the pro-rata allocation of the IPO \nshares. B is incorrect because Standard III (B), Fair Dealing, states that Lee should have included his brother's \naccount in the IPO allocation, as described in the rationale for the correct answer. C is incorrect because Standard III (C), Suitability, requires that members and candidates who are in an \ninvestment advisory relationship with clients consider carefully the needs, circumstances, and \nobjectives of the clients when determining the appropriateness and suitability of a given investment \nor course of investment action. Lee subscribes to an IPO for those clients for whom he has assessed \nit is suitable and not for a client for whom the investment is not suitable. Therefore, he has not \nviolated the Standards.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q111",
+      "num": 111,
+      "question": "Which of the following most likely violates  \n\nthe Standard relating to preservation of confidentiality?",
+      "options": {
+        "A": "Recommending a former client as a potentialdonor for a local charity",
+        "B": "Disclosing details of client activity to the CFA Institute Professional Conduct Program",
+        "C": "Providing confidential information about a prospective client when permitted by the \nprospective client"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard III (E), Preservation of Confidentiality, requires Members and \nCandidates must keep information about current, former, and prospective clients confidential. Also, \nthis standard protects the confidentiality of client information even if the person or entity is no \nlonger a client of the member or candidate. B is incorrect because the requirements of Standard III (E) are not intended to prevent members and \ncandidates from cooperating with an investigation by the CFA Institute Professional Conduct \nProgram (PCP). C is incorrect because Members and Candidates must keep information about current, former, and \nprospective clients confidential unless the client or prospective client permits disclosure of the \ninformation.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards:demonstrate the application of the Code of Ethics and Standards \nof Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q112",
+      "num": 112,
+      "question": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a client. \nShe discusses the order with her firm's analysts to determine how it will impact that client's \nportfolio. The analysts determine the stock to be highly undervalued and suitable for many of \nBarr's clients. Barr calls clients for whom the stock is suitable to recommend the stock. She \nthen executes a single block trade for the original client as well as other clients for whom the \nstock is suitable. Barr most likely violated the Standards:",
+      "options": {
+        "A": "only by executing the single block trade.",
+        "B": "only by discussing unsolicited client orders with her analysts.",
+        "C": "both by executing the single block trade and by discussing unsolicited client orders with her \nanalysts."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard III (E), Preservation of Confidentiality, requires that members and \ncandidates preserve the confidentiality of information communicated to them by them clients \nprospective clients, and former cliends Further, da dient or former client expressly autherizes the \nmumbents, candidate to disclose informatien, however, the member or candidate may follow the \nterms of the authorization and provide the information: The unsolicited stock omter from the chant \nis confidential So Berr must obtain the original client's adoration before recommending the stock to \nother clients Therefore Barr has violated Standard 11 (E) by executing without the oeminal's cbent \nauthenzation a single block trade for the onginal client as well as other clients for whom the stock 15 \nSuitable. B is incorrect because according to the recommended procedures for compliance with Standard III (E), \nPreservation of Confidentiality, the simplest, most conservative, and most effective way to comply \nwith Standard III (E) is to avoid disclosing any information received from a client except to authorized \nfellow employees who are also working for the client. Barr discusses the order with her firm's \nanalysts to determine how the unsolicited stock order will impact the client's portfolio. As analysts \nwork for the clients, Barr has not violated Standard III (E) by discussing unsolicited client orders with \nher analysts. C is incorrect because Barr has violated Standard III (E), Preservation of Confidentiality, only by \nexecuting a single block trade for the original client as well as other clients for whom the stock is \nsuitable, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q113",
+      "num": 113,
+      "question": "A member works for a large investment firm. CFA Institute contacts the member to \nrequest support for a professional conduct investigation. In his response, the member \ndiscloses the requested information regarding client activities. Applicable law requires to \nmaintain client confidentiality. Has the member most likely violated the Standards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, the Standard relating to fair dealing.",
+        "C": "Yes, the Standard relating to knowledge of the law."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard 1 (A), Knowledge of the Law, states that Members and Candidates must \nunderstand and comply with all applicable laws, rules, and regulations. While Standard III (E), \nPreservation of Confidentiality, states that When permissible under applicable law, members and \ncandidates shall consider the PCP an extension of themselves when requested to provide \ninformation about a client in support of a PCP investigation into their own conduct, this case clearly \nstates that disclosure is not permitted by applicable law. Therefore, the member violates Standard I \n(A) by disclosing client information. A is incorrect because the member violates Standard I (A), as described in the response rationale for \nthe correct answer. B is incorrect because Standard III (B), Fair Dealing, states that Members and Candidates must deal \nfairly and objectively with all clients when providing investment analysis, making investment \nrecommendations, taking investment action, or engaging in other professional activities. However, \nthis case is not about fairness related to investment analysis, making investment recommendations, \ntaking investment action on behalf of clients. Instead, the member violates Standard I (A), \nKnowledge of the Law, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q114",
+      "num": 114,
+      "question": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial model to \nvalue Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works for a different \nadvisory firm. Hadid shares with Jackson details about her analysis to receive his feedback on \nher valuation of SML. Based on this information, Jackson buys call options on SML. Who has \nviolated the Standards?",
+      "options": {
+        "A": "Hadid only",
+        "B": "Jackson only",
+        "C": "Both Hadid and Jackson"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard II(A), Material Nonpublic Information, states that Members and \nCandidates who possess material nonpublic information that could affect the value of an investment \nmust not act or cause others to act on the information Also, Members and candidates must not use \nmatenal nonpublic information to influence their investment actions related to derivatives. Hadid \ncaused Jackson to act by telling Jackson about her work on SML Jackson acts on the information and \nbuys call options on SML. Therefore, both Hadid and Jackson violate Standard II(A). A is incorrect because Standard II(A), Material Nonpublic Information, has been violated by both \nHadid and Jackson as described in the response rationale of the correct answer. B is incorrect because Standard II(A), Material Nonpublic Information, has been violated by both \nHadid and Jackson as described in the response rationale of the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q115",
+      "num": 115,
+      "question": "Which statement regarding market manipulation is consistent with the Standards? \nMembers must refrain from:",
+      "options": {
+        "A": "inducing trading by disseminating verifiable information.",
+        "B": "engaging inpractices which exploit perceived market inefficiencies.",
+        "C": "securing a dominant position in a financial instrument to exploit the price of the underlying \nasset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard II(B), Market Manipulation, prohibits such activity. Transaction-based \nmanipulation includes, but is not limited to securing a controlling, dominant position in a financial \ninstrument to exploit the price of the underlying asset. A is incorrect because according to Standard II(B), Market Manipulation, members are prohibited \nfrom disseminating false, not verifiable, information to induce trading by others. Market \nmanipulation includes the dissemination of false or misleading information and Information-based \nmanipulation includes spreading false rumors to induce trading by others. B is incorrect because Standard II(B) Market Manipulation allows trading strategies based on \nperceived market inefficiencies. Standard II(B) is not intended to preclude transactions undertaken \non legitimate trading strategies based on perceived market inefficiencies.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q116",
+      "num": 116,
+      "question": "To comply with the Standards, if applicable law requires members to maintain \nconfidentiality of client information, confidentiality must be maintained unless:",
+      "options": {
+        "A": "the client has died.",
+        "B": "the client's information involves illegal activities.",
+        "C": "the client permits the disclosure of the information."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard III (E), Preservation of Confidentiality, states that members must keep \ninformation about current, former and prospective clients confidential unless the client or \nprospective client permits disclosure of the information. A is incorrect because Standard III (E), Preservation of Confidentiality, states that this standard \nprotects the confidentiality of client information even if the person or entity is no longer a client of \nthe member or candidate. B is incorrect because Standard III (E), Preservation of Confidentiality, states that if applicable law \nrequires members even if the information concerns illegal activities on the part of the client, \nmembers and candidates should not disclose such information.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q117",
+      "num": 117,
+      "question": "Grace Lee, CFA, is an investment advisor. The investment policy statement of one of her \nclients specifies an equal- weighted portfolio of consumer durables, clean energy, and \ntechnology stocks. Over time, the portfolio has become significantly over-weighted toward \ntechnology stocks due to their superior performance. Lee expects technology stocks to \noutperform for another year and decides not to rebalance the portfolio. Has Lee violated the \nStandards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, only the Standard relating to suitability.",
+        "C": "Yes, both the Standard relating to suitability and the Standard relating to loyalty, prudence, \nand care."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard III(C), Suitability, When Members and Candidates are in an advisory \nrelationship with a client, they must determine that an investment is suitable to the client's financial \nsituation and consistent with the client's written objectives, mandates, and constraints before \nmaking an investment recommendation or taking investment action. Also the investment \nprofessioners determination of suitability should reflect only the investment recommendations or \nactions that is prudani persen would be willing to undertako Not every investment opportunity will \nbe suitesla fol every porttobe, regardless of the potential retum being offetod. Lee has ichmated bar \nclionis mandate of an eqoanweignæd portfolin and is in sublation of this slenderd Further, according \nto Standard II(A Loyalty Prudence and Core Members and Candidates have a duty of loyal to their \nclients and must ectoth reasonable cate and exercise prodent judgment Also members and \ncandidates ruuse follha any guidelilies ser by their of ants for lermanedamot of tads jissels Lea 6 \ndecistan not to, rehance tradition is a viviolation of this Standard. So Lee has violated both Standard \nIII(C) and Standard III(A). A is incorrect because , as described in the rationale for the correct answer, Lee has violated both \nStandard III(A) and Standard III(C). B is incorrect because , as described in the rationale for the correct answer, Lee has violated both \nStandard III(A) and Standard III(C).",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q118",
+      "num": 118,
+      "question": "According to the Standards, members are required to obtain permission from their \nemployer before accepting additional compensation from:",
+      "options": {
+        "A": "clients only.",
+        "B": "third parties only.",
+        "C": "both clients and third parties."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard IV (B), Additional Compensation Arrangements, requires members and \ncandidates to obtain permission from their employer before accepting compensation or other \nbenefits from third parties for the services rendered to the employer or for any services that might \ncreate a conflict with their employer's interest Compensation and benefits include direct \n\ncompensation by the client and any indirect compensation or other benefits received from third \nparties. A is incorrect because Standard IV (B), Additional Compensation Arrangements, requires members \nand candidates to obtain permission from their employer before accepting compensation or other \nbenefits from third parties for the services rendered to the employer or for any services that might \ncreate a conflict with their employer's interest Compensation and benefits include direct \ncompensation by the client and any indirect compensation or other benefits received from third \nparties. B is incorrect because Standard IV (B), Additional Compensation Arrangements, requires members \nand candidates to obtain permission from their employer before accepting compensation or other \nbenefits from third parties for the services rendered to the employer or for any services that might \ncreate a conflict with their employer's interest Compensation and benefits include direct \ncompensation by the client and any indirect compensation or other benefits received from third \nparties.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards:  demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q119",
+      "num": 119,
+      "question": "Frank Taylor, CFA, manages a portfolio for a football club. The club's chairman is pleased \nwith Taylor's work and offers him a front-row ticket to an upcoming, sold-out match. Taylor \naccepts the ticket without informing his employer. The chairman also provides Taylor with a \nperformance-based cash incentive for which he receives permission from his employer to \naccept. Has Taylor most likely violated the Standards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, the Standard relating to loyalty, prudence, and care.",
+        "C": "Yes, the Standard relating to additional compensation arrangements."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard IV (B), Additional Compensation Arrangements. states that Members \nand Candidates must not accept gifts, benefits, compensation, or consideration that competes with \nor might reasonably be expected to create a conflict of interest with their employer's interest unless \nthey obtain consent from all parties involved. Taylor must inform his employer and obtain consent \nfor accepting the front-row ticket to an upcoming sold out match. Therefore, he has violated this \nStandard. A is incorrect because Taylor violated Standard IV (B), Additional Compensation Arrangements. The \nstandard states that Members and Candidates must not accept gifts, benefits, compensation, or \nconsideration that competes with or might reasonably be expected to create a conflict of interest \nwith their employer's interest unless they obtain consent from all parties involved Taylor must \ninform his employer and obtain consent for accepting the front-row ticket to an upcoming sold out \nmatch. B is incorrect because Standard III (A), Loyalty, Prudence, and Care, states that Members and \nCandidates have a duty of loyalty to their clients and must act with reasonable care and exercise \nprudent judgment. The viviolation described in this question of receiving additional compensation \nwithout employer consent does not pertain to Standard III(A).",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q120",
+      "num": 120,
+      "question": "Applying standardized criteria for the selection of external managers is a requirement of \nthe Standard relating to:",
+      "options": {
+        "A": "suitability.",
+        "B": "independence and objectivity.",
+        "C": "diligence and reasonable basis."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard V (A), Diligence and Reasonable Basis, states members and candidates \nwho are directly involved with the use of external advisers need to ensure that their firms have \nstandardized criteria for reviewing these selected external advisers and managers. Such criteria \nwould include, but would not be limited to, the following: \nreviewing the adviser's established code of ethics, understanding the adviser's compliance and \ninternal control procedures, assessing the quality of the published return information, and reviewing \nthe adviser's investment process and adherence to its stated strategy \n\nUnderstanding the managers' compliance procedures is a criteria for selecting external managers. A is incorrect because Standard V (A), Diligence and Reasonable Basis, states members and candidates \nwho are directly involved with the use of external advisers need to ensure that their firms have \nstandardized criteria for reviewing these selected external advisers and managers. This is not a \nrequirement of Standard III (C), Suitability. B is incorrect because Standard V (A), Diligence and Reasonable Basis, states members and candidates \nwho are directly involved with the use of external advisers need to ensure that their firms have \nstandardized criteria for reviewing these selected external advisers and managers. This is not a \nrequirement of Standard I (B), Independence and Objectivity.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q121",
+      "num": 121,
+      "question": "The Standard relating to disclosure of conflicts requires a member to",
+      "options": {
+        "A": "avoid all actual and potential conflicts of interest.",
+        "B": "treat all clients equally when disseminating investment recommendations or taking \ninvestment action.",
+        "C": "provide clients and prospective clients with information needed to evaluate the objectivity of \ninvestment advice given by the member."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard VI(A), Disclosure of Conflicts requires members and candidates to make \nfull and fair disclosure of all matters that could reasonably be expected to impair their independence \nand objectivity or interfere with respective duties to their clients, prospective clients, and employer \nand protects investors and employers by requiring members and candidates to fully disclose to \nclients, potential clients, and employers all actual and potential conflicts of interest. Once a member \nor candidate has made full disclosure, the member's or candidate's employer, clients, and \nprospective clients will have the information needed to evaluate the objectivity of the investment \nadvice or action taken on their behalf. A is incorrect because Standard VI(A), Disclosure of Conflicts requires members and candidates to \nmake full and fair disclosure of all matters that could reasonably be expected to impair their \nindependence and objectivity or interfere with respective duties to their clients, prospective clients, \nand employer and protects investors and employers by requiring members and candidates to fully \ndisclose to clients, potential clients, and employers all actual and potential conflicts of interest. Once \na member or candidate has made full disclosure, the member's or candidate's employer clients, and \nprospective clients will have the information needed to evaluate the objectivity of the investment \nadvice or action taken on their behalf. B is incorrect because Standard VI(A), Disclosure of Conflicts, makes no requirement or \nrecommendation with respect to fair dealing between and among clients. According to Standard \nIII(B), Fair Dealing, Members and Candidates must deal fairly and objectively with all clients when \nproviding investment analysis, making investment recommendations, taking investment action, or \nengaging in other professional activities.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q122",
+      "num": 122,
+      "question": "A member uses his firm's composite to show performance to a prospective client. The \nmember states \"Our composite shows that we have outperformed the benchmark over the \nlast five years, gross of fees.\" Has the member most likely violated the Standards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, the Standard relating to misrepresentation.",
+        "C": "Yes, the Standard relating to performance presentation"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The member has not violated either of the Standards. Standard 1 (C), \nMisrepresentation, prohibits members and candidates from guaranteeing clients any specific return \non volatile investments. The member is not making a guarantee of implying a future retum to the \nprospective client and therefore is not in viviolation of this Standard. Standard III (D), Performance \nPresentation, states a member or candidate must give a fair and complete presentation of \nperformance information whehever communicating data with respect to the performance history of \nindividual accounts composites or groups of accounts, or composites of an analyst's or firm's \nperformance results. Furthermore, members and candidates should not state or imply that clients \nwill obtain or benefit from a rate of return that was generated in the past. The member is stating a \nfact that the composite shows outperformance; gross of fees, and not implying future returns and \ntherefore is not in viviolation of this Standard. B is incorrect because the member has not guaranteed a rate of future returns and so has not violated \nStandard I (C), Misrepresentation, as described in the rationale for the correct answer. C is incorrect because the member has properly used a composite return to represent past \nperformance and has not guaranteed a rate of future returns and so has not violated Standard III (D), \nPerformance Presentation, as described in the rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q123",
+      "num": 123,
+      "question": "Belen Zapata, CFA, is the owner of Kawah Investments. Kawah promises investors \nreturns of up to 12% per year and claims to achieve this by investing in non-investment-grade \nbonds and other fixed-income instruments. Over the next 12 months, bond market yields \nreach unprecedented lows, and Zapata finds it impossible to achieve the returns she \nexpected. No investments are ever made by Kawah, and clients are completely paid back all \nof their original investment. Zapata most likely violated the CFA Institute Standards of \nProfessional Conduct because of the:",
+      "options": {
+        "A": "return of capital.",
+        "B": "promised returns.",
+        "C": "investment mandate."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The member has misrepresented the returns she could realistically achieve for \nher clients, violating Standard I(C), which prohibits members and candidates from guaranteeing \nclients any specific return on volatile investments. A is incorrect because the member has returned investor capital, which is not a viviolation of the Code \nand Standards. However, the member has violated Standard I(C), which prohibits members and \ncandidates from guaranteeing clients any specific return on volatile investments. With the return of \ntheir capital, investors did not lose their original investment, but they did suffer an economic \nopportunity loss. C is incorrect because the investment mandate is not a viviolation of the Code and Standards. The \nmandate is very broadly defined and while it may or may not be appropriate, there is not enough \ninformation in the vignette to make this determination. The promised, but unachieved, yield is the \nviviolation that can be clearly identified.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q124",
+      "num": 124,
+      "question": "The GIPS standards:",
+      "options": {
+        "A": "allow the use of a representative account to present the firm's overall investment results.",
+        "B": "require firms to present performance history that only includes accounts remaining at the \nfirm.",
+        "C": "establish a standardized approach to presenting historical investment results to prospective \nclients."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The GIPS standards are a practitioner-driven set of ethical principles that \nestablish a standardized, industry-wide approach for investment firms to follow in calculating and \npresenting their historical investment results to prospective clients. Therefore, the GIPS standard \nestablish a standardized approach to investment results to presenting historical prospective clients \nand this answer is Correct  the definition of the firm and. A is incorrect because according to the GIPS standards misleading practices include Representative \nAccounts: Selecting a top-performing portfolio to represent the firm's overall investment results for \na specific mandate. Therefore, the GIPS standards does not allow the use of a representative \naccount to present the firm's overall investment results. B is incorrect because presenting an 'average' performance history that excludes portfolios whose \npoor performance was weak enough to result in termination of the firm is known as survivorship \nbias and is a misleading practice when presenting investment performance data. Therefore, \npresenting performance history that only includes accounts remaining at the firm (and excludes \naccounts that has left the firm) is incorrect.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the fundamentals of compliance, including the \nrecommendations of the GIPS standards with respect to the definition of the firm and the firm's \ndefinition of discretion"
+      ]
+    },
+    {
+      "id": "Q125",
+      "num": 125,
+      "question": "The GIPS standards were created to:",
+      "options": {
+        "A": "promote fair, global competition among investment firms.",
+        "B": "eliminate the need for costly in-depth due diligence by investors.",
+        "C": "serve as a mandatory performance standard for asset management firms in countries \nwithout investment performance regulation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The objectives of the GIPS standards are as follows: Promote fair, global \ncompetition among investment firms. B is incorrect because the GIPS standards certainly do not eliminate the need for in-depth due \ndiligence on the part of the client or investor, but compliance with the Standards enhances the \ncredibility of investment management firms that have chosen to undertake this responsibility. C is incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS \nstandards is not typically required by legal or regulatory authorities. Also, the preamble to the GIPS \nstandards states that by adhering to a global standard, firms in countries with minimal or no \ninvestment performance standards can compete for business on an equal footing with firms from \ncountries with more-developed standards. \nTherefore, it is clear that GIPS standards were not created to serve as a mandatory performance \nstandard for asset management firms in countries without investment performance regulation.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards:  explain why the GIPS standards were created, who can claim \ncompliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "Q126",
+      "num": 126,
+      "question": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with which he \nhad a non-solicitation agreement he signed several years ago. Loots received permission to \ntake his investment performance history with him and also took a copy of the firm's \nsoftware-trading platform. Subsequently, Loots sent out messages on social media sites \nannouncing he was looking for clients for his new investment management firm. Access to \nLoots' social media sites is restricted to friends, family, and former clients. Loots least likely \nviolated the CFA Institute Standards of Professional Conduct concerning his:",
+      "options": {
+        "A": "trading software.",
+        "B": "non-solicitation agreement.",
+        "C": "investment performance history."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The portfolio manager received permission to use his investment performance \nhistory from his prior employer. The member violated his non-solicitation agreement by indicating \nhis availability to new clients on several social media sites accessible by clients of his former \nemployer. This is a viviolation of Standard IV(A)- Loyalty because he did not act for the benefit of his \nformer employer. In this case, the member may cause harm to his former employer if his weekend \nmessages result in clients moving to his new business from his former employer. The member also \nviolated this standard by taking his employer's property, trading software. A is incorrect because the portfolio manager took property of his former employer, proprietary \ntrading software, and violated Standard IV(A)-Loyalty. Although the manager created the software \nhimself, it was during a period of time when the large money manager employed him and the \nsoftware is not his property to take. B is incorrect because the member violated Standard IV(A)-Loyalty as he did not act for the benefit of \nhis former employer. In this case, the member may cause harm to his former employer if his \nweekend messages result in clients moving to his new business.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    }
+  ]
+}

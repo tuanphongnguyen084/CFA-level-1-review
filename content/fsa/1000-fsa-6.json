@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-6",
+  "name": "1000 Câu Hỏi — Đề 6 (câu 111–130)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q111",
+      "num": 111,
+      "question": "A company establishes a plan dispose of one of its material lines of business and will have no further involvement in its operation. The income statement most likely reports the results of this line of business as",
+      "options": {
+        "A": "discontinued operations",
+        "B": "unusual or infrequent items",
+        "C": "continuing operations unit the actual sale is performed."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When a company disposes of or establishes a plan to dispose of one of its component operations and will have no further involvement in the operation, the income statement reports separately the effect of this disposal as a \"discontinued\" operation under both IFRS and US GAAP. Financial standards provide various criteria for reporting the effect separately, which are generally that the discontinued component must be separable both physically and operationally. B is incorrect because items of income or expense that are material and/or relevant to the understanding of the entity's financial performance should be disclosed separately under IFRS. Unusual or infrequent items may meet these criteria, for instance, restructuring charges or gains/losses arising from asset sales, but these are considered part of ordinary activities. C is incorrect because both IFRS and US GAAP specify that the results of discontinued operations should be reported separately from continuing operations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q112",
+      "num": 112,
+      "question": "An analyst gathers the following information (in € thousands) about a company's equipment reported under the cost model Carrying amount before impairment 2,000 Undiscounted expected future cash flows 1,800 Fair value 1,700 Value in use 1.500 Costs to sell 50 The impairment loss (in € thousands) is",
+      "options": {
+        "A": "300",
+        "B": "350.",
+        "C": "500"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under ISA 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows. As the recoverable amount = MAX (Fair value less costs to sell, value in use) = MAX [(1700 – 50); 1500] = 1650, the impairment loss = carrying amount – recoverable amount = 2000 – 1650 = 350. A is incorrect because it does not reflect the correct calculation for impairment loss under the cost model. The impairment loss under the cost model is recognized when the carrying amount of an asset exceeds its recoverable amount. The recoverable amount is the higher of fair value less costs to sell and value in use. In this case, the recoverable amount would be €1,700 (Fair value - Costs to sell). Therefore, the impairment loss is €300 (Carrying amount - Recoverable amount = €2,000 - €1,700). C is incorrect because it calculates the recoverable amount as the lower of its fair value less costs to sell and its value in use. Accordingly, the recoverable amount = MIN(Fair value less costs to sell, value in use) = MIN [(1700 – 50); 1500] = 1500, the impairment loss = carrying amount – recoverable amount = 2000 – 1500 = 500.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q113",
+      "num": 113,
+      "question": "An analyst gathers the following information about PP&E that is abandoned and accumulated for using the cost model Carrying value €10 million Fair value at time of abandonment €1 million Assuming no impairment, the abandonment of PP&E on the financial statements will result in a",
+      "options": {
+        "A": "decrease of €10 million in PP&E",
+        "B": "loss of €1 million on the income statement",
+        "C": "decrease of €1 million on the cash flow statement."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When an asset is retired or abandoned, the accounting is similar to a sale, except that the company does not record cash proceeds. Assets are reduced by the carrying amount of the asset at the time of retirement or abandonment, and a loss equal to the assets carrying amount is recorded. The carrying amount of the asset is 10 at the time of abandonment. As a result, the asset's carrying value will be reduced to 0, resulting in a loss of 10 on the income statement, and will have no cash impact on the cash flow statement. B is incorrect because it calculates the loss of 1 on the income statement by using the fair value at the time of abandonment which is incorrect because the cost model is applied. C is incorrect because there should be no cash impact on the cash flow statement. However, the decrease of 1 on the cash flow statement is due to the incorrect recognition of the 1 fair value at the time of abandonment.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q114",
+      "num": 114,
+      "question": "An analyst gathers the following information about a company. ROE 15% Interest burden 0.85 EBIT margin 30% Total asset turnover 1.1 Financial leverage 1.25 The average tax rate is closest to",
+      "options": {
+        "A": "43%",
+        "B": "47%",
+        "C": "57%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The calculation seems to employ the DuPont analysis formula: ROE = Tax Burden × Interest Burden × EBIT Margin × Total Asset Turnover × Financial Leverage. Utilizing this formula with the provided values yields an estimated tax burden of around 42.78%. Tax burden reflects one minus the average tax rate, or how much of a company’s pretax profits it gets to keep. Thus average tax rate = 1 – Tax burden = 57.22% ~ 57%. A is incorrect because the calculation seems to have computed the tax burden (approximately 42.78%) rather than the average tax rate. The tax burden is one minus the average tax rate, indicating how much of a company's pretax profits it retains. B is incorrect because it appears to have confused Return on Equity (ROE) with Return on Assets (ROA) in the calculation. ROE can be dissected through the DuPont analysis formula: ROE = Tax Burden × Interest Burden × EBIT Margin × Total Asset Turnover × Financial Leverage. With the given values, the estimated tax burden is approximately 53.48%, hence the average tax rate would be approximately 47%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q115",
+      "num": 115,
+      "question": "Which of the following disclosures as required for each class of PP&E carried under the cost model?",
+      "options": {
+        "A": "Remaining useful life",
+        "B": "Gross carrying amount",
+        "C": "Fair value and details of how it was obtained"
+      },
+      "answer": "B",
+      "explanation": "B is correct. For each class of property, plant, and equipment carried under the cost model, a company must disclose various details such as measurement bases, depreciation method, useful lives, depreciation rate used, gross carrying amount, accumulated depreciation at the beginning and end of periods, reconciliation of carrying amount at the start and end of the period, and additional disclosures such as restrictions on title, liens on property, and contractual agreements. A is incorrect because it mentions \"estimated useful life\" instead of \"remaining useful life\" of the class, as required. Under IFRS, for each class of property, plant, and equipment, a company must disclose remaining useful life (or useful life only). C is incorrect because disclosing the details of how fair value was obtained is necessary for classes of PP&E under the revaluation model, not the cost model. Under IFRS, if the revaluation model is applied, disclosure requirements encompass the date of revaluation, particulars of fair value determination, carrying amount under the cost model, and the revaluation surplus.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q116",
+      "num": 116,
+      "question": "Which of the following components of change in the net pension asset or liability of a defined-benefit pension plan is recognized in other comprehensive income?",
+      "options": {
+        "A": "Employees' service costs",
+        "B": "Actuarial gains and losses",
+        "C": "Net interest expense of income accrued on the beginning net pension asset or liability"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability. The third component of the change in the net pension asset or liability during a period— remeasurements—is recognized in other comprehensive income. Remeasurements are not amortized into profit or loss over time. Remeasurements include (a) actuarial gains and losses. A is incorrect because it is recognized in profit and loss instead of other comprehensive income. Under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability. C is incorrect because it is recognized in profit and loss instead of other comprehensive income. Under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognized as pension expense in profit and loss: (1) employees' service costs and (2) the net interest expense or income accrued on the beginning net pension asset or liability.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q117",
+      "num": 117,
+      "question": "An analyst gathers the following information about a company Interest payments $30,000 Capital expenditures $82,000 Net borrowing $18,000 Income tax rate 40% Under US GAAP free cash flow to equity is most likely:",
+      "options": {
+        "A": "less than free cash flow to the firm.",
+        "B": "equal to free cash flow to the firm.",
+        "C": "greater than free cash flow to the firm."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under U.S. GAAP, free cash flow to the firm is calculated as CFO + int(1 - tax rate) - capital expenditures. Since the firm has interest-bearing debt outstanding, $18,000 ($10,000(1-0.4)) is added back to CFO in calculating FCFF. In addition, the capital expenditures of $82,000 are subtracted, so the equation becomes CFO + $18,000 - $82,000 for a net decrease to CFO of $64,000 ($18,000 - $82,000 = -$64,000). The calculation for free cash flow to equity is CFO - capital expenditures - net borrowing with no adjustment for interest paid under US GAAP. The calculation becomes CFO - $82,000 + $18,000 for a net decrease to CFO of $64,000 ($82,000 - $18,000 = $64,000). Therefore, FTE will be equal to FCFE, as the after-tax interest add-back to FCFF is equal to the net borrowing add-back to FCFE, and CFO and capital expenditures are the same for both. A is incorrect because FCFE is equal to FCFF. C is incorrect because FCFE is equal to FCFF.",
+      "answer_source": "manual"
+    },
+    {
+      "id": "Q118",
+      "num": 118,
+      "question": "A manufacturing company reporting under US GAAP using the FIFO inventory valuation method should measure its finished goods' inventory at the lower of",
+      "options": {
+        "A": "cost and market value",
+        "B": "cost and net realizable value.",
+        "C": "market value and net realizable value"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under US GAAP for fiscal years beginning after December 15, 2016, inventories measured using other than LIFO and retail inventory methods are measured at the lower of cost or net realizable value. A is incorrect because US GAAP used to specify the lower of cost or market to value inventories. For fiscal years beginning after December 15, 2016, inventories measured using other than LIFO and retail inventory methods are measured at the lower of cost or net realizable value. C is incorrect because US GAAP used to specify the lower of cost or market to value inventories. For fiscal years beginning after December 16, 2016, inventories measured using other than FIFO and retail inventory methods are measured at the lower of cost or net realizable value. This answer incorrectly uses some of the inventory measurement restrictions under US GAAP for FIFO. For inventories measured using FIFO and retail inventory methods, market value is defined as current replacement cost subject to upper and lower limits. Market value cannot exceed net realizable value.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q119",
+      "num": 119,
+      "question": "A company reporting under US GAAP purchases an equity security issued by another company. If the equity security represents less than 1% of the outstanding equity of the issuing company and the acquiring company owns no other equity stake in the issuing company, the investment is most likely earned on the acquiring company's balance sheet as",
+      "options": {
+        "A": "amortized cost",
+        "B": "fair value with any unrealized holding gains/losses recognized in the income statement",
+        "C": "fair value with any unrealized holding gains/losses recognized in other comprehensive income"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investors) are measured at fair value with unrealized holding gains or losses recognized in the income statement. A is incorrect because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement. C is incorrect because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investors) are measured at fair value with unrealized holding gains or losses recognized in the income statement.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q120",
+      "num": 120,
+      "question": "An analyst gathers the following information about a company's fiscal year ended 31 December Net income €2,500,000 Weighted average common shares outstanding during the year 2,000,000 Convertible preferred shares outstanding 1,000,000 Dividend per convertible preferred share €1 One convertible preferred share is convertible into two common shares if the tax rate is 40% and there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
+      "options": {
+        "A": "€0.38",
+        "B": "€0.48",
+        "C": "€0.63"
+      },
+      "answer": "C",
+      "explanation": "C is correct. When a company has convertible preferred stock outstanding, diluted EPS is calculated using the if-converted method. The formula to calculate diluted EPS using the if-converted method for preferred stock is: Diluted EPS = Net income / (Weighted average number of shares outstanding + New common shares that would have been issued at conversion). Therefore, Diluted EPS = €2,500,000 / (2,000,000 + 2 × 1,000,000) = €2,500,000 / 4,000,000 = €0.625 = €0.63. However, diluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding) = (€2,600,000 - 1,000,000) / 2,000,000 = €1,600,000 / 2,000,000 = €0.80 = €0.75. Therefore, the convertible preferred stocks are dilutive, and diluted EPS = €0.63. A is incorrect because it subtracts the preferred dividends from net income in the diluted EPS calculation. Accordingly, Diluted EPS = (€2,500,000 - 1,000,000 × 1) / (2,000,000 + 2 × 1,000,000) = €1,500,000 / 4,000,000 = €0.375 = €0.38. B is incorrect because it subtracts the preferred dividends multiplied by an after-tax percentage from net income in the diluted EPS calculation. Accordingly, Diluted EPS = (€2,500,000 - 1,000,000 × 1) + [2 × (1-0.4)] / (2,000,000 + 2 × 1,000,000) = €1,800,000 / 4,000,000 = €0.45 = €0.48.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q121",
+      "num": 121,
+      "question": "An analyst gathers the following information about a company's fiscal year ended 31 December Net income €5,000,000 Common dividends declared and paid €500,000 Weighted average common shares outstanding during the year 2,000,000 Convertible preferred shares outstanding 400,000 Dividend per convertible preferred share €2 One convertible preferred share is convertible into six common shares. If there are no other potentially dilutive securities outstanding, reported diluted EPS should be closest to",
+      "options": {
+        "A": "$0.95",
+        "B": "$1.02",
+        "C": "$1.14"
+      },
+      "answer": "C",
+      "explanation": "C is correct. When a company has convertible preferred stock outstanding, diluted EPS is calculated using the if-converted method. The formula to calculate diluted EPS using the if-converted method for preferred stock is: Diluted EPS = Net income / (Weighted average number of shares outstanding + New common shares that would have been issued at conversion). Therefore, Diluted EPS = €5,000,000 / (2,000,000 + 6 × 400,000) = €5,000,000 / €4,400,000 = €1.14. Checking that diluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding) = (€5,000,000 - €400,000) / 2,000,000 = €4,600,000 / 2,000,000 = €2.30 = €2.1. Therefore, the convertible preferred stocks are dilutive, and diluted EPS is €1.14. A is incorrect because it subtracts the preferred dividends from net income in the diluted EPS calculation. The calculation becomes: Diluted EPS = (€5,000,000 - 400,000 × €2) / (2,000,000 + 6 × 400,000) = (€5,000,000 - €800,000) / €4,400,000 = €4,200,000 / €4,400,000 = €0.95. B is incorrect because it subtracts the common dividends from net income in the diluted EPS calculation. The calculation becomes: Diluted EPS = (€5,000,000 - €500,000) / (2,000,000 + 6 × 400,000) = €4,500,000 / €4,400,000 = €1.02.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q122",
+      "num": 122,
+      "question": "An analyst gathers the following information (in € millions) about a company Cash and cash equivalents 40 Total current assets 125 Total non-current assets 35 Revenue 200 Applying vertical common-size analysis to the company's balance sheet, cash and cash equivalents are",
+      "options": {
+        "A": "20%.",
+        "B": "25%",
+        "C": "32%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Vertical common-size analysis involves stating each balance sheet item as a percentage of total assets. Accordingly, Cash and cash equivalents is stated as a percentage of Total assets: Cash and cash equivalents / (Total current assets + Total non-current assets) = 40 / (125 + 35) = 40 / 160 = 25%. A is incorrect because it states Cash and cash equivalents as a percentage of Revenue instead of Total assets. Consequently, the calculation becomes Cash and cash equivalents / (Cash and Cash equivalents + Total assets) = 40 / (40 + 125 + 35) = 40 / 160 = 20%. C is incorrect because it states Cash and cash equivalents as a percentage of Total current assets instead of Total assets. Consequently, the calculation becomes Cash and cash equivalents / Total current assets = 40 / 125 = 32%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q123",
+      "num": 123,
+      "question": "An analyst gathers the following information (in € thousands) about a company Year 2 Year 1 Revenue 2,400 2,000 Cost of sales 1,800 1,400 Ending accounts payable 180 220 Based only on this information, the payables turnover ratio for Year 2 is",
+      "options": {
+        "A": "9.",
+        "B": "10",
+        "C": "12"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Payables turnover = Purchases / Average trade payables, or Purchases (proxied by cost of sales) / Average trade payables = 1,800 / ((180 + 220) / 2) = 1,800 / 200 = 9. The number of days of payables reflects the average number of days the company takes to pay its suppliers, and the payables turnover ratio measures how many times per year the company theoretically pays off all its creditors. For purposes of calculating these ratios, an implicit assumption is that the company makes all its purchases using credit. Cost of goods sold (or cost of sales) is sometimes used as an approximation of purchases. B is incorrect because it uses ending accounts payable rather than average payables in the denominator of the calculation, or = 1,800 / 180 = 10. C is incorrect because it uses sales rather than cost of sales in the numerator of the calculation, or = 2,400 / ((180 + 220) / 2) = 2,400 / 200 = 12.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q124",
+      "num": 124,
+      "question": "An analyst gathers the following information about a company Year 2 Year 1 Days of inventory on hand 11 13 Days of sales outstanding 24 22 Payables turnover 36 18 Based only on the cash conversion cycle, the company's liquidity position from Year 1 to Year 2 has",
+      "options": {
+        "A": "deteriorated.",
+        "B": "remained the same.",
+        "C": "improved"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Cash conversion cycle (net operating cycle) (CCC) = Days of inventory on hand + Days of sales outstanding - Number of days of payables, and thí metrics indicates the amount of time that elapses from the point when a company invests in working capital until the point at which the company collects cash. A shorter cash conversion cycle indicates greater liquidity. A longer cash conversion cycle indicates lower liquidity. Also, Payables turnover = Purchases/ Average trade payables and Number of days of payables = Number of days in period / Payables turnover. Accordingly, the number of days payables for Year 2 = Number of days in period / Payables turnover, or 365 / 36 = 10.1389 and the number of days payables for Year 1 = Number of days in period / Payables turnover = 365 / 18 = 20.2778 (365 is used for the number of days in a year given the annual date). The CCC for Year 2 = DOH + DOS – Number of days of payables, or 11 + 24 – 10.1389 = 24.8611 and the CCC for Year 1 = 14.7222. As the CCC is higher (longer) in Year 2 than in Year 1, the company’s liquidity based on its CCC alone has deteriorated. B is incorrect because it did not consider the Number of days of payables in the calculation of the CCC. The calculation CCC for Year 2 = Days of inventory on hand + Days of sales outstanding = 11 + 24 = 35, and CCC for Year 1 = Days of inventory on hand + Days of sales outstanding = 13 + 22 = 35. As the CCC calculated for Year 2 is the same as Year 1, the company's liquidity based on its CCC alone remained the same. C is incorrect because it did not convert the Payables turnover ratio to Number of days of payables. Instead, CCC for Year 2 = Days of inventory on hand + Days of sales outstanding - Payables turnover = 11 + 24 - 36 = -1, and CCC for Year 1 = Days of inventory on hand + Days of sales outstanding - Payables turnover = 13 + 22 - 18 = 17. As the CCC is lower (shorter) in Year 2 than in Year 1, the company's liquidity based on its CCC alone appears to have improved.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q125",
+      "num": 125,
+      "question": "The role of financial reporting is best described as",
+      "options": {
+        "A": "making operating investing and financial decisions.",
+        "B": "providing information about a company's performance, financial position, and change in financial position",
+        "C": "evaluating a company's past, current, and potential performance for the purpose of making economic decisions"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position. A is incorrect because the role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position. The answer describes the role of management analyses managers within a company perform financial analysis to make operating, investing, and financing decisions but do not necessarily rely on analysis of related financial statements. C is incorrect because the role of financial reporting issued by companies is to provide information about a company's performance, financial position, and changes in financial position. The answer describes the role of financial statement analysis. The role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q126",
+      "num": 126,
+      "question": "An analyst gathers the following information (in E millions) about a company EBIT 16 Net income 8 Interest payments 6 Lease payments 4 The fixed charge coverage ratio is closest to",
+      "options": {
+        "A": "1.2.",
+        "B": "1.8.",
+        "C": "2.0"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The fixed charge coverage ratio relates fixed financing charges, or obligations, to the cash flow generated by the company. It measures the number of times a company's earnings (before interest, taxes, and lease payments) can cover the company's interest and lease payments. Accordingly, Fixed charge coverage ratio = (EBIT + Lease payments) / (Interest payments + Lease payments) = (16 + 4) / (6 + 4) = 20 / 10 = 2.0. For computing this ratio, an assumption sometimes made is that one-third of the lease payment amount represents interest on the lease obligation and that the rest is a repayment of principal on the obligation. For this variant of the fixed charge coverage ratio, the numerator is EBIT plus one-third of lease payments, and the denominator is interest payments plus one-third of lease payments. Accordingly, Fixed charge coverage ratio = (EBIT + (Lease payments / 3)) / (Interest payments + (Lease payments / 3)) = (16 + (4 / 3)) / (6 + (4 / 3)) = (16 + 1.33) / (6 + 1.33) ≈ 17.33 / 7.33 ≈ 2.36, which is also closest to 2.0. A is incorrect because it uses Net income instead of EBIT. Accordingly, Fixed charge coverage ratio = (Net income + Lease payments) / (Interest payments + Lease payments) = (8 + 4) / (6 + 4) = 12 / 10 = 1.2. B is incorrect because it sums Lease payments in the numerator. Accordingly, Fixed charge coverage ratio = EBIT / (Interest payments + Lease payments) = 16 / (6 + 4) = 16 / 10 = 1.6.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q127",
+      "num": 127,
+      "question": "Under US GAAP the recognition of a valuation allowance for deferred tax assets impacts",
+      "options": {
+        "A": "the effective tax rate only",
+        "B": "the statutory tax rate only",
+        "C": "both the effective tax rate and statutory lax rate"
+      },
+      "answer": "A",
+      "explanation": "A is correct. , under US GAAP, a valuation allowance for deferred tax assets impacts the effective tax rate only. Establishing a valuation allowance reduces the deferred tax asset and income in the period in which the allowance is established. Also, Reported effective tax rate = Income tax expense / Pretax income (Accounting profit). B is incorrect because , under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only. C is incorrect because , under US GAAP, the recognition of a valuation allowance for deferred tax assets impacts the effective tax rate only.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q128",
+      "num": 128,
+      "question": "A copyright, for which an active market exists, has a set finite life and is used in a company’s operations over more than one fiscal period. Under US GAAP, this copyright is reported using:",
+      "options": {
+        "A": "only the cost model",
+        "B": "only the revaluation model",
+        "C": "either the cost or the revaluation model"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Under US GAAP, companies are required to use the cost model to value intangible assets. IFRS allows companies to value intangible assets under a cost model or under a revaluation model. The revaluation model can only be selected when there is an active market for an intangible asset. B is incorrect because the revaluation model is not allowed under US GAAP; however, IFRS permits the use of the revaluation model or the cost model. C is incorrect because the revaluation model is not allowed under US GAAP; however, IFRS permits the use of the revaluation model or the cost model.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q129",
+      "num": 129,
+      "question": "Compared to purchasing an asset using debt, leasing an asset is most likely to",
+      "options": {
+        "A": "have a higher financing cost",
+        "B": "require a greater down payment.",
+        "C": "reduce lessee's exposure to obsolescence"
+      },
+      "answer": "C",
+      "explanation": "C is correct. There are several advantages to leasing an asset compared to purchasing it: Convenience and lower risks associated with asset ownership such as obsolescence. A is incorrect because there are several advantages to leasing an asset compared to purchasing. Cost effectiveness: Leases are a form of secured borrowing. In the event of non-payment, the lessor simply repossesses the leased asset. As a result, the effective interest rate for a lease is typically lower than what the lessee would pay on an unsecured loan or bond. B is incorrect because there are several advantages to leasing an asset compared to purchasing. Less cash is needed upfront. Lessees typically require little, if any, down payment.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q130",
+      "num": 130,
+      "question": "An analyst gathers the following information (in € millions) about a company Year 2 Year 1 Revenues 2,100 2,000 Accounts receivable 230 200 Cash 70 50 Cash received from customers (in € millions) in Year 2 is:",
+      "options": {
+        "A": "2,070",
+        "B": "2,120.",
+        "C": "2,130"
+      },
+      "answer": "A",
+      "explanation": "A is correct. To determine the approximate cash receipts from its customers, it is necessary to adjust this revenue by the net change in accounts receivable for the year. Revenue minus the change in receivables: 2,100 - (230 - 200) = 2,070. B is incorrect because it adds the change in cash to revenues rather than subtracting the change in receivables: 2,100 + (70 - 50) = 2,120. C is incorrect because it adds the change in accounts receivable to revenue rather than subtracting the change: 2,100 + (230 - 200) = 2,130.",
+      "answer_source": "red"
+    }
+  ]
+}

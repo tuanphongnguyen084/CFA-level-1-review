@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "alternatives-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 22–42)",
+  "group": "1000 Question Bank — Alternative Investments",
+  "source": "1000 Practice Questions — Alternative Investments",
+  "questions": [
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following are best categorized as social infrastructure assets?",
+      "options": {
+        "A": "Airports",
+        "B": "Correctional facilities",
+        "C": "Telecommunication towers"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Infrastructure investments are frequently categorized on the basis of the underlying assets The broadest categorization organizes investments into economic and social infrastructure assets.... Social Infrastructure assets are directed toward human activities and include such assets as educational, health care, social housing, and correctional facilities, with the focus on providing, operating, and maintaining the asset infrastructure. A is incorrect because infrastructure investments are frequently categorized on the basis of the underlying assets. The broadest categorization organizes investments into economic and social infrastructure assets. Economic infrastructure assets support economic activity and include three broad types of assets: transportation assets, information and communication technology (ICT) assets, and utility and energy assets. Transportation assets include roads, bridges, tunnels, airports, seaports, and heavy and light/urban railway systems. C is incorrect because infrastructure investments are frequently categorized on the basis of the underlying assets. The broadest categorization organizes investments into economic and social infrastructure assets. Economic infrastructure assets support economic activity and include three broad types of assets: transportation assets, information and communication technology (ICT) assets, and utility and energy assets.... ICT assets include infrastructure that stores, broadcasts, and transmits information or data, such as telecommunication towers and data centers.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of infrastructure"
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Which of the following statements is most accurate? Alternative investments:",
+      "options": {
+        "A": "tend to be more efficiently priced than traditional investments.",
+        "B": "fall outside of the definition of long-only positions in stocks, bonds, and cash.",
+        "C": "have relatively high correlation of returns with those of traditional investments."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investing in alternative assets can require handling illiquidity, transacting on private markets, operating sophisticated investment strategies, or risk-return profiles that are very different from those of traditional long-only investments. A is incorrect because alternative assets, by their very nature, tend to be less efficiently priced than traditional marketable securities, providing an opportunity to exploit market inefficiencies through active management. C is incorrect because alternative investments often have Relatively low correlation of returns with those of traditional investments.",
+      "answer_source": "red",
+      "tags": [
+        "describe features and categories of alternative investments"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "An analyst gathers the following information about a hedge fund: • $200 million in assets under management at the beginning of year • a 2% management fee based on year-end assets under management • a 20% incentive fee calculated net of the management fee Q. If the fund's gross return is 25% during the year, the total fees earned by the fund manager are:",
+      "options": {
+        "A": "$11 million.",
+        "B": "$14 million.",
+        "C": "$15 million."
+      },
+      "answer": "B",
+      "explanation": "B is correct. It calculates the incentive fee net of the management fee. That is, the total fee is the sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $9 million ($250 million less $200 million less the $5 million incentive times 0.20), which is $14 million. A is incorrect because it is the amount if the sum of the incentive and management fees based on the dollar returns for the year ($250 million less $200 million). That is, the sum of the management fee of $1 million ($50 million times 0.02) and the incentive fee of $10 million ($50 million times 0.20), which is $11 million. C is incorrect because it is the amount if the incentive and management fees are calculated independently (rather than if the incentive fee is calculated net of the management fee). That is, the sum of the management fee of $5 million ($250 million AUM times 0.02) and the incentive fee of $10 million ($250 million less $200 million for at profit of $50 million times 0.20), which is $15 million.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Management fees are most likely based on assets under management for:",
+      "options": {
+        "A": "hedge funds only.",
+        "B": "private equity funds only.",
+        "C": "both hedge funds and private equity funds."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments. B is incorrect because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments. C is incorrect because funds are generally structured with a management fee typically ranging from 1% to 2% of assets under management (e.g. for hedge funds) or committed capital (e.g. private equity funds), which is how much money in total that LP's have committed to the fund's future investments.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment ownership and compensation structures commonly used in alternative investments"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "A leveraged private investment vehicle that employs both long and short positions is most likely a:",
+      "options": {
+        "A": "hedge fund.",
+        "B": "private equity fund.",
+        "C": "venture capital fund."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher returns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged. B is incorrect because private equity funds generally invest in companies, whether startups or established firms, that are not listed on a public exchange, or they invest in public companies with the intent to take them private. C is incorrect because venture capital typically involves investing in or providing financing to startup or early-stage companies with high growth potential and represents a small portion of the private equity market.",
+      "answer_source": "red",
+      "tags": [
+        "describe features and categories of alternative investments"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "A feature that protects hedge fund clients from paying twice for the same performance is most likely a:",
+      "options": {
+        "A": "discount.",
+        "B": "hurdle rate.",
+        "C": "high-water mark"
+      },
+      "answer": "C",
+      "explanation": "C is correct. In hedge funds, fee calculations also take into account a high-water mark, which reflects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. A high-water mark clause states that a hedge fund manager must recuperate declines in value from the high-water mark before performance fees can be charged on newly generated profits. The use of high-water marks protects clients from paying twice for the same performance. A is incorrect because hedge fund managers may discount their fees for larger investors or for placement agents who introduced these investors. However, a rebate does not, in isolation, protect clients from paying twice for the same performance. B is incorrect because the partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment ownership and compensation structures commonly used in alternative investments"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "A joint venture is an alternative investment structure that is most likely used for:",
+      "options": {
+        "A": "infrastructure investment.",
+        "B": "private equity investment.",
+        "C": "real estate direct investment"
+      },
+      "answer": "C",
+      "explanation": "C is correct. In real estate fund investing, investors may be classified as unitholders, and joint ventures are a partnership structure common in real estate direct investing. A is incorrect because for example, infrastructure investors frequently enter into public-private partnerships (PPP). which are agreements between the public sector and the private sector to finance, build, and operate public Infrastructure, such as hospitals and toll roads. B is incorrect because many alternative investments, such as hedge and private equity funds, use a partnership structure with a general partner that manages the business and limited partners (investors) who own fractional interests in the partnership.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment ownership and compensation structures commonly used in alternative investments"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Regarding distribution methods in alternative investments, which of the following is most advantageous to the limited partners? A(n):",
+      "options": {
+        "A": "American waterfall.",
+        "B": "deal-by-deal waterfall.",
+        "C": "whole-of-fund waterfall."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In whole-of-fund (European) waterfalls, all distributions go to the LPs as deals are exited and the GP does not participate in any profits until the LPs receive their initial investment and the hurdle rate has been met. In contrast to deal-by-deal (American) waterfalls, whole-of-fund waterfalls occur at the aggregate fund level and are more advantageous to the LPS. A is incorrect because there are two types of waterfalls: deal-by-deal (American) waterfalls and whole-of-fund (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return ( e, the hurdle rate) on the entire fund. B is incorrect because there are two types of waterfalls deal-by-deal (American) waterfalls and whole-of-fund (European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (ie, the hurdle rate) on the entire fund.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment ownership and compensation structures commonly used in alternative investments"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following hedge fund mechanisms is most likely used to impose a temporary restriction on redemptions if needed?",
+      "options": {
+        "A": "Gate",
+        "B": "Notice period",
+        "C": "Lockup period"
+      },
+      "answer": "A",
+      "explanation": "A is correct. In addition to lockup periods, funds sometimes impose a gate, which limits or restricts redemptions for a period of time. B is incorrect because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses. C is incorrect because lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy's expected results. If the hedge fund receives a drawdown request shortly after a new investment, the lockup period forces the investors who made the request to stay in the fund for a period of time rather than be allowed to immediately withdraw. Thus, a lockup period imposes restrictions on redemptions from the start of a new investment in the fund, and not later on, e.g. some time after the new investment.",
+      "answer_source": "red",
+      "tags": [
+        "describe the performance appraisal of alternative investments"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Which of the following infrastructure investments most likely have the highest risk?",
+      "options": {
+        "A": "Brownfield investments with the majority of their return from current yield.",
+        "B": "Brownfield investments with the majority of their return from capital appreciation.",
+        "C": "Greenfield investments with the majority of their return from capital appreciation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Infrastructure funds with a higher-risk profile invest in Greenfield projects without guarantees of demand upon completion and with high weighting to capital appreciation. Investing in infrastructure assets that are to be constructed is generally referred to as greenfield investment. Greenfield investments are early-stage Investments with a higher-risk profile. A is incorrect because infrastructure funds with a lower-risk profile invest in Brownfield assets with mitigated risks and with high weighting to current yield. Investing in existing infrastructure assets may be referred to as brownfield investment. B is incorrect because infrastructure funds with a medium-risk profile invest in mostly brownfield assets (with some capital expenditure requirements) and with a mix of yield and capital appreciation. Investing in existing infrastructure assets may be referred to as brownfield investment. Even if a brownfield investment had the majority of its return derived from capital appreciation, it would still be less risky than a greenfield investment. Brownfield investments are mid-stage or late-stage investments, still delivering prospects for return through capital gain & yield (albeit generally at relatively lower level than early stage investments).",
+      "answer_source": "red",
+      "tags": [
+        "explain the investment characteristics of infrastructure investments"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Which of the following methods of investing in alternative investments requires the least amount of investment expertise?",
+      "options": {
+        "A": "Co-investing",
+        "B": "Fund investing",
+        "C": "Direct investing"
+      },
+      "answer": "B",
+      "explanation": "B is correct. One of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise. A is incorrect because one of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise. On the other hand, co-investing requires more active involvement compared with fund investing, which can be challenging if resources and due diligence experience are limited. Co-investing requires more active involvement from the investor, who must evaluate both investment opportunities and the fund manager, which demands more resources, concentration, and expertise. C is incorrect because one of the advantages of fund investing is that it provides access to alternative investments without possessing a high degree of investment expertise, whereas direct investing requires more investment expertise and a higher level of financial sophistication compared with fund investing and co-investing.",
+      "answer_source": "red",
+      "tags": [
+        "compare direct investment, co-investment, and fund investment methods for alternative investments"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "The benefits of adding investments in infrastructure assets to a portfolio most likely include:",
+      "options": {
+        "A": "inflation protection only.",
+        "B": "low correlation with existing portfolio assets only.",
+        "C": "both inflation protection and low correlation with existing portfolio assets."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor. A is incorrect because investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor. B is incorrect because investing in infrastructure may add an income stream, increase portfolio diversification by adding an asset class with typically low correlation with existing investments, and offer some protection against inflation. Low exposure to short-term GDP growth issues may also be a factor.",
+      "answer_source": "red",
+      "tags": [
+        "explain the investment characteristics of infrastructure investments"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "In co-investing, the investor invests in alternative assets indirectly through a fund but also has the:",
+      "options": {
+        "A": "right to invest directly in the same assets alongside the fund.",
+        "B": "obligation to invest directly in the same assets alongside the fund.",
+        "C": "right to invest in the general partner's fund management company."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. Through co-investing, an investor is able to make an investment alongside a fund when the fund identifies deals; the investor is not limited to participating in the deal solely by investing in the fund. B is incorrect because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. However, there is no obligation to invest. C is incorrect because in co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets, not in the general partner's fund management company.",
+      "answer_source": "red",
+      "tags": [
+        "compare direct investment, co-investment, and fund investment methods for alternative investments"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "A disadvantage of direct real estate investing is:",
+      "options": {
+        "A": "a lack of control.",
+        "B": "unfavorable tax rules.",
+        "C": "the time required to manage the property."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Major disadvantages to investing directly [in real estate] include extensive time required to manage the property. The owner may choose to handle all aspects of investing in and operating the property. including property selection, asset management, property management, leasing, and administration. A is incorrect because this is a benefit of direct investing. There are distinct benefits to owning real estate directly. Control: Only the owner decides when to buy or sell, when and how much to spend on capital projects (subject to lease terms and regulatory requirements), whom to select as tenants based on credit quality preference and tenant mix, and what types of lease terms to offer. B is incorrect because this is a benefit of direct investing. Tax benefits: Property investors in many developed markets can use non-cash property depreciation expenses and interest expense, with some limitations, to reduce taxable income and lower their income tax bills.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of real estate"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Which of the following statements about private debt is most accurate? Mezzanine debt:",
+      "options": {
+        "A": "is subordinated to equity in a borrower's capital structure.",
+        "B": "is less risky than senior secured debt issued by the same company.",
+        "C": "may include additional features such as warrants to provide equity participation to lenders."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Mezzanine debt often comes with additional features, such as warrants or conversion rights, which provide equity participation to lenders/investors, meaning they have the option of converting their debt into equity or purchasing the equity of the underlying borrower under certain circumstances. A is incorrect because in private debt, mezzanine debt refers to private credit that is subordinated to senior secured debt but is senior to equity in the borrower's capital structure. B is incorrect because mezzanine debt is more risky, not less, than senior secured debt. Because of its typically Junior ranking and the fact that it is usually unsecured, mezzanine debt is riskier than senior secured debt; to compensate investors for this heightened risk profile, investors commonly demand higher interest rates and may require options for equity participation.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private debt and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following statements about private equity performance evaluation is most accurate?",
+      "options": {
+        "A": "Private equity fund management fees are based on capital called.",
+        "B": "Cash flows are frequently described in terms of the J-curve effect.",
+        "C": "Managers have no discretion on the timing of the distribution of proceeds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Private equity investments flows often lag that commitment because capital 'calls' are staggered over substantive periods of time. Equity returns are frequently described in terms of the J-curve effect. A is incorrect because private equity includes a substantive initial capital commitment promise, followed by high initial fee drag (calculated on total committed capital, not the capital actually called), followed by the identification longer-term growth or turnaround opportunities, and an eventual positive expected return when the staggered returns of the fund are realized. C is incorrect because in an independent, fixed-life private equity fund, the decisions to raise money, take money in the form of capital calls, and distribute proceeds are all at the discretion of the private equity manager. Timing of cash flows is an important part of the investment decision process. The private equity manager should thus be rewarded or penalized for the results of those timing decisions, and the calculation of an IRR is key for doing so.",
+      "answer_source": "red",
+      "tags": [
+        "describe the performance appraisal of alternative investments"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following is most likely a primary exit strategy for a company held by a private equity fund's portfolio?",
+      "options": {
+        "A": "IPO",
+        "B": "Management buy-in",
+        "C": "Management buyout"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization. B is incorrect because key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization. C is incorrect because key private equity investment strategies include leveraged buyouts (e.g., MBOS and MBIS) and venture capital. Primary exit strategies include trade sale, IPO, and recapitalization.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private equity and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "A hedge fund that seeks to profit from a view on overall market direction as influenced by economic trends best describes a:",
+      "options": {
+        "A": "macro hedge fund.",
+        "B": "multi-strategy hedge fund.",
+        "C": "market-neutral hedge fund."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Macro hedge funds use long and short positions to profit from a view on the overall direction of the market as it is influenced by major economic trends and events. B is incorrect because a multi-strategy hedge fund is an example of a relative value strategy, which seeks to profit from a pricing discrepancy, an unusual short-term relationship, between related securities. The expectation is that the pricing discrepancy will be resolved over time. Strategies of a multi-strategy hedge fund trade relative value within and across asset classes or instruments. Rather than focusing on one type of trade (e.g.. convertible arbitrage), a single basis for trade (e.g., volatility), or a particular asset class (e.g., fixed income), this strategy instead looks for investment opportunities wherever they might exist, often with different pods of managers approaches. C is incorrect because market-neutral hedge funds use quantitative (technical) and fundamental analysis to identify under- and over-valued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero. The intent is to profit from the movements of individual securities while remaining largely indifferent to market risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Which of the following is best categorized as core real estate?",
+      "options": {
+        "A": "A high-quality office building in a rural area",
+        "B": "A low-quality office building in a major urban center",
+        "C": "A high-quality office building in a major urban center"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Open-end funds generally offer exposure to core real estate, characterized by well-leased, high-quality institutional real estate in the best markets. Investors expect core real estate to deliver stable returns, primarily from income. A is incorrect because core real estate is characterized by well-leased, high-quality institutional real estate in the best markets. B is incorrect because core real estate is characterized by well-leased, high-quality institutional real estate in the best markets.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of real estate"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Compared with fund investing in alternative investments, the co-investing method most likely has:",
+      "options": {
+        "A": "lower management fees.",
+        "B": "the same level of management fees.",
+        "C": "higher management fees."
+      },
+      "answer": "A",
+      "explanation": "A is correct. One of the advantages of co-investing is that it has reduced management fees. In co-investing. investors co-invest an additional amount into that same investment often without paying management fees on the capital they used for the direct investment (a co-investment, in this case). B is incorrect because one of the advantages of co-investing is that it has reduced management fees compared with the fund investing method. C is incorrect because one of the advantages of co-investing is that it has reduced management fees compared with the fund investing method.",
+      "answer_source": "red",
+      "tags": [
+        "compare direct investment, co-investment, and fund investment methods for alternative investments"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Which of the following is best described as a relative value hedge fund strategy?",
+      "options": {
+        "A": "Short biased",
+        "B": "Special situations",
+        "C": "Convertible bond arbitrage"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Relative value funds seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship. The expectation is that the discrepancy will be resolved over time. Examples of relative value strategies include the following: Convertible bond arbitrage. This conceptually market-neutral investment strategy seeks to exploit a perceived mispricing between a convertible bond and its component parts-namely, the underlying bond and the embedded stock option-relative to the pricing of a reference equity into which the bond may someday convert. The strategy typically involves buying convertible debt securities and simultaneously selling a certain amount of the same issuer's common stock. As this type of strategy seeks to profit from a pricing discrepancy (an unusual short-term relationship) between related securities, it is best described as a relative value strategy. A is incorrect because equity hedge strategies can be considered the original hedge fund category. They focus on public equity markets and take long and short positions in equity and equity derivative securities. Examples of equity hedge strategies include the following Short biased. These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities. (against limited or no long-side exposures). Managers are often more forensic in their fundamental analysis and sometimes are activist in trying to expose previously unrecognized accounting or business flaws and improve their portfolio's chance for profits. B is incorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring Further subdivisions of this category by HFR include the following. Special situations. These strategies focus on opportunities to buy equity of companies engaged in restructuring activities other than mergers, acquisitions or bankruptcy. These activities include security issuance or repurchase, special capital distributions, rescue finance, and asset sales/spin-offs.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    }
+  ]
+}

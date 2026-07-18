@@ -1,0 +1,343 @@
+{
+  "schema_version": 1,
+  "id": "derivatives-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 45–65)",
+  "group": "1000 Question Bank — Derivatives",
+  "source": "1000 Practice Questions — Derivatives",
+  "questions": [
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "An analyst collects the following information: ● Current stock price €26 ● Gross return from an up move 1.10 ● Gross return from a down move 0.75 ● Call and put exercise price €22 Based on a one-period binomial pricing model, which of the following has the largest payoff?",
+      "options": {
+        "A": "Put option following an up move",
+        "B": "Put option following a down move",
+        "C": "Call option following a down move"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The payoff of a put option following a down move is p1^d= Max (0, X-S1^d) where X is the exercise price and S1^d is the price after a down move. In this case, S1^d = €26(0.75)= €19.50. So, p₁^d= Max (0, €22 - €19.50) = €2.50, which is greater than the payoffs of other two responses. A is incorrect because the payoff of a put option following an up move is p1^u= Max (0,X-S1^u) where X is the exercise price and S1^u is the price after an up move. In this case, S1^u = €26(1.10)= €28.60. So, p1^u = Max(0, €22 -€28.60)= €0, which is less than the payoff of a put option following a down move, as described in the response rationale for the correct answer. C is incorrect because the payoff of a call option following an a down move is c₁^d = Max (0, S1^d -X) where X is the exercise price and S1^d is the price after a down move. In this case, S1^d = €26(0.75)= €19.50. So, c1^d = Max (0,€19.50 - €22) = €0, which is less than the payoff of a put option following a down move, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "explain how to value a derivative using a one-period binomial model"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "A $10 million interest rate swap with annual payments has a fixed swap rate of 1.95%. The implied forward rates are: Year Implied Forward Rate (%) 1 0.50 2 1.15 3 1.35 The periodic settlement value in Year 3 for the fixed-rate payer is expected to be closest to:",
+      "options": {
+        "A": "-$95,000.",
+        "B": "-$60,000.",
+        "C": "$60,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The periodic settlement value = (MRR - sN) x Notional amount x Period. The market reference rate (MMR) for Year 3 is 1.35%, thus: = (0.0195-0.0135) x $10,000,000 x 1 = $60,000. A is incorrect because an average of the first 3 yearly settlement values is used: = (MRR-sN) x Notional amount x Period ≠([0.0050 + 0.0115+0.0135]/3-0.0195) x $10,000,000 x 1 = (0.0100-0.0195) x $10,000,000 × 1 = -$95,000. C is incorrect because this is the periodic settlement value for the floating-rate payer, not the fixed-rate payer ≠ (SN-MRR) x Notional amount x Period = (0.0195-0.0135) x $10,000,000 x 1 = $60,000.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the value and price of swaps"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "Which of the following best describes put-call-forward parity?",
+      "options": {
+        "A": "The present value of the exercise price plus the call price equals the put price plus the underlying price. value of the exercise price plus the put price.",
+        "B": "The underlying price plus the call price equals the present value of the exercise price plus the put price.",
+        "C": "The call price minus the put price equals the present value of the exercise price minus the underlying price."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The put price plus the underlying price equals the call price plus the present value of the exercise price. Rearranged, this is as follows: The present value of the exercise price plus the call price equals the put price plus the underlying price. B is incorrect because because, as described in the response rationale for the correct answer, the put-call-forward parity is described as follows: The put price plus the underlying price equals the call price plus the present value of the exercise price. The verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put-call-forward parity. C is incorrect because because, as described in the response rationale for the correct answer, the put-call-forward parity is described as follows. The put price plus the underlying price equals the call price plus the present value of the exercise price. The verbal description of the equation in this answer choice is incorrect as it incorrectly rearranges terms of the put-call-forward parity.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call forward parity for European options"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "Consider a put option selling for $2 in which the exercise price is $45. What is the profit for a put buyer if the price of the underlying at expiration is $41?",
+      "options": {
+        "A": "-$2",
+        "B": "$2",
+        "C": "$4"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The put's value at expiration = pT= Max(0,X-ST), where pT is the value of the put at expiration, X is the exercise price, and ST is the price of the underlying at expiration. In this case, Max(0,45-41) = $4. The put buyer's profit = Π = -pT -p₁ (where p, is the price of the put at time 0), or 4 - 2 = $2. A is incorrect because this is the put seller's profit. The put's value at expiration = -pT=-Max(0,X-ST), where p, is the value of the put at expiration, X is the exercise price, and S, is the price of the underlying at expiration. In this case, -Max(0,45-41)=-$4. The put seller's profit=Π=-pT+p0, (where p, is the price of the put at time 0), or - 4+2=-$2. C is incorrect because this is the put's value at expiration. The put's value at expiration = -pT = Max(ST- 0,X), where pT is the value of the put at expiration, X is the exercise price, and ST is the price of the underlying at expiration. In this case, Max(0,45-41)= $4.",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "Based on put-call parity, which of the following is equivalent to a long position in the underlying asset?",
+      "options": {
+        "A": "Long call, long put, and short bond",
+        "B": "Long put, short call, and long bond",
+        "C": "Long call, short put, and long bond"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The put-call parity relationship implies S0= c0-p0+X/(1+r)^T which implies that a long asset = long call, short put, long bond. A is incorrect because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond. B is incorrect because as described in the rationale for the correct answer, the payoff on a long asset can be mimicked using a long call, short put, and a long bond.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call parity for European options"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "An analyst gathers the following information about an underlying: ● Current price of underlying asset $16.0 ● End of period upward price $22.0 ● End of period downward price $12.0 ● Risk-free rate 4.0% Using a one-period binomial model, the risk-neutral probability of a price increase is closest to:",
+      "options": {
+        "A": "0.38.",
+        "B": "0.46.",
+        "C": "0.54."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The risk-neutral probability (𝜋) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1^u =RuS0, and S1^d= RdS0, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in Equation 7. π=1+r-Rd/R^u-Rd More specifically, π , is the risk-neutral probability of an increase in the underlying price to S1^u =RuS0, and (1 - π) is that of a decrease, S1^d= RdS0 Thus, An increase from $16 to $22 or a decrease from $16 to $12 corresponds to: R^u=$22/$16=1.375 and R^d = $12/$16=0.75. Using the risk-neutral probability (m) of a price increase: π=1+r-R^d/R^u-R^d= (1+0.04 -0.75)/(1.375-0.75)=0.29/0.625 = 0.464≈0.45. A is incorrect because this is the expected return of an upward price move, i.e. S1^u/S0-1= $22/$16- 1=1.375-1 = 0.375 0.38. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer. C is incorrect because this is the risk-neutral probability of a price decrease (1 - π) = 1 -0.46 = 0.54. Instead, the risk neutral probability is equal to 0.46, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "explain how to value a derivative using a one-period binomial model"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "An investor expects an underlying to go up or down by 25% over the next year. If the risk-free rate is 5%, the risk-neutral probability of a decrease in the underlying price is closest to:",
+      "options": {
+        "A": "0.25.",
+        "B": "0.40.",
+        "C": "0.60."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The risk-neutral probability (m) is the computed probability used in binomial option pricing with π =(1+r-R^d)/(R^u-R^d ),where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and Rd and Ru represent the underlying asset volatility. i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, R^u is (1+0.25)=1.25 and R^d is (1-0.25)=0.75 Substituting in yields (1+0.05 -0.75)/(1.25-0.75)=0.60. Since the risk-neutral probability of a decrease in the underlying price is 1-π we get 1-0.60 = 0.40. A is incorrect because 0.25 is simply the expected reduction in percent (down move) of the underlying after one year. Instead, the risk-neutral probability (𝜋) is the computed probability used in binomial option pricing with 𝜋 = (1+r-R^d)/(R^u-R^d), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and R^d and R^u represent the underlying asset volatility, i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, R^u is (1 +0.25)= 1.25 and R^d is (1-0.25)=0.75. Substituting in yields (1+0.05- 0.75)/(1.25-0.75) = 0.60. Since the risk-neutral probability of a decrease in the underlying price is 1 - π we get 1-0.60 = 0.40. C is incorrect because 0.60 is the risk-neutral probability of an increase in the underlying price, not decrease. The risk-neutral probability (π) is the computed probability used in binomial option pricing with π =(1+r-R^d)/(R^u-R^d ), where π is the risk-neutral probability of an increase in the underlying price, r is the risk-free rate and Rd and Ru represent the underlying asset volatility. i.e., expected up and down moves of the underlying after the period. Here, r = 0.05, R^u is (1 +0.25)=1.25 and R^d is (1 -0.25)=0.75. Substituting in yields (1+0.05 -0.75)/(1.25- 0.75)=0.60. Since the risk-neutral probability of a decrease in the underlying price is 1-π we get 1 -0.60 = 0.40.",
+      "answer_source": "red",
+      "tags": [
+        "describe the concept of risk neutrality in derivatives pricing"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "Which of the following factors affects the option price when using a binomial model? The:",
+      "options": {
+        "A": "risk-free rate.",
+        "B": "level of investors' risk aversion.",
+        "C": "expected return of the underlying."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The value of the call option today, c0, is computed as the expected value of the option at expiration, c1^u and c1^d discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing. B is incorrect because the value of the call option today, c0, is computed as the expected value of the option at expiration, c1^u and c1^d discounted at the risk-free rate, r. Also, this no-arbitrage derivative value established separately from investor views on risk is referred to as risk-neutral pricing. C is incorrect because the value of the call option today, c0, is computed as the expected value of the option at expiration, c1^u and c1^d ,discounted at the risk-free rate, r. Also, only the expected volatility—that is, gross returns Ru and Rd -and not the expected return are required to price an option.",
+      "answer_source": "red",
+      "tags": [
+        "describe the concept of risk neutrality in derivatives pricing"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "An end user seeking to hedge a specific underlying exposure having non-standard size and settlement dates would most likely trade on a(n):",
+      "options": {
+        "A": "futures market.",
+        "B": "over-the-counter derivative market.",
+        "C": "exchange-traded derivative market."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The terms of OTC (over-the-counter) contracts can be customized to match a desired risk exposure profile. This flexibility is important to end users seeking to hedge a specific existing or anticipated underlying exposure based upon non-standard terms. A is incorrect because futures contracts are forward contracts with standardized sizes, dates, and underlyings that trade on futures exchanges. Therefore, they are inappropriate for the non-standard size and settlement dates required by the end user. C is incorrect because eTD (exchange-traded derivative) contracts are more formal and standardized, which facilitates a more liquid and transparent market. Terms and conditions-such as the size of each contract, type, quality, and location of underlying for commodities and maturity date are set by the exchange.",
+      "answer_source": "red",
+      "tags": [
+        "describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "All else being equal, if the up gross return increases in a one-period binomial model, the risk-neutral probability of an upward price movement of the asset will:",
+      "options": {
+        "A": "decrease.",
+        "B": "remain the same.",
+        "C": "increase."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The risk-neutral probability (𝜋) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1^u= R0S0, and S1^d= R^dS0,. equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one-period binomial model, the denominator will increase. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases. B is incorrect because the risk-neutral probability (π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1^u= R^uS0 and S1^d= R^dS0, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one-period binomial model, the denominator will increase. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases. C is incorrect because the risk-neutral probability (π) is the computed probability used in binomial option pricing by which the discounted weighted sum of expected values of the underlying, S1^u= R^uS0 and S1^d= R^dS0, equal the current option price. Specifically, this probability is computed using the risk-free rate and assumed up gross return and down gross return of the underlying as in π= (1+r-Rd)/(Ru- Rd). So, if the up gross return increases in a one-period binomial model, the denominator will increase. Therefore, the risk-neutral probability of an upward price movement of the asset, (π), decreases.",
+      "answer_source": "red",
+      "tags": [
+        "describe the concept of risk neutrality in derivatives pricing"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "A forward agreement has the following terms: ● Spot price at inception $275 ● Forward price $285 ● Number of shares 2,000 At expiration, if the spot price is $282, the value to the seller is:",
+      "options": {
+        "A": "-$6,000.",
+        "B": "$6,000.",
+        "C": "$14,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The value at expiration for the seller: = F0(T)-ST=$285 - $282 = $3. Hence the total value is $3 x 2,000 shares = $6,000. A is incorrect because this is the value at expiration for the buyer. =ST-F0(T) = $282 - $285=-$3. Hence total value is -$3 x 2,000 shares = -$6,000. C is incorrect because the spot price at inception is used instead of at settlement: ≠ F0(T)-S0= $282 - $275 = $7. Hence the total value is $7 x 2,000 shares = $14,000.",
+      "answer_source": "red",
+      "tags": [
+        "Explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "A trader sells a call option on a stock index with a strike price of 2,400 for $25. The value of a one-point move in the index is $1. At expiration, the stock index is trading at 2,450. The trader's profit is:",
+      "options": {
+        "A": "-$50.",
+        "B": "-$25.",
+        "C": "$25."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The writer of a call is the seller of the call: An option is a derivative contract in which one party. the the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date The profit to the seller of the call is - Max(0,ST-X) + C0. Where X is the exercise price, ST is the value of the underlying at expiration and C0 is the call premium received by the seller. Since one point is equal to one dollar the profit to the call seller is: -Max(0,$2,450-$2,400) + $25-$50 + $25 = -$25. A is incorrect because this represents the value, not the profit, to the call seller, which is - Max(0,$2,450-$2,400)=- $50, as described in response rationale for the correct answer. C is incorrect because $25 represents the profit to the buyer, not to the seller of the call option. The profit to a call buyer is defined as Max(0,ST -X)-co, where X is the exercise price, ,ST is the value of the underlying at expiration and co is the call premium paid by the buyer. Therefore, Max(0,$2,450- $2,400)-$25 = $50-$25 = $25.",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "An investor buys a call for $5.75 that has a strike price of $130. If the value at expiration for this call is $17.80, the price of the underlying at expiration is closest to:",
+      "options": {
+        "A": "$112.20.",
+        "B": "$142.05",
+        "C": "$147.80."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The value or \"payoff to the call buyer\" at expiration is c, = Max(0,ST -X) where X is the strike price, ,ST is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,ST - $130). Hence, S, $ 130 +$17.80 = $147.80. A is incorrect because $112.20 is the value of the underlying assuming that this was a put option instead of a call option. The \"payoff to the put buyer\" at expiration is pT= Max(0, X-ST), where X is the exercise price and ST, is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,$130 - ST) which yields ST = $130-$17.80 $112.20. By contrast, the value or \"payoff to the call buyer\" at expiration is cT = Max(0,ST -X). Given the information in the stem we get $17.80= Max(0, ST -$130). (p. 407-408) Hence, ST = 130+ 17.80= 147.80, not $112.20. B is incorrect because $142.05 is the profit from the option position added to the strike price. It is computed as (cT- c0) + X where cT is the value of the option at expiration, c0 is the purchase price of the option and X is the strike price. Given the information in the stem we get ($17.80 - $5.75)+ $130 = $142.05. By contrast, the value or \"payoff to the call buyer\" at expiration is cT = Max(0,ST -X) where X is the strike price, ST is the price of the underlying at expiration. Given the information in the stem we get $17.80= Max(0,ST -$130). Hence, ST =$ 130 +$17.80 = $147.80, not $142.05.",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "An investor sells a European put option with the following characteristics: ● Put price 30 ● Exercise price 1,320 If the price of the underlying at expiration is 1,340, the profit for the seller is:",
+      "options": {
+        "A": "10.",
+        "B": "20.",
+        "C": "30."
+      },
+      "answer": "C",
+      "explanation": "C is correct. To the put seller, the profit is Π= -Max(0.X-ST) + p0. where X is the exercise price, ST is the price of the underlying at expiration, and p0, is the put price. Therefore, Π = -Max(0,(1,320 - 1.340))+30= 30. A is incorrect because it represents the put price p0 less the difference between the exercise price X and the price of the underlying ST at expiration: 30-(1,340-1,320)= 10. This would be the profit to the seller of a call option, Π =-Max(0,ST -X) + C0. with the same exercise price and the same selling price. By contrast, to the put seller, the profit is Π=-Max(0,X-ST) + p0. Therefore, Π=-Max(0,(1,320- 1,340))+30= 30. B is incorrect because it represents the payoff to the call buyer cT= Max(0,ST -X), where ST is the price of the underlying at expiration and X is the exercise price. Therefore, c = Max(0,(1,340 - 1,320)) = 20. By contrast, to the put seller, the profit is Π=-Max(0,X-ST) + p0, where p, is the put price. Therefore, Π=-Max(0,(1,320 - 1,340))+30= 30.",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "An analyst gathers the following information about three portfolios each consisting of two derivatives on the same underlying: Forward Position Option Position ● Portfolio 1 Long Long Call ● Portfolio 2 Long Long Put ● Portfolio 3 Short Long Call All else being equal, which portfolio will benefit from an increase in price of the underlying?",
+      "options": {
+        "A": "Portfolio 1",
+        "B": "Portfolio 2",
+        "C": "Portfolio 3"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Both a long forward position and a long call option position will gain from an increase in the underlying price. B is incorrect because a contingent claim that benefits from a rise in the underlying price is the sold put option [not a bought put option]. C is incorrect because both a long forward position and a long [not short] call option position will gain from an increase in the underlying price.",
+      "answer_source": "red",
+      "tags": [
+        "contrast forward commitments with contingent claims"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "All else being equal, the cost of carry on a dividend-paying stock is:",
+      "options": {
+        "A": "lower than the cost of carry on a stock with no dividends.",
+        "B": "the same as the cost of carry on a stock with no dividends.",
+        "C": "higher than the cost of carry on a stock with no dividends."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits. B is incorrect because the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits. C is incorrect because the benefit of the dividend reduces the costs associated with carrying the stock. The cost of carry is the net of the costs and benefits related to owning an underlying asset for a specific period. The cost of carry is the opportunity cost plus other costs of ownership less benefits of ownership, and stock dividends or bond coupons are examples of cash flow benefits.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the spot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "An investor collects the following information about a put option: ● Stock price at initiation $220 ● Strike price $210 ● Option premium $9 At expiration, if the price of the stock is $200, the investor's profit from buying the put is:",
+      "options": {
+        "A": "-$19.",
+        "B": "-$9.",
+        "C": "$1."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Π = Max(0,X-ST)-p0 (profit to the put buyer), where ST is the price of the underlying at expiration, X is the strike price and p0, is the option premium. Therefore, the Correct calculation yields: $1 = Max(0,$210-$200)-$9. Derivative: determine the value at expiration and profit from a long or a short position in a call or put option. A is incorrect because the profit for the put buyer (𝜋) is not equal to ST –S0 + Max(0,X-ST)- p0 where ST is the spot price of the underlying, ST is the price of the underlying at expiration, X is the strike price and p0 is the option premium. Therefore, the incorrect calculation yields: -$19 $200-$220+ Max(0,$210-$200)-$9, which includes the loss of $20 of the underlying. Instead, the correct formula is Π= Max(0,X-ST)-p0, (profit to the put buyer) which yields: $1 = Max(0,$210 - $200) - $9. B is incorrect because the profit for the put buyer is not equal to -po, the option premium paid, or -$9, since the put option expires in the money. Instead, the correct formula is Π = Max(0,X-ST)-Po (profit to the put buyer), where ST is the price of the underlying at expiration, X is the strike price and p0, is the option premium. Therefore, the correct calculation yields: $1 = Max(0,$210 - $200) - $9.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "Which of the following interest rate derivatives most likely has the largest convexity bias?",
+      "options": {
+        "A": "Forward rate agreement on a 1-month market reference rate",
+        "B": "Forward rate agreement on a 3-month market reference rate",
+        "C": "Interest rate futures contract on a 3-month market reference rate"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods. Since the length of the discounting period depends on the maturity of the underlying market reference rate, 3-month market reference rate results in a longer discounting period than the 1-month rate. A is incorrect because the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods. Since the length of the discounting period depends on the maturity of the underlying market reference rate, 1-month market reference rate results in a shorter discounting period than the 3-month rate. Therefore, it will suffer from a smaller convexity bias. C is incorrect because convexity bias does not exist in interest rate futures contracts since their prices are not based on discounting. The futures contract has a fixed linear payoff profile for a given basis point change. On the other hand, the discounting feature of the FRA, which is not present in the futures contract, leads to a convexity bias that is greater for longer discounting periods.",
+      "answer_source": "red",
+      "tags": [
+        "explain why forward and futures prices differ"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "The upper bound of a call value is the:",
+      "options": {
+        "A": "underlying's price.",
+        "B": "underlying's price plus the present value of its exercise price or zero, whichever is greater.",
+        "C": "underlying's price minus the present value of its exercise price or zero, whichever is greater."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The upper no-arbitrage bound of a call price is the underlying's spot price. B is incorrect because the lower [not upper] bound of a call price is the underlying's price minus [not plus] the present value of its exercise price or zero, whichever is greater. Instead, the upper no-arbitrage bound of a call price is the underlying's spot price. C is incorrect because the lower [not upper] bound of a call price is the underlying's price minus the present value of its exercise price or zero, whichever is greater. Instead, the upper no-arbitrage bound of a call price is the underlying's spot price.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "Which party in an option contract has the right to sell the underlying stock at the exercise price?",
+      "options": {
+        "A": "The buyer of a call option",
+        "B": "The buyer of a put option",
+        "C": "The seller of a put option"
+      },
+      "answer": "B",
+      "explanation": "B is correct. , Because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option. A is incorrect because , because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to buy is one type of option, referred to as a call or call option. The buyer of a call option has the right to buy the underlying stock. C is incorrect because , because an option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. The right to sell is a (another) type of option, referred to as a put or put option. The seller of a put option has the obligation to buy the underlying if the buyer exercises the option.",
+      "answer_source": "manual",
+      "tags": [
+        "define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "All else being equal, if the risk-free rate increases immediately after the inception of a forward contract, the value of the contract to the forward buyer will:",
+      "options": {
+        "A": "decrease.",
+        "B": "stay the same.",
+        "C": "increase."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because, from the example on the Bioman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price The present value of the forward price has decreased, increasing the value to the buyer. If St is the spot price of the underlying asset at time t, [the equation] shows the forward contract MTM value at time t, Vt(T), from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)^−(𝑇−𝑡). A is incorrect because because, from the example on the Bioman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If S, is the spot price of the underlying asset at time t, [the the forward contract MTM value at time t, Vt(T), from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)^−(𝑇−𝑡). B is incorrect because because, from the example on the Bioman Contract, the higher risk-free rate increases the opportunity cost of a cash position and lowers the present value of the forward price. The present value of the forward price has decreased, increasing the value to the buyer. If St is the spot price of the underlying asset at time t, [the equation] shows the forward contract MTM value at time t, Vt(T),from the long forward position's perspective: 𝑉𝑡(𝑇) = 𝑆𝑡−𝐹𝑜(𝑇)(1 + 𝑟)^−(𝑇−𝑡).",
+      "answer_source": "red",
+      "tags": [
+        "Explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration."
+      ]
+    }
+  ]
+}

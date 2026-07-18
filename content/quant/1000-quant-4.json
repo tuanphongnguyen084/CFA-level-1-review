@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "id": "quant-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 70–93)",
+  "group": "1000 Question Bank — Quantitative Methods",
+  "source": "1000 Practice Questions — Quantitative Methods",
+  "questions": [
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "A portfolio has a mean return of 1.0% and a standard deviation of returns of 2.7%. If the specified minimum target return is 1.0%, the sample target semideviation is",
+      "options": {
+        "A": "less than 2.7%.",
+        "B": "equal to 2.7%.",
+        "C": "greater than 2.7%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The target downside deviation = [(X - B)(n - 1)]^0.5, where X, are the periodic returns below the target return, B is the target return, and n is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation. B is incorrect because the target downside deviation = [(X, - B)/(n - 1)], where X, are the periodic returns below the target return, B is the target return, and n is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation. C is incorrect because the target downside deviation = [(X - B)/(n - 1)]^0.5, where X, are the periodic returns below the target return, B is the target return, and n is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of dispersion to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "An analyst discards the lowest 2.5% and the highest 2.5% of values in a sample, and computes the mean of the remaining 95% of values. The resulting mean is best described as a",
+      "options": {
+        "A": "trimmed mean.",
+        "B": "harmonic mean.",
+        "C": "winsorized mean."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The trimmed mean is computed by excluding a stated small percentage of the lowest and highest values and then computing an arithmetic mean of the remaining values. For example, a 5% trimmed mean discards the lowest 2.5% and the highest 2.5% of values and computes the mean of the remaining 95% of values. B is incorrect because the harmonic mean is the value obtained by summing the reciprocals of the observations - terms of the form 1/X - then averaging that sum by dividing it by the number of observations n, and, finally, taking the reciprocal of the average. The harmonic mean may be viewed as a special type of weighted mean in which an observation's weight is inversely proportional to its magnitude. The harmonic mean does not exclude or replace any outliers. C is incorrect because the winsorized mean is calculated by assigning a stated percentage of the lowest values equal to one specified low value and a stated percentage of the highest values equal to one specified high value, and then it computes a mean from the restated data. For example, a 95% winsorized mean sets the bottom 2.5% of values equal to the value at or below which 2.5% of all the values lie (as will be seen shortly, this is called the '2.5th percentile' value) and the top 2.5% of values equal to the value at or below which 97.5% of all the values lie (the '97.5th percentile' value).",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "If a stock's continuously compounded return is normally distributed, the future stock price is most likely.",
+      "options": {
+        "A": "normally distributed.",
+        "B": "uniformly distributed.",
+        "C": "lognormally distributed."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The relationship between normal and lognormal distributions is if a stock's continuously compounded return is normally distributed, then future stock price is necessarily lognormally distributed. A is incorrect because the stock price will be distributed in a lognormal manner, not in a normal or uniform manner. B is incorrect because the stock price will be distributed in a lognormal manner, not in a normal or uniform manner.",
+      "answer_source": "red",
+      "tags": [
+        "explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns"
+      ]
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "An analyst considers the population of all existing stocks and selects those where the company name starts with the letter P. This sampling procedure is most likely an example of",
+      "options": {
+        "A": "systematic sampling.",
+        "B": "non-probability sampling.",
+        "C": "two-stage cluster sampling"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The sampling procedure does not give every member of the population an equal chance of being selected. It is based on the analyst's convenience. Non - probability sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. A is incorrect because the procedure does not involve the systematic selection of a sample from the population. With systematic sampling, we select every kth member until we have a sample of the desired size. The sample that results from this procedure should be approximately random. C is incorrect because cluster sampling requires the division or classification of the population into subpopulation groups, called clusters. In this method, the population is divided into clusters, each of which is essentially a mini - representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. If all the members in each sampled cluster are sampled, this sample plan is referred to as one - stage cluster sampling. If a subsample is randomly selected from each selected cluster, then the plan is referred as two - stage cluster sampling. Choosing only company names starting with the letter P is not two - stage cluster sampling.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "A bank offers a savings account with a stated annual rate of 3% in the first year and 5% in the second year. If returns are compounded quarterly and €90,000 is deposited in the account at the beginning of the first year, the account's value at the end of the second year is closest to",
+      "options": {
+        "A": "€97.200.",
+        "B": "€97,335.",
+        "C": "€97,455."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The returns are compounded quarterly, 90,000(1 + 0.03/4)^4(1 + 0.05/4)^4 = 97,455. A is incorrect because it fails to account for any compounding: (3% + 5%) = 8%, 90,000 (1.08) = 97,200. B is incorrect because it fails to account for quarterly compounding, 90,000(1.03) (1.05) = 97,335.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret annualized return measures and continuously compounded retums, and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "The lognormal distribution:",
+      "options": {
+        "A": "is unbounded",
+        "B": "is asymmetrical",
+        "C": "has the same mean as that of its associated normal distribution."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The two most noteworthy observations about the lognormal distribution are that it is bounded below by 0 and it is skewed to the right (it has a long right tail), i.e. it is asymmetrical. A is incorrect because the two most noteworthy observations about the lognormal distribution are that it is bounded below by 0 and it is skewed to the right. C is incorrect because like the normal distribution, the lognormal distribution is completely described by two parameters. Unlike the other distributions, a lognormal distribution is defined in terms of the parameters of a different distribution. The two parameters of a lognormal distribution are the mean and standard deviation (or variance) of its associated normal distribution. Remember, we must keep track of two sets of means and standard deviations (or variances) the mean and standard deviation (or variance) of the associated normal distribution (these are the parameters) and the mean and standard deviation (or variance) of the lognormal variable itself. The mean of the lognormal distribution is not equal to the mean of the associated normal distribution.",
+      "answer_source": "red",
+      "tags": [
+        "explain the relationship between normal and lognormal distributions and why the lognormal distribution is used to model asset prices when using continuously compounded asset returns"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "In simple linear regression analysis, the total sum of squares best describes:",
+      "options": {
+        "A": "a scatter plot.",
+        "B": "the variation of the dependent variable.",
+        "C": "a paired observation between variables."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The variation of Y [the dependent variable] is often referred to as the sum of squares total (SST), or the total sum of squares. A is incorrect because a scatter plot (or scattergram) represents two variables in two dimensions. The variation of Y [the dependent variable] is often referred to as the sum of squares total (SST), or the total sum of squares. C is incorrect because y [the dependent variable] is often referred to as the sum of squares total (SST), or the total sum of squares.",
+      "answer_source": "red",
+      "tags": [
+        "describe a simple linear regression model, how the least squares criterion is used to estimate regression coefficients, and the interpretation of these coefficients"
+      ]
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "The process of representing ownership rights to physical assets on a distributed ledger is referred to as",
+      "options": {
+        "A": "tokenization.",
+        "B": "Initial coin offering",
+        "C": "consensus mechanism"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger. B is incorrect because an initial coin offering (ICO) is an unregulated process whereby companies sell their crypto tokens to investors in exchange for fiat money or for another agreed upon cryptocurrency. C is incorrect because a consensus mechanism is used to validate new transactions in the blockchain; it is not the process of representing ownership rights to physical assets. New transactions are inserted into the chain only after validation via a consensus mechanism in which authorized members agree on the transaction and the preceding order, or history, in which previous transactions have occurred. The consensus mechanism used to verify a transaction includes a cryptographic problem that must be solved by some computers on the network (known as miners) each time a transaction takes place.",
+      "answer_source": "red",
+      "tags": [
+        "describe financial applications of distributed ledger technology"
+      ]
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "A pension fund needs to pay a lump sum $10,000,000 to its participants in 15 years. If the fund is expected to earn 5% per year compounded semi-annually, the amount needed today to meet its liability in 15 years is closest to",
+      "options": {
+        "A": "$4,767,427.",
+        "B": "$4,810,171.",
+        "C": "$4,892,771."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Using the equation PV=FVN (1 + rs/m) - Nm where m = number of compounding periods per year r = quoted annual interest rate N = number of years we compute PV = $10,000,000 × (1 + 0.05/2) - 15x2 = $4,767,426.85 ~ $4,767,427. In applying the equation, we use the periodic rate (in this case, the semi - annual rate) and the appropriate number of periods with semi - annual compounding. Alternative solution using a financial calculator in END mode: N = 30; I/Y= 0.025; PMT = 0; FV = 10,000,000; CPT PV = $4,767,426.852 ~ $4,767,427. B is incorrect because when computing present value, it uses 5% instead of EAR to get $10,000,000 x (1.05) - 15= $4,810,170.98 ~ $4,810,171. C is incorrect because in the present value equation, it incorrectly accounts for compounding (multiplies by 2 instead of dividing) and does not use the appropriate number of periods for semi - annual compounding (divides by 2 instead of multiplying by 2); to incorrectly compute PV = 10,000,000 × (1 + 0.05x2) - 15/2= $4,892,770.68 ~ $4,892,771.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret annualized return measures and continuously compounded returns, and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "Which of the following statements about distributed ledger technology is most accurate?",
+      "options": {
+        "A": "Bitcoin uses a permissioned network.",
+        "B": "Miners execute smart contracts in the blockchain.",
+        "C": "Tokenization can streamline the transfer of ownership of physical assets."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Through tokenization, the process of representing ownership rights to physical assets on a blockchain or distributed ledger, DLT [distributed ledger technology] has the potential to streamline this process by creating a single, digital record of ownership with which to verify ownership title and authenticity, including all historical activity. A is incorrect because bitcoin is a well - known use of an open permissionless network. . B is incorrect because miners verify transactions in the blockchain, they do not execute smart contracts. The consensus mechanism used to verify a transaction includes a cryptographic problem that must be solved by some computers on the network (known as miners) each time a transaction takes place. On the other hand, smart contracts are computer programs that self - execute on the basis of pre - specified terms and conditions agreed to by the parties to a contract.",
+      "answer_source": "red",
+      "tags": [
+        "describe financial applications of distributed ledger technology"
+      ]
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "Which of the following is an underlying assumption of the simple linear regression model? The regression residuals:",
+      "options": {
+        "A": "are normally distributed.",
+        "B": "have high correlations across observations",
+        "C": "have different variances across observations"
+      },
+      "answer": "A",
+      "explanation": "A is correct. We need to make the following four key assumptions to be able to draw valid conclusions from a simple linear regression model. One of those assumptions is that regression residuals are normally distributed. B is incorrect because one of the four underlying assumptions for simple linear regression is Independence: The observations, pairs of Ys and Xs, are independent of one another. This implies the regression residuals are uncorrelated [and do not have high correlation] across observations. C is incorrect because one of the four underlying assumptions for simple linear regression is Homoskedasticity: The variance of the regression residuals is the same [and not different] for all observations.",
+      "answer_source": "red",
+      "tags": [
+        "explain the assumptions underlying the simple linear regression model, and describe how residuals and residual plots indicate if these assumptions may have been violated"
+      ]
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "For a set of return observations, the coefficient of variation is best described as a measure of",
+      "options": {
+        "A": "risk per unit of mean return.",
+        "B": "mean excess return earned per unit of risk",
+        "C": "average absolute deviation around the mean return"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When the observations are returns, the coefficient of variation measures the amount of risk (standard deviation) per unit of mean return. B is incorrect because it describes the Sharpe ratio, not the coefficient of variation. The Sharpe ratio measures the reward, in terms of mean excess return, per unit of risk, where mean excess return is defined as the average rate of return in excess of the risk - free rate. C is incorrect because it describes the mean absolute deviation (MAD), not the coefficient of variation. The MAD is defined as the mean of the absolute values of deviations from the sample mean.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of dispersion to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "An analyst performs a hypothesis test concerning the difference between the mean returns of two portfolios, assuming normally distributed populations with unknown but equal variances. If the analyst decides to change the hypothesized difference in mean returns from 0% to 1%, which of the following will change?",
+      "options": {
+        "A": "The value of the test statistic",
+        "B": "The degrees of freedom used in the test",
+        "C": "The pooled estimate of the common population variance"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When the unknown population variances are equal, a t - test based on independent random samples is given by t = (X1 - X2 - μ₁ + µ₂)/(Sp²/n1 + Sp²/n2)^0.5, where Sp2 is a pooled estimator of the common variance. Hence, a change in hypothesized difference µ1 - µ2 will change the value of the test statistic. B is incorrect because the number of degrees of freedom is n, + n₂ - 2 and it is independent of the hypothesized difference µ1 - µ2. C is incorrect because sp2 = ((n1 - 1)s1² + (n2 - 1)s2²)/(n1 + n₂ - 2) is a pooled estimator of the common variance. It is independent of the hypothesized difference µ1 - µ2.",
+      "answer_source": "red",
+      "tags": [
+        "construct hypothesis tests and determine their statistical significance, the associated Type I and Type II errors, and power of the test given a significance level"
+      ]
+    },
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "An analyst tabulates the ranks of four paired observations of random variables X and Y as follows: Observation Rank of X Rank of Y 1 1 2 2 2 3 3 3 4 4 4 1 The Spearman rank correlation coefficient between X and Y is closest to:",
+      "options": {
+        "A": "-0.2.",
+        "B": "0.8.",
+        "C": "1.0."
+      },
+      "answer": "A",
+      "explanation": "A is correct. With n as the sample size, the Spearman rank correlation is given by: rs = 1 - (6 Σdi^2)/(n(n^2 – 1)) = 1 − 6(12)/(4(4^2 - 1)) = 1 - 6/5= - 1/5 = - 0.2, where the sum of squared differences in ranks Σdi^2 = (2 - 1)^2 + (3 - 2)^2 + (4 - 3)^2 + (1 - 4)^2 = 1 + 1 + 1 + 9 = 12. B is incorrect because this answer is calculated by erroneously omitting the multiple (of the sum of squared deviations) of 6, giving a rank correlation of 1 - 1/5 = 4/5 = 0.8. C is incorrect because instead of using the sum of squared differences in ranks, this answer erroneously uses the sum of unsquared differences in ranks (which, by definition, sums to zero), giving a rank correlation of 1.",
+      "answer_source": "red",
+      "tags": [
+        "explain parametric and nonparametric tests of the hypothesis that the population correlation coefficient equals zero, and determine whether the hypothesis is rejected at a given level of significance"
+      ]
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "An analyst runs a simple linear regression to test whether the variation in the demand for corn explains the variation in the supply of wheat. In this model, the supply of wheat is a(n):",
+      "options": {
+        "A": "indicator variable.",
+        "B": "explained variable.",
+        "C": "independent variable."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Variation in the demand for corn is being used to explain the variation in the supply of wheat. Therefore the variation in the supply of wheat is the dependent variable, or explained variable. We refer to the variable whose variation is being explained as the dependent variable, or the explained variable, it is typically denoted by Y. A is incorrect because variation in the supply of wheat is a dependent variable not limited to values of 0 or 1. Suppose we want to examine whether a company's quarterly earnings announcements influence its monthly stock returns. In this case, we could use an indicator variable, or dummy variable, that takes on only the values 0 or 1 as the independent variable. C is incorrect because the variation in the demand for corn is being used to explain the variation in the supply of wheat. Therefore the variation in the demand for corn is the independent variable. We refer to the variable whose variation is being used to explain the variation of the dependent variable as the independent variable, or the explanatory variable, it is typically denoted by X.",
+      "answer_source": "red",
+      "tags": [
+        "describe a simple linear regression model, how the least squares criterion is used to estimate regression coefficients, and the interpretation of these coefficients"
+      ]
+    },
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "A return distribution with negative skew and a mean of zero most likely has",
+      "options": {
+        "A": "frequent small gains and a few extreme losses.",
+        "B": "frequent small losses and a few extreme gains.",
+        "C": "frequent extreme losses and a few small gains."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A return distribution with negative skew has frequent small gains and a few extreme losses. B is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses. C is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A eturn distribution with negative skew has frequent small gains and a few extreme losses.",
+      "answer_source": "red",
+      "tags": [
+        "interpret and evaluate measures of skewness and kurtosis to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "If the relationship between the dependent variable and independent variable is linear, the regression residuals when plotted against the independent value should appear to",
+      "options": {
+        "A": "be linear.",
+        "B": "be random.",
+        "C": "follow a pattern"
+      },
+      "answer": "B",
+      "explanation": "B is correct. When we look at the residuals of a model, what we would like to see is that the residuals are random. The residuals should not exhibit a pattern when plotted against the independent variable. A is incorrect because when we look at the residuals of a model, what we would like to see is that the residuals are random. The residuals should not exhibit a pattern when plotted against the independent variable. C is incorrect because when we look at the residuals of a model, what we would like to see is that the residuals are random. The residuals should not exhibit a pattern when plotted against the independent variable.",
+      "answer_source": "red",
+      "tags": [
+        "explain the assumptions underlying the simple linear regression model, and describe how residuals and residual plots indicate if these assumptions may have been violated"
+      ]
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "In which of the following cases is cluster sampling most likely used? When:",
+      "options": {
+        "A": "conducting a market survey",
+        "B": "auditing financial statements",
+        "C": "creating a bond portfolio to mirror the performance of a specified index"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because, in cluster sampling, the population is divided into clusters, each of which is essentially a mini - representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling Cluster sampling is commonly used for market surveys, and the most popular version identifies clusters based on geographic parameters. B is incorrect because judgmental, not cluster, sampling involves selectively handpicking elements from the population based on a researcher's knowledge and professional judgment. For example, when auditing financial statements, seasoned auditors can apply their sound judgment to select accounts or transactions that can provide sufficient audit coverage. C is incorrect because creating a bond portfolio to mirror the performance of a specified index is an application of stratified sampling. Bond indexing is one area in which stratified sampling, rather than cluster sampling, is frequently applied. Indexing is an investment strategy in which an investor constructs a portfolio to mirror the performance of a specified index.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "Samples are drawn from a population that follows a binomial distribution with a probability of success on a trial of 0.3. According to the central limit theorem, as the sample size increases, the distribution of the sample mean approaches a",
+      "options": {
+        "A": "negatively skewed distribution.",
+        "B": "symmetric distribution.",
+        "C": "positively skewed distribution"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because, according to the central limit theorem, the sampling distribution of the sample mean will be approximately normal when the sample size n is large. The normal distribution has a skewness of 0 (it is symmetric). Since the binomial distribution has a mean of np and finite variance of np(1 - p), where n is the number of trials and p is the probability of success, the central limit theorem holds. A is incorrect because it is the underlying binomial distribution that exhibits skewness when p ≠ 0.5, not the sampling distribution of the sample mean. Since the sample size is large, the distribution of the sample mean will be approximately normal according to the central limit theorem, and therefore symmetric. C is incorrect because it is the underlying binomial distribution that exhibits skewness when p ≠ 0.5, not the sampling distribution of the sample mean. Since the sample size is large, the distribution of the sample mean will be approximately normal according to the central limit theorem, and therefore symmetric.",
+      "answer_source": "red",
+      "tags": [
+        "explain the central limit theorem and its importance for the distribution and standard error of the sample mean"
+      ]
+    },
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "A graphical depiction of a continuous distribution shows the left tail to be longer than the right tail. The distribution is best described as having",
+      "options": {
+        "A": "negative skewness.",
+        "B": "leptokurtosis.",
+        "C": "positive skewness."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A negatively skewed distribution appears as if the left tail has been pulled away from the mean. The average magnitude of negative deviations from the mean is larger than the average magnitude of positive deviations. B is incorrect because kurtosis refers to relative peakedness of a distribution; leptokurtosis means more peaked than normal. C is incorrect because a negatively skewed distribution appears as if the left tail has been pulled away from the mean.",
+      "answer_source": "red",
+      "tags": [
+        "interpret and evaluate measures of skewness and kurtosis to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "A nonparametric test is most appropriate when:",
+      "options": {
+        "A": "comparing differences between means.",
+        "B": "data are given in ranks.",
+        "C": "data meet distributional assumptions"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A nonparametric test is used under three circumstances: 1) when the data do not meet distributional assumptions, 2) when the data are given in ranks and 3) when the hypothesis does not concern a parameter. A is incorrect because tests related to differences between means concern a parameter. Nonparametric tests are used when the data do not concern a parameter or the data do not meet distributional assumptions. C is incorrect because when the data meet distributional assumptions, a parametric test is used instead of a nonparametric test.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast appropriate type of test parametric and nonparametric tests, and describe situations where each is the more"
+      ]
+    },
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "If a client controls the timing of cash flows into and out of a portfolio, which of the following is most appropriate when evaluating the performance of the portfolio manager?",
+      "options": {
+        "A": "Time-weighted rate of return",
+        "B": "Arithmetic mean rate of return",
+        "C": "Money-weighted rate of return"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The time - weighted rate of return is the preferred performance measure as it neutralizes the effect of cash withdrawals or additions to the portfolio, which are generally outside of the control of the portfolio manager. B is incorrect because the arithmetic return is biased upward. For the evaluation of portfolios of publicly traded securities, the time - weighted rate of return is the preferred performance measure. C is incorrect because investment managers find time - weighted returns more meaningful. If a client gives an investment manager more funds to invest at an unfavorable time, the manager's money - weighted rate of return will tend to be depressed. If a client adds funds at a favorable time, the money - weighted return will tend to be elevated. The time - weighted rate of return removes these effects.",
+      "answer_source": "red",
+      "tags": [
+        "compare the money - weighted and time - weighted rates of return and evaluate the performance of portfolios based on these measures"
+      ]
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "Grouping all publicly traded US firms by sector and then randomly selecting subsamples of firms from each sector according to the sector's proportion in the total population is an example of",
+      "options": {
+        "A": "cluster sampling",
+        "B": "simple random sampling.",
+        "C": "stratified random sampling."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because, in stratified random sampling, the population is divided into subpopulations (strata) based on one or more classification criteria. Simple random samples are then drawn from each stratum in sizes proportional to the relative size of each stratum in the population. A is incorrect because because, in cluster sampling, the population is divided into clusters, each of which is essentially a mini - representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. The sampling method used by the analyst is not cluster sampling because, first, each sector is not a mini - representation of all public firms, second, certain sectors are not chosen as a whole. B is incorrect because because, in simple random sampling, a public firm would be randomly selected without the firms being grouped into sectors first. A simple random sample is a subset of a larger population created in such a way that each element of the population has an equal probability of being selected to the subset.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "In hypothesis testing, which of the following best describes a Type II error?",
+      "options": {
+        "A": "Rejecting a true null hypothesis",
+        "B": "Rejecting a false null hypothesis",
+        "C": "Failure to reject a false null hypothesis"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because, when we make a decision in a hypothesis test, we run the risk of making either a Type I or a Type II error. These are mutually exclusive errors: If we mistakenly reject the null hypothesis, we can only be making a Type I error, if we mistakenly fail to reject the null, we can only be making a Type II error. A is incorrect because if we mistakenly reject the null hypothesis, we can only be making a Type I error. B is incorrect because rejecting a false null hypothesis is a correct decision and therefore not a Type II error.",
+      "answer_source": "red",
+      "tags": [
+        "explain hypothesis testing and its components, including statistical significance, Type I and Type II errors, and the power of a test."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 67–88)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "All else being equal in a period of declining inventory unit costs and constant inventory quantities, which of the following inventory valuation methods most likely allocates a higher amount of the total cost of goods available available for sale to cost of sales on the income statement?",
+      "options": {
+        "A": "FIFO",
+        "B": "LIFO",
+        "C": "Weighted average cost"
+      },
+      "answer": "A",
+      "explanation": "A is correct. In an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower. B is incorrect because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower. In comparison, in a period of declining inventory unit costs, LIFO will result in higher inventory and lower cost of sales. Because cost declined over the period, LIFO had the highest ending inventory, the lowest cost of sales, and the highest gross profit [compared to Specific Identification, Weighted Average Cost, and FIFO]. C is incorrect because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (compared with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, operating profit, and income taxes will be lower.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "The adjustments related to changes in the estimated residual value of a long-lived asset should be",
+      "options": {
+        "A": "handled prospectively",
+        "B": "shown separately on the income statement",
+        "C": "handled retrospectively unless impractical to do so."
+      },
+      "answer": "A",
+      "explanation": "A is correct. , in contrast to changes in accounting policies (such as whether to expense the cost of employee stock options), companies sometimes make changes in accounting estimates such as the useful life of a depreciable asset. Changes in accounting estimates are handled prospectively, with the change affecting the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not shown on the face of the income statement. B is incorrect because , in contrast to changes in accounting policies, changes in accounting estimates, such as the useful life of a depreciable asset, are handled prospectively. They affect the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not separately shown on the face of the income statement. C is incorrect because , in contrast to changes in accounting policies, changes in accounting estimates, such as the useful life of a depreciable asset, are handled prospectively. They affect the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not shown separately on the face of the income statement.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "Which of the following might indicate that a company uses aggressive accounting choices to increase its reported performance and financial position in the current period?",
+      "options": {
+        "A": "Increasing the estimated salvage values of PPSE",
+        "B": "Changing the depreciation method from straight-line to double-declining balance",
+        "C": "Changing from weighted average to FIFO Inventory valuation method in a period of declining inventory prices and constant inventory quantities"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Increasing the estimated salvage values is an example of a non-conservative (or aggressive) accounting policy. Depreciation expense is affected by the estimated salvage value of the assets being depreciated. A higher salvage value will decrease depreciation expense under most methods, compared with the choice of a lower salvage value. B is incorrect because changing the depreciation method from straight-line to double-declining balance is an example of a conservative accounting policy change. This change would increase depreciation expenses and decrease earnings for the year. The selection of a depreciation method affects the allocation of the cost of long-lived assets to accounting periods, and managers may choose different methods based on various factors. C is incorrect because changing from weighted average to FIFO Inventory valuation method in a period of declining inventory prices and quantities is an example of a conservative accounting policy change. In an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (in comparison with weighted average cost or LIFO) would allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. This change leads to higher cost of sales and lower reported profits. Assumptions about Inventory cost flows provide another example of how accounting choices can affect financial reporting.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "An analyst gathers she following information about a company's equipment base: Beginning balance accumulated depreciation €7.000.000 Ending balance accumulated depreciation €3.000.000 Depreciation expense of equipment €4.000.000 The company sold equipment having a historical cost of €5,000,000 and reported a loss on sale of €250,000. The cash received from the sale of equipment is",
+      "options": {
+        "A": "€750,000.",
+        "B": "€1,750.000",
+        "C": "€4,700.000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The cash received from the sale of equipment is determined by subtracting the book value of the equipment sold (calculated as the historical cost minus the accumulated depreciation) from the loss on sale reported. The formula is: Cash received from the sale of equipment = Book value of the equipment sold - Loss on sale = €2,000,000 - €250,000 = €1,750,000. A is incorrect because the cash received from the sale of equipment is calculated as follows: Historical cost of equipment sold (€5,000,000) - Accumulated depreciation on the equipment sold (€3,000,000) = Book value of the equipment sold (€2,000,000) - Loss on sale (€250,000) = €1,750,000. C is incorrect because the calculation for cash received from the sale of equipment as Historical cost of equipment sold (€5,000,000) - Loss on sale (€250,000) equals €4,750,000, which is not accurate in this context.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "An analyst gathers the following information (in millions) about a company. EBIT 150 Earnings before taxes 130 Net income 110 Total average asset 1,000 ROA is",
+      "options": {
+        "A": "11%",
+        "B": "13%",
+        "C": "15%"
+      },
+      "answer": "A",
+      "explanation": "A is correct. ROA is calculated as Net income divided by Average total assets, which is (110 / 1,000) * 100 = 11%. B is incorrect because it assumes ROA is calculated as Earnings before taxes divided by Total average assets, which is (130 / 1,000) * 100 = 13%. C is incorrect because it assumes ROA is calculated as EBIT divided by Average total assets, which is (150 / 1,000) * 100 = 15%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "In calculating basic and basic EPS, the numerators are the same but the denominators are different, the company.",
+      "options": {
+        "A": "split its stock during the year",
+        "B": "had stock options outstanding at year end.",
+        "C": "had convertible debt outstanding at year end."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The assumed exercise of the stock options would not change net income for the year (or predetermine dividends). Therefore, for calculating EPS, no change is made to the numerator. However, the denominator would be increased by the incremental number of shares issued as a result of the stock options being exercised. A is incorrect because if the number of shares of common stock increases as a result of a stock dividend or stock split, the EPS calculation reflects the change retroactively to the beginning of the period. The denominator is the same for both the basic and diluted EPS calculations. C is incorrect because both the numerator and the denominator change when dealing with convertible debt. The numerator is increased by after-tax interest on the convertible debt, and the denominator is increased by the additional shares that were issued upon conversion.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "An analyst gathers the following Information about a company's given fiscal year ended 31 December. Net income $1,200,000 Number of common shares outstanding on 1 January 1,000,000 Number of common shares issued on 1 April 100.000 Number of common shares outstanding on 31 December 1,100 000 Face value of convertible bonds outstanding for the year $2,000,000 Coupon rate on convertible bonds outstanding 8% Tax rate 30% the bonds are convertible into 200,000 common shares and there are no other potentially dilutive securities outstanding, The company's reported diluted EPS is closest to",
+      "options": {
+        "A": "$1.01.",
+        "B": "$1.03.",
+        "C": "$1.07."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The basic EPS calculation does not incorporate the convertible bond as dilutive. The basic EPS is calculated as follows: Basic EPS = (Net income - Preferred dividends) / (Weighted average number of shares outstanding). Net income is $1,200,000. There are no preferred dividends. Weighted average number of shares outstanding is calculated as follows: Weighted average number of shares outstanding = [(1,000,000 shares * 3 months) + (1,100,000 shares * 9 months)] / 12 months = (3,000,000 + 9,900,000) / 12 months = 12,900,000 / 12 = 1,075,000 shares. Therefore, Basic EPS = $1,200,000 / 1,075,000 = $1.12. Diluted EPS, computed using the convertible bonds, is calculated as follows: (Net income + After-tax interest on convertible debt - Preferred dividends) / (Weighted average number of shares outstanding - Additional common shares that would have been issued at conversion). After-tax interest on convertible debt = $2,000,000 * 8% * (1 - 30%) = $112,000 Therefore, Diluted EPS = ($1,200,000 + $112,000) / (1,075,000 + 200,000) = $1,312,000 / 1,275,000 ≈ $1.03. A is incorrect because it has not weighted the number of shares outstanding during the year and instead used the period-end balance along with the effect of the conversion. That is, weighted average number of shares outstanding is mistakenly calculated as 1,100.000 shares plus 200,000 which equals 1.300.000. Assuming all else equal, $1,312,000 / 1,300,000 = $1.01. C is incorrect because it erroneously includes the pre-tax cost of debt as an addition to net income in the numerator. The computation is shown as ($1,200,000 + $160,000) / (1,075,000 + 200,000) = $1,360,000 / 1,275,000 ≈ $1.07. If a candidate mistakenly uses net income alone in the numerator with any of the denominators in the three Response Rationales, the answer will also be closest to this distractor.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "An analyst gathers the following information about a company. Net profit margin 3.0% Total asset turnover 1.0 Financial leverage 1.5 Tax burden 0.85 ROE is closest to",
+      "options": {
+        "A": "5.4%",
+        "B": "6.9%",
+        "C": "8.1%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. ROE (Return on Equity) is calculated using the formula: Net profit margin × Total asset turnover × Financial leverage = 3.0% × 1.8 × 1.5 = 8.1%. A is incorrect because it omits the financial leverage in the ROE calculation and instead uses the ROA calculation. It calculates ROA (Return on Assets) as Net profit margin × Total asset turnover = 3% × 1.8 = 5.4%. B is incorrect because it includes the tax burden in the ROE calculation and not financial leverage. The formula becomes ROC (Return on Capital) = Net profit margin × Total asset turnover × Financial leverage × Tax burden = 3.0% × 1.8 × 1.5 × 0.85 = 6.585% ≈ 6.9%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "An analyst gathers the following Information (in € thousands) about equipment. Carrying amount prior to testing for impairment 10,000 Fair value 9,000 Present value of expected future cash flows 7,000 Costs to sel l 200 The equipments carrying amount (in € thousands) after Impairment is",
+      "options": {
+        "A": "7,000.",
+        "B": "8,800.",
+        "C": "9,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The carrying amount after the impairment charge is equal to the recoverable amount. Under IFRS 36, an impairment loss is measured as the excess of the carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell (€9,000 - €200 = €8,800) and its value in use (€7,000). In this case, the recoverable amount is the fair value less costs to sell, which is €8,800. A is incorrect because the carrying amount after the impairment charge is equal to the recoverable amount. Under IFRS 36, an impairment loss is measured as the excess of the carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell (€9,000 - €200 = €8,800) and its value in use (€7,000). The lower of these two values is €7,000, not €9,000. C is incorrect because it attempts to subtract the cost of selling from the fair value, which is not necessary. The recoverable amount of an asset is the higher of its fair value less costs to sell or its value in use, and in this scenario, the fair value less costs to sell is €8,800, not €9,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "Which of the following ratios is most appropriate in measuring a company's ability to cover its debt payment",
+      "options": {
+        "A": "Return on equity",
+        "B": "Fixed asset turnover",
+        "C": "Fixed charge coverage"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Solvency ratios are primarily of two types: debt ratios, which focus on the balance sheet and measure the amount of debt capital relative to equity capital, and coverage ratios, which focus on the income statement and measure the ability of a company to cover its debt payments. These ratios are used in assessing a company's solvency and evaluating the quality of its bonds and other debt obligations. Fixed charge coverage ratio is calculated as (EBIT + Lease payments) divided by (Interest payments + Lease payments). A higher fixed charge coverage ratio implies stronger solvency, offering greater assurance that the company can service its debt obligations, such as bank loans, notes, and bonds, from normal earnings. A is incorrect because this is a profitability ratio. ROE measures the return earned by a company on its equity capital, including minority equity, preferred equity, and common equity. ROE is calculated as Net Income divided by Average Total Equity. B is incorrect because this is an activity ratio (or asset utilization, turnover, or operating efficiency ratio) that measures how well a company manages various activities. Fixed asset turnover is calculated as Revenue divided by Average Net Fixed Assets. This ratio assesses how efficiently the company generates revenues from its investments in fixed assets.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "Under which of the following classifications of leases will a lessor derecognize the leased asset and recognize a lease receivable on the balance sheet at lease inception",
+      "options": {
+        "A": "Only a finance lease under IFRS",
+        "B": "Only an operating lease under US GAAP",
+        "C": "Both a finance lease under IFRS and an operating lease under US GAAP"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The accounting treatment for lessors is substantially similar under both IFRS and US GAAP. In both accounting standards, lessors classify leases as finance or operating leases, which determines their financial reporting. Under a finance lease, the lessor recognizes a lease receivable on the balance sheet, representing the present value of future lease payments, and derecognizes the leased asset. Any difference between the present value of the lease payments and the carrying amount of the asset is recognized as a gain or loss. B is incorrect because under both IFRS and US GAAP, lessors classify leases as finance or operating leases, each with its respective accounting treatment. In the case of an operating lease, the lessor retains the leased asset on its books and recognizes lease revenue on a straight-line basis over the lease term. C is incorrect because the accounting treatment for lessors is similar under both IFRS and US GAAP. Both standards categorize leases as finance or operating leases, impacting the lessor's financial reporting. In an operating lease scenario, the lessor retains the leased asset on its books and recognizes lease revenue evenly over the lease term, differing from finance leases where the lessor derecognizes the asset and recognizes a lease receivable.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "Ignoring income taxes, which of the following ratios decreases as a result of an impairment change",
+      "options": {
+        "A": "Net profit margin",
+        "B": "Debt-to-equity ratio",
+        "C": "Working capital turnover"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The amount of the impairment loss will reduce the carrying amount of the asset on the balance sheet and will consequently reduce net income on the income statement. Impairment charges reduce income but have no effect on revenue. Therefore, the impairment causes a decrease in the net profit margin, where Net profit margin = Net Income / Revenue. B is incorrect because the Debt-to-equity ratio is the total debt divided by total equity. The impairment loss reduces the carrying amount of the asset on the balance sheet, but it does not directly affect the total debt or equity, which are unaffected by impairment charges. Therefore, impairment charges do not impact the Debt-to-equity ratio. C is incorrect because the Working capital turnover ratio, which is calculated as Revenue divided by Average working capital, is unaffected by impairment changes. Impairment losses reduce the carrying amount of the asset on the balance sheet and subsequently reduce net income on the income statement. However, impairment charges are non-cash items and do not affect the working capital or the turnover ratio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "An analyst gathers the following information about a company: Short-term interest bearing debt 700 Current portion of long term interest bearing debt 500 Non-current portion of long-term interest bearing debt: 800 Total shareholders' equity 7,500 Based only on this information, the company's debt to capital ratio is closest to:",
+      "options": {
+        "A": "17%",
+        "B": "21%",
+        "C": "27%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Debt-to-capital ratio is calculated correctly as (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) divided by (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt + Total shareholders' equity), which results in (700 + 500 + 800) / (700 + 500 + 800 + 7,500) = 2,000 / 9,500 = 0.211 or 21%. A is incorrect because it incorrectly excludes the Current portion of long-term interest-bearing debt from the Total debt and calculates the Debt-to-capital ratio as Total debt / (Total debt + Total shareholders' equity), which leads to an error in the calculation. The correct formula for the debt to capital ratio is (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) / (Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt + Total shareholders' equity). Using the correct formula, the calculation would be (700 + 500 + 800) / (700 + 500 + 800 + 7,500) = 2,000 / 9,500 = 0.211 or 21%. C is incorrect because it mistakenly calculates the Debt-to-equity ratio [(Short-term interest-bearing debt + Current portion of long-term interest-bearing debt + Non-current portion of long-term interest-bearing debt) / Total shareholders' equity], which results in an incorrect Debt-to-capital ratio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "According to the converged standards for revenue recognition, which of the following might indicate that a seller has transferred control of an asset to a buyer at a point in time? The seller has",
+      "options": {
+        "A": "legal title of the asset",
+        "B": "a present right to payment for the asset",
+        "C": "significant risks and rewards of ownership related to the asset"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The entity (the seller) will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time include whether the entity has a present right to payment. A is incorrect because the entity will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time involve whether the customer (not the entity/seller) has legal title. C is incorrect because the entity (the seller) will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factors to consider when assessing whether the customer has obtained control of an asset at a point in time involve whether the customer (not the entity/seller) has the significant risks and rewards of ownership.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "A company incurred research costs which were all expensed in the current fiscal year for financial reporting purposes. Applicable tax laws require research costs to be expensed over a 5 year period if taxable profit will be available against which the deductible temporary differences can be utilized, in the current fiscal year the company will most likely record",
+      "options": {
+        "A": "a deferred tax asset.",
+        "B": "a deferred tax liability",
+        "C": "neither a deferred tax asset nor a deferred tax liability."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The carrying amount is zero due to the full amount having been expensed for financial accounting purposes, while the tax base of the asset was only reduced by one-fifth of the total cost in the first year. Additionally, taxable profit will be available against which the deductible temporary differences can be utilized. As the asset's carrying amount is less than the tax base, it will result in a deferred tax asset. B is incorrect because a deferred tax liability results when the asset's carrying amount is greater than the tax base. C is incorrect because the asset's carrying amount is less than the tax base, therefore it will result in a deferred tax asset.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "All else being equal, the cash conversion cycle most likely shortens if",
+      "options": {
+        "A": "payables turnover decreases",
+        "B": "Inventory turnover decreases.",
+        "C": "days of sales outstanding increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. If payables turnover were to decrease, it would increase the Number of days of payables, thereby increasing the CCC. B is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. A decrease in inventory turnover would increase the Days of Inventory on hand, thereby increasing the cash conversion cycle. C is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. An increase in the Days of sales outstanding would increase, not decrease, the cash conversion cycle.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "On the statement of cash flows, interest payments may be classified as a financing cash flow under",
+      "options": {
+        "A": "IFRS only",
+        "B": "US GAAP only.",
+        "C": "both IFRS and US GAAP"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The cash paid for interest is included in operating cash flows under US GAAP and may be included in operating or financing cash flows under IFRS. US GAAP classifies interest expense as an operating activity, even though the principal amount of the debt issued is classified as a financing activity. IFRS allows companies to classify interest expense as either an operating activity or a financing activity. B is incorrect because the cash paid for interest is included in operating cash flows under US GAAP. C is incorrect because the cash paid for interest is included in operating cash flows under US GAAP and may be included in operating or financing cash flows under IFRS.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "An analyst gathers The following information (in € thousands) about a company whose fiscal year ends on 31 December Earnings for the six months ended 30 June of Year 1 2,000 Earnings for the year ended 31 December of Year 1 1,500 Earnings for the six months ended 30 June of Year 2 2.200 The company's trailing 12 months (in € thousands) for the period ended 30 one of Year 2 is",
+      "options": {
+        "A": "1,700",
+        "B": "3,700",
+        "C": "4,200."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The company's trailing 12 months earnings for the period ended 30 June of Year 2 are calculated as (Earnings as of 31 December of Year 1 - Earnings as of 30 June of Year 1) + Earnings as of 30 June of Year 2. It's (1,500 - 2,000) + 2,200 = 3,700. B is incorrect because the provided explanation seems to be incorrect. The correct calculation for the trailing 12 months earnings is not just the sum of Earnings as of 31 December of Year 1 and Earnings as of 30 June of Year 2. The correct formula should consider the earnings over the last 12 months leading to 30 June of Year 2. C is incorrect because the calculation method provided is incorrect. The trailing 12 months earnings should consider the cumulative earnings for the 12 months leading to the end of June of Year 2, not just the earnings at different intervals.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "An analyst gathers the following information about three companies (In € millions) Company 1 Company 2 Company 3 Total assets 100 200 400 Total debt 20 50 60 Total equity 80 150 320 Earnings before interest and taxes (EBIT) 8 10 12 Interest payments 4 4 4 Based on this information, which company is most solvent?",
+      "options": {
+        "A": "Company 1",
+        "B": "Company 2",
+        "C": "Company 3"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Solvency refers to the ability to meet long-term debt obligations. It can be evaluated using leverage and coverage ratios. Typically, higher leverage ratios indicate higher financial risk and weaker solvency. Also, a higher interest coverage ratio suggests stronger solvency. Comparing the information provided: Company 1 Company 2 Company 3 Debt to assets ratio 0.20 0.25 0.15 Debt to equity ratio 0.25 0.33 0.23 Debt to capital 0.20 0.25 0.20 Financial leverage ratio 1.25 1.33 1.25 Interest coverage ratio 2.00 2.50 3.02 Among the three companies, Company 3 has the lowest debt proportionately (comparing debt ratios) and the highest interest coverage ratio, indicating it might be the most solvent among the options provided. Therefore, the correct answer is C, Company 3. A is incorrect because even though Company 1 has the lowest leverage ratio among the three, it has a lower interest coverage ratio compared to Company 3, indicating it might not be the most solvent. B is incorrect because Company 2 has higher leverage ratios than both Company 1 and Company 3 and a lower interest coverage ratio than Company 3, indicating it may not be the most solvent.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "The carrying amount of an asset being higher than its tax base may be considered a",
+      "options": {
+        "A": "temporary difference resulting in a deferred tax asset",
+        "B": "permanent difference resulting in a deferred tax asset.",
+        "C": "temporary difference resulting in a deferred tax ability"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. Deferred tax liabilities arise when the carrying amount of an asset exceeds its tax base, leading to taxable amounts in future periods when the temporary difference reverses. These differences affect accounting profit and taxable income, resulting in deferred tax liabilities, which are recognized on the balance sheet. A is incorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. B is incorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "A debt-to-equity of 1.0 most likely results in a debt-to-capital ratio of.",
+      "options": {
+        "A": "0.5",
+        "B": "1.0",
+        "C": "2.0"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The debt-to-equity ratio measures the proportion of debt used to finance a company's assets compared to the equity. A debt-to-equity ratio of 1.0 indicates an equal amount of debt and equity. The debt-to-capital ratio calculates the proportion of debt financing in relation to the company's total capital. If the debt-to-equity ratio is 1.0, then the debt-to-capital ratio would be 0.5. Debt-to-equity ratio = Total debt / Total shareholder's equity = 1.0 Debt-to-capital ratio = Total debt / (Total debt + Total shareholder's equity) = 1.0 / (1.0 + 1.0) = 1.0 / 2.0 = 0.5. B is incorrect because it incorrectly equates the debt-to-equity ratio with the debt-to-capital ratio, stating they both are 1.0. C is incorrect because it asserts that the debt-to-capital ratio is twice the debt-to-equity ratio. This is inaccurate as the debt-to-capital ratio is not necessarily double the debt-to-equity ratio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "Which of the following financial statement disclosures concerning PP&E is required under US GAAP?",
+      "options": {
+        "A": "The balances of major classes of depreciable assets",
+        "B": "The date of revaluation under the revaluation model",
+        "C": "A reconciliation of carrying amount at the beginning and end of the period"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The disclosure requirements under US GAAP regarding Property, Plant, and Equipment (PP&E) necessitate the disclosure of major classes of depreciable assets. Companies are mandated to reveal the balances of significant classes of depreciable assets, accumulated depreciation by major asset classes, and a general description of the depreciation methods used for computing depreciation expense related to those major classes of depreciable assets. B is incorrect because the revaluation model is not permitted under US GAAP for reporting long-lived assets. This model is allowed under IFRS but not under US GAAP. C is incorrect because while IFRS necessitates a reconciliation of the carrying amount at the beginning and end of the period for each class of PP&E, under US GAAP, the disclosure requirements are less exhaustive. US GAAP requires a disclosure of depreciation expense for the period, balances of major classes of depreciable assets, accumulated depreciation by major asset classes, and a general description of the depreciation methods used for computing depreciation expense related to those major classes of depreciable assets. Thus, the reconciliation of the carrying amount at the beginning and end of the period is not specifically required under US GAAP for PP&E disclosures.",
+      "answer_source": "red"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "id": "corporate-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 46–67)",
+  "group": "1000 Question Bank — Corporate Issuers",
+  "source": "1000 Practice Questions — Corporate Issuers",
+  "questions": [
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Which of the following is an example of a secondary source of liquidity for a company?",
+      "options": {
+        "A": "Short-term funds",
+        "B": "Liquidating assets",
+        "C": "Effective cash management"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The main difference between primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source might result in a change in the company's financial and operating positions. Secondary sources used by companies include: liquidating assets, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value. A is incorrect because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following: Short-term funds, which can include items such as trade credit, bank lines of credit, and short-term investment portfolios of the firm. C is incorrect because primary sources of liquidity represent the most readily accessible resources available to the company. These can be cash held or near-cash securities and include the following: Cash management, which is the company's effectiveness in its cash management system and practices and the degree of decentralization of the collections or payments processes.",
+      "answer_source": "red",
+      "tags": [
+        "explain liquidity and compare issuers' liquidity levels"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "Which of the following committees of a board of directors oversees the development of the company's conflict of interest policy?",
+      "options": {
+        "A": "Risk committee",
+        "B": "Governance committee",
+        "C": "Remuneration committee"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The main role of the board's governance committee is to ensure that the company adopts good corporate governance structures and practices. For this purpose, it oversees the development of the governance policies at the company such as - the corporate governance code - the charter of the board and its committees - the code of ethics and - the conflict of interest policy, among others. A is incorrect because it is the governance committee, not the risk committee, that has the responsibility to oversee the development of governance policies, including a conflict of interest policy. In summary, key oversight functions of the risk committee include - determining company risk profile, - ensuring appropriate enterprise risk management, and - aligning corporate activities with risk appetite. C is incorrect because it is the governance committee, not the remuneration committee, that has the responsibility to oversee the development of governance policies, including a conflict of interest policy. In summary key oversight functions of the remuneration committee include - developing director and executive remuneration policies, - overseeing performance policy management and evaluation, and - setting human resources (HR) policies relating to employee compensation.",
+      "answer_source": "red",
+      "tags": [
+        "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions): Initial Outlay Year 1 Year 2 Cash flow: -£150 £8 £175 The expected IRR for this project is most likely.",
+      "options": {
+        "A": "less than 12%.",
+        "B": "equal to 12%.",
+        "C": "greater than 12%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The IRR is the discount rate that makes the present value of the future after-tax cash flows equal that investment outlay or ∑𝑛 𝑡=1 𝐶𝐹𝑡/(1 + 𝐼𝑅𝑅)𝑡= outlay., where IRR is the internal rate of return. Solved using the following calculator inputs: CF0=-150, CF1 = 8, CF₂ = 175, Calculate IRR = 10.7119, rounded to 10.71% which is less than 12%. B is incorrect because it refers to the company's required rate of return, not the expected IRR. C is incorrect because it inflates cash flows in Years 2 by 8 and represents an IRR calculation using the following calculator inputs: IRR≠ PV=-150, PMT = 8, N=2, FV = 175, Calculate = 13.15246%, rounded to 13.15% which is more than 12%.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "All else being equal, if interest on debt is tax deductible, an increase in the company's marginal tax rate will:",
+      "options": {
+        "A": "decrease the company's WACC.",
+        "B": "not affect the company's WACC.",
+        "C": "increase the company's WACC."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The marginal cost of debt financing is the cost of debt after considering the allowable deduction for interest on debt. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC. B is incorrect because the WACC does not remain the same. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC. C is incorrect because it does not increase the WACC. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t). If the marginal tax rate increases, this increases the tax shield and lowers the marginal cost of debt and also the WACC.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the weighted-average cost of capital for a company"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "A company increases its debt from 20% to 60% of its capital structure. Based on the Modigliani and Miller proposition (without taxes) regarding capital structure, the WACC of the company:",
+      "options": {
+        "A": "decreases.",
+        "B": "remains the same.",
+        "C": "increases."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC. A is incorrect because the Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC. C is incorrect because the Modigliani and Miller proposition implies that higher leverage raises the cost of equity but does not change firm value or WACC.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "The NPV of a new project is expected to be -$0.20 million. An incremental investment of $0.40 million would give management the flexibility to switch to a lower cost input in the future. If this option has an estimated value of $0.80 million, the value of the project including the option is:",
+      "options": {
+        "A": "$0.20 million.",
+        "B": "$0.40 million.",
+        "C": "$1.00 million"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The NPV, including the real option, should be: Project NPV = NPV (based on DCF alone) - Cost of options + Value of options. Project NPV = -$0.2 million - $0.4 million+ $0.8 million = $0.2 million. B is incorrect because the original NPV of the investment was not considered. Project NPV≠ - Cost of options + Value of options. Project NPV ≠ -$0.4 million+ $0.8 million = $0.4 million. C is incorrect because the cost of the option was added to the NPV (based on DCF alone) instead of being subtracted. Project NPV ≠ NPV (based on DCF alone) + Cost of options + Value of options Project NPV≠ - $0.2 million+ $0.4 million+ $0.8 million = $1.0 million.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of real options relevant to capital investments"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "According to the pecking order theory, company managers most likely prefer to:",
+      "options": {
+        "A": "issue debt as the last resort.",
+        "B": "raise equity first to preserve cash-flow.",
+        "C": "rely on internal financing over new equity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The pecking order theory suggests that managers choose methods of financing according to a hierarchy that gives first preference to methods with the least potential information content (internally generated funds) and lowest preference to the form with the greatest potential information content (public equity offerings). In brief, managers prefer internal financing; if internal financing is insufficient, managers next prefer debt, then equity. A is incorrect because the pecking order theory suggests that managers choose methods of financing according to a hierarchy that gives first preference to methods with the least potential information content (internally generated funds) and lowest preference to the form with the greatest potential information content (public equity offerings). In brief, managers prefer internal financing; if internal financing is insufficient, managers next prefer debt, then equity. B is incorrect because the pecking order theory suggests that managers choose methods of financing according to a hierarchy that gives first preference to methods with the least potential information content (internally generated funds) and lowest preference to the form with the greatest potential information content (public equity offerings). In brief, managers prefer internal financing; if internal financing is insufficient, managers next prefer debt, then equity.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "Which of the following is most accurate?",
+      "options": {
+        "A": "Risk appetites are similar among private lenders",
+        "B": "Staggered boards provide continuous implementation of strategy and oversight",
+        "C": "A company's CEO is responsible for implementing the company's strategy under the oversight of the company's shareholders"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The positive aspect of a staggered board, though, is that it provides continuous implementation of strategy and oversight without constantly being reassessed by new board members, which otherwise risks bringing short-termism into company strategy. A is incorrect because private debtholders have wide variation in risk appetites. With banks and private lenders, the general perspective of debtholders applies less financial leverage implies less risk and is therefore preferred. Among private lenders, however, there is wide variation in their risk appetite, approach, behavior, and relationships with companies to whom they have provided capital. C is incorrect because a company's CEO is hired by the board and responsible for implementing the company's strategy under the oversight of the board of directors. Managers, led by the chief executive officer of the company, are responsible for determining and implementing the corporation's strategy under the oversight of the board of directors. In addition, a company's board of directors is elected by shareholders to protect shareholders' interests and provide strategic direction, taking into consideration the company's risk appetite, which it defines for the company. The board is also responsible for hiring the CEO and monitoring the performance of the company and management.",
+      "answer_source": "red",
+      "tags": [
+        "describe a company's stakeholder groups and compare their interests"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "The potential for conflict between debtholders and shareholders is:",
+      "options": {
+        "A": "lower for long-term debt than for short-term debt.",
+        "B": "the same for long-term debt and short-term debt.",
+        "C": "higher for long-term debt than for short-term debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The potential debt/equity conflict is greater in the case of long-term rather than short-term debt because the passage of time exposes debtholders to possible changes in business conditions, strategy, and management behavior. A is incorrect because the potential debt/equity conflict is greater in the case of long-term rather than short-term debt because the passage of time exposes debtholders to possible changes in business conditions, strategy, and management behavior So, the conflict between debtholders and shareholders is greater (not lower) in the case of long term versus short-term debt. B is incorrect because the potential debt/equity conflict is greater in the case of long-term rather than short-term debt because the passage of time exposes debtholders to possible changes in business conditions, strategy, and management behavior. So, the conflict between debtholders and shareholders is greater (not the same) in the case of long-term versus short-term debt.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "A corporation's stakeholders most likely include:",
+      "options": {
+        "A": "shareholders only.",
+        "B": "controlling shareholders only.",
+        "C": "all shareholders and all employees."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and governments/regulators (and, by extension, affected individuals and community groups). A is incorrect because the primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and governments/regulators (and, by extension, affected individuals and community groups). Additionally, in some companies, a particular shareholder or block of shareholders may hold a percentage of shares that gives them sufficient voting power to control the election of the board of directors and to influence the approval or blockage of a company re : these shareholders are known as controlling shareholders. In contrast, non-controlling shareholders (minority shareholders) hold a much smaller proportion of a company's outstanding shares, resulting in a more limited ability to exercise control in voting activities. Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares. The full group of stakeholders is more inclusive. B is incorrect because the primary stakeholder groups of a corporation consist of shareholders, creditors, managers (or executives), other employees, board of directors, customers, suppliers, and governments/regulators (and, by extension, affected individuals and community groups). Additionally, in some companies, a particular shareholder or block of shareholders may hold a percentage of shares that gives them sufficient voting power to control the election of the board of directors and to influence the approval or blockage of a company re ; these shareholders are known as controlling shareholders. In contrast, non-controlling shareholders (minority shareholders) hold a much smaller proportion of a company's outstanding shares, resulting in a more limited ability to exercise control in voting activities. Controlling and minority shareholders are stakeholders, and the only stakeholders who own shares. The full group of stakeholders is more inclusive.",
+      "answer_source": "red",
+      "tags": [
+        "describe a company's stakeholder groups and compare their interests"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "In a corporation, which of the following stakeholder groups is the principal in a principal-agent relationship?",
+      "options": {
+        "A": "Shareholders",
+        "B": "Board of directors",
+        "C": "Senior management"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company. B is incorrect because the relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company. So, the board of directors is an agent (not a principal) in a corporation. C is incorrect because the relationship between shareholders and managers/directors is a classic example of a principal-agent relationship, whereby shareholders (the principal in this case) elect directors (an agent) who are expected to protect their interests by appointing senior managers (another agent) to run the company. So, the senior management is an agent (not a principal) in a corporation.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "An analyst gathers the following information about a company: Capital Source Market Value (Millions) Before-tax Cost of Capital Bonds €60 6% Preferred stock €20 8% Common stock €120 15% If the company's marginal tax rate is 40%, its weighted average cost of capital is closest to:",
+      "options": {
+        "A": "9.7%.",
+        "B": "10.9%.",
+        "C": "11.6%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The WACC = w_d × r_d × (1 − t) + w_p × r_p + w_e × r_e Where: 𝑤𝑑= the market value weight for debt = 60/(60+20 + 120) = 0.30 rd= the before-tax cost of debt = 6% t= the company's marginal tax rate = 40% = 0.4 wp = the market value weight for preferred stock = 20 / (60+20+ 120) = 0.10 rp =the marginal cost of preferred stock = 8% we = the market value weight for equity = 120 / (60+20+ 120) = 0.60 re= the marginal cost of equity = 15% WACC = (0.30 x 6% x (1 -0.4)) + (0.10 x 8% ) + (0.60 x 15% ) = 10.88%. A is incorrect because it is the average, not the weighted average of the costs of capital (as calculated in the response rationale for the answer key). WACC = (6% +8% +15%)/3 = 9.67%. C is incorrect because before-tax cost of debt is used in the calculation. WACC = (0.30 x 6%) + (0.10 x 8%) + (0.60 x 15%) =11.60%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the weighted-average cost of capital for a company"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Covenants are most likely to exist between a company and its:",
+      "options": {
+        "A": "creditors.",
+        "B": "management.",
+        "C": "board of directors."
+      },
+      "answer": "A",
+      "explanation": "A is correct. To limit bondholders' risk during the term of a bond (or loan), the bond indenture typically contains covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing. B is incorrect because covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing. Covenants apply to an issuer's relationship with creditors, not with management. C is incorrect because covenants, which are the terms and conditions of lending agreements, enabling creditors to specify the actions an issuer is obligated to perform or prohibited from performing. Covenants apply to an issuer's relationship with creditors, not with the board of directors.",
+      "answer_source": "red",
+      "tags": [
+        "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "If a company's debt-to-equity ratio is 0.5, the weight of equity applied in estimating the company's WACC is closest to:",
+      "options": {
+        "A": "0.33.",
+        "B": "0.50.",
+        "C": "0.67."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The weight of debt is determined by the formula: Wd=D/E/(1+D/E) where D is the value of debt and E is the value of equity. Weight of equity (w.) is represented by 1 minus the weight of debt. Calculation: 1-0.5/(1.5)=1-0.333 =0.667 ≈0.67. A is incorrect because it is the weight of debt, not equity. 0.5/ (1.5) = 0.333 -0.33. B is incorrect because it is the D/E ratio not the weight of equity.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the weighted-average cost of capital for a company"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "Compared to those of public companies, share issuances of private companies most likely.",
+      "options": {
+        "A": "raise larger amounts of capital.",
+        "B": "include a larger number of investors.",
+        "C": "include investors with longer holding periods."
+      },
+      "answer": "C",
+      "explanation": "C is correct. To raise more capital after listing, public companies may issue additional shares in the capital markets, typically raising very large amounts from many investors who may then actively trade shares among themselves in the secondary market. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods. A is incorrect because private companies usually raise less cash compared to public companies. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods. B is incorrect because the number of investors that participate in offerings of private companies is lower. In contrast, private companies finance much smaller amounts in the primary market (private debt or equity) with far fewer investors who have much longer holding periods.",
+      "answer_source": "red",
+      "tags": [
+        "compare publicly and privately owned Corporate Issuers"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "Tiered pricing is best described as:",
+      "options": {
+        "A": "charging different prices at different times.",
+        "B": "charging different prices to different buyers.",
+        "C": "combining a low price on a piece of equipment with high-margin pricing on repeat-purchase consumables."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Tiered pricing charges different prices to different buyers, most commonly based on volume purchased. A is incorrect because dynamic pricing charges different prices at different times. C is incorrect because razors-and-blades pricing combines a low price on a piece of equipment and high-margin pricing on repeat-purchase consumables.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "A company is deciding whether to invest in one of two mutually exclusive projects with positive NPVs. If Project 1 has a higher NPV but a lower IRR than Project 2, the company should:",
+      "options": {
+        "A": "prefer Project 1.",
+        "B": "prefer Project 2.",
+        "C": "be indifferent between Project 1 and Project 2."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred.... As a practical matter, once a corporation has the data to calculate the NPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. However, the most appropriate and theoretically sound criterion is the NPV. B is incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV [not IRR] criterion is strongly preferred. C is incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion [not either one] is strongly preferred.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "Compared to private corporations, which of the following is a typical characteristic of public corporations?",
+      "options": {
+        "A": "A government is a shareholder",
+        "B": "Shares are listed on a stock exchange",
+        "C": "Transfer of ownership between investors is more difficult"
+      },
+      "answer": "B",
+      "explanation": "B is correct. When it comes to corporations, 'public' and 'private' are typically defined by whether the company's equity is listed on a stock exchange, although in some countries whether a company is considered public or not may depend on its number of shareholders, irrespective of whether it is listed. A is incorrect because the word 'public' can be misleading because it typically implies government involvement However, when it comes to corporations, 'public' and 'private' are typically defined by whether the company's equity is listed on a stock exchange. C is incorrect because these are private company shares do not trade on an exchange, so no visible valuation or price transparency exists for the company and shares are not easily bought and sold. This makes ownership transfers between seller and buyer much more difficult than for a public company.",
+      "answer_source": "red",
+      "tags": [
+        "compare publicly and privately owned Corporate Issuers"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "When choosing between mutually exclusive projects, an analyst should:",
+      "options": {
+        "A": "accept the project with the highest IRR.",
+        "B": "use the opportunity cost of funds as the discount rate.",
+        "C": "accept the projects for which the IRR is greater than the opportunity cost of funds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred, we referred to the rate used in discounting the cash flows as the \"required rate of return.\" The required rate of return is the discount rate that the issuer's suppliers of capital require given the riskiness of the project. This discount rate is frequently called the \"opportunity cost of funds\" or the \"cost of capital. For a capital investment with one investment outlay, made initially, the net present value (NPV) is the present value of the future after-tax cash flows minus the investment outlay, where the discount rate equals the required rate of return. A is incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. Independent projects versus mutually exclusive projects: Independent projects are capital investments whose cash flows are independent of each other. Mutually exclusive projects compete directly with each other. The decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment. Invest if: IRR >r, and Do not invest if IRR <r. The required rate of return is often called the hurdle rate, the rate that a project's IRR must exceed for the project to be accepted by the company. C is incorrect because the decision rule for the IRR is to invest if the IRR exceeds the required rate of return for a capital investment Invest if IRR > r, and Do not invest if IRR <r. However, when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred. Therefore, the IRR criterion is not preferred in this case. In addition, mutually exclusive projects imply that only one project can be chosen.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "An electric vehicle manufacturer invests in a new technology to meet new safety standards. This project is best classified as a(n):",
+      "options": {
+        "A": "expansion project.",
+        "B": "compliance project.",
+        "C": "going concern project."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Regulatory and compliance projects are required by third parties, such as government regulatory bodies, to meet safety and regulatory compliance standards. The investment in new technology to meet improved safety standards is therefore a compliance project. A is incorrect because expansion projects are those that increase business size, usually by investing in the development of new products or services and/or acquiring other companies. The investment in new technology to meet improved safety standards is not an expansion project. C is incorrect because going concern projects are those investments needed to continue the company's current operations and maintain the existing size of the business. The investment in new technology to meet improved safety standards is not a going concern project.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of capital investments"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "The flow of finished goods from manufacturer to wholesaler, retailer, and finally to the end customer best describes a(n):",
+      "options": {
+        "A": "direct sales strategy.",
+        "B": "omnichannel strategy.",
+        "C": "traditional channel strategy."
+      },
+      "answer": "C",
+      "explanation": "C is correct. , for 'product' businesses, the traditional channel strategy is typically reflected in the flow of finished goods (eg, from manufacturer to wholesaler, retailer, and end customer), each with its own physical facilities and with the product sold and purchased at each stage. A is incorrect because manufacturers [sometimes] employ a direct sales strategy, selling directly to the end customer Direct sales to the end customer bypass ('disintermediate') the distributor or retailer. Typically, this involves the company's own sales force, which in some cases represents a significant business investment and carrying cost for the firm. B is incorrect because , with an omnichannel strategy, both digital and physical channels are used to complete a sale. For example, a customer might order an item online and pick it up in a store ('click and collect') or select an item in a store and have it delivered. Thus, an omnichannel strategy does not say anything about the flow of goods from manufacturer to wholesaler, retailer, and then end customer.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "A company is evaluating the following mutually exclusive capital projects: Project 1 Project 2 NPV $180,000 $100,000 IRR 10% 15% If the hurdle rate is 8%, the company should invest in:",
+      "options": {
+        "A": "Project 1 only.",
+        "B": "Project 2 only.",
+        "C": "both Project 1 and Project 2."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Project 1 has a higher NPV. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound. B is incorrect because Project 2 has a lower NPV despite a higher IRR. For mutually exclusive investments that are ranked differently by the NPV and IRR, the NPV criterion is more economically sound. C is incorrect because Project 1 and Project 2 are mutually exclusive projects. In the case of mutually exclusive investment projects, a company could, on occasion, face the following situation Project A might have a larger NPV than Project B, but Project B has a higher IRR than project A. Since the company can invest in only one project, which should it be- Project A or Project B? The correct choice is Project A, the one with the higher NPV.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "id": "derivatives-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 23–44)",
+  "group": "1000 Question Bank — Derivatives",
+  "source": "1000 Practice Questions — Derivatives",
+  "questions": [
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "When the strike price of a call option is lower, the likelihood of the option expiring in-the-money is:",
+      "options": {
+        "A": "lower.",
+        "B": "unchanged.",
+        "C": "higher."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. A is incorrect because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. Therefore, the likelihood is higher and not lower. B is incorrect because for a call option, a lower exercise price has two benefits. One is that there are more values of the underlying at expiration that are above the exercise price, meaning that there are more outcomes in which the call expires in-the-money. Therefore, the likelihood is higher and not unchanged.",
+      "answer_source": "red",
+      "tags": [
+        "explain the exercise value, moneyness, and time value of an option"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the:",
+      "options": {
+        "A": "risk-free rate.",
+        "B": "dividend yield.",
+        "C": "convenience yield."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. B is incorrect because derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Therefore, it is the risk-free rate and not the dividend yield a hedge involving the underlying asset and a derivative must pay. C is incorrect because derivatives are typically priced by forming a hedge involving the underlying asset and a derivative such that the combination must pay the risk-free rate and do so for only one derivative price. Also, some commodities generate a benefit that is somewhat opaque and difficult to measure. This benefit is called the convenience yield. It represents a nonmonetary advantage of holding the asset. Therefore, it is the risk-free rate and not the convenience yield a hedge involving the underlying asset and a derivative must pay.",
+      "answer_source": "red",
+      "tags": [
+        "explain how the concepts of arbitrage and replication are used in pricing derivatives"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "The potential divergence between the cash flow timing of a derivative instrument versus its underlying best describes:",
+      "options": {
+        "A": "basis risk.",
+        "B": "liquidity risk.",
+        "C": "systemic risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Liquidity risk is described as potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction. A is incorrect because basis risk is described as the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction. C is incorrect because systemic risk results from excessive risk taking and use of leverage in derivative markets that may contribute to market stress.",
+      "answer_source": "red",
+      "tags": [
+        "describe benefits and risks of derivative instruments"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Before expiration, if the price of the underlying is above the exercise price, the European put option has a positive:",
+      "options": {
+        "A": "time value.",
+        "B": "intrinsic value.",
+        "C": "exercise value."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If the underlying is equal to or worth more than the exercise price at expiration (S,>X), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise value and only a positive time value. B is incorrect because if the underlying is equal to or worth more than the exercise price at expiration (S,>X), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero intrinsic (or exercise) value and only a positive time value. C is incorrect because if the underlying is equal to or worth more than the exercise price at expiration (S,>X), the put will simply expire with no value. So, the put is worth the greater of either zero or the exercise price minus the price of the underlying at expiration. Also, the time value of an option is the difference between the market price of the option and its intrinsic value. As the price of the underlying is above the exercise price the put has a zero exercise (or intrinsic) value and only a positive time value.",
+      "answer_source": "red",
+      "tags": [
+        "explain the exercise value, moneyness, and time value of an option"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "According to put-call-forward parity, the payoff on a fiduciary call is equivalent to the payoff on a portfolio consisting of:",
+      "options": {
+        "A": "a long call and a short risk-free bond.",
+        "B": "a long put, a long forward contract and a long risk-free bond.",
+        "C": "a short call, a long forward contract and a long risk-free bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Recall our put-call parity discussion and assume that investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract Therefore, the payoff on a fiduciary call = the payoff on a synthetic protective put, fiduciary call = long call + long risk-free bond = long risk-free bond + long forward contract + long put. A is incorrect because recall our put-call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a long call and a short risk-free bond. C is incorrect because recall our put-call parity discussion and assume that Investor A creates his protective put in a slightly different manner. Instead of buying the asset, he buys a forward contract and a risk-free bond in which the face value is the forward price. This strategy is a synthetic protective put. Because we showed that the fiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent to a protective put with a forward contract. Therefore, the payoff on a fiduciary call is not equal to the payoff on a portfolio consisting of a short call, a long forward contract and a long risk-free bond.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call forward parity for European options"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Compared to over-the-counter derivatives, exchange-traded derivatives:",
+      "options": {
+        "A": "are less standardized.",
+        "B": "provide less transparency.",
+        "C": "have lower transaction costs."
+      },
+      "answer": "C",
+      "explanation": "C is correct. OTC and ETD markets differ in several ways, including that ETD contracts have lower trading and transaction costs. A is incorrect because oTC and ETD markets differ in several ways, including that ETD contracts are more standardized. B is incorrect because oTC and ETD markets differ in several ways, including that OTC instruments have less transparency, whereas ETD markets have transparency.",
+      "answer_source": "red",
+      "tags": [
+        "describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "A series of forward rate agreements and an interest rate swap contract covering the same periods and using the same market reference rate will most likely have the same:",
+      "options": {
+        "A": "fixed rates.",
+        "B": "cash flows upfront.",
+        "C": "settlement cash flows."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Similarities between interest rate forwards and swaps include the symmetric payoff profile and exchanged upfront. A is incorrect because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods. C is incorrect because different FRA fixed rates usually exist for different times to maturity. In contrast, a standard interest rate swap has a constant fixed rate over its life, which includes multiple periods and the FRA has a single settlement, which occurs at the beginning of an interest period, while a standard swap has periodic settlements. which occur at the end of each respective period.",
+      "answer_source": "red",
+      "tags": [
+        "describe how swap contracts are similar to but different from a series of forward contracts"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "The value of a forward contract at initiation is most likely equal to:",
+      "options": {
+        "A": "zero.",
+        "B": "the spot price minus the forward price.",
+        "C": "the forward price minus the spot price."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Neither the long nor the short pays anything to the other at the initiation date of a forward contract when initiated is zero. B is incorrect because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. Because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiation is zero. Therefore, the value of a forward contract at initiation is not equal to the spot price minus the forward price. C is incorrect because the value of a forward contract at expiration is the spot price of the underlying minus the forward price agreed to in the contract. because neither the long nor the short pays anything to the other at the initiation date of a forward contract, the value of a forward contract when initiation is zero. Therefore, the value of a forward contract at initiation is not equal to the forward price minus the spot price.",
+      "answer_source": "red",
+      "tags": [
+        "explain how the value and price of a forward contract are determined at initiation, during the life of the contract, and at expiration."
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Which of the following derivatives realize a gain as the market reference rate rises above the initial fixed rate?",
+      "options": {
+        "A": "Long forward rate agreements only",
+        "B": "Short interest rate futures contracts only",
+        "C": "Both long forward rate agreements and short interest rate futures contracts"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Realizing a gain on the FRA contract as rates rise. Note that this would be equivalent to taking a short position on a CNY MRR futures contract if one were available. A long FRA (ie., FRA floating-rate receiver (fixed-rate payer)) position realizes a gain as MRR rises. A short futures contract price is based on (100- yield). which gains as yield-to-maturity (MRR) rises. A is incorrect because short interest rate futures contracts also gain from a rising market reference rate. B is incorrect because long forward rate agreements also gain from a rising market reference rate.",
+      "answer_source": "red",
+      "tags": [
+        "compare the value and price of forward and futures contracts"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "In the over-the-counter derivatives market, most transactions occur between end users and:",
+      "options": {
+        "A": "dealers.",
+        "B": "other end users.",
+        "C": "a central counterparty."
+      },
+      "answer": "A",
+      "explanation": "A is correct. OTC (over-the-counter) derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks. B is incorrect because end users do not generally trade with other end users. OTC derivative markets involve contracts entered between derivatives end users and dealers, or financial intermediaries, such as commercial banks or investment banks. C is incorrect because the central counterparty provides clearing and settlement functions rather than trading derivatives. A central counterparty (CCP) assumes the credit risk between derivative counterparties, one of which is typically a financial intermediary. CCPS provide clearing and settlement for most derivative contracts.",
+      "answer_source": "red",
+      "tags": [
+        "describe the basic features of derivative markets, and contrast over-the-counter and exchange-traded derivative markets"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Which of the following statements is most accurate? A standard interest rate swap has:",
+      "options": {
+        "A": "a symmetric payoff profile.",
+        "B": "the principal cash flow exchanged upfront.",
+        "C": "periodic settlements that occur at the beginning of each period."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Other similarities between interest rate forwards and swaps include the symmetric payoff profile and the fact that no cash flow is exchanged upfront. The symmetric payoff profile of a swap has zero value to both parties means that the swap at contract inception. B is incorrect because other similarities between interest rate forwards and swaps include the symmetric payoff profile and the fact that no cash flow is exchanged upfront. C is incorrect because an FRA (forward rate agreement) has a single settlement, which occurs at the beginning of an interest period, while a standard swap has periodic settlements, which occur at the end of each respective period. So, while a standard swap does have periodic settlements, these occur at the end of the period, not the beginning.",
+      "answer_source": "red",
+      "tags": [
+        "describe how swap contracts are similar to but different from a series of forward contracts"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "The upper bound of a call price is the:",
+      "options": {
+        "A": "exercise price.",
+        "B": "price of the underlying.",
+        "C": "underlying's price minus the present value of the exercise price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Call buyer will not pay more for the right to purchase an underlying than the price of that underlying, which is the upper bound. A is incorrect because this distractor is the upper bound of a put value and not a call price. The exercise price, X, therefore represents the upper bound on the put value. C is incorrect because this answer choice represents the lower bound of a call price and not the upper bound. The lower bound of a call price is therefore the underlying's price minus the present value of its exercise price or zero, whichever is greater.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "The following portfolios contain a company's stock and a derivative on the stock: Portfolio Securities 1 Stock and a short futures position 2 Stock and a short call option position 3 Stock and a short warrant position The portfolio containing a derivative acting as a firm commitment to hedge the stock is most likely.",
+      "options": {
+        "A": "Portfolio 1.",
+        "B": "Portfolio 2.",
+        "C": "Portfolio 3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The buyer of a derivative enters a contract whose value changes in a way similar to a long position in the underlying. Thus a short futures position hedges the exposure to the underlying: Use of a derivative to offset or neutralize existing or anticipated exposure to an underlying is referred to as hedging, with the derivative itself commonly described as a hedge of the underlying transaction. In addition, a futures position is a firm commitment: Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. B is incorrect because an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim. C is incorrect because a warrant is a type of option and an option is an example of a contingent claim rather than a firm commitment. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim, Companies may also issue warrants, which are options granted to employees or sold to the public that allow holders to purchase shares at a fixed price in the future directly from the issuer.",
+      "answer_source": "red",
+      "tags": [
+        "define a derivative and describe basic features of a derivative instrument"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "A futures contract's:",
+      "options": {
+        "A": "mark-to-market is not settled until maturity.",
+        "B": "price remains fixed until the contract matures.",
+        "C": "variation margin reduces counterparty credit risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The daily settlement mechanism resets the futures MTM to zero, and variation margin is exchanged to settle the difference, reducing counterparty credit risk. A is incorrect because forward (not future) contract MTM is not settled until maturity. B is incorrect because the forward price, F0(T), is constant until the contract matures, whereas the futures price, f0(T), fluctuates daily based upon market changes.",
+      "answer_source": "red",
+      "tags": [
+        "compare the value and price of forward and futures contracts"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "A stock with a dividend yield of 3% is trading in the spot market at $50. If the annual risk-free rate is 5%, the 6- month forward price of the stock is closest to:",
+      "options": {
+        "A": "$49.50.",
+        "B": "$50.50.",
+        "C": "$51.27."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The forward price is: F0(T) = S0e^(f-i)T where r is the risk-free rate, is the dividend yield, and T is the time period. F0(T) = $50e^(0.05 -0.03)^0.5 = $50.50251≈$50.50. A is incorrect because the risk-free rate and the dividend yield were reversed. ≠ F0(T) = $50e^(0.03-0.05)^0.5 = $49.50249 ≈$49.50. C is incorrect because the dividend was excluded from the calculation. ≠ F0(T) = $50e^(0.05)^0.5 = $51.26576 ≈ $51.27.",
+      "answer_source": "red",
+      "tags": [
+        "explain how the concepts of arbitrage and replication are used in pricing derivatives"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "If the net cost of carry is zero, the forward price of a commodity is most likely.",
+      "options": {
+        "A": "less than the commodity's spot price compounded at the risk-free rate over the life of the contract.",
+        "B": "equal to the commodity's spot price compounded at the risk-free rate over the life of the contract.",
+        "C": "greater than the commodity's spot price compounded at the risk-free rate over the life of the contract."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The forward price of an asset with benefits and/or costs is the spot price compounded at the risk-free rate over the life of the contract minus the future value of those benefits and costs. That is. F0(T) = S0(1+r)^T-(𝛾-𝜃)(1+r)^T, where the net cost of carry consists of the benefits, denoted as 𝛾, (dividends or interest plus convenience yield), minus the costs, denoted as 𝜃 When net cost of carry is zero, the term (𝛾-𝜃) is zero, resulting in (𝛾-𝜃)(1+r)^T being zero. Then, F0(T) = S0(1+r)^T .Hence, the forward price of a commodity is equal to the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry is zero. A is incorrect because when benefits exceed the costs, then the forward transaction would return less than the spot transaction. The formula adjusts the forward price downward by the expression -(𝛾- 𝜃)(1+r)^T to reflect this net loss over the spot transaction. In other words, acquiring the asset in the forward market would be cheaper because it forgoes benefits that exceed the costs. Therefore, forward price of a commodity will be less than the commodity's spot price compounded at the risk-free rate over the life of the contract when net cost of carry (𝛾-𝜃),is positive, not when it is zero. C is incorrect because if the costs exceeded the benefits, the forward price would be higher because the forward contract avoids the costs at the expense of the lesser benefits. Then, the term (𝛾- 𝜃)(1+r)^T will be negative. adding to S0(1+r)^T in absolute terms (due to preceding negative sign), resulting in a forward price that is higher than the spot price compounded at the risk-free rate. Therefore, the forward price of a commodity will be greater than the commodity's spot price compounded at the risk-free rate over the life of the contract when the net cost of carry, (𝛾-𝜃), is negative, not when it is zero.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the spot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Long futures contracts are more attractive than long forward positions for the same underlying and maturity when futures prices and interest rates are:",
+      "options": {
+        "A": "negatively correlated.",
+        "B": "uncorrelated.",
+        "C": "positively correlated."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price. A is incorrect because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price. B is incorrect because the different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures and if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates the more desirable contract will tend to have the higher price.",
+      "answer_source": "red",
+      "tags": [
+        "explain why forward and futures prices differ"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "The differential between forward and futures prices is determined by which of the following?",
+      "options": {
+        "A": "Interest rate volatility only",
+        "B": "The correlation between futures prices and interest rates only",
+        "C": "Both interest rate volatility and the correlation between futures prices and interest rates"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The different patterns of cash flows for forwards and futures can lead to a difference in the pricing of forwards versus futures. Forward and futures prices are identical under certain conditions, namely: if interest rates are constant, or if futures prices and interest rates are uncorrelated. On the other hand, violations of these assumptions can give rise to differences in pricing between these two contracts. For example, if futures prices are positively correlated with interest rates, long futures contracts are more attractive than long forward positions for the same underlying and maturity. The reason is because rising prices lead to futures profits that are reinvested in periods of rising interest rates, and falling prices lead to losses that occur in periods of falling interest rates. The price differential will also vary with the volatility of interest rates. Therefore, the differential between forward and futures prices is determined by both interest rate volatility and the correlation between futures prices and interest rates. A is incorrect because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer. B is incorrect because the differential between forward and futures prices is determined by both the correlation between futures prices and interest rates, and by interest rate volatility, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "explain why forward and futures prices differ"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "From the fixed-rate receiver's perspective, if the market reference rate increases, the value of a swap contract:",
+      "options": {
+        "A": "decreases.",
+        "B": "stays the same.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The fixed-rate receiver pays the market reference rate and receives the swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases to them. Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate. Similarly the fixed-rate receiver (floating-rate payer) is long a fixed-rate bond with a coupon equal to the swap rate and short a floating-rate note priced at the MRR. A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed swap rate will remain the same. B is incorrect because the fixed-rate receiver pays the market reference rate and receives the swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases to them, not stays the same Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate. Similarly, the fixed-rate receiver (floating rate payer) is long a fixed-rate bond with a coupon equal to the swap rate and short a floating-rate note priced at the MRR. A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate will remain the same. C is incorrect because the fixed-rate receiver pays the market reference rate and receives the swap par rate. If the market reference rate increases, they are paying more and the value of the contract decreases, not increases, to them. Another interpretation of an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long a floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a coupon equal to the fixed swap rate. Similarly, the fixed-rate receiver (floating rate payer) is long a fixed-rate bond with a coupon equal to the swap rate and short a floating rate note priced at the MRR. A rise in the expected forward rates after inception will increase the present value of floating payments, while the fixed-swap rate will remain the same.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the value and price of swaps"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "An analyst gathers the following information: ● The current spot price of crude oil is $120 per barrel. ● The risk-free rate is 3% with annual compounding. ● A futures contract has 182 days until settlement. ● The storage cost is $5 per barrel, payable at the end of the futures contract. Based on 365 days per year, the futures price per barrel of crude oil is closest to:",
+      "options": {
+        "A": "$126.78.",
+        "B": "$126.86.",
+        "C": "$126.93."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The futures price for a commodity with known storage cost amounts may be determined [as ...]: f0(T) = [S0+ PV0(C)] × (1+r)^T. PV0(C)=$5x(1+3%)^-182/365 F0(T) = [$120 + $5x(1+3%)^-182/365]x(1 + 3%)^182/365 = $126 781768 ≈ $126.78. B is incorrect because it doesn't discount the storage cost from settlement day to today to find its present value since the futures price for a commodity with known storage cost amounts may be determined as: f0(T) = [S0+ PV0(C)] × (1+r)^T . If no discounting is applied to the storage cost, it would be incorrectly assumed to be PV0(C) = $5. F0(T) = [$120 + $5] × (1+3%) 182/365 = $126.856008≈ $126.86. C is incorrect because it compounds the storage cost from today to settlement instead of discounting to find its present value since the futures price for a commodity with known storage cost amounts may be determined as: f0(T) = [S0+ PV0(C)] × (1+r)^T If compounding is applied to the storage cost, it would be incorrectly assumed to be PV0(C) = $5 x (1+3%)^182/365 f0(T) = [$120+ $5] x (1+3%)^182/365 x (1+3%)^182/365 =$126.931351 ≈$126.93.",
+      "answer_source": "red",
+      "tags": [
+        "compare the value and price of forward and futures contracts"
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Most derivatives pricing models are established on the foundation that:",
+      "options": {
+        "A": "arbitrage opportunities exist.",
+        "B": "only one price for a derivative exists.",
+        "C": "the underlying asset price is inferred to determine the derivative price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity. Therefore, there exists only one price for each derivative. A is incorrect because the principle of no arbitrage and replication can be used to value and price derivatives. In other words, arbitrage opportunities can be exploited using derivatives, but for the pricing of derivatives the no-arbitrage condition is assumed to hold, ie, no arbitrage opportunities exist. C is incorrect because the law of one price can be used to value a derivative security since there is a one-to-one relationship between the derivative and its underlying asset at maturity. Further, the one-period binomial model determines the value of a derivative using the underlying's price at t = 0 as an input for the calculation. For example, the price of a call option is \"c0 = h x S0-V₁(1+r)^-1,\" where c0 is the call option value at t = 0 and S0 is the price of the underlying at t=0. Therefore, the price of the underlying asset is not inferred when determining the derivative's price. Instead, the price of the underlying asset is considered a given and used as an input in the calculation.",
+      "answer_source": "red",
+      "tags": [
+        "explain how to value a derivative using a one-period binomial model"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "Which of the following is most accurate regarding a call option replication strategy?",
+      "options": {
+        "A": "The strategy requires adjustment over the life of the option contract based on the likelihood of exercise",
+        "B": "If the call option is exercised, the strategy requires purchasing the underlying from the proceeds of the loan",
+        "C": "At inception, the strategy requires buying long a forward contract on the underlying and borrowing at the risk free rate"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The non-linear payoff profile of an option requires that the replicating transaction be adjusted as this likelihood changes, while the replicating trades for a forward commitment remain constant. Also, as in the case of the call option, the asymmetric payoff profile requires adjustment over time based on the likelihood of exercise. B is incorrect because this is a put option replication strategy if exercised. A call option replication strategy if exercised, requires to sell the underlying and use the proceeds to repay the loan. In order to replicate the call option at contract inception (t = 0), we also must borrow at the risk-free rate, r, and use the proceeds to purchase the underlying at a price of S, At option expiration (t = T), unlike in the case of the forward commitment, there are two possible replication outcomes: Exercise (ST>X): Sell the underlying for Stand use the proceeds to repay X. No exercise (ST <X): No settlement is required. In order to replicate the put option at contract inception (t = 0), we must sell the underlying short at a price of SO and lend the proceeds at the risk-free rate, r. At option expiration (t=T), unlike in the case of the forward commitment, there are two possible replication outcomes. Exercise (ST <X): Purchase the underlying for ST from the proceeds of the risk-free loan. No exercise (ST > X): No settlement is required. C is incorrect because a call option replication strategy does not require the long purchase of a forward contract. In order to replicate the call option at contract inception (t = 0), we also must borrow at the risk-free rate, r, and use the proceeds to purchase the underlying at a price of S0.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+      ]
+    }
+  ]
+}

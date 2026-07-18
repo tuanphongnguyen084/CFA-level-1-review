@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "quant-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 24–46)",
+  "group": "1000 Question Bank — Quantitative Methods",
+  "source": "1000 Practice Questions — Quantitative Methods",
+  "questions": [
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "An analyst draws samples from an original sample to estimate the standard error of a population mean. Which of the following best describes this sampling procedure?",
+      "options": {
+        "A": "Bootstrap method",
+        "B": "Cluster sampling method",
+        "C": "Convenience sampling method"
+      },
+      "answer": "A",
+      "explanation": "A is correct. In bootstrap, we repeatedly draw samples from the original sample, and each resample is of the same size as the original sample. Note that each item drawn is replaced for the next draw (i.e., the identical element is put back into the group so that it can be drawn more than once) Assuming we are looking to find the standard error of sample mean, we take many resamples and then compute the mean of each resample. B is incorrect because in cluster sampling, elements are selected from the population not an original sample. The population is divided into clusters, each of which is essentially a mini - representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. C is incorrect because in convenience sampling, elements are selected from the population not from an original sample. An element is selected from the population based on whether or not it is accessible to a researcher or on how easy it is for a researcher to access the element. Because the samples are selected conveniently, they are not necessarily representative of the entire population, and hence the level of the sampling accuracy could be limited.",
+      "answer_source": "red",
+      "tags": [
+        "describe the use of bootstrap resampling in conducting a simulation based on observed data in investment applications"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "An investor is considering buying a US T-bill. If the real risk-free rate is 1% and the inflation premium is 2%, the investor's opportunity cost of falling to make this investment is closest to",
+      "options": {
+        "A": "1%.",
+        "B": "2%.",
+        "C": "3%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Interest rates can be considered opportunity costs. The real risk - free interest rate is the single - period interest rate for a completely risk - free security if no inflation were expected. In economic theory, the real risk - free rate reflects the time preferences of individuals for current versus future real consumption. The sum of the real risk - free interest rate and the inflation premium is the nominal risk - free interest rate. Many countries have governmental short - term debt whose interest rate can be considered to represent the nominal risk - free interest rate in that country. The interest rate on a 90 - day US Treasury bill (T - bill), for example, represents the nominal risk - free interest rate over that time horizon. Therefore, the opportunity cost of this investment is 1% + 2% = 3%. A is incorrect because interest rates can be considered opportunity costs. The real risk - free interest rate is the single - period interest rate for a completely risk - free security if no inflation were expected. In economic theory, the real risk - free rate reflects the time preferences of individuals for current versus future real consumption. The sum of the real risk - free interest rate and the inflation premium is the nominal risk - free interest rate. As the inflation premium is 2%, the 1% real risk - free rate is not the opportunity cost of buying the US T - bill. B is incorrect because interest rates can be considered opportunity costs. The inflation premium compensates investors for expected inflation. The real risk - free interest rate is the single - period interest rate for a completely risk - free security if no inflation were expected. In economic theory, the real risk - free rate reflects the time preferences of individuals for current versus future real consumption. The sum of the real risk - free interest rate and the inflation premium is the nominal risk - free interest rate. As the real risk - free rate is 1%, the 2% inflation premium is not the opportunity cost of buying the US T - bill.",
+      "answer_source": "red",
+      "tags": [
+        "interpret interest rates as required rates of return, discount rates, or opportunity costs and explain an interest rate as the sum of a real risk - free rate and premiums that compensate investors for bearing distinct types of risk"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "An investor records the following information and transactions for a stock: Year Price per Share at Beginning of Year Cash Flow at Beginning of Year 1 $100 $100 used to purchase one share 2 $100 $9 received in dividends and not reinvested 3 $100 $100 received from selling one share The investor's money-weighted rate of return is closest to:",
+      "options": {
+        "A": "4.4%.",
+        "B": "4.5%.",
+        "C": "4.6%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. It is the money - weighted return when the dividend is not reinvested. Calculator Solution: CF0 = - 100, CF1 = 9, CF2 = 100, compute IRR = 4.601% ~4.6%. A is incorrect because it is the money - weighted return when the dividend is reinvested. Calculator Solution: CF0 = - 100, CF1 = 0, CF2 = 109, compute IRR = 4.403% ~ 4.4%. The answer is also the geometric mean return; [(1 + 0.09)(1 + 0.00) ^0.5 - 1=0.04403 ~ 4.4%. B is incorrect because it is the arithmetic mean return; (0.09 + 0.00)/2 = 0.045 = 4.5%. The arithmetic or mean return is denoted by R, and given by the following equation for asset i, where R, is the return in period t and T is the total number of periods: R= (R/ + R/2 + ... + R)/T. The returns in Year 1 and Year 2 are calculated as (100 - 100 + 9)/100 = 0.09 and (100 - 100 + 0)/100 = 0.00, respectively.",
+      "answer_source": "red",
+      "tags": [
+        "compare the money - weighted and time - weighted rates of return and evaluate the performance of portfolios based on these measures"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "The null hypothesis for the F-distributed test statistic in a simple linear regression model tests whether the",
+      "options": {
+        "A": "slope is equal to zero.",
+        "B": "intercept is equal to zero",
+        "C": "slope is not equal to zero."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In regression analysis, we can use an F - distributed test statistic to test whether the slopes in a regression are equal to zero, with the slopes designated as b, against the alternative hypothesis that at least one slope is not equal to zero for simple linear regression, these hypotheses simplify to H0: b1 = 0. Ha b₁ ≠0. B is incorrect because in regression analysis, we can use an F - distributed test statistic to test whether the slopes in a regression are equal to zero, with the slopes designated as b, against the alternative hypothesis that at least one slope is not equal to zero for simple linear regression, these hypotheses simplify to H0 b₁ = 0. Ha b₁ ≠0. C is incorrect because in regression analysis, we can use an F - distributed test statistic to test whether the slopes in a regression are equal to zero, with the slopes designated as b, against the alternative hypothesis that at least one slope is not equal to zero for simple linear regression, these hypotheses simplify to H, b₁ = 0. Ha b₁ ≠ 0.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret measures of fit and formulate and evaluate tests of fit and of regression coefficients in a simple linear regression"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "An analyst estimates the probabilities of three possible economic scenarios and the probabilities of a stock having a positive or a negative return in each scenario. These scenarios are best represented by a",
+      "options": {
+        "A": "tree-map.",
+        "B": "tree diagram.",
+        "C": "probability density function"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Probabilities for different scenarios and different outcomes are best represented using a tree diagram,. A is incorrect because a tree - map is a graphical tool to display categorical data. It consists of a set of colored rectangles to represent distinct groups, and the area of each rectangle is proportional to the value of the corresponding group. Additional dimensions of categorical data can be displayed by nested rectangles. C is incorrect because the probability estimates are for two discrete random variables, not one continuous random variable. A probability function specifies the probability that the random variable takes on a specific value. For continuous random variables, the probability function is called the probability density function (pdf), or just the density.",
+      "answer_source": "red",
+      "tags": [
+        "formulate an investment problem as a probability tree and explain the use of conditional expectations in investment application"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Which of the following is most likely used to detect sentiment shifts in an analyst's commentary?",
+      "options": {
+        "A": "Tokenization",
+        "B": "Data curation",
+        "C": "Natural language processing"
+      },
+      "answer": "C",
+      "explanation": "C is correct. NLP [natural language processing] may be used to monitor analyst commentary to aid investment decision making. Since analysts tend not to change their buy, hold, and sell recommendations for a company frequently, they may instead offer nuanced commentary without making a change in their investment recommendation. NLP can, therefore, be used to detect, monitor, and tag shifts in sentiment, potentially ahead of an analyst's recommendation change. A is incorrect because tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger. It is not able to detect shifts in an analyst's sentiment. B is incorrect because data curation refers to the process of ensuring data quality and accuracy through a data cleaning exercise. This process consists of reviewing all data to detect and uncover data errors - bad or inaccurate data - and making adjustments for missing data when appropriate. While the data used for natural language processing may need to be curated, it is not, in of itself, able to detect shifts in an analyst's sentiment.",
+      "answer_source": "red",
+      "tags": [
+        "describe applications of Big Data and Data Science to investment management"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following visualizations is most appropriate for interpreting the correlation between two variables?",
+      "options": {
+        "A": "Tree-map",
+        "B": "Scatter plot",
+        "C": "Clustered bar chart"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Scatter plots are a very useful tool for the sensible interpretation of a correlation coefficient. A scatter plot is a type of graph for visualizing the joint variation in two numerical variables. It is a useful tool for displaying and understanding potential relationships between the variables. A is incorrect because a tree - map is useful for displaying a frequency distribution, not correlation. In addition to bar charts and grouped bar charts, another graphical tool for displaying categorical data is a tree - map. It consists of a set of colored rectangles to represent distinct groups, and the area of each rectangle is proportional to the value of the corresponding group. The tree - map can represent data with additional dimensions by displaying a set of nested rectangles. C is incorrect because a clustered bar chart is useful for displaying a frequency distribution, not correlation. In the case of two categorical variables, we need an enhanced version of the bar chart, called a grouped bar chart (also known as a clustered bar chart), to show joint frequencies.",
+      "answer_source": "red",
+      "tags": [
+        "interpret correlation between two variables to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "An investor has three options for receiving payments from an investment. • Option 1: a single payment of $136,000 today. • Option 2: 30 annual payments of $12,000, beginning one year from today. • Option 3: 20 annual payments of $13,000, beginning today. If the annual discount rate is 8%, the option with the highest present value is:",
+      "options": {
+        "A": "Option 1.",
+        "B": "Option 2.",
+        "C": "Option 3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of the annuities and the $136,000 lump sum. Calculator solution for Option 2: End mode; N = 30; I/Y= 8; PMT= - 12,000, compute PV = 135,093. Calculator solution for Option 3: Begin mode; N = 20; I/Y= 8; PMT= - 13,000; compute PV = 137,847. A is incorrect because option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of $137,847. The PV of Option 1 is $136,000. If a candidate incorrectly calculated the present value of Option 3 as an ordinary annuity, the lump sum of $136,000 would have the highest present value. Incorrect calculator solution for Option 3: End mode; N = 20; I/Y = 8; PMT= - 13,000, compute PV = 127,636. B is incorrect because option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of $137,847. The PV of Option 2 is $135,093. If a candidate ignored the discount rate, the option with the 30 payments of $12,000 each would have the highest value. That is, Option 2's 30 payments of $12,000 for a total of $360,000 is larger than Option 3's 20 payments of $13,000 for a total of $260,000 and the lump sum payment of $136,000.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the present value (PV) of fixed - income and equity instruments based on expected future cash flows"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Roy's safety-first criterion:",
+      "options": {
+        "A": "evaluates only downside risk.",
+        "B": "uses semideviation as a risk measure.",
+        "C": "assumes asset prices are normally distributed."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Mean - variance analysis generally considers risk symmetrically in the sense that standard deviation captures variability both above and below the mean. An alternative approach evaluates only downside risk. We discuss one such approach, safety - first rules, as it provides an excellent illustration of the application of normal distribution theory to practical investment problems. Safety - first rules focus on shortfall risk, the risk that portfolio value will fall below some minimum acceptable level over some time horizon. Roy's safety - first criterion states that the optimal portfolio minimizes the probability that portfolio return, R, falls below the threshold level, R. B is incorrect because the safety - first ratio uses standard deviation, not semideviation, as a risk measure. The safety - first optimal portfolio maximizes the safety - first ratio (SFRatio): SFRatio = [E(RP) – RL]/σp. The quantity E(RP) – RL is the distance from the mean return to the shortfall level. Dividing this distance by op gives the distance in units of standard deviation. Although not used in Roy's safety - first criterion, semivariance, semideviation, and related dispersion measures [also] focus on downside risk. Semivariance is defined as the average squared deviation below the mean. Semideviation (sometimes called semistandard deviation) is the positive square root of semivariance. C is incorrect because roy's safety - first criterion assumes that portfolio returns are normally distributed. If returns are normally distributed, the safety - first optimal portfolio maximizes the safety - first ratio (SFRatio): SFRatio = [E(RP) – R]/σp. The normal distribution, however, is less suitable as a model for asset prices than as a model for returns. A normal random variable has no lower limit. This characteristic has several implications for investment applications. An asset price can drop only to 0, at which point the asset becomes worthless. As a result, practitioners generally do not use the normal distribution to model the distribution of asset prices.",
+      "answer_source": "red",
+      "tags": [
+        "define shortfall risk, calculate the safety - first ratio, and identify an optimal portfolio using Roy's safety - first criterion"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "All else being equal, when compared to non-probability sampling, probability sampling most likely yields:",
+      "options": {
+        "A": "a less representative sample.",
+        "B": "an equally representative sample.",
+        "C": "a more representative sample"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Probability sampling gives every member of the population an equal change of being selected. Hence it can create a sample that is representative of the population. In contrast, non - probability sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non - probability sampling might generate a non - representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non - probability sampling. A is incorrect because probability sampling gives every member of the population an equal chance of being selected. Hence it can create a sample that is representative of the population. In contrast, non - probability sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non - probability sampling might generate a non - representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non - probability sampling. B is incorrect because probability sampling gives every member of the population an equal change of being selected. Hence it can create a sample that is representative of the population. In contrast, non - probability sampling depends on factors other than probability considerations, such as a sampler's judgment or the convenience to access data. Consequently there is a significant risk that non - probability sampling might generate a non - representative sample. In general, all else being equal, probability sampling can yield more accuracy and reliability compared with non - probability sampling.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "An analyst examines 30 paired monthly returns for two stock indexes. To determine if the mean difference of the returns is zero, the number of degrees of freedom of the f-test is",
+      "options": {
+        "A": "28.",
+        "B": "29.",
+        "C": "58"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The t - statistic for a paired comparisons test has n - 1 degrees of freedom, where n is the number of pairs of observations. When n = 30, the number of degrees of freedom is 30 - 1=29. A is incorrect because the t - statistic for a paired comparisons test has n - 1 degrees of freedom, not n - 2 degrees of freedom, where n is the number of pairs of observations. When n = 30, the number of degrees of freedom is 30 - 1=29, not 30 - 2=28. C is incorrect because this is the number of degrees of freedom of the t - statistic for a hypothesis test concerning the equality of the population means of two independent samples, which is n1 + n₂ - 2. When both n1 and n₂ is 30, the number of degrees of freedom of the t - statistic for a hypothesis test concerning the equality of the population means of two independent samples is 30 + 30 - 2=58.",
+      "answer_source": "red",
+      "tags": [
+        "construct hypothesis tests and determine their statistical significance, the associated Type I and Type II errors. and power of the test given a significance level"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "An analyst calculates the following statistics for a sample with 100 observations: Value First quartile 11 Second quartile 62 Third quartile 93 Fourth quartile 359 The interquartile range of the sample is equal to:",
+      "options": {
+        "A": "31.",
+        "B": "82.",
+        "C": "348."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The interquartile range (IQR) is the difference between the third quartile, or IQR = and the first quartile, Q3 - Q1 \" = 93 – 11 = 82. Quartiles divide the distribution into quarters. A is incorrect because it is the difference between the third quartile and the second quartile, Q3 - Q2 = 93 - 62 = 31. The interquartile range (IQR) is the difference between the third quartile and the first quartile. C is incorrect because it is the range of the four numbers given, and not the interquartile range. Q4 – Q1 = 359 - 11 = 348.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The probability of correctly rejecting a null hypothesis is best defined as the",
+      "options": {
+        "A": "p-value",
+        "B": "power of the test.",
+        "C": "level of significance"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The power of a test is the probability of Correctly rejecting the null - that is, the probability of rejecting the null when it is false. A is incorrect because the p - value is the smallest level of significance at which the null hypothesis can be rejected. C is incorrect because the significance level of a test is the probability of rejecting a true null hypothesis (l.e., the probability of incorrectly rejecting a null hypothesis).",
+      "answer_source": "red",
+      "tags": [
+        "explain hypothesis testing and its components, including statistical significance, Type I and Type II errors, and the power of a test."
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "An investor summarizes end-of-year cash outlays and proceeds from a two-year investment in a company's shares below: Year Outlays Proceeds 0 $100 to purchase the first share --- 1 $110 to purchase the second share $10 dividend received from first share (not reinvested) 2 --- $230 received from selling two shares at $115 per share The annualized time-weighted rate of return of the investment over the two-year period is closest to",
+      "options": {
+        "A": "9.7%.",
+        "B": "12.0%",
+        "C": "12.3%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The time - weighted rate of return measures the compound rate of growth of $1 initially invested in the portfolio over a stated measurement period.... We find this time - weighted return by taking the geometric mean of the two holding period returns. A holding period return is the return earned from holding an asset for a single specified period of time.... This return can be generalized and shown as a mathematical expression in which P is the price and / is the income: R= [(P1 - Po) + I1]/Po. The subscript indicates the time of the price or income, (t = 0), is the beginning of the period and (t = 1) is the end of the period. Thus, the holding period return between time 0 and 1 is HPR1, = [(110 - 100) + 10]/100 = 0.2 = 20%, and the holding period return between time 1 and 2 is HPR₂ = [(230 - 220) + 0/220 = 0.04545~4.5%, where 220 = 110 x 2 is the price (value) of the two shares held by the investor at time 1. The time - weighted rate of return is then [(1 + HPR₁) × (1 + HPR₂)]^0.5 - 1 = [(1 + 0.2) × (1 + 0.04545)]^0.5 - 1=0.12006 ~ 12.0%. A is incorrect because it is the money - weighted rate of return of the investment. The money - weighted return and its calculation are similar to the internal rate of return. The internal rate of return is the discount rate at which the sum of present values of these cash flows will equal zero. Calculator solution.: [CF0] = investment in the first share= - 100, [CF1] = investment in the second share + dividend from first share = - 110 + 10 = - 100. [CF2] = proceeds of selling two shares = 230, [IRR] [CPT] = 0.09687 ~ 9.7%. C is incorrect because it simply calculates the arithmetic average of the two holding period returns; (20% + 4.545%)/2= 12.273% ~12.3%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Ranked in ascending order, the 19th observation in a sample of 75 is in the second:",
+      "options": {
+        "A": "decile",
+        "B": "quintile.",
+        "C": "quartile."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The 19th observation is located at the 25th percentile Ly = (1 + 𝑛) ( 𝑦 100) 19 = (1 + 75)( 𝑦 100); y = ( 19×100 1 + 75 ) = 25.0 ,which is in the second quintile. The second quintile includes observations that are above the 20th percentile and at or below the 40th percentile. A is incorrect because the second decile includes observations that are above the 10th percentile and at or below the 20th percentile. The 19th observation is in the second group of ten observations, but it is not in the second decile because there are only 75 observations in the sample. C is incorrect because the second quartile includes observations that are above the 25th percentile and at or below the 50th percentile. Because the 19th observation is at the 25th percentile, it is in the first quartile.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "For a given dataset with different non-negative observations, which of the following will have the largest value?",
+      "options": {
+        "A": "Harmonic mean",
+        "B": "Arithmetic mean",
+        "C": "Geometric mean"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The arithmetic mean of a given dataset with different observations is higher than the harmonic and geometric means. Unless all the observations in a dataset have the same value, the harmonic mean is less than the geometric mean, which, in turn, is less than the arithmetic mean. A is incorrect because for a given dataset with different observations, the harmonic mean has the smallest value among harmonic, geometric, and arithmetic means. Unless all the observations in a dataset have the same value, the harmonic mean is less than the geometric mean, which, in turn, is less than the arithmetic mean. C is incorrect because for a given dataset with different observations, the geometric mean is larger than the harmonic mean but smaller than the arithmetic mean. Unless all the observations in a dataset have the same value, the harmonic mean is less than the geometric mean, which, in turn, is less than the arithmetic mean.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret different approaches to return measurement over time and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Sampling error is the difference between the observed value of a:",
+      "options": {
+        "A": "random variable and the respective statistic.",
+        "B": "random variable and its hypothesized value.",
+        "C": "statistic and the quantity it is intended to estimate."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate. A is incorrect because sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate. B is incorrect because sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "The central limit theorem:",
+      "options": {
+        "A": "requires that the population be approximately normally distributed.",
+        "B": "implies that the sample mean is a consistent estimator of the population mean.",
+        "C": "states that the product of independent random variables is normally distributed."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The central limit theorem states that the variance of the distribution of the sample mean is σ²/n. The positive square root of variance is standard deviation. The standard deviation of a sample statistic is known as the standard error of the statistic. The sample mean, in addition to being an efficient estimator, is also a consistent estimator of the population mean: As sample size n goes to infinity, its standard error, olin, goes to 0 and its sampling distribution becomes concentrated right over the value of population mean, μ. A is incorrect because the central limit theorem allows us to make quite precise probability statements about the population mean by using the sample mean, whatever the distribution of the population (so long as it has finite variance), because the sample mean follows an approximate normal distribution for large - size samples. Therefore, having a normally distributed population is not a requirement for the central limit theorem to hold. C is incorrect because the central limit theorem states that the sum (and mean) [not the product] of a large number of independent random variables is approximately normally distributed.",
+      "answer_source": "red",
+      "tags": [
+        "explain the central limit theorem and its importance for the distribution and standard error of the sample mean"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "An analyst assumes that a company's future EPS will be either $2.00, $2.20, or $2.40. If each scenario is equally likely, the variance [in $] of the company's future EPS is closest to:",
+      "options": {
+        "A": "0.03",
+        "B": "0.16.",
+        "C": "0.20"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The variance of a random variable is the expected value (the probability - weighted average) of squared deviations from the random variable's expected value: o²(X) = E[X - E(X)]. Since each scenario is equally likely (probability = 1/3), E(X) = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ²(X) = [(2.0 - 2.2)² + (2.2 - 2.2)² + (2.4 - 2.2)^2]/3 = [0.04 + 0.04]/3 = 0.08/3 = 0.0267 ~ 0.03 [in $2]. B is incorrect because it is the standard deviation, not the variance. The variance of a random variable is the expected value (the probability - weighted average) of squared deviations from the random variable's expected value: σ2(X) = E[X - E(X)]^2. Since each scenario is equally likely (probability = 1/3), E(X) = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ 2(X)= [(2.0 - 2.2)^2 + (2.2 - 2.2)^2 + (2.4 - 2.2)^2]/3 = [0.04 + 0.04]/3 = 0.08/3 = 0.0267 [in $2]. Standard deviation is the positive square root of variance. Therefore, σ(X) = (0.0267)^0.5= 0.1633 0.16 [in $]. C is incorrect because it is the difference between each pair of EPS values, not the variance: $2.40 - $2.20 =$2.20 - $2.00 = $0.20.",
+      "answer_source": "red",
+      "tags": [
+        "calculate expected values, variances, and standard deviations and demonstrate their application to investment"
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "An analyst observes the following EPS for four companies: -£0.50, £0.50, £2.50, and £5.50. The 50th percentile of the EPS values is closest to",
+      "options": {
+        "A": "£1.50.",
+        "B": "£2.00.",
+        "C": "£2.50."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The 50th percentile is the median, which is the average of the two middle items. (£0.50 + £2.50)/2 = £1.50. In an odd - numbered sample of n items, the median occupies the (n + 1)/2 position. In an even - numbered sample, we define the median as the mean of the values of items occupying the n/2 and (n + 2)/2 positions (the two middle items). Calculating the median may also be more complex, to do so, we need to order the observations from smallest to largest, determine whether the sample size is even or odd and, on that basis, apply one of two calculations. Alternatively, the 50th percentile when Ly, is not a whole number or integer, Ly, lies between the two closest integer numbers (one above and one below), and we use linear interpolation between those two places to determine P. That is, L, = (n + 1)(y/100) = (4 + 1)(50/100) = 2.5. Hence, 2 is the closest integer below the calculated location and 3 is the closest integer above the calculated location. Using linear Interpolation, P0 = £0.50 + (£2.50 - £0.50) x (2.5 - 2) = £1.50,. B is incorrect because it is the location of the median; n/2 = 4/2. Alternatively, it is also the average EPS; ( - £0.50 + £0.50 + £2.50 + £5.50)/4= £2.00. C is incorrect because it is the position (or location) of the 50th percentile instead of the 50th percentile: (4 + 1) x 50/100 = 2.5. The formula for the position (or location) of a percentile in an array with n entries sorted in ascending order is L, = (n + 1)(y/100) where y is the percentage point at which we are dividing the distribution and L, is the location (L) of the percentile (P) in the array sorted in ascending order. The value of L, may or may not be a whole number. When L, is not a whole number or integer, L, lies between the two closest integer numbers (one above and one below), and we use linear interpolation between those two places to determine Py.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "The standard error of the estimate in a simple linear regression is best described as:",
+      "options": {
+        "A": "a relative measure of fit for the regression.",
+        "B": "the percentage of the variation of the dependent variable that is explained by the independent variable",
+        "C": "a measure of the distance between the observed values of the dependent variable and those predicted from the estimated regression."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The standard error of the estimate is a measure of the distance between the observed values of the dependent variable and those predicted from the estimated regression. A is incorrect because unlike the coefficient of determination and the F - statistic, which are relative measures of fit, the standard error of the estimate is an absolute measure of the distance of the observed dependent variable from the regression line. B is incorrect because it is the coefficient of determination, and not the standard error of estimate. The coefficient of determination, also referred to as the R - squared or R², is the percentage of the variation of the dependent variable that is explained by the independent variable.",
+      "answer_source": "red",
+      "tags": [
+        "describe the use of analysis of variance (ANOVA) in regression analysis, interpret ANOVA results, and calculate and interpret the standard error of estimate in a simple linear regression"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "An analyst gathers the following information about a portfolio's returns: Year Return (%) 1 6% 2 7% 3 3% 4 2% 5 4% If the target return is 5%, the target downside deviation is closest to:",
+      "options": {
+        "A": "1.7%.",
+        "B": "1.9%.",
+        "C": "2.2%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The formula for target downside deviation is [E(X, - B)/(n - 1)]^0.5, where X, is the return for the period, B is the target return and n is the total number of sample observations. Moreover, the summation is taken over only those observations (X) that are less than or equal to the target B. Year Return (%) Deviations from the target Squared deviations 1 6 0 0 2 7 0 0 3 3 - 2 4 4 2 - 3 9 5 4 - 1 1 Since the sum of squared deviations is 14, the target downside deviation = [14/(5 - 1)]^0.5, resulting in 1.87% ~ 1.9%. A is incorrect because n (5) is used in the calculation instead of n - 1: (14/5)^0.5, resulting in 1.67% ~1.7%. C is incorrect because all the returns are used in the calculation, not just the returns below the target. In other words, the standard deviation from the target return is calculated. Since the sum of all squared deviations is 14 + 5= 19, the target downside deviation is calculated as: [19/(5 - 1)]^0.5 resulting in 2.18% ~ 2.2%. This answer is also closest if n is assumed to be the number of observations used in the correct calculation (3): (14/3)^0.5, resulting in 2.16% ~ 2.2%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of dispersion to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Which of the following measures best quantifies the amount of risk per unit of mean return?",
+      "options": {
+        "A": "Sharpe ratio",
+        "B": "Standard deviation",
+        "C": "Coefficient of variation"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The coefficient of variation, CV, is the ratio of the standard deviation of a set of observations to their mean value. When the observations are returns, for example, the coefficient of variation measures the amount of risk (standard deviation) per unit of mean return. A is incorrect because the Sharpe ratio is the average return in excess of the risk - free rate divided by the standard deviation of returns. This ratio measures the excess return earned per unit of standard deviation of return. Therefore, the Sharpe ratio does not quantify the amount of risk per unit of mean return. B is incorrect because the standard deviation measures risk, but it does not quantify the amount of risk per unit of mean return. Variance is defined as the average of the squared deviations around the mean. Standard deviation is the positive square root of the variance.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of dispersion to address an investment problem"
+      ]
+    }
+  ]
+}

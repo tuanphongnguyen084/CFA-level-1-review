@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "id": "portfolio-1000-5",
+  "name": "1000 Câu Hỏi — Đề 5 (câu 83–100)",
+  "group": "1000 Question Bank — Portfolio Management",
+  "source": "1000 Practice Questions — Portfolio Management",
+  "questions": [
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "When defining asset classes for a strategic asset allocation, which of the following pairwise correlations between asset class returns is most preferable?",
+      "options": {
+        "A": "0.0",
+        "B": "0.5",
+        "C": "1.0"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of zero would indicate better defined asset classes than higher correlations would. B is incorrect because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of 0.5 would indicate less well defined asset classes than a zero correlation would. C is incorrect because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of 1.0 would indicate less well defined asset classes than a zero correlation would. A candidate may choose this response if they confuse the criteria for correlation across asset classes with the criteria for correlation within each asset class (which should be high).",
+      "answer_source": "red",
+      "tags": [
+        "explain the specification of asset classes in relation to asset allocation"
+      ]
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "According to capital market theory, an efficient market does not reward investors for taking on:",
+      "options": {
+        "A": "market risk.",
+        "B": "systematic risk.",
+        "C": "idiosyncratic risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. We can assume that in an efficient market, no incremental reward can be earned for taking on diversifiable risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk. A is incorrect because systematic risk, also known as non-diversifiable or market risk, is the risk that affects the entire market or economy. Systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. B is incorrect because systematic risk, also known as non-diversifiable or market risk, is the risk that affects the entire market or economy. Systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+      ]
+    },
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "Which of the following is most likely a legal and regulatory constraint in an investment policy statement?",
+      "options": {
+        "A": "A pension fund's decision to limit investments in real estate",
+        "B": "A taxable investor's requirement to avoid investments in securities generating interest income",
+        "C": "A public company director's restriction on trading the company's stock shortly before the publication of financial results"
+      },
+      "answer": "C",
+      "explanation": "C is correct. When an individual has access to material nonpublic information about a particular security this situation may also form a (legal and regulatory] constraint For example, the directors of a public company may need to refrain from trading the company's stock at certain points of the year before financial results are published. The IPS should note this constraint so that the portfolio manager does not inadvertently trade the stock on the client's behalf. A is incorrect because there is no indication that the pension fund's decision to constrain investments in real estate is driven by legal and regulatory factors. Moreover, the word 'decision' highlights that it is not an external requirement, which would be the case if it was required by law or regulation. B is incorrect because this constraint is driven by economic considerations of the client and thus would be reflected in the tax concerns section of the IPS and not in the legal and regulatory constraints. In many cases, the portfolio should reflect the tax status of the client. For example a taxable investor may wish to hold a portfolio that emphasizes capital gains and receives little income.",
+      "answer_source": "red",
+      "tags": [
+        "describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors and unique circumstances and their implications for the choice of portfolio assets"
+      ]
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "When defining asset classes, the paired correlations of assets within an asset class should be:",
+      "options": {
+        "A": "negative.",
+        "B": "zero.",
+        "C": "positive."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When defining asset classes an asset class should contain relatively homogeneous assets and paired correlations of assets should be relatively high within an asset class. A is incorrect because when defining asset classes paired correlations of assets should be relatively high within an asset class. B is incorrect because when defining asset classes paired correlations of assets should be relatively high within an asset class.",
+      "answer_source": "red",
+      "tags": [
+        "explain the specification of asset classes in relation to asset allocation"
+      ]
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "An investor gathers the following information about a security and the market: Security's beta 0.35 Standard deviation of the security's returns 12% Standard deviation of market returns 18% The correlation between the security's returns and the market's returns is closest to:",
+      "options": {
+        "A": "0.2.",
+        "B": "0.5.",
+        "C": "0.8."
+      },
+      "answer": "B",
+      "explanation": "B is correct. 𝛽𝑖 = 𝜌𝑖,𝑚 x 𝜎𝑖/𝜎𝑚 where 𝜌𝑖,𝑚 denotes the correlation between the asset returns and the market returns, and σ, and σ denote the standard deviation of the asset returns and the market returns, respectively. Thus, correlation 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑚/𝜎𝑖 = 0.35 x 0.18/0.12 = 0.525 ≈ 0.5. A is incorrect because it confuses 𝜎𝑖, and 𝜎𝑚 and calculates 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑖/𝜎𝑚 = 0.35 x 0.12/0.18 = 0.233 ≈ 0.2. This answer is also obtained if, as an additional mistake, variances are used 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑖2/𝜎𝑚 2= 0.35 x (0.12)2/(0.18)2 = 0.156 ≈ 0.2. C is incorrect because it uses variances instead of standard deviations in the correct formula; 𝜌𝑖,𝑚 = 𝛽𝑖 x 𝜎𝑚2/𝜎𝑖 2 = 0.35 * (0.18)2/(0.12)²= 0.788 ≈ 0.8.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret beta"
+      ]
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "A bank determines that its value at risk (VAR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every:",
+      "options": {
+        "A": "5 business days.",
+        "B": "13 business days.",
+        "C": "20 business days."
+      },
+      "answer": "C",
+      "explanation": "C is correct. With a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days. A is incorrect because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days. B is incorrect because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days. Based on a year with 250 to 260 business days, this should occur 12.5 to 13 times per year (roughly once per month).",
+      "answer_source": "red",
+      "tags": [
+        "describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+      ]
+    },
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "A good risk management process should:",
+      "options": {
+        "A": "predict when a crisis will occur.",
+        "B": "consider the balance between expected returns and losses.",
+        "C": "only consider losses occurring from events that have a high likelihood."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A good risk management process would include a deep discussion at the governance level about the balance between the likely returns and the unlikely-but sizable-losses and whether such losses are tolerable. A is incorrect because risk management is not even about predicting risks. The Doctrine of No Surprises' is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen. For example, a risk manager of a bank would not have been expected to know that a real estate crisis was going to occur and cause significant defaults on the bank's real estate securities. C is incorrect because a poor risk management process would have ignored the possibility, though small, of such a significant market event and not quantified the potential loss.",
+      "answer_source": "red",
+      "tags": [
+        "define risk management"
+      ]
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "A portfolio consisting of two securities has the following characteristics: Security Portfolio Weight Standard Deviation 1 40% 15% 2 60% 18% If the correlation of returns between the two securities is 0.20, the portfolio's standard deviation of returns is closest to:",
+      "options": {
+        "A": "1.8%.",
+        "B": "9.1%.",
+        "C": "13.4%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. 𝜎𝑝𝑜𝑟𝑡 = √𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝜌1,2𝜎1𝜎2 √(0.4)2 (0.15)2 +(0.6)2 (0.18)2 +2(0.4)(0.6)(0.2)(0.15)(0.18) (0.16) (0.0225)+(0.36) (0.0324)+0.002592 =√0.017856 = 0.133626≈13.4%. A is incorrect because it is portfolio variance instead of standard deviation: 𝜎𝑝 2=𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝜌12𝜎1𝜎2 =(0.4)2(0.15)2(+(0.6)2 (0.18)2(+2(0.4) (0.6)(0.2)(0.15)(0.18) =(0.16) (0.0225) + (0.36) (0.0324) + (0.002592)=0.017856 1.8%. B is incorrect because it uses standard deviations instead of variances in the formula for the portfolio standard deviation: 𝜎𝑝 2=𝑤1 2𝜎1 + 𝑤2 2𝜎2 + 2𝑤1𝑤2𝜎1𝜎2𝜌12 (0.4)2 (0.15) + (0.6)2 (0.18) +2(0.4)(0.6) (0.20)(0.15)(0.18) (0.024)+(0.0648)+(0.002592) =0.091392≈9.1%.&.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret portfolio standard deviation"
+      ]
+    },
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "An investor has a 15-year time horizon but needs to withdraw funds from her portfolio in one year's time to pay for tuition fees. Which of the following investments is most suitable to cover the investor's liquidity requirement due to the tuition fees?",
+      "options": {
+        "A": "Commercial paper",
+        "B": "Private equity securities",
+        "C": "Large-capitalization stocks"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Although the investor has a time horizon of 15 years, she has liquidity needs in one year When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity need is actually present (eg a bond maturing at the time where private education expenses will be incurred), so that their value is known with reasonable certainty Commercial paper is a short-term, negotiable, unsecured promissory note that represents a debt obligation of the issuer Thus commercial paper being a short-term investment. It is more suitable compared to private equity and large capitalization stocks to be included in the portion of the investor's portfolio that has the short-term liquidity need. B is incorrect because although the investor has a time horizon of 15 years, she has liquidity needs in one year. When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity need is actually present (eg., a bond maturing at the time when private education expenses will be incurred), so that their value is known with reasonable certainty. Private equity securities are not listed on public exchanges and have no active secondary market. They are issued primarily to institutional investors via non-public offerings, such as private placements. Being illiquid, they are not suitable to be included in the portion of the client's portfolio that has the short-term liquidity need. C is incorrect because although the investor has a time horizon of 15 years, she has liquidity needs in one year When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and low risk at the point in time the liquidity need is actually present (e.g., a bond maturing at the time when private education expenses will be incurred), so that their value is known with reasonable certainty Thus, large-capitalization stocks, being a more volatile investment than commercial paper, would be less suitable to be included in the portion of the investor's portfolio that has the short-term liquidity need.",
+      "answer_source": "red",
+      "tags": [
+        "describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets"
+      ]
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "With respect to capital market theory, which of the following statements is most accurate?",
+      "options": {
+        "A": "The optimal risky portfolio is dependent on the risk-free rate.",
+        "B": "The optimal risky portfolio is dependent on the investor's risk profile.",
+        "C": "The investor's optimal portfolio must lie on the Markowitz efficient frontier."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a given Markowitz efficient frontier, a different risk-free rate will result in a different tangent to the frontier, hence a different optimal risky portfolio CAL(P) is the optimal capital allocation line and Portfolio P is the optimal risky portfolio. Thus, with the addition of the risk-free asset, we are able to narrow our selection of risky portfolios to a single optimal risky portfolio, P which is at the tangent of CAL(P) and the efficient frontier of risky assets. B is incorrect because the optimal risky portfolio is selected from numerous risky portfolios without considering the investor's preferences. C is incorrect because all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds. a risk-free asset and an optimal portfolio of risky assets. The investor's optimal portfolio thus lies on the capital allocation line (CAL), not on the Markowitz efficient frontier. If it is optimal for an investor to allocate no wealth to the risk-free asset, the investor's optimal portfolio will lie on the Markowitz efficient frontier However, this is not 'always' the case.",
+      "answer_source": "red",
+      "tags": [
+        "explain the selection of an optimal portfolio, given an investor's utility (or risk aversion) and the capital allocation line"
+      ]
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "An analyst gathers the following information: Standard Deviation of Returns Beta Asset 70% 1.8 Market portfolio 35% 1.0 The covariance between the returns of the asset and the market is closest to:",
+      "options": {
+        "A": "0.22.",
+        "B": "0.40.",
+        "C": "0.90."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Given the beta of an asset (𝛽𝑖), the covariance between the asset returns (𝑅𝑖) and the market portfolio returns (𝑅𝑚) is given by: Cov(𝑅𝑖𝑅𝑚) = 𝛽𝑖 x 𝜎𝑚 2 = 1.8 × 0.35² = 0.22. B is incorrect because it is the systematic variance of the portfolio; 𝛽𝑖 2 x 𝜎𝑚 2 =1.82 x 0.352 = 0.40. C is incorrect because it is the correlation coefficient, not the covariance, between the asset returns and the market portfolio returns, 𝜌𝑖,𝑚= 𝛽𝑖∗ 𝜎𝑚/𝜎𝑖 = 1.8 x 0.35/0.70 = 0.90. It is also the closest answer if the asset return variance is used in the correct formula instead of the market return variance; 1.8 x 0.70² = 0.88.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret beta"
+      ]
+    },
+    {
+      "id": "Q94",
+      "num": 94,
+      "question": "A security with a beta of 1.5 has an expected return of 11% according to the CAPM. If the risk-free rate is 2%, the market risk premium is closest to:",
+      "options": {
+        "A": "4.0%.",
+        "B": "6.0%.",
+        "C": "7.3%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the CAPM, the expected return of a security is E(𝑅𝑖) = 𝑅𝑓 +𝛽𝑖 x [E(𝑅𝑚)−𝑅𝑓], such that [E(𝑅𝑚) - 𝑅𝑓= E(𝑅𝑖)/ 𝛽𝑖; = (0.11 -0.02)/1.5 0.06 = 6%. The market risk premium is E(𝑅𝑚)- 𝑅𝑡=6%. A is incorrect because it uses an incorrect CAPM equation to calculate the expected return of a security as E(𝑅𝑖) = 𝑅𝑓 +𝛽𝑖 x E(𝑅𝑚), such that E(𝑅𝑚) = [E(𝑅𝑖)- 𝑅𝑓/𝛽𝑖; = (0.11 -0.02)/1.5 = 0.06 = 6%. Since the market risk premium is 𝑅𝑚−𝑅𝑓, it follows that the market risk premium is calculated as 6% - 2% = 4%. C is incorrect because it uses an incorrect CAPM equation to calculate the expected return of a security as E(𝑅𝑖) = 𝛽𝑖 x E(𝑅𝑚)-𝑅𝑓,such that [E(𝑅𝑚) - 𝑅𝑓= E(𝑅𝑖)/ 𝛽𝑖; = 0.11/1.5= 0.07337.3%. The market risk premium is incorrectly calculated as 7.3%. This is also closest to the market return of 8% calculated according to the CAPM equation; 0.11 = 0.02 + 1.5x [E(𝑅𝑚)-0.02]: E(𝑅𝑚) = 0.08 = 8%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the expected return of an asset using the CAPM"
+      ]
+    },
+    {
+      "id": "Q95",
+      "num": 95,
+      "question": "An analyst gathers the following information about a portfolio and the market: Portfolio's Sharpe ratio 0.8 Volatility of portfolio returns 19% Volatility of market returns 10% Correlation between portfolio returns and market returns 0.7 The portfolio's Treynor ratio is closest to:",
+      "options": {
+        "A": "0.060.",
+        "B": "0.114.",
+        "C": "0.413."
+      },
+      "answer": "B",
+      "explanation": "B is correct. 𝑇𝑅= (𝑅𝑝−𝑅𝑓) ∕𝛽𝑝= [(𝑅𝑝−𝑅𝑓) ∕𝜎𝑝]𝑥(𝜎𝑝∕< 𝐵𝑝)= 0.8 x (0.19/1.33)=0.114, where σ = standard deviation of market returns = 0.10 (given); σ = standard deviation of portfolio returns = 0.19 (given) Ppm-correlation between market and portfolio = 0.7 (given); 𝛽𝜑-portfolio beta = Pp.m(𝜎𝑝∕𝜎𝑚)=0.7 x (0.19/0.1) 1.33 (per𝛽𝜑 = Pim(𝜎𝑝∕𝜎𝑚)); 𝑅𝑝= portfolio's return; 𝑅𝑓 = risk-free rate of interest; TR=Treynor ratio; SR = Sharpe ratio, where SR = (𝑅𝑝−𝑅𝑓) ∕𝜎𝑝. A is incorrect because 0.060 = SR * (𝜎𝑝∕𝛽𝑝′ ) = 0.8 x (0.19/2.527), where βp’ = incorrectly calculated portfolio beta = ρpm (𝜎𝑝 2 ∕𝜎𝑚 2 )=0.7 x (0.192/0.12) = 2.527. C is incorrect because 0.413 SR x (𝜎𝑝∕𝛽𝑝 ∗)= 0.8 x (0.19/0.368), where 𝛽𝑝 ∗= incorrectly calculated portfolio beta = Ppm (𝜎𝑚∕𝜎𝑝) = 0.7 × (0.1/0.19) = 0.368.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q96",
+      "num": 96,
+      "question": "For an equally weighted portfolio, an increase in the correlations between asset returns most likely decreases the:",
+      "options": {
+        "A": "portfolio's expected return.",
+        "B": "portfolio's standard deviation of returns.",
+        "C": "level of risk reduction provided by the portfolio."
+      },
+      "answer": "C",
+      "explanation": "C is correct. As the correlations between asset returns increase, the diversification benefit provided by portfolios decreases. A major reason that portfolios can effectively reduce risk is that combining securities whose returns do not move together provides diversification. However, an important issue is that the co-movement or correlation pattern of the securities' returns in the portfolio can change in a manner unfavorable to the investor. When we examine the returns of a set of global equity indexes over the last 15 years, we observe a reduction in the diversification benefit due to a change in the pattern of co-movements of returns. The degree to which these global equity indexes move together has increased over time. The lesson is that although portfolio diversification generally does reduce risk, it does not necessarily provide the same level of risk reduction during times of severe market turmoil as it does when the economy and markets are operating 'normally’. A is incorrect because the equally weighted portfolio's return is the same as the return on the randomly selected security. Thus, a portfolio's expected return is not influenced by the correlations between assets. The portfolio return varies with weights but is unaffected by the correlation coefficient. B is incorrect because the standard deviation of an equally weighted portfolio is not simply the average of the standard deviations of the individual shares. Such a portfolio offers a lower standard deviation of return than the average of its individual components due to the correlations or interactions between the individual securities, Thus, a portfolio's standard deviation of returns is influenced by the correlations between assets. For example, the standard deviation of a two-asset portfolio simplifies to the following 𝜎𝑝= √𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝜌1,2𝜎1𝜎2 It follows that an increase in the correlation among assets will result in an increase in the portfolio's standard deviation, not a decrease.",
+      "answer_source": "red",
+      "tags": [
+        "describe the portfolio approach to investing"
+      ]
+    },
+    {
+      "id": "Q97",
+      "num": 97,
+      "question": "An adviser gathers the following information about a client's retirement income needs: • The current balance of the client's retirement fund is $150,000. • The client plans to retire in 15 years' time. • $500,000 in today's money is needed to fund retirement. • No further retirement fund contributions will be made. Inflation is expected to average 2% per year over the next 15 years. Based only on the above information and ignoring taxes, the minimum annual rate of return required to meet the client's retirement income objective is closest to:",
+      "options": {
+        "A": "6.2%.",
+        "B": "8.4%.",
+        "C": "10.5%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. At 2% annual inflation, $500,000 in today's money equates to $500.00(1.02)15 = $672.934 in 15 years' time. Since no further contributions to the retirement fund will be made, the current savings of $150,000 must grow to at least $672,934 in 15 years' time to meet the individual's retirement income objective. Hence, the minimum required rate of return, r, satisfies $150,000(1+r)15= $672,934, giving r = [$672,934/$150,000]1/15 – 1 = 0.105 = 10.5% Calculator solution: (1) N = 15; I/Y = 2%, PV=- 500,000; compute FV = 672,934. (2) N = 15; PV =-150,000; FV = 672,934; compute I/Y = 10.5%. Alternatively, a candidate could compute the nominal required rate of return via $150,000(1+r)15 = $500,000, giving r = [$500,000/$150,000]1/15 – 1 = 0.084 = 8.4%, and then adjust for inflation as follows: (1+0.084) x (1 + 0.02) - 1 = 0.105 = 10.5%. If a candidate adjusted for inflation by adding the expected inflation rate, they would also arrive at (approximately) the Correct answer: 8.4% +2.0% 10.4%. A is incorrect because it adjusts for inflation in the wrong direction, ie. it assumes that, in order to reach $500,000 in 15 years' time, we must equate $500,000 to $150,000 x 1.0215 x (1+r)15, which yields: r = [$500,000/($150,000 * 1.0215)11/15-1=0.062 = 6.2%. Alternatively, after calculating the nominal return via $150,000(1+r)15 = X $500,000, it then adjusts for inflation by subtracting, rather than adding, the expected inflation rate from the nominal rate, [$500,000/$150,000]1/15-1-0.02 = 8.4% - 2.0% = 6.4%, which is closest to this response. B is incorrect because it does not take into account the effect of inflation on the individual's retirement income needs. In other words, it assumes that the portfolio needs to grow to at least $500,000 in 15 years' time, rather than to this amount adjusted upward for inflation. Hence, the minimum required rate of return, r, satisfies $150,000(1 + r)15 = $500,000, giving r = [$500,000/$150,000]1/15 – 1 = 0.084 = 8.4%. Calculator solution: N = 15; PV = - 150,000; FV 500,000; compute I/Y = 8.4%.",
+      "answer_source": "red",
+      "tags": [
+        "describe risk and return objectives and how they may be developed for a client"
+      ]
+    },
+    {
+      "id": "Q98",
+      "num": 98,
+      "question": "As the number of assets in an equally weighted portfolio becomes large, the portfolio's variance of returns most likely approaches:",
+      "options": {
+        "A": "zero.",
+        "B": "the average variance of the individual assets' returns.",
+        "C": "the average covariance between the individual assets' returns."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Given equal weights and average variance/covariance [denoted o² and Cov, respectively], we can rewrite the portfolio variance as𝜎𝑝 2 = 𝜎 2 𝑁+ [(𝑁−1) ∕𝑁]𝐶𝑜𝑣 The equation shows that as N becomes large, the first term on the right side with the denominator of N becomes smaller and smaller, implying that the contribution of one asset's variance to portfolio variance gradually becomes negligible. The second term, however, approaches the average covariance as N increases. It is reasonable to say that for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk. A is incorrect because for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk. A candidate may select this answer choice if they extrapolate the fact that portfolio variance is reduced when more assets are added to a portfolio. This argument however fails to acknowledge the limits of diversification. B is incorrect because the contribution of the average variance of the individual assets to the total portfolio variance becomes negligible as the number of assets becomes large. Furthermore, for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk.",
+      "answer_source": "red",
+      "tags": [
+        "describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+      ]
+    },
+    {
+      "id": "Q99",
+      "num": 99,
+      "question": "In risk management, which of the following should be taken into account when determining an enterprise's risk tolerance?",
+      "options": {
+        "A": "Management compensation",
+        "B": "The enterprise's value at risk (VaR)",
+        "C": "The government and regulatory landscape"
+      },
+      "answer": "C",
+      "explanation": "C is correct. In the context of risk management, factors such as a company's goals, its expertise in certain areas, and its strategies will help a board determine which risks the company may pursue and with how much intensity. The government and regulatory landscape is important too, both in their ex ante demands on how companies approach risk and in the likely ex post reaction in the event of disasters. A is incorrect because in the context of risk management, certain factors should not determine risk tolerance, but in many cases they do. Personal motivations, beliefs, and agendas of board members (the agency problem); company size, whether the market environment seems stable, short-term pressures, and management compensation often affect risk tolerance in ways that might not be in line with the owners best interests. B is incorrect because in the context of risk management. Risk budgeting picks up where risk tolerance leaves off Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken. Risk budgeting quantifies and allocates the tolerable risk by specific metrics, it extends and guides implementation of the risk tolerance decision.",
+      "answer_source": "red",
+      "tags": [
+        "explain how risk tolerance affects risk management"
+      ]
+    },
+    {
+      "id": "Q100",
+      "num": 100,
+      "question": "Two investors have indifference curves that are tangent to the same capital allocation line (CAL). If Investor 1 is more risk averse than Investor 2, Investor 1's optimal portfolio is:",
+      "options": {
+        "A": "to the left of Investor 2's optimal portfolio on the CAL.",
+        "B": "at the same point on the CAL as Investor 2's optimal portfolio.",
+        "C": "to the right of Investor 2's optimal portfolio on the CAL."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility). B is incorrect because as the investors have different degrees of risk aversion, they will not have the same optimal portfolio. The optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility). C is incorrect because the less risk-averse investor is willing to accept the additional risk. Therefore, the more risk-averse Investor 1 will have an optimal portfolio with less risk and a lower expected return than Investor 2. The optimal portfolio maximizes the return per unit of risk (as it is on the capital allocation line), and it simultaneously supplies the investor with the most satisfaction (utility).",
+      "answer_source": "red",
+      "tags": [
+        "explain the selection of an optimal portfolio, given an investor's utility (or risk aversion) and the capital allocation line"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "id": "portfolio-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 23–42)",
+  "group": "1000 Question Bank — Portfolio Management",
+  "source": "1000 Practice Questions — Portfolio Management",
+  "questions": [
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Exchange-traded funds (ETFs):",
+      "options": {
+        "A": "are priced once a trading day.",
+        "B": "usually pay out dividends to shareholders.",
+        "C": "are generally structured as closed-end funds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Dividends on ETFS are paid out to the shareholders whereas mutual funds usually reinvest the dividends. A is incorrect because ETFS can be transacted (and are priced) intraday. C is incorrect because exchange-traded funds (ETFs) are generally structured as open-end funds.",
+      "answer_source": "red",
+      "tags": [
+        "describe mutual funds and compare them with other pooled investment products"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Two assets have the following characteristics: Variance of returns for Asset 1 0.05 Variance of returns for Asset 2 0.06 Correlation of returns between Asset 1 and Asset 2 0.75 The variance of returns for an equally weighted portfolio of the two assets is closest to:",
+      "options": {
+        "A": "0.038.",
+        "B": "0.048.",
+        "C": "0.055."
+      },
+      "answer": "B",
+      "explanation": "B is correct. For a two asset portfolio, the expression for portfolio variance simplifies to the following using correlation: 𝜎𝑝 2=𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝜌12𝜎1𝜎2 where 𝑤𝑖, is the weight of asset / in the portfolio, 𝜎𝑖 2 is the variance of asset, and pij is the correlation between the returns of assets / and j. Here, 𝜎𝑝 2=(0.5)2(0.05) + (0.5)2 (0.06) + 2(0.5)(0.5) (0.75) (0.05)0.5 (0.06)0.5= 0.0125 +0.015 +0.0205396 = 0.04804≈0.048. A is incorrect because the last term has been doubled, leading to 𝜎𝑝 2=(0.5)2(0.05) + (0.5)2 (0.06) + (0.5)(0.5) (0.75) (0.05)0.5 (0.06)0.5= 0.0125 +0.015+0.0102698 = 0.03777≈0.038. C is incorrect because it is the weighted average of the asset variances: (0.5)(0.05) + (0.5)(0.06) = 0.025 + 0.03 = 0.055. However, a weighted average calculation is only appropriate for the portfolio standard deviation (not variance) when the correlation among assets is 1.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret portfolio standard deviation"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "With respect to return-generating models, statistical factor models:",
+      "options": {
+        "A": "only include factors that have economic meaning.",
+        "B": "Identify factors that explain the covariance in observed returns.",
+        "C": "only include factors that have a fundamental connection to returns."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In a statistical factor model, historical and cross-sectional return data are analyzed to identify factors that explain variance or covariance in observed returns. A is incorrect because in statistical factor models, the statistical factors, however, may or may not have an economic or fundamental connection to returns. Furthermore, in statistical factor models data mining may generate many spurious factors that are devoid of any economic meaning. C is incorrect because in statistical factor models, the statistical factors, however, may or may not have an economic or fundamental connection to returns. Furthermore, in statistical factor models data mining may generate many spurious factors that are devoid of any economic meaning.",
+      "answer_source": "red",
+      "tags": [
+        "explain return generating models (including the market model) and their uses"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Which of the following statements about asset allocation is most accurate?",
+      "options": {
+        "A": "Investors should diversify their wealth between asset classes in order to eliminate systematic risk.",
+        "B": "Investors with a below-average risk tolerance should have an above-average weight in alternative investments.",
+        "C": "Adding asset classes with a low correlation to existing asset classes improves an investor's risk-return trade-off."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In general, adding assets classes with low correlation improves the risk-return trade-off (more return for similar risk). A is incorrect because systematic risk is risk related to the economic system (e.g., risk related to business cycle) that cannot be eliminate the eliminated by holding a diversified portfolio. Thus, dividing wealth between asset classes cannot systematic risk. B is incorrect because investors with below-average risk tolerance should have below-average weights in alternative investments Typically, the strategic asset allocation for risk-averse investors will have a large weight in government bonds and cash, whereas those with more willingness and ability to take risk will have more of their assets in risky asset classes, such as equities and many types of alternative investments.",
+      "answer_source": "red",
+      "tags": [
+        "explain the specification of asset classes in relation to asset allocation"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "An analyst gathers the following information about a portfolio and the market: Portfolio return 7.0% Market return 5.0% Risk-free return 1.0% Portfolio beta 1.2 Jensen's alpha for the portfolio is:",
+      "options": {
+        "A": "0.0%.",
+        "B": "1.2%.>",
+        "C": "2.2%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Jensen's alpha is defined as the portfolio return less (the risk-free rate plus the portfolio beta times (the market return minus the risk-free rate)). Therefore, Jensen's alpha Rp - [Rf + 𝛽p(Rm - Rf)] = 7% — (1% + 1.2 x (5% -1%)) = 7.0% - 5.8% =1.2%. A is incorrect because the market return is used instead of the market risk premium. Therefore, Jensen's alpha = Rp - [Rf + (𝛽p * Rm)] = 7% - (1% + 1.2 x 5% ) = 0.0%. C is incorrect because this omits the initial risk-free rate in the equation. Therefore, Jensen's alpha = Rp - 𝛽p [Rm - Rf] = 7% - (1.2 x (5% - 1%)) = 7.0% - 4.8% = 2.2%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following behavioral biases is most likely the hardest to correct?",
+      "options": {
+        "A": "Hindsight bias",
+        "B": "Loss-aversion bias",
+        "C": "Representativeness bias"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Loss-aversion bias is an emotional bias, as opposed to a cognitive error, and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to Correct because they stem from Impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains. A is incorrect because hindsight bias is a cognitive error and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, It is often possible only to recognize an emotional bias and adapt to it. Hindsight bias refers to believing past events as having been predictable and reasonable to expect. This behavior results from the obvious fact that outcomes that did occur are more readily evident than outcomes that did not. C is incorrect because representativeness bias is a cognitive error and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Representativeness bias refers to the tendency to classify new information based on past experiences and classifications.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast cognitive errors and emotional biases"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Momentum, defined as relative past stock returns, is most likely a factor in:",
+      "options": {
+        "A": "fundamental factor models.",
+        "B": "the Carhart four-factor model.",
+        "C": "the Fama-French three-factor model."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Mark Carhart (1997) extended the Fama and French model by adding another factor. momentum, defined as relative past stock returns. The best example of ... a [practical] model is the four-factor model proposed by Fama and French (1992) and Carhart (1997). A is incorrect because fundamental factor models analyze and use relationships between security returns and the company's underlying fundamentals, such as, for example, earnings, earnings growth, cash flow generation, investment in research, advertising, and number of patents. C is incorrect because Fama and French (1992) proposed that three factors seem to explain asset returns better than just systematic risk. Those three factors are relative size, relative book-to-market value, and beta of the asset. Mark Carhart (1997) extended the Fama and French model by adding another factor, momentum, defined as relative past stock returns.",
+      "answer_source": "red",
+      "tags": [
+        "explain return generating models (including the market model) and their uses"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following measures uses only systematic risk to evaluate portfolio performance?",
+      "options": {
+        "A": "M²",
+        "B": "Sharpe ratio",
+        "C": "Jensen's alpha"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Jensen's alpha is based on systematic risk. The difference between the actual portfolio return and the calculated risk-adjusted return is a measure of the portfolio's performance relative to the market portfolio and is called Jensen's alpha. A is incorrect because M² provides a measure of portfolio return that is adjusted for the total risk of the portfolio relative to that of some benchmark. B is incorrect because the Sharpe ratio measure is based on total risk. Total risk is relevant for an investor when he or she holds a portfolio that is not fully diversified, which is not a desirable portfolio. In such cases, the Sharpe ratio and M² are appropriate performance measures.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "When evaluating the return distribution of an asset class, the probability of extreme returns is best assessed by the distribution's:",
+      "options": {
+        "A": "kurtosis.",
+        "B": "variance.",
+        "C": "skewness."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In evaluating investments using only the mean (expected return) and variance (risk), we are implicitly making two important assumptions: 1) that the returns are normally distributed and can be fully characterized by their means and variances and 2) that markets are not only informationally efficient but that they are also operationally efficient. To the extent that these assumptions are violated, we need to consider additional investment characteristics. One of them is kurtosis. Kurtosis refers to fat tails or higher than normal probabilities for extreme returns and has the effect of increasing an asset's risk that is not captured in a mean-variance framework. This applies to asset returns as several market participants note that the probability and the magnitude of extreme events is underappreciated and was a primary contributing factor to the financial crisis of 2008. B is incorrect because using only mean and variance would be appropriate to evaluate investments if returns were distributed normally. Returns, however, are not normally distributed because the probability of extreme events is significantly greater than what a normal distribution would suggest. The latter deviation is referred to as kurtosis. C is incorrect because skewness refers to asymmetry of the return distribution, that is, returns are not symmetric around the mean. Skewness does not refer specifically to the probability of extreme events (and does not measure it) even though a negatively skewed distribution would have a longer left tail relative to the normal distribution.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of the major asset classes that investors consider in forming portfolios"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Robo-advisers most likely",
+      "options": {
+        "A": "face high barriers to entry.",
+        "B": "cater to the demand from investors with lower levels of investable assets.",
+        "C": "prefer actively managed funds to index funds when constructing client portfolios"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Rapid growth in robo-advisory assets is based on several industry trends including growing demand from 'mass affluent and younger investors. Traditional investment advice has often underserved younger and 'mass affluent investors with lower relative levels of investable assets. A is incorrect because reflecting low barriers to entry, large wealth management firms have introduced robo-adviser solutions to service certain customer segments and appeal to a new generation of investors. C is incorrect because robo-advisers often rely on lower fee underlying portfolio investment options, such as index funds or ETFs, when constructing portfolios for clients.",
+      "answer_source": "red",
+      "tags": [
+        "describe aspects of the asset management industry"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Which of the following is most closely associated with representativeness bias?",
+      "options": {
+        "A": "Momentum",
+        "B": "The halo effect",
+        "C": "Bubbles and crashes"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Representativeness bias attributes one positive trait as being representative of an overall positive investment. The halo effect extends a favorable evaluation of some characteristics to other characteristics. A company with a good growth record and good previous share price performance might be seen as a good investment, with higher expected returns than its risk characteristics ment. This view is a form of representativeness that can lead Investors to extrapolate recent past performance into expected returns. A is incorrect because representativeness bias pertains to sample-size neglect, where a small sample is believed to represent a population, or base-rate neglect, where specific Information is seen to supercede an established trend Momentum is attributable to the fear of missing out or recent trends in the market, not a specific piece of information. Momentum can be partly explained by availability, hindsight, and loss aversion biases. C is incorrect because bubbles and crashes are most closely identified with overconfidence not representativeness bias, in bubbles, investors often exhibit symptoms of overconfidence, overtrading, underestimation of risks failure to diversify, and rejection of contradictory Information. The overconfidence and excessive trading that contribute to a bubble are linked to confirmation bias and self-attribution bias.",
+      "answer_source": "red",
+      "tags": [
+        "describe how behavioral biases of investors can lead to market characteristics that may not be explained by traditional finance"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which of the following statements about different types of investors is most accurate?",
+      "options": {
+        "A": "For banks, the liquidity of their investments is a paramount concern.",
+        "B": "For endowments, investment horizons are short due to their short-term spending needs.",
+        "C": "For insurance companies, the risk tolerance of their general and surplus accounts is typically the same."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Liquidity is a paramount concern for banks that stand ready to meet depositor requests for withdrawals. B is incorrect because most foundations and endowments are established with the intent of having perpetual lives. The large allocation to alternative investments primarily reflects the typically long time horizon of endowments and foundations. C is incorrect because an insurance company's general account is typically invested conservatively in a diverse allocation of fixed-income securities, while an insurer's surplus account typically targets a higher return than the general account and thus often invests in less-conservative asset classes.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of investors and distinctive characteristics and needs of each"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Which of the following is most likely undertaken during the risk budgeting process?",
+      "options": {
+        "A": "Assessing risk appetite",
+        "B": "Setting a limit for value at risk (VAR)",
+        "C": "Establishing a reserve to cover potential future losses"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Risk budgeting quantifies and allocates the tolerable risk by specific metrics. Four well-known single-dimension measures that are often used are standard deviation, beta, value at risk (VaR), and scenario loss. A is incorrect because it describes risk tolerance, not risk budgeting Risk tolerance Identifies the extent to which the organization is willing to experience losses or opportunity costs and to fail in meeting its objectives. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken. C is incorrect because it describes self-insurance, an example of risk acceptance, not risk budgeting. Self-insurance is the notion of bearing a risk that is considered undesirable but too costly to eliminate by external means. It may involve the establishment of a reserve to cover losses.",
+      "answer_source": "red",
+      "tags": [
+        "describe risk budgeting and its role in risk governance"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The portfolio approach to investing most likely.",
+      "options": {
+        "A": "prevents portfolio losses during market downturns.",
+        "B": "reduces the systematic risk of individual assets in a portfolio.",
+        "C": "helps avoid disastrous investment outcomes during normal market conditions."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Portfolio diversification helps investors avoid disastrous investment outcomes. A main tenet of the portfolio approach to investing is diversification. A disastrous outcome can result from 'putting all your eggs into one basket’ or investing everything into one stock whose value could then go to zero. A diversified portfolio holding many securities is likely to avoid this outcome. Although diversification may not prevent losses during market downturns, it does help avoid disastrous investment outcomes during normal market conditions. A is incorrect because although the portfolio approach helps avoid disasters by way of diversification, it does not necessarily provide downside protection (prevent losses) during market downturns. A major reason that portfolios can effectively reduce risk is that combining securities whose returns do not move together provides diversification. However, an important issue is that the co-movement or correlation pattern of the securities returns in the portfolio can change in a manner unfavorable to the investor. Despite diversification, a portfolio is unlikely to preserve its value during market downturns. B is incorrect because an asset's risk should be measured in relation to the remaining systematic or non-diversifiable risk, which should be the only risk that affects the asset's price. Systematic risk is risk that cannot be avoided and is inherent in the overall market. It is non-diversifiable because it includes risk factors that are innate within the market and affect the market as a whole. Therefore, portfolio diversification does not reduce the systematic risk of individual assets in a portfolio.",
+      "answer_source": "red",
+      "tags": [
+        "describe the portfolio approach to investing"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "A client's time horizon is most appropriately used by an investment adviser to determine the client's:",
+      "options": {
+        "A": "risk attitude.",
+        "B": "ability to take risk.",
+        "C": "willingness to take risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities. A is incorrect because the willingness to take risk, or risk attitude, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances. C is incorrect because the willingness to take risk, or risk attitude, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following sections of an investment policy statement most likely provides guidance on obtaining feedback on investment results?",
+      "options": {
+        "A": "Investment Guidelines",
+        "B": "Evaluation and Review",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Evaluation and Review section provides guidance on obtaining feedback on investment results. A is incorrect because the Investment Guidelines section provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any. C is incorrect because the Statement of Duties and Responsibilities details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers.",
+      "answer_source": "red",
+      "tags": [
+        "describe the major components of an IPS"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "The security market line plots the expected return of a portfolio against a measure of the portfolio's:",
+      "options": {
+        "A": "total risk.",
+        "B": "systematic risk.",
+        "C": "unsystematic risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. A is incorrect because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk (not total risk), on the x-axis and expected return on the y-axis. The security market line applies to any security, efficient or not. Total risk and systematic risk are equal only for efficient portfolios because those portfolios have no diversifiable risk remaining. C is incorrect because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk (not unsystematic risk), on the x-axis and expected return on the y-axis.",
+      "answer_source": "red",
+      "tags": [
+        "explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "An analyst estimates the standard deviation of returns for the market portfolio to be 15% and the standard deviation of returns for a stock to be 25%. If the correlation of returns between the stock and the market portfolio is 0.6, the stock has:",
+      "options": {
+        "A": "less systematic risk than the market portfolio.",
+        "B": "the same systematic risk as the market portfolio.",
+        "C": "more systematic risk than the market portfolio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The amount of systematic risk for a company is measured by the stock's beta. 𝛽= 𝜌𝑖,𝑚 ∗ 𝜎𝑖 / 𝜎𝑚 = 0.60 x 0.25/0.15 = 0.15/0.15 = 1. Since the company's beta equals the market portfolio's beta (the market portfolio's beta with itself equals 1), the company has the same level of systematic risk as the market portfolio. A is incorrect because the company has a beta equal to one, which is the same as the beta of the market portfolio. C is incorrect because the company has a beta equal to one, which is the same as the beta of the market portfolio.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret beta"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Risk-averse investors make investment decisions that maximize:",
+      "options": {
+        "A": "both return and risk.",
+        "B": "return irrespective of risk.",
+        "C": "return for the same amount of risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk-averse investors make investment decisions based on the risk-return trade-off, maximizing return for the same risk, and minimizing risk for the same return. A is incorrect because a risk-seeking investor would maximize both risk and return. B is incorrect because a risk-neutral investor would maximize return irrespective of risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain risk aversion and its implications for portfolio selection"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Sovereign wealth funds are best described as investment funds:",
+      "options": {
+        "A": "owned by governments.",
+        "B": "traded as closed-end country funds.",
+        "C": "restricted from investing in foreign securities"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Sovereign wealth funds (SWFs) are government-owned investment funds. B is incorrect because sovereign wealth funds (SWFs) are government-owned investment funds. Closed-end funds are mutual funds in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. A mutual fund is a comingled investment pool in which investors in the fund each have a pro-rata claim on the income and value of the fund. SWFs do not pool investment money from individual investors and institutions, and they are not traded. C is incorrect because sovereign wealth funds (SWFS) are government-owned investment funds or entities that invest in financial or real assets. In order to meet their long-term return objectives, SWFS invest in a wide range of real and financial assets or in alternative investments. The name \"sovereign\" wealth funds refers to the funds' ownership rather than their permitted investments.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of investors and distinctive characteristics and needs of each"
+      ]
+    }
+  ]
+}

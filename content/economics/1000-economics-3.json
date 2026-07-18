@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "id": "economics-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 39–57)",
+  "group": "1000 Question Bank — Economics",
+  "source": "1000 Practice Questions — Economics",
+  "questions": [
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Which of the following is most likely a coincident indicator of economic activity?",
+      "options": {
+        "A": "Average duration of unemployment",
+        "B": "Average weekly hours, manufacturing",
+        "C": "Employees on non-agricultural payrolls"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Once recession or recovery is clear, businesses adjust their fulltime payrolls. Non-agricultural payrolls and manufacturing and trade sales are coincident indicators. A is incorrect because businesses wait until downturns look genuine to lay off, and wait until recoveries look secure to rehire, this measure is important because it lags the cycle on both the way down and the way up. Thus, average duration of unemployment is a lagging economic indicator. B is incorrect because businesses will cut overtime before laying off workers in a downturn and increase it before rehiring weekly in a cyclical upturn, these measures move up and down before the general economy. Thus, average hours, manufacturing is a leading economic indicator.",
+      "answer_source": "red",
+      "tags": [
+        "describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "An analyst gathers the following foreign exchange rate information: CAD/USD — beginning of period 1.3216, end of period 1.2944; JPY/USD — beginning of period 105.42, end of period 104.74. CAD/USD is the amount of CAD per 1 USD. JPY/USD is the amount of JPY per 1 USD. The percentage change in the JPY/CAD cross-rate for the period is closest to:",
+      "options": {
+        "A": "-2.7%.",
+        "B": "1.4%.",
+        "C": "2.8%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. For example, to get a Canada-yen (JPY/CAD) quote, one is typically using the dollar-Canada (CAD/USD) rate and dollar-yen (JPY/USD) rate, which are the market conventions. Hence, to get a Canada-yen (JPY/CAD) quote, we must first invert the dollar-Canada (CAD/USD) quote before multiplying by the dollar-yen (JPY/USD) quote The beginning of period JPY/CAD exchange rate is therefore = 1/1.3216 x 105 42 = 0.75666 x 105.42 = 79.77 The end of period JPY/CAD exchange rate is therefore = 1/1.2944 x 104.74 0.77256 × 104.74 = 80.92 The percentage change in the JPY/CAD exchange rate over the period is therefore = 80.92/79.77- 1=1.44% ≈1.4%. A is incorrect because the CAD/USD exchange rate was not inverted, as required in the correct calculation: Beginning of period JPY/CAD rate = 1.3216 x 105.42 = 139.32 End of period JPY/CAD exchange rate = 1.2944 x 104.74 = 135.58 Therefore the percentage change in JPY/CAD was calculated incorrectly as 135.58/139.32-1=-2.68%≈ 2.7%. C is incorrect because the beginning and end of period JPY/USD exchange rates have been reversed chronologically as follows: Beginning of period JPY/CAD rate = 1/1.3216 x 104.74 = 0.75666 x 104.74 = 79.25 End of period JPY/CAD exchange rate = 1/1.2944 x 105.42 0.77256 x 105.42 = 81.44 Therefore the percentage change in JPY/CAD was calculated incorrectly as 81.44/79.25-1=2.76% ≈2.8%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret currency cross-rates"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "An analyst gathers the following information about spot rates: USD/GBP 1.2604; USD/EUR 1.1786. USD/GBP is the amount of USD per 1 GBP. USD/EUR is the amount of USD per 1 EUR. The spot EUR/GBP cross rate is closest to:",
+      "options": {
+        "A": "0.9351.",
+        "B": "1.0694.",
+        "C": "1.4855."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. For example, to get a Canada-yen (JPY/CAD) quote, one is typically using the dollar-Canada (CAD/USD) rate and dollar-yen (JPY/USD) rate, which are the market conventions. This Canada-yen calculation requires that the dollar-Canada rate (CAD/USD) be inverted to a USD/CAD quote for the calculations to work. The formula for the EUR/GBP cross rate is USD/GBP x (USD/EUR)-1 = USD/GBP x EUR/USD = 1.2604/1.1786≈1.0694. A is incorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. The formula for the EUR/GBP cross rate is USD/GBP x USD/EUR)-1= USD/GBP x EUR/USD. This answer inverts the wrong exchange rate and reverses the formula to 1.1786/1.2604 ≈0.9351. This answer would be the GBP/EUR cross rate, not the EUR/GBP cross rate. C is incorrect because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. This answer does not invert the quotes but rather multiplies the two spot rates. 1.2604 x 1.1786≈1.4855.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret currency cross-rates"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "A perfectly competitive market structure:",
+      "options": {
+        "A": "is not possible in reality.",
+        "B": "causes all industries to ultimately fail due to lack of profits.",
+        "C": "drives company profits to the investors' required rate of return."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Profits under the conditions of perfect competition are driven to the required rate of return paid by the entrepreneur to borrow capital from investors (so-called normal profit or rental cost of capital). A is incorrect because unlike some economic concepts, perfect competition is not merely an ideal based on assumptions. Perfect competition is a reality. B is incorrect because perfect competition does not mean that all perfectly competitive industries are doomed to extinction by a lack of profits. On the contrary, millions of businesses that do very well are living under the pressures of perfect competition.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of perfect competition, monopolistic competition, oligopoly, and pure monopoly"
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "In contrast to real exchange rates, nominal foreign exchange rates:",
+      "options": {
+        "A": "tend to deviate from purchasing power parity.",
+        "B": "represent the relative price levels in the domestic and foreign countries.",
+        "C": "are indexes useful for understanding international trade and capital flows."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Nominal exchange rates exhibit persistent deviations from PPP. B is incorrect because relative price levels are represented by the real exchange rate. The real exchange rate is an index that adjusts the nominal exchange rate for each country's price level. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair (hence the name \"real exchange rates\") in order to compare the relative purchasing power between countries. An equivalent way of viewing the real exchange rate is that it represents the relative price levels in the domestic and foreign countries. C is incorrect because nominal exchange rates are not indexes. The real exchange rate represents indexes created by analysts to understand the international competitiveness of an economy and the real purchasing power of a currency. In this context, real exchange rates can be useful for understanding trends in international trade and capital flows and hence can be seen as one of the influences on nominal spot exchange rates.",
+      "answer_source": "red",
+      "tags": [
+        "describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "An argument against free trade is that:",
+      "options": {
+        "A": "it has the potential to lead to greater income inequality.",
+        "B": "it increases average production costs in goods and services.",
+        "C": "it discourages foreign research and development in an economy."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Opponents of free trade point to the potential for greater income inequality and the loss of jobs in developed countries as a result of import competition. B is incorrect because firms benefit from greater economies of scale... Hence, scale economies allow firms to benefit from the larger market size and experience lower average cost of production as a result of trade. C is incorrect because trade can lead to increased exchange of ideas, freer flow of technical expertise, and greater awareness of changing consumer tastes and preferences in global markets. It can also contribute to the higher quality and more effective institutions and policies that encourage domestic innovation. For example, Coe and Helpman (1995) show that foreign research and development (R&D) has beneficial effects on domestic productivity. These effects become stronger the more open an economy is to foreign trade.",
+      "answer_source": "red",
+      "tags": [
+        "describe the benefits and costs of international trade"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "An analyst gathers the following information: Foreign inflation rate 2%; Domestic inflation rate 3%; Nominal appreciation of domestic currency against foreign currency 6%. The real appreciation of the domestic currency against the foreign currency is closest to:",
+      "options": {
+        "A": "4%.",
+        "B": "5%.",
+        "C": "7%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The change in the real exchange rate is (1 +ΔSd/f/Sd/f) × (1+ ΔSf/Sf) / (1 + ΔPd /Pd-1 = (1 +6%) × (1+2%)/(1+3%) - 1 = 1.06 x 1.02/1.03 -1= 0.0497 ≈0.05 = 5%, where ΔSd/f/Sd/f is the change of the nominal exchange rate, ΔPf/Pf is the foreign inflation rate, and ΔPd/Pd is the domestic inflation rate. Using the appropriate approximate formula, 6.0% +2.0% -3.0%-5% leads to the same answer choice. A is incorrect because it does not add 1 to the inflation rates and the nominal appreciation rate in the formula, and calculates the change of the real exchange rate as (6%)x(2% /(3%)=4%. C is incorrect because it interchanges domestic and foreign inflation rates in the formula, and calculates the change of real exchange rate as (1+6%) x (1+3%) / (1+2%) -11.06 x 1.03/1.02-10.0704 ≈0.07 = 7%.",
+      "answer_source": "red",
+      "tags": [
+        "describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Price levels increase by 2% in the US and by 6% in the Eurozone. If the nominal spot exchange rate of the USD/EUR (amount of US dollars per 1 euro) decreases by 4%, the absolute change in the real exchange rate is closest to:",
+      "options": {
+        "A": "0%.",
+        "B": "4%.",
+        "C": "8%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The change in the real exchange rate is (1+ ΔSd/f/Sd/f) x (1+ΔPf/Pf)/(1+ ΔPd/Pd)-1 (1-4%) x (1+6%)/(1+2%)-1 ≈ 0% Thus, the change in the real exchange rate is approximately zero percent. The rough calculation is: - 4% +6% - 2% = 0%. B is incorrect because the price increase in the U.S. is assumed to be additive; -4% +6%+2% = 4%. C is incorrect because the change in the nominal exchange rate is misinterpreted, 4% + 6% - 2% = 8%.",
+      "answer_source": "red",
+      "tags": [
+        "describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "Which of the following market structures has high barriers to entry?",
+      "options": {
+        "A": "An oligopoly",
+        "B": "Perfect competition",
+        "C": "Monopolistic competition"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The characteristics of oligopoly markets include: entry into the market is difficult, with fairly high costs and significant barriers to competition. B is incorrect because perfect competition has very low barriers to entry. C is incorrect because monopolistic competition has low barriers to entry.",
+      "answer_source": "red",
+      "tags": [
+        "Identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "With respect to trading blocs, a common market most likely incorporates all aspects of a(n):",
+      "options": {
+        "A": "customs union.",
+        "B": "monetary union.",
+        "C": "economic union."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The common market is the next level of economic integration that incorporates all aspects of the customs union and extends it by allowing free movement of factors of production among members. B is incorrect because the common market is the customs union plus the free movement of factors of production among members. An economic union plus a common currency is a monetary union. That is, if the members of the economic union decide to adopt a common currency, then it is also a monetary union. C is incorrect because the common market is the customs union plus the free movement of factors of production among members. Common economic institutions and coordination of economic policies among members are traits of an economic union. That is, an economic union requires an even greater degree of integration. It incorporates all aspects of a common market and in addition requires common economic institutions and coordination of economic policies among members.",
+      "answer_source": "red",
+      "tags": [
+        "explain motivations for and advantages of trading blocs, common markets, and economic unions"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "All else being equal, in an efficient market a forward exchange rate will decrease as a result of an increase in the:",
+      "options": {
+        "A": "spot exchange rate.",
+        "B": "foreign risk-free interest rate.",
+        "C": "domestic risk-free interest rate."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The arbitrage equation can be re-arranged as needs require. For example, to get the formula for the forward rate, the above equation can be restated as: Ft/d = St/d x [(1+it)/(1+id)] where Ft/d is the forward exchange rate, St/d is the spot exchange rate, if is the foreign risk-free interest rate, and id is the domestic risk-free interest rate. Therefore, the forward exchange rate will decrease as a result of an increase in the domestic risk-free interest rate. A is incorrect because the forward exchange rate will increase, rather than decrease, as a result of an increase in the spot exchange rate. B is incorrect because the forward exchange rate will increase, rather than decrease, as a result of an increase in the foreign risk-free interest rate.",
+      "answer_source": "red",
+      "tags": [
+        "explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "Which of the following indicators suggest(s) a monopoly market?",
+      "options": {
+        "A": "A concentration ratio of 100% only",
+        "B": "A Herfindahl-Hirschman index of zero only",
+        "C": "Both a concentration ratio of 100% and a Herfindahl-Hirschman index of zero"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The concentration ratio is the sum of the market shares of the largest N firms. This number is always between zero (perfect competition) and 100 percent (monopoly). B is incorrect because O.C. Herfindahl and A.O. Hirschman suggested an index where the market shares of the top N companies are first squared and then added. If one firm controls the whole market (a monopoly), the Herfindahl-Hirschman index (HHI) equals 1. C is incorrect because O.C. Herfindahl and A.O. Hirschman suggested an index where the market shares of the top N companies are first squared and then added. If one firm controls the whole market (a monopoly), the Herfindahl-Hirschman index (HHI) equals 1.",
+      "answer_source": "red",
+      "tags": [
+        "identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "When a country that is a price taker imposes a tariff on an imported good:",
+      "options": {
+        "A": "national welfare increases.",
+        "B": "consumers gain consumer surplus.",
+        "C": "local producers gain producer surplus."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The economic impact of a tariff on imports in small country is one that is a price taker in the world market for a product and cannot influence the world market price. The welfare effect can be summarized as follows: Consumers suffer a loss of consumer surplus, local producers gain producer surplus and the net welfare effect results in a deadweight loss to the country's welfare. A is incorrect because a small country is one that is a price taker in the world market for a product and cannot influence the world market price. The welfare effect can be summarized as follows: Consumers suffer a loss of consumer surplus, local producers gain producer surplus and the net welfare effect results in a deadweight loss to the country's welfare. B is incorrect because the economic impact of a tariff on imports in a small country is one that is a price taker in the world market for a product and cannot influence the world market price. The welfare effect can be summarized as follows: Consumers suffer a loss of consumer surplus, local producers gain producer surplus and the net welfare effect results in a deadweight loss to the country's welfare.",
+      "answer_source": "red",
+      "tags": [
+        "compare types of trade restrictions, such as tariffs, quotas, and export subsidies, and their economic implications"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "An ideal international currency regime would most likely have:",
+      "options": {
+        "A": "currencies that are fully convertible.",
+        "B": "floating exchange rates between currencies.",
+        "C": "a common monetary policy across different countries."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The ideal currency regime would have three properties. One of those properties is, all currencies would be fully convertible (ie., currencies could be freely exchanged for any purpose and in any amount). This condition ensures unrestricted flow of capital. B is incorrect because the ideal currency regime would have three properties. One of those properties states the exchange rate between any two currencies would be credibly fixed, not floating. C is incorrect because the ideal currency regime would have three properties. One of those properties states each country would be able to undertake fully independent [not common] monetary policy in pursuit of domestic objectives, such as growth and inflation targets.",
+      "answer_source": "red",
+      "tags": [
+        "describe exchange rate regimes and explain the effects of exchange rates on countries' international trade and capital flows"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "In the short run, a firm most likely shuts down production when:",
+      "options": {
+        "A": "economic profit is zero.",
+        "B": "sunk costs are greater than total revenue.",
+        "C": "total revenue is less than total variable cost."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The firm must cover its variable cost to remain in business in the short run; if TR cannot cover TVC, the firm shuts down production to minimize loss. The loss would be equal to the amount of fixed cost. A is incorrect because in the long run, if a firm cannot earn at least a zero economic profit, it will not operate because it is not covering the opportunity cost of all of its factors of production, labor, and capital. In the short run, however, a firm might find it advantageous to continue to operate even if it is not earning at least a zero economic profit. Firms will stay in business (short and long run) if they make a zero profit. B is incorrect because sunk costs cannot be avoided, no matter what the firm does. Sunk costs must be ignored in the decision to continue to operate in the short run. As long as the firm's revenues cover at least its variable cost, the firm is better off continuing to operate.",
+      "answer_source": "red",
+      "tags": [
+        "determine and interpret breakeven and shutdown points of production, as well as how economies and diseconomies of scale affect costs under perfect and imperfect competition"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "If the spot USD/EUR exchange rate (the amount of USD per one EUR) is 1.1605 and the one-year forward rate is 1.17240, the forward points are:",
+      "options": {
+        "A": "+101.5.",
+        "B": "+102.5.",
+        "C": "+119.0."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The forward rate is calculated as (1.17240-1.1605) x 10,000 = 119.0. A is incorrect because calculating (1-(1.1605/1.17240)) x 10,000 ≈101.5 is not using the correct formula of (1.1724 - 1.1605) x 10,000 = 119.0. B is incorrect because calculating (1.17240/1.1605-1) x 10,000 ≈102.5 is not using the correct formula of (1.17240 -1.1605 ) x 10,000 = 119.0.",
+      "answer_source": "red",
+      "tags": [
+        "explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "Under which of the following market structures are pricing strategies most likely influenced by the expected reaction of other firms?",
+      "options": {
+        "A": "Oligopoly",
+        "B": "Perfect competition",
+        "C": "Monopolistic competition"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The oligopoly market structure is based on a relatively small number of firms supplying the market. The small number of firms in the market means that each firm must consider what retaliatory strategies the other firms will pursue when prices and production levels change. Consider the pricing behavior of commercial airline companies. Pricing strategies and route scheduling are based on the expected reaction of the other carriers in similar markets. B is incorrect because there are many sellers in this type of market structure and firms operating in a market structure or perfect competition are price takers. C is incorrect because there are many sellers and in the case of monopolistic competition, the success of product differentiation determines the degree with which the firm can influence prices.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of perfect competition, monopolistic competition, oligopoly, and pure monopoly"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "The neutral policy rate is equal to:",
+      "options": {
+        "A": "long-run expected inflation.",
+        "B": "the real trend rate of growth of the underlying economy.",
+        "C": "long-run expected inflation plus the real trend rate of growth of the underlying economy."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The neutral policy rate for any economy comprises two components: Real trend rate of growth of the underlying economy, and long-run expected inflation. Also note Neutral rate = Trend growth + Inflation target. A is incorrect because the neutral policy rate for any economy comprises two components: Real trend rate of growth of the underlying economy, and long-run expected inflation. Also note Neutral rate = Trend growth + Inflation target. B is incorrect because the neutral policy rate for any economy comprises two components: Real trend rate of growth of the underlying economy, and long-run expected inflation. Also note Neutral rate = Trend growth + Inflation target.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks, contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "In long-run equilibrium, the perfectly competitive firm's supply curve is best represented by the firm's long-run:",
+      "options": {
+        "A": "marginal cost schedule.",
+        "B": "average revenue schedule.",
+        "C": "marginal revenue schedule."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The long-run marginal cost schedule is the perfectly competitive firm's supply curve. The firm's demand curve is dictated by the aggregate market's equilibrium price. The basic rule of profit maximization is that MR = MC, as is the case in long-run equilibrium. B is incorrect because the horizontal line that represents the firm's demand curve is the firm's AR [average revenue] schedule. C is incorrect because in a perfectly competitive market structure the firm's demand schedule is the same as the firm's marginal revenue and average revenue. Given its cost of operation, the only decision the perfectly competitive firm faces is how much to produce. The answer is the level of output that maximizes its return, and that level is where MR = MC. The demand curve is perfectly elastic. Of course, the firm constantly tries to find ways to lower its cost in the long run.",
+      "answer_source": "red",
+      "tags": [
+        "explain supply and demand relationships under monopolistic competition, including the optimal price and output for firms as well as pricing strategy"
+      ]
+    }
+  ]
+}

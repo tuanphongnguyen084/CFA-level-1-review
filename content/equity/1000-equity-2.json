@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 23–44)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Q. All else being equal, an increase in which of the following most likely increases a company's enterprise value?",
+      "options": {
+        "A": "Book value of debt",
+        "B": "Market value of investments",
+        "C": "Market value of preferred stock"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Enterprise value is most frequently determined as market capitalization plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). Therefore, enterprise value increases with an increase in the market value of preferred stock. A is incorrect because Enterprise value is most frequently determined as market capitalization plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). Enterprise value increases with an increase in the market value, not book value, of debt. B is incorrect because Enterprise value is most frequently determined as market capitalization plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). Enterprise value increases with a decrease, not increase, in the market value of cash and investments.",
+      "answer_source": "red",
+      "tags": [
+        "describe enterprise value multiples and their use in estimating equity value"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Q. The Global Industry Classification Standard (GICS) classifies industries based on:",
+      "options": {
+        "A": "statistical similarities.",
+        "B": "business-cycle sensitivities.",
+        "C": "products and/or services supplied."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Examples of classification systems based on products and/or services include the commercial classification systems... namely, the Global Industry Classification Standard (GICS). A is incorrect because Examples of classification systems based on products and/or services include the commercial classification systems... namely, the Global Industry Classification Standard (GICS). B is incorrect because Examples of classification systems based on products and/or services include the commercial classification systems... namely, the Global Industry Classification Standard (GICS).",
+      "answer_source": "red",
+      "tags": [
+        "describe industry classification methods and compare methods by which companies can be grouped"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Q. Which of the following indexes is composed of futures contracts?",
+      "options": {
+        "A": "Commodity index",
+        "B": "Hedge fund index",
+        "C": "Broad equity market index"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Commodity indexes consist of futures contracts on one or more commodities. B is incorrect because Hedge fund indexes reflect the returns on hedge funds. Hedge funds are private investment vehicles that typically use leverage and long and short investment strategies. A number of research organizations maintain databases of hedge fund returns and summarize these returns into indexes. Although the underlying hedge funds may contain futures contracts, the indexes are not comprised of futures contracts. C is incorrect because A broad equity market index, as its name suggests, represents an entire given equity market and typically includes securities representing more than 90 percent of the selected market. Although the underlying securities may include contracts, the index is not comprised of futures contracts.",
+      "answer_source": "red",
+      "tags": [
+        "describe indexes representing alternative investments"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Q. External factors affecting an industry's growth most likely include:",
+      "options": {
+        "A": "cost structures.",
+        "B": "economies of scale.",
+        "C": "technological influences."
+      },
+      "answer": "C",
+      "explanation": "C is correct. External factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. A is incorrect because External factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. In contrast, cost structures (or cost conditions) are internal factors. B is incorrect because External factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. In contrast, economies of scale is an internal factor.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Q. Which of the following is most likely used to raise funds for a capital project?",
+      "options": {
+        "A": "Equity issuance only",
+        "B": "A stock dividend only",
+        "C": "Both equity issuance and a stock dividend"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Companies often raise money for projects by selling (issuing) ownership interests (e.g., corporate common stock or partnership interests). Although these equity instruments legally represent ownership in companies rather than loans to the companies, selling equity to raise capital is simply another mechanism for moving money from the future to the present. B is incorrect because Issuing a stock dividend would not be an activity the company would do to fund a capital project. Stock dividends are a non-cash form of dividends and the company distributes additional shares of its common stock to shareholders instead of cash. Thus stock dividends will flow to shareholders, not the capital project. C is incorrect because Issuing a stock dividend would not be an activity the company would do to fund a capital project. Stock dividends are a non-cash form of dividends and the company distributes additional shares of its common stock to shareholders instead of cash. Thus stock dividends will flow to shareholders, not the capital project.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Q. In dividend payment chronology, the ex-dividend date most likely comes after the:",
+      "options": {
+        "A": "record date.",
+        "B": "payment date.",
+        "C": "declaration date."
+      },
+      "answer": "C",
+      "explanation": "C is correct. First is the declaration date, the day that the company issues a statement declaring a specific dividend. Next comes the ex-dividend date (or ex-date), the first date that a share trades without (i.e., \"ex\") the dividend. A is incorrect because Ex-dividend date is followed closely (one or two business days later) by the holder-of-record date (also called the owner-of-record date, shareholder-of-record date, record date, date of record, or date of book closure), the date that a shareholder listed on the company's books will be deemed to have ownership of the shares for purposes of receiving the upcoming dividend. B is incorrect because The final milestone [in the dividend payment chronology] is the payment date (or payable date), which is the day that the company actually mails out (or electronically transfers) a dividend payment to shareholders.",
+      "answer_source": "red",
+      "tags": [
+        "describe dividend payment chronology"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "An analyst gathers the following information about an industry and three comparable companies within the industry: Company 1 Company 2 Company 3 Average Price/sales 8.9 3.2 5.7 6.2 Price/book 5.7 2.6 2.3 4.7 Q. Based only on this information, the most overvalued company is:",
+      "options": {
+        "A": "Company 1.",
+        "B": "Company 2.",
+        "C": "Company 3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Company 1's P/S and P/B are both the highest compared to those of its two peers and the industry average. All else being equal, high P/S and P/B multiples point to relatively expensive valuations. Therefore, in the absence of conflict between the indications given by P/S and P/B (as both measures are the highest for the same company), the company most likely to be overvalued is Company 1. B is incorrect because The P/S and P/B of Company 2 are lower than those of both Company 1 and the industry average. C is incorrect because The P/S and P/B of Company 3 are lower than those of both Company 1 and the industry average.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Q. Which of the following industries or sectors is most likely classified as cyclical?",
+      "options": {
+        "A": "Utilities",
+        "B": "Industrials",
+        "C": "Health care"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Examples of cyclical industries and broader sectors are autos, housing, basic materials, industrials, and technology. A is incorrect because Utilities are classified as non-cyclical. Examples of non-cyclical industries are food and beverage, household and personal care products, health care, and utilities. C is incorrect because Health care is classified as non-cyclical. Examples of non-cyclical industries are food and beverage, household and personal care products, health care, and utilities.",
+      "answer_source": "red",
+      "tags": [
+        "describe industry classification methods and compare methods by which companies can be grouped"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Q. An increase in shares held by controlling shareholders most likely impacts the constituent weightings of a(n):",
+      "options": {
+        "A": "price-weighted index.",
+        "B": "equal-weighted index.",
+        "C": "float-adjusted market-capitalization-weighted index."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Float-adjusted market-capitalization-weighted indexes reflect the shares available for public trading [excluding the ones held by controlling shareholders] by multiplying the market price per share by the number of shares available to the investing public (i.e., the float-adjusted market capitalization), which means constituent weights are impacted. A is incorrect because In price weighting, the weight on each constituent security is determined by dividing its price by the sum of all the prices of the constituent securities, which means the lower free float (due to increased weight of controlling shareholders) has no impact on constituent weights. B is incorrect because The equal weighting assigns an equal weight to each constituent security at inception, which means the lower free float (due to increased number of shares held by controlling shareholders) has no impact on constituent weights.",
+      "answer_source": "red",
+      "tags": [
+        "compare the different weighting methods used in index construction"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Q. Free-cash-flow-to-equity is equal to cash flow from operations:",
+      "options": {
+        "A": "less fixed capital investment less net borrowing.",
+        "B": "less fixed capital investment plus net borrowing.",
+        "C": "plus fixed capital investment less net borrowing."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFO-FCInv + Net borrowing where CFO is cash flow from operations and FCInv is fixed capital investment. A is incorrect because Free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFO-FCInv + Net borrowing [not minus net borrowing] where CFO is cash flow from operations and FCInv is fixed capital investment. C is incorrect because Free-cash-flow-to-equity (FCFE) can be expressed as FCFE = CFO-FCInv [not +FCInv] + Net borrowing [not minus net borrowing] where CFO is cash flow from operations and FCInv is fixed capital investment.",
+      "answer_source": "red",
+      "tags": [
+        "explain the rationale for using present value models to value equity and describe the dividend discount and free-cash-flow-to-equity models"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Q. Over time, which of the following indexes most likely has portfolio weights that shift away from securities that have increased in relative value and toward securities that have fallen in relative value? A:",
+      "options": {
+        "A": "price-weighted index",
+        "B": "fundamentally weighted index",
+        "C": "market-capitalization-weighted index"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fundamentally weighted indexes generally will have a contrarian 'effect' in that the portfolio weights will shift away from securities that have increased in relative value and toward securities that have fallen in relative value whenever the portfolio is rebalanced. A is incorrect because The main disadvantage of price weighting is that it results in arbitrary weights for each security. It does not have a contrarian effect. C is incorrect because A market capitalization weighting method leads to overweighting stocks that have risen in price (and may be overvalued) and underweighting stocks that have declined in price (and may be undervalued). The effect of this weighting method is similar to a momentum investment strategy in that over time, the securities that have risen in price the most will have the largest weights in the index.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "An analyst gathers the following data for three companies in the same industry (in millions): Company Enterprise Value (EV) Earnings Before Interest, Taxes, Depreciation, & Amortization (EBITDA) 1 $100 $8 2 $150 $10 3 $200 $15 Q. Based on enterprise value multiples, which of the three companies is likely the most undervalued?",
+      "options": {
+        "A": "Company 1",
+        "B": "Company 2",
+        "C": "Company 3"
+      },
+      "answer": "A",
+      "explanation": "A is correct. EV is often viewed as the cost of a takeover and EBITDA is a proxy for operating cash flow. Companies with relatively low EV/EBITDA multiples are likely to be undervalued. Company 1 has the lowest EV/EBITDA multiple among the three. Company 1: EV/EBITDA = 100,000,000 / 8,000,000 = 12.5; Company 2: EV/EBITDA = 150,000,000/10,000,000 = 15.0; Company 3: EV/EBITDA = 200,000,000 / 15,000,000 = 13.3. B is incorrect. (No explanation was provided in the source material.) C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Q. Which of the following statements best describes hedge fund indexes?",
+      "options": {
+        "A": "Index constituents are regulated entities",
+        "B": "Potential survivorship bias is reduced by voluntary performance reporting",
+        "C": "There may be little overlap in index constituents between different indexes offered by different index providers"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Frequently, a hedge fund reports its performance to only one database. The result is little overlap of funds covered by the different indices. With little overlap between their constituents, different global hedge funds indices may reflect very different performance for the hedge fund industry over the same period of time. A is incorrect because As unregulated entities hedge funds are not required to report their performance. This means a hedge fund index is unlikely to be composed of regulated entities. B is incorrect because A consequence of the voluntary performance reporting is the potential for survivorship bias.",
+      "answer_source": "red",
+      "tags": [
+        "describe indexes representing alternative investments"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Q. A market where security prices fully reflect all publicly known and available information, but not private information, is:",
+      "options": {
+        "A": "weak-form efficient.",
+        "B": "semi-strong-form efficient.",
+        "C": "strong-form efficient."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In a semi-strong-form efficient market, prices reflect all publicly known and available information. A is incorrect because In the weak-form efficient market hypothesis, security prices fully reflect all past market data. It does not include all publicly known and available information. C is incorrect because In a strong-form efficient market, security prices fully reflect both public and private information.",
+      "answer_source": "red",
+      "tags": [
+        "contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Q. In a highly efficient market, a passive investment strategy most likely has:",
+      "options": {
+        "A": "higher transaction costs than an active strategy.",
+        "B": "lower information-seeking costs than an active strategy.",
+        "C": "higher risk-adjusted returns before all expenses than an active strategy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In a highly efficient market, a passive investment strategy (i.e., buying and holding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred to an active investment strategy because of lower costs (for example, transaction and information-seeking costs). A is incorrect because In a highly efficient market, a passive investment strategy is preferred to an active investment strategy because of lower costs (for example, transaction and information-seeking costs). C is incorrect because Since there are no inefficiencies to exploit in a highly efficient market, an active investment strategy would most likely generate the same risk-adjusted returns as a passive investment strategy if expenses are not considered. Consistent, superior, risk-adjusted returns (net [not before] of all expenses) are not achievable in an efficient market. In a highly efficient market, a passive investment strategy (i.e., buying and holding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred to an active investment strategy.",
+      "answer_source": "red",
+      "tags": [
+        "describe market efficiency and related concepts, including their importance to investment practitioners"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Q. Fundamental analysis most likely.",
+      "options": {
+        "A": "uses stock price patterns to trade.",
+        "B": "is an input for passive portfolio management.",
+        "C": "helps participants understand the value implications of information."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Fundamental analysis is necessary in a well-functioning market because this analysis helps the market participants understand the value implications of information. A is incorrect because Fundamental analysis involves the estimation of an asset's value using company data, such as earnings and sales forecasts and not stock price patterns. Instead, technical analysis is the use of price patterns in attempt to profit from them. B is incorrect because Fundamental analysis is an attempt to make active portfolio management decisions, not passive management. Passive management focuses on replicating indexes as investment vehicles.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Q. Which of the following is considered an external influence on industry growth?",
+      "options": {
+        "A": "Social trends",
+        "B": "Barriers to entry",
+        "C": "Industry concentration"
+      },
+      "answer": "A",
+      "explanation": "A is correct. External factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. B is incorrect because Barriers to entry are considered internal factors affecting an industry, while external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences. C is incorrect because Industry concentration is considered an internal factor affecting an industry, while external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Q. In a weak-form efficient market, which of the following information is reflected in security prices?",
+      "options": {
+        "A": "Historical prices only",
+        "B": "Historical prices and historical trading volumes only",
+        "C": "Historical prices, historical trading volumes, and current earnings"
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information. A is incorrect because In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information. This answer is incomplete as it does not include trading volume information. C is incorrect because In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information but does not refer to current earnings information.",
+      "answer_source": "red",
+      "tags": [
+        "contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Q. Security market indices most likely serve as proxies for:",
+      "options": {
+        "A": "nonsystematic risk.",
+        "B": "asset classes in asset allocation models.",
+        "C": "the fair value of assets in asset-based valuation models."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Indices play a critical role as proxies for asset classes in asset allocation models. A is incorrect because Security market indices do not serve as proxies for measuring nonsystematic risk. Nonsystematic risk is risk that is local or limited to a particular asset or industry that need not affect assets outside of that asset class. Investors are capable of avoiding nonsystematic risk through diversification by forming a portfolio of assets that are not highly correlated with one another. Security market indices are usually broad and well diversified. They do serve as market proxies when measuring risk-adjusted performance. The beta of an actively managed portfolio allows investors to form a passive alternative with the same level of systematic risk. C is incorrect because Asset-based valuation is a method for valuing individual companies, so a broad security market indices is not a useful proxy. Asset-based valuation of a company uses estimates of the market or fair value of the company's assets and liabilities. Asset-based valuation models are frequently used together with multiplier models to value private companies. As public companies increase reporting or disclosure of fair values, asset-based valuation may be increasingly used to supplement present value and multiplier models of valuation.",
+      "answer_source": "red",
+      "tags": [
+        "describe uses of security market indexes"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Q. When constructing an equity index, each company's weight in the index is dependent on its number of shares outstanding if the index is:",
+      "options": {
+        "A": "price weighted.",
+        "B": "equal weighted.",
+        "C": "market-capitalization weighted."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In market-capitalization weighting, or value weighting, the weight on each constituent security is determined by dividing its market capitalization by the total market capitalization (the sum of the market capitalization) of all the securities in the index. Market capitalization or value is calculated by multiplying the number of shares outstanding by the market price per share. A is incorrect because In price weighting, the weight on each constituent security is determined by dividing its price by the sum of all the prices of the constituent securities and not by market cap, which is price multiplied by shares outstanding. B is incorrect because This method assigns an equal weight to each constituent security at inception and therefore the weight is not determined by market cap, which is price multiplied by shares outstanding.",
+      "answer_source": "red",
+      "tags": [
+        "compare the different weighting methods used in index construction"
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Q. All else being equal, which of the following preference shares pays the lowest dividend?",
+      "options": {
+        "A": "Putable",
+        "B": "Callable",
+        "C": "Non-callable"
+      },
+      "answer": "A",
+      "explanation": "A is correct. From an investor's point of view, putable common or preference shares are less risky than their callable or non-callable counterparts because they give the investor the option to sell the shares to the issuer at a pre-determined price. As a result, putable shares generally pay a lower dividend than non-putable shares. B is incorrect because Callable common or preference shares are riskier than their non-callable counterparts because the issuer has the option to redeem the shares at a pre-determined price. Callable shares generally pay a higher dividend to compensate investors for the risk that the shares could be called in the future. C is incorrect because From an investor's point of view, putable common or preference shares are less risky than their callable or non-callable counterparts because they give the investor the option to sell the shares to the issuer at a pre-determined price. The lower risk of putables shares results in a lower dividend than non-callable shares.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "Q. When an investment bank guarantees the sale of an entire issue at a negotiated offering price, this best describes a(n):",
+      "options": {
+        "A": "rights offering.",
+        "B": "best effort offering.",
+        "C": "underwritten offering."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In an underwritten offering the most common type of offering the investment bank guarantees the sale of the issue at an offering price that it negotiates with the issuer. A is incorrect because Corporations can issue new stock via a rights offering. In a rights offering, the corporation distributes rights to buy stock at a fixed price to existing shareholders in proportion to their holdings. B is incorrect because In a best effort offering, the investment bank acts only as broker. They do not guarantee the sale of the entire issue at a negotiated offering price.",
+      "answer_source": "red",
+      "tags": [
+        "define primary and secondary markets and explain how secondary markets support primary markets"
+      ]
+    }
+  ]
+}

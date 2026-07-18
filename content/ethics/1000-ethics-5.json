@@ -1,0 +1,343 @@
+{
+  "schema_version": 1,
+  "id": "ethics-1000-5",
+  "name": "1000 Câu Hỏi — Đề 5 (câu 85–105)",
+  "group": "1000 Question Bank — Ethics",
+  "source": "1000 Practice Questions — Ethics",
+  "questions": [
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "Which of the following entities can claim compliance with the GIPS standards?",
+      "options": {
+        "A": "A pension fund that manages investments for its beneficiaries",
+        "B": "An investment consulting firm that focuses on enabling clients to self-manage their \ninvestments",
+        "C": "A vendor that offers software products designed to help firms achieve compliance with the \nGIPS standards"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the GIPS standards, only a firm managing assets can claim \ncompliance once the firm has satisfied all applicable requirements of the GIPS standards. Further, \nasset owners may comply with the GIPS standards in the same way as firms if they compete for \nbusiness. If they don't compete for business but report their performance to an oversight body, \nasset owners may choose to comply with the GIPS Standards for Asset Owners. Therefore, a pension \nfund that manages investments for its beneficiaries can claim compliance with the GIPS standards. B is incorrect because according to the GIPS standards, consultants cannot make a claim of \ncompliance unless they actually manage the assets for which they are making a claim of compliance. \nTherefore, an investment consulting firm that focuses on enabling clients to self-manage their \ninvestments cannot claim compliance with the GIPS standards. C is incorrect because according to the GIPS standards, software (and the vendors who supply \nsoftware) cannot be \"compliant.\" Software can assist firms in achieving compliance with the GIPS \nstandards (eg, by calculating performance in a manner consistent with the calculation requirements \nof the GIPS standards), but only a firm managing assets can claim compliance once the firm has \nsatisfied all applicable requirements of the GIPS standards.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain why the GIPS standards were created , who can claim \ncompliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "Timothy Charles, CFA, applies for a role as an investment analyst. In his resume he states, \n\"CFA charterholders achieve better performance results.\" He adds, \"As a CFA charterholder, I \nam the most qualified to manage client investments.\" Charles has most likely violated the \nStandards:",
+      "options": {
+        "A": "only by stating, \"CFA charterholders achieve better performance results.\"",
+        "B": "only by stating, \"As a CFA charterholder, I am the most qualified to manage client \ninvestments.\"",
+        "C": "both by stating, \"CFA charterholders achieve better performance results\" and by stating, \"As \na CFA charterholder, I am the most qualified to manage client investments.\""
+      },
+      "answer": "C",
+      "explanation": "C is correct. Both statements violate Standard VII(B), Reference to CFA Institute, the CFA \nDesignation, and the CFA Program by implying that superior performance from someone with the \nCFA designation can be expected. Statements referring to CFA Institute, the CFA designation, or the \nCFA Program that overstate the competency of an individual or imply, either directly or indirectly, \nthat superior performance can be expected from someone with the CFA designation are not allowed \nunder the standard. Improper References... 'CFA charterholders achieve better performance \nresults'... 'As a CFA charterholder, I am the most qualified to manage client investments. A is incorrect because both statements violate Standard VII(B), Reference to CFA Institute, the CFA \nDesignation, and the CFA Program as described in the correct response rationale. B is incorrect because both statements violate Standard VII(B), Reference to CFA Institute, the CFA \nDesignation, and the CFA Program as described in the correct response rationale.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "David Bravoria, CFA, is an independent financial advisor for a high-net-worth client with \nwhom he had not had contact in more than two years. During a recent brief telephone \n\nconversation, the client states that he wants to increase his risk exposure. Bravoria \nsubsequently recommends and invests in several high-risk venture capital funds on behalf of \nthe client. Bravoría continues, as he has done in the past, to send to his client monthly, \ndetailed, itemized investment statements. Did Bravoria most likely violate any CFA \nStandards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, with regard to investment statements.",
+        "C": "Yes, with regard to purchasing venture capital funds."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Bravoria violated Standard III(A)-Loyalty, Prudence, and Care as he had not \nupdated his client's profile in more than two years and thus should not have made further \ninvestments, particularly in high-risk investments, until such time as he updated the client's risk and \nreturn objectives, financial constraints, and financial position. Bravoria provided his client with \ninvestment statements more frequently than that which is required, ie, quarterly, so was not in \nviviolation of regular account information. A is incorrect because Bravoria violated Standard III(A)-Loyalty, Prudence, and Care. B is incorrect because Bravoria provided his client with investment statements more frequently than \nrequired, ie., quarterly.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "Which of the following is most accurate? GIPS compliance:",
+      "options": {
+        "A": "eliminates investors' need for in-depth due diligence of the GIPS-compliant firm only.",
+        "B": "enables the GIPS-compliant firm to participate in competitive bids against other GIPS-\ncompliant firms only.",
+        "C": "both eliminates investors' need for in-depth due diligence of the GIPS-compliant firm and \nenables the GIPS- compliant firm to participate in competitive bids against other GIPS-\ncompliant firms."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Compliance enables the GIPS-compliant firm to participate in competitive bids \nagainst other compliant firms throughout the world. A is incorrect because GIPS standards certainly do not eliminate the need for in-depth due diligence \non the part of the investor. C is incorrect because as described in the response rationale for the correct answer compliance \nenables the GIPS- compliant firm to participate in competitive bids against other compliant firms \nthroughout the world but GIPS standards certainly do not eliminate the need for in-depth due \ndiligence on the part of the investor.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the fundamentals of compliance, including the \nrecommendations of the GIPS standards with respect to the definition of the firm and the firm's \ndefinition of discretion"
+      ]
+    },
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "Which of the following statements is most accurate? Compliance with the GIPS \nstandards:",
+      "options": {
+        "A": "by firms eliminates the need for in-depth due diligence by investors.",
+        "B": "enables firms to participate in competitive bids against other GIPS-compliant firms.",
+        "C": "is mandatory for firms conducting business in countries that do not have regulations relating \nto investment performance presentation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Compliance enables the GIPS-compliant firm to participate in competitive bids \nagainst other compliant firms throughout the world. A is incorrect because the GIPS standards certainly do not eliminate the need for in-depth due \ndiligence on the part of the client or investor, but compliance with the Standards enhances the \ncredibility of investment management firms that have chosen to undertake this responsibility. C is incorrect because complying with the GIPS standards is voluntary. Compliance with the GIPS \nstandards is not typically required by legal or regulatory authorities.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain why the GIPS standards were created, who can claim \ncompliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "A firm claiming compliance with GIPS standards is required to:",
+      "options": {
+        "A": "perform verification of the firm's claim of compliance.",
+        "B": "maintain its compliance even after the firm has been verified by an independent third party.",
+        "C": "determine selection criteria regarding which existing portfolios to include in a composite at \nthe end of the reporting period."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Firms that claim compliance with the GIPS standards are responsible for their \nclaim of compliance and for maintaining that compliance That is finns self regulate their claim of \ncompliance. Therefore including when compliance is verified by an independent third party, the firm \nis always responsible for maintaining that compliance. A is incorrect because once a firm claims compliance with the Standards, they may voluntarily hire an \nindependent third party to perform a verification in order to increase confidence in the firm's claim \nof compliance Therefore, the firm is not required to but may elect an independent third party to \nperform verification of the firm's claim of compliance. C is incorrect because the determination of which portfolios to include in the Composite should be \ndone according to pre-established criteria (ie., on an ex-ante basis), not after the fact.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain the purpose of composites in performance reporting"
+      ]
+    },
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "Anita Delgado is a candidate in the CFA Program. After taking the Level II examination, \nDelgado posts on a social networking website that she found the exam to be very difficult and \nthat in her opinion, the CFA Program and CFA Institute were losing credibility with the public. \nHas Delgado most likely violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by posting information about the exam on a public website",
+        "C": "Yes, by compromising the reputation or integrity of CFA Institute"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Delgado did not violate Standard VII (A), Responsibilities as a CFA Institute \nMember of CFA Candidate. Candidates are prohibited from disclosing confidential material gained \nduring the exam process but are free to discuss the examination in a general manner, such as the \nfact that she found the exam difficult. Regarding her opinion about the CFA Institute a member must \nnot engage in any conduct that cpropromises the reputation or integrity of CFA Imititute Hoveva \nSisudeti VI (A) fack mat shear expressing epiatons regarding the CFA Program or CFA Institute. \nTherefore, Delgado's voicing berapinima is not a conducttom compromises the reputation or \nintegrity of CFA Institute. B is incorrect because Delgado did not violate the Standards by posting information about the exam \non a public website, as described in the Response Rationale for the answer key. C is incorrect because Delgado did not violate the Standards by expressing her opinion that the CFA \nProgram and CFA Institute were losing credibility with the public, as described in the Response \nRationale for the answer key.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "A member manages two fee-paying family accounts at her firm. The member has the \npower to vote on the shares held in Account 1 and the discretion to sell shares held in \nAccount 2. According to the Standards, is the member considered a beneficial owner of the \nshares held in her family accounts?",
+      "options": {
+        "A": "No",
+        "B": "Yes, for Account 1 only",
+        "C": "Yes, for both Account 1 and Account 2"
+      },
+      "answer": "C",
+      "explanation": "C is correct. For the purposes of Standard VI(A) Disclosure of Conflicts, members and \ncandidates beneficially own securities or other investments if they have a direct or indirect \npecuniary interest in the securities, have the power to vote or direct the voting of the shares of the \n\nsecurities or investments, or have the power to dispose or direct the disposition of the security or \ninvestment. Therefore, the member is considered a beneficial owner for shares held in both Account \n1 and Account 2. A is incorrect because for the purposes of Standard VI(A), Disclosure of Conflicts, members and \ncandidates beneficially own securities or other investments if they have a direct or indirect \npecuniary interest in the securities, have the power to vote or direct the voting of the shares of the \nsecurities or investments or have the power to dispose or direct the disposition of the security or \ninvestment. Therefore, the member is considered a beneficial owner for shares held in both Account \n1 and Account 2. B is incorrect because for the purposes of Standard VI(A) Disclosure of Conflicts, members and \ncandidates beneficially own securities ar other investments if they have a direct or indirect pecuniary \ninterest in the securities have the power to vote or direct the voting of the shares of the securities or \ninvestments, or have the power to dispose or direct the disposition of the security or investment. \nTherefore, the member is considered a beneficial owner for shares held in both Account 1 and \nAccount 2.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "Which of the following comments concerning composites meeting the requirements of \nthe GIPS standards is correct?",
+      "options": {
+        "A": "A firm's claim of compliance requires all fee-paying accounts managed by the firm be \nincluded in at least one \ncomposite.",
+        "B": "The requirement to create, use and maintain composites is designed to prevent firms using \nthe best-performing accounts to represent an investment strategy.",
+        "C": "A composite must include all actual, fee-paying, discretionary and non-discretionary \nportfolios managed in accordance with the same investment mandate, objective, or strategy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. One of the key concepts of the standards is the required use of composites. A \ncomposite is an aggregation of one or more portfolios managed according to a similar investment \nmandate, objective, or strategy. The requirement to create, use and maintain composites is \ndesigned to prevent firms from cherry-picking-using the best-performing accounts to represent the \nperformance of an investment strategy. A is incorrect because a claim of compliance requires that all fee-paying discretionary accounts be \nincluded in at least one composite. It does not include all accounts which could include non-\ndiscretionary accounts. C is incorrect because a composite must include all actual, fee-paying, discretionary portfolios \nmanaged in accordance with the same investment mandate, objective, or strategy. It does not \ninclude non-discretionary accounts.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain the purpose of composites in performance reporting"
+      ]
+    },
+    {
+      "id": "Q94",
+      "num": 94,
+      "question": "A member most likely violates the Standard relating to market manipulation if he:",
+      "options": {
+        "A": "secures a dominant position in a stock to win a proxy vote.",
+        "B": "exploits market inefficiencies in a thinly traded penny stock.",
+        "C": "places both buy and sell orders of a stock at the same price to increase trading volume."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Members and Candidates must not engage in practices that distort prices or \nartificially inflate trading volume to give with the intent to mislead market participants. Transactions \nthat artificially affect prices or volume the impression of activity or price movement in a financial \ninstrument, which represent a diversion from the expectations of a fair and efficient market. A is incorrect because securing a controlling, dominant position in a financial instrument to exploit \nand manipulate the price of a related derivative and/or the underlying asset is transaction-based \nmanipulation, however, Standard II(B) is not intended to preclude transactions undertaken on \nlegitimate trading strategies. To win a proxy vote is a legitimate strategy. B is incorrect because Standard II(B) is not intended to preclude transactions undertaken on \nlegitimate trading strategies based on perceived market inefficiencies. The intent of the action is \ncritical to determining whether it is a viviolation of this standard.Therefore the member does not \nviolate the Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q95",
+      "num": 95,
+      "question": "The objectives of the GIPS standards include:",
+      "options": {
+        "A": "promoting financial regulators' interests.",
+        "B": "promoting industry self-regulation on a global basis.",
+        "C": "obtaining acceptance of multiple local standards for accurate performance presentation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. One of the objectives of the GIPS standards is to promote industry self-regulation \non a global basis. A is incorrect because one of the objectives of the GIPS standards is to promote investor interests and \ninstill investor confidence, and not to promote financial regulator interests. C is incorrect because one the objectives of the GIPS standards is to obtain worldwide acceptance of a \nsingle standard [not diverse standards] for calculating and presenting performance.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain why the GIPS standards were created, who can claim \ncompliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "Q96",
+      "num": 96,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to knowledge of the law? Members should encourage their firms to:",
+      "options": {
+        "A": "distribute summaries of applicable security laws to clients at least annually.",
+        "B": "provide written protocols for reporting suspected legal or regulatory viviolations.",
+        "C": "seek the advice of a regulatory agency when in doubt about which action to take regarding \npotential viviolations."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Recommended procedures for compliance with Standard I (A), Knowledge of the \nLaw, state Establish procedures for reporting viviolations: Firms might provide written protocols for \nreporting suspected viviolations of laws, regulations, or company policies. A is incorrect because recommended procedures for compliance with Standard I (A), Knowledge of \nthe Law, state that pertinent information that highlights applicable laws and regulations might be \ndistributed to employees or made available in a central location. Thus, the recommended procedure \nis to provide such information to employees and not to clients. C is incorrect because recommended procedures for compliance with Standard I (A) Knowledge of the \nLaw, state that when in doubt about the appropriate action to undertake, it is recommended that a \nmember or candidate seek the advice of compliance personnel or legal counsel concerning legal \nrequirements If a potential viviolation is being committed by a fellow employee. it may also be \nprudent for the member or candidate to seek the advice of the firm's compliance department or \nlegal counsel. The recommended procedures for compliance with Standard I (A) do not suggest \nseeking advice of regulatory agency personnel.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q97",
+      "num": 97,
+      "question": "Stella Murphy, CFA, a portfolio manager, meets with a client who is concerned about a \nsecurity recently added to the portfolio. Murphy reviews with the client the decision for \nbuying the security and the risks associated with the company and stock. The following week, \nthe company announces it is buying a company in a non-related industry and the stock falls \nsharply. The client accuses Murphy of not disclosing all the risks associated with holding the \nsecurity. Murphy explains the company's acquisition was unexpected and not factored into \nthe forecast. Has Murphy most likely violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to communication with clients",
+        "C": "Yes, the Standard relating to diligence and reasonable basis"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Murphy has not violated any Standards. Standard V(B), Communication with \nClients and Prospective Clients, requires members, use reasonable judgment in identifying which \nfactors are important to their investment analyses, recommendations, or actions and include those \nfactors in communications with clients and prospective client. Murphy has done this when she \nreviewed the investment rationale behind buying the security and the potential investment risks. \nThe appropriateness of risk disclosure should be assessed on the basis of what was known at the \ntime the investment action was (often called an ex ante basis).",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q98",
+      "num": 98,
+      "question": "Which of the following member actions most likely violates the Standard relating to \nmarket manipulation?",
+      "options": {
+        "A": "Selling one security and buying another to minimize tax liability",
+        "B": "Writing misleading posts on social media about the development of a new product",
+        "C": "Dividing a large block order into a series of smaller orders to achieve better execution"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard II(B), Market Manipulation, require members to uphold market \nintegrity by prohibiting market manipulation. Market manipulation includes practices that distort \nsecurity prices or trading volume with the intent to deceive people or entities that rely on \ninformation in the market. This is an example of information- base manipulation as misleading fake \ninformation affects other market participants. A is incorrect because Standard II(B), Market Manipulation, require members to uphold market \nintegrity by prohibiting market manipulation. Market manipulation includes practices that distort \nsecurity prices or trading volume with the intent to deceive people or entities that rely on \ninformation in the market. The intent here is to minimize tax liability and not to deceive. C is incorrect because Standard II(B), Market Manipulation require members to uphold market \nintegrity by prohibiting market manipulation. Market manipulation includes practices that distort \nsecurity prices or trading volume with the \nintent to deceive people or entities that rely on information in the market. Order splitting is \nlegitimate for optimal trade executions.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q99",
+      "num": 99,
+      "question": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants to \nmake a good impression on a prospective client. She tells the prospect: \"Getting the CFA \nCharter will show I am serious about protecting the interests of my clients and it will boost \nmy reputation. Once I get the Charter, I also hope to make more money by getting \npromoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \"Study all subjects for each \nexam, you never know what will be included. The three exams will be the most difficult \nexams you will ever take. Any promotion and pay raise will reflect your enhanced skills.\" Did \neither Paralova or Klemmer violate the Standards?",
+      "options": {
+        "A": "No.",
+        "B": "Only Paralova violates the Standards.",
+        "C": "Only Klemmer violates the Standards."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Neither Paralova or Klemmer violated CFA Standards through their statements. \nParalova did not violate Standard VII(B) Reference to CFA Institute the CFA Designation and the CFA \nProgram when she made her comments about what getting the Charter will reflect and the hope for \na pey raise The Standard states When relarning to CFA Institute CFA Institute membership, the CFA \ndesignation, or candidacy in the CEA Prodam Members and Candidates must not misrepresent or \nexaggerate fine meaning or implications of membership in CFA Institute, holding the CFA designation \nor candidacy in the CFA program Klemmer did not violate Standard VII (B) Refdanse to CFA Instituts, \nthe CFA Desiggetion and the CFA Program when he expressell his opinion that Paralova's potential \npay raise will reflect her enhanced skills. Klammer diso complied with Standard VII(A) \nResponsibilities as a CFA Institute Member or CFA Candidate, Conduct as Participants in CFA Institute \nPrograms when steting an asinion about the difficulty of the exam without revealing any specific \ndetails or the need to study all subjects The Standard states that candidates must out angage in any \nconduct that compromises the integhty validity, or security of CFA Institute programs. B is incorrect because Paralova did not violate Standard VII (B) Reference to CFA Institute, the CFA \nDesignation, and the CFA Program when she made her comments about what getting the Charter \nwill reflect and the hope for a pay raise. The Standard states, When referring to CFA Institute, CFA \nInstitute membership, the CFA designation, or candidacy in the CFA Program, Members and \nCandidates must not misrepresent or exaggerate the meaning or implications of membership in CFA \nInstitute, holding the CFA designation, or candidacy in the CFA program. C is incorrect because Klemmer did not violate Standard VII (B) Reference to CFA Institute, the CFA \nDesignation, and the CFA Program when he expressed his opinion that Paralova's potential pay raise \nwill reflect her enhanced skills Klemmer also complied with Standard VII(A) Responsibilities as a CFA \nInstitute Member or CFA Candidate, Conduct as Participants in CFA Institute Programs when stating \nan opinion about the difficulty of the exam without revealing any specific details or the need to \nstudy all subjects. The Standard states that candidates must not engage in any conduct that \ncompromises…the integrity, validity or security of CFA Institute programs.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain how the \n\npractices, policies, and conduct do or do not violate the CFA Institute Code of Ethics and Standards \nof Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q100",
+      "num": 100,
+      "question": "Amanda Covington, CFA, works for McJan Investment Management. McJan employees \nmust receive prior clearance of their personal investments in accordance with McJan's \ncompliance procedures. To obtain prior clearance, McJan employees must provide a written \nrequest identifying the security, the quantity of the security to be purchased, and the name \nof the broker through which the transaction will be made. Pre-cleared transactions are \napproved only for that trading day. As indicated below, Covington received prior clearance, \nSecurity     Quantity                       Broker              Prior Clearance \n   A                     100                      Easy Trade                        Yes \n   B                     150                      Easy Trade                        Yes \n Two days after she received prior clearance, the price of Stock B had decreased, so Covington \ndecided to purchase 250 shares of Stock B only. In her decision to purchase 250 shares of \nStock B only, did Covington violate any CFA Institute Standards of Professional Conduct?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, relating to diligence and reasonable basis.",
+        "C": "Yes, relating to her employer's compliance procedures."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Prior clearance processes guard against potential and actual conflicts of interest, \nmembers are required to abide by their employer's compliance procedures, Standard VI(B). A is incorrect because Covington did violate the Standards in that she did not follow her employer's \ncompliance procedures, Standard VI(B). B is incorrect because there is nothing to indicate she violated Standard V(A)-Diligence and Reasonable \nBasis.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q101",
+      "num": 101,
+      "question": "Cecilia Foster, CFA, starts a job as director of research for Sisyphus Investments (SI). In \nher new job, Foster oversees a small team analysts. Foster discovers the compliance system \nat SI is not up to her expectations and tells her supervisor the system needs improvement. \nThe supervisor tells Foster that the firm will consider compliance system improvements in \n\nfour months, at the start of the next fiscal year. To comply with the Standards, Foster most \nlikely should initially:",
+      "options": {
+        "A": "resign her new position.",
+        "B": "decline in writing to accept supervisory",
+        "C": "establish departmental procedures responsibility. to ensure fellow Charterholders comply \nwith applicable regulations."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard IV (C), Responsibilities of Supervisors, states if the member or candidate \nclearly cannot discharge supervisory responsibilities because of the absence of a compliance system \nor because of an inadequate compliance system, the member or candidate should decline in writing \nto accept supervisory responsibility until the firm adopts reasonable procedures to allow adequate \nexercise of supervisory responsibility. A is incorrect because Standard IV (C), Responsibilities of Supervisors, states that if a member cannot \nestablish an adequate compliance system, the member or candidate should decline in writing to \naccept supervisory responsibility until the firm adopts reasonable procedures.... The Standard does \nnot indicate that the member should resign a position due to inadequate compliance systems \nStandard I (A) Knowledge of the Law, states that members should resign in certain situations \ninvolving legal viviolations by colleagues or their firms and not due to flaws in compliance systems. C is incorrect because Standard IV (C), Responsibilities of Supervisors, states members and candidates \nmust promote actions by all employees under their supervision and authority to comply with \napplicable laws, rules regulations, and firm policies and the Code and Standards Ensuring compliance \nonly by Charterholders would not comply with the Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q102",
+      "num": 102,
+      "question": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in putting \nhis money at risk along with his clients and trades the same securities as his clients. In order \nto ensure fair treatment of all accounts, he rotates trade allocations so that each account has \nan equal likelihood of receiving a fill on their orders. This allocation procedure also applies to \nDazong's own account. According to the CFA CFA Institute Code of Ethics and Standards of \nProfessional Conduct, the allocation procedure used by Dazong:",
+      "options": {
+        "A": "complies with the Standards.",
+        "B": "requires revision to ensure client trades take precedence.",
+        "C": "should be disclosed and written approval received from clients."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard VI(B)-requires client transactions to be given precedence over \ntransactions made on behalf of the member's or candidate's firm or personal transactions. Because \nthe advisor trades alongside his chen's and allocates trades on a rotating basis, there are times when \n\nthe advisor's trades will receive priority over his clients in viviolation of the Code and Standards. A \nmember or candidate having the same investment positions or being co-invested with clients does \nnot always create a conflict. Some clients in certain investment situatients require members or \ncandidates to have aligned interests Personal investment positions or transactions of members or \ncandidates or their fians should never, however, adversely affect client Investments. A is incorrect because the trade allocation procedure does not meet the requirements of Standard \nVI(B), which requires client transactions to be given precedence over transactions made on behalf of \nthe member's or candidate's firm or personal transactions. C is incorrect because even though trade allocation procedures should be disclosed to clients in this \ncase the procedure fails to meet the requirement of the Code and Standards so disclosure is not \nsufficient and the procedures should be revised.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q103",
+      "num": 103,
+      "question": "Ken Kawasaki, CFA, shares a building with a number of other professionals who are also \ninvolved in the investment management business. Kawasaki makes arrangements with \nseveral of these professionals, including accountants and lawyers, to refer clients to each \nother. An informal score is kept on the expectation the referrals will equal out over time, \neliminating the need for any cash payments. Kawasaki never mentions this arrangement to \nclients or prospective clients. Does Kawasaki's agreement with the other building occupants \nmost likely violate any CFA Institute Standards of Professional Conduct?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, related to referral fees.",
+        "C": "Yes, related to communication with clients."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard VI(C) requires disclosure of any compensation, consideration, or benefit \nreceived from or paid to others for the recommendation of products or services. Even without cash \nchanging hands the arrangement provides for a quid pro quo referral of clients and should be \ndisclosed. A is incorrect because Kawasaki has violated the Standards. C is incorrect because this Standard has not been violated as it relates to disclosure to clients of the \ngeneral principles of the investment process used and not disclosure of any compensation, \nconsideration, or benefit received from or paid to others for the recommendation of products or \nservices as Standard VI(C) requires.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q104",
+      "num": 104,
+      "question": "François Bernod, CFA, wrote questions for the Level I CFA exam for several years. After \nleaving the exam writing team, Bernod issues new marketing material for his investment \n\nfirm, in which he states: \"As someone who helped write CFA exams, I have learned unique \ninsights into portfolio management that will be valuable for my firm's clients.\" However, in \nhis public blog, Bernod makes several negative statements about certain policies of CFA \nInstitute. Bernod has most likely violated the Standards:",
+      "options": {
+        "A": "only by expressing negative opinions regarding CFA Institute policies.",
+        "B": "only by using an association with CFA Institute to further professional goals",
+        "C": "both by expressing negative opinions regarding CFA Institute policies and by using an \nassociation with CFA Institute to further professional goals."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard VII (A), Conduct as Participants in CFA Institute Programis, states \nStandard VII (A) covers the conduct of CFA Institute members, and candidates, involven with the CFA \nProgtern and prohibits any conduct that undermines the public's confidence that the CFA charter \nrepresents a devol of achievement based on ment and ethical conduct. Conduct covered includes \nhet is out arnited to improperty using an associabon with CFA Institute to hurther personal or \nprofessional goats Borced veolated the Standard by stating that his involvement in exam waiting \ngave him unique investment insights that will be of value to his firm's clients. A is incorrect because , according to Standard VII (A), Members and candidates are free to disagree \nand express their disagreement with CFA Institute on its policies, its procedures, or any advocacy \nposition taken by the organization. When expressing a personal opinion, a candidate is prohibited \nfrom disclosing content-specific information, including any actual exam question and the \ninformation as to subject matter covered or not covered in the exam. Bernod is free to disagree with \nCFA Institute policies. C is incorrect because according to Standard VII (A), Members and candidates are free to disagree and \nexpress their disagreement with CFA Institute on its policies, its procedures, or any advocacy \nposition taken by the organization. When expressing a personal opinion, a candidate is prohibited \n\nfrom disclosing content-specific information, including any actual exam question and the \ninformation as to subject matter covered or not covered in the exam Bernod is free to disagree with \nCFA Institute policies, but he violated VII (A), as described in the justification for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q105",
+      "num": 105,
+      "question": "Disclosure of confidential CFA exam information will most likely be detected by the \nProfessional Conduct staff through:",
+      "options": {
+        "A": "monitoring online and social media.",
+        "B": "analysis of Proctor Reports.",
+        "C": "annual Professional Conduct Statements."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Professional Conduct inquiries come from a number of sources including the \nmonitoring of online and social media to detect disclosure of confidential exam information. B is incorrect because candidate conduct is monitored by exam proctors who complete reports on \ncandidates suspected to have violated testing rules during the exam and at the exam center. C is incorrect because members and candidates must self-disclose on the annual Professional Conduct \nStatement all matters that question their professional conduct, such as involvement in civil litigation \nor a criminal investigation or being the subject of a written complaint. Disclosure of confidential \nexam information will not be found on the annual statement.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the structure of the CFA Institute Professional Conduct \nProgram and the process for the enforcement of the Code and Standards"
+      ]
+    }
+  ]
+}

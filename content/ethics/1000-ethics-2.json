@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "ethics-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 22–42)",
+  "group": "1000 Question Bank — Ethics",
+  "source": "1000 Practice Questions — Ethics",
+  "questions": [
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "According to the Standard relating to diligence and reasonable basis, a member is \nrequired to:",
+      "options": {
+        "A": "exercise diligence, independence, and thoroughness in analyzing investments.",
+        "B": "become an expert in the technical aspects of the models used for investment \nrecommendations.",
+        "C": "dissociate and remove her name from a company group report if the report does not reflect \nher opinion."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V(A) Investment Analysis, Recommendations, and Actions \n– Diligence and Reasonable Basis, Members and Candidates must: Exercise diligence, independence, \nand thoroughness in analyzing investments, making investment recommendations, and taking \ninvestment actions. B is incorrect because the guidance for Standard V(A) Diligence and Reasonable Basis states that \nalthough they are not required to become experts in every technical aspect of the models, they must \nunderstand the assumptions and limitations inherent in any model and how the results were used in \nthe decision-making process. C is incorrect because the guidance for Standard V(A) Diligence and Reasonable Basis states that in \nsome instances, a member or candidate will not agree with the view of the group. If, however, the \nmember or candidate believes that the consensus opinion has a reasonable and adequate basis and \nis independent and objective, the member or candidate need not decline to be identified with the \nreport. If the member or candidate is confident in the process, the member or candidate does not \nneed to dissociate from the report even if it does not reflect his or her opinion.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "After completing Level II of the CFA exam, Aashi Banerjee posts several comments on an \nonline chatroom for CFA program candidates. Which of the following comments violate the \nStandard relating to conduct as participants in CFA Institute programs? \nComment 1 CFA Institute must revise the topic area weights on the exam.  \nComment 2 There were no questions on GIPS standards.",
+      "options": {
+        "A": "Comment 1 only",
+        "B": "Comment 2 only",
+        "C": "Both Comment 1 and Comment 2"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard VII(A), when expressing a personal opinion, a candidate is \nprohibited from disclosing content-specific information, including any actual exam question and the \ninformation as to subject matter covered or not covered in the exam. By making Comment 2, \nBanerjee may have provided information on the subject matter covered on the exam and hence \nviolated the Standard. A is incorrect because Standard VII(A) does not cover expressing opinions regarding CFA Institute, the \nCFA Program, or other CFA Institute programs. Members and candidates are free to disagree and \nexpress their disagreement with CFA Institute on its policies, its procedures, or any advocacy \n\npositions taken by the organization. So, Comment 1 does not violate the Standard as it reflects \nBanerjee's opinion. C is incorrect because Standard VII(A) does not cover expressing opinions regarding CFA Institute, the \nCFA Program, or other CFA Institute programs. Members and candidates are free to disagree and \nexpress their disagreement with CFA Institute on its policies, its procedures, or any advocacy \npositions taken by the organization. So, Comment 1 does not violate the Standard as it reflects \nBanerjee's opinion. However, in making Comment 2, Banerjee may have provided information on \nthe subject matter covered on the exam and hence violated the Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Which of the following activities violates the Standard relating to market manipulation? \nActivity 1:  A member secures a dominant position in futures contracts to influence the price \nof the underlying. The results in large losses for the member. transaction \nActivity 2:  A member frequently trades a stock in multiple client stock. The transactions \nresult in large gains for the clients. accounts with an intent to increase the volume of the",
+      "options": {
+        "A": "Activity 1 only",
+        "B": "Activity 2 only",
+        "C": "Both Activity 1 and Activity 2"
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard II(B), Market Manipulation, transaction-based \nmanipulation includes, but is not limited to, the following: transactions that artificially affect prices \nor volume to give the impression of activity or price movement in a financial instrument, which \nrepresent a diversion from the expectations of a fair and efficient market, and securing a controlling, \ndominant position in a financial instrument to exploit and manipulate the price of a related \nderivative and/or the underlying asset. Also, the intent of the action is critical to determining \nwhether it is a viviolation of this standard.\" Despite the losses, Activity 1 is a viviolation of Standard II(B) \n\nbecause the intent was to influence the price of the underlying. Activity 2 is also a viviolation as the \nintent was to increase the volume of the stock. A is incorrect because according to Standard II(B), Market Manipulation, transaction-based \nmanipulation includes, but is not limited to, the following: transactions that artificially affect prices \nor volume to give the impression of activity or price movement in a financial instrument, which \nrepresent a diversion from the expectations of a fair and efficient market, and securing a controlling, \ndominant position in a financial instrument to exploit and manipulate the price of a related \nderivative and/or the underlying asset. Also, the intent of the action is critical to determining \nwhether it is a viviolation of this standard. Despite the losses Activity 1 is a viviolation of Standard II(B) \nbecause the intent was to influence the price of the underlying Activity 2 is also a viviolation as the \nintent was to increase the volume of the stock. B is incorrect because according to Standard II(B), Market Manipulation, transaction-based \nmanipulation includes, but is not limited to, the following: transactions that artificially affect prices \nor volume to give the impression of activity or price movement in a financial instrument, which \nrepresent a diversion from the expectations of a fair and efficient market, and securing a controlling, \ndominant position in a financial instrument to exploit and manipulate the price of a related \nderivative and/or the underlying asset. Also, the intent of the action is critical to determining \nwhether it is a viviolation of this standard. Activity 2 is a viviolation as the intent was to increase the \nvolume of the stock. Despite the losses, Activity 1 is also a viviolation of Standard II(B) because the \nintent was to influence the price of the underlying.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Which of the following statements regarding the GIPS standards is accurate?",
+      "options": {
+        "A": "All fee-paying client portfolios must be included in at least one composite.",
+        "B": "All portfolios with the same investment mandate are aggregated into a composite.",
+        "C": "Aggregation of portfolios into composites is based on the actual performance of the \nportfolios every year."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the GIPS standards. A composite is an aggregation of one or more \nportfolios managed according to a similar investment mandate, objective, or strategy. A is incorrect because according to the GIPS standards, a claim of compliance requires that all fee-\npaying discretionary accounts managed by the firm be included in at least one composite. Non-\ndiscretionary portfolios must not be included in a firm's composites. Fee-paying non-discretionary \nportfolios do not have to be included. C is incorrect because according to the GIPS standards, the determination of which portfolios to \ninclude in the Composite should be done according to pre-established criteria (i.e., on an ex-ante \nbasis), not after the fact. Basing it on actual performance would require the aggregation to be done \nafter the fact which is incorrect.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain the purpose of composites in performance reporting"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Claus Holm, CFA, directs most of his clients' trades to RRT Company (RRT), despite RRT's \nhigher-than-average commissions. In return, RRT refers individual clients to Holm for asset \nmanagement services. Holm does not disclose the arrangement to his clients or prospective \nclients. Holm has most likely violated the Standard(s) relating:",
+      "options": {
+        "A": "only to referral fees.",
+        "B": "only to loyalty, prudence, and care.",
+        "C": "both to referral fees and to loyalty, prudence, and care."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III (A), Loyalty, Prudence and Care. Conflicts may arise \nwhen an investment manager uses client brokerage to purchase research services, a practice \ncommonly called 'soft dollars' or 'soft commissions. A member or candidate who pays a higher \nbrokerage commission than he or she would normally pay to allow for the purchase of goods or \nservices, without corresponding benefit to the client, violates the duty of loyalty to the client. Paying \nhigher fees in return for referrals does not represent a corresponding benefit to Holm's clients. \nTherefore, this arrangement violates the duty of loyalty to his clients. In addition, Holm has violated \nStandard VI (C), Referral Fees, which states the responsibility of members and candidates to inform \ntheir employer, clients, and prospective clients of any benefit received for referrals of customers and \nclients. A is incorrect because Holm violated both Standards III (A) and VI (C), as described in the Response \nRationale for the correct answer. B is incorrect because Holm violated both Standards III (A) and VI (C), as described in the Response \nRationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Emma Fischer, CFA, is an analyst covering the banking sector. She has declared \nbankruptcy due to large unpaid personal medical bills. On weekends, she participates in \npublic protests for climate protection. She was recently arrested for trespassing during a \nprotest, which is an act of civil disobedience in her country. Has Fischer violated the \nStandards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, she has violated the Standard relating to misconduct",
+        "C": "Yes, she has violated the Standard relating to loyalty, prudence and care"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I (D), Misconduct, personal bankruptcy may not reflect on \nthe integrity or trustworthiness of the person declaring bankruptcy, but if the circumstances of the \nbankruptcy involve fraudulent or deceitful business conduct, the bankruptcy may be a viviolation of \nthis standard. Also, generally, Standard I(D) is not meant to cover legal transgressions resulting from \nacts of civil disobedience in support of personal beliefs because such conduct does not reflect poorly \non the member's or candidate's professional reputation, integrity, or competence. Therefore, \nFischer has not violated Standard I (D). Further, Standard III (A). Loyalty, Prudence, and Care, states \nthat Members and Candidates have a duty of loyalty to their clients and must act with reasonable \ncare and exercise prudent judgment. Members and Candidates must act for the benefit of their \nclients and place their clients' interests before their employer's or their own interests. Neither \nFischer's bankruptcy no nor the act of trespassing during a protest imposes on her duty of loyalty to \nher clients. She has not violated Standard III (A). B is incorrect because according to Standard I (D), Misconduct, personal bankruptcy may not reflect \non the integrity or trustworthiness of the person declaring bankruptcy, but if the circumstances of \nthe bankruptcy involve fraudulent or deceitful business conduct, the bankruptcy may be a viviolation \nof this standard. Also, generally, Standard I(D) is not meant to cover legal transgressions resulting \nfrom acts of civil disobedience in support of personal beliefs because such conduct does not reflect \npoorly on the member's or candidate's professional reputation, integrity, or competence. Therefore, \nFischer has not violated Standard I (D). C is incorrect because according to Standard III (A), Loyalty, Prudence, and Care, Members and \nCandidates have a duty of loyalty to their clients and must act with reasonable care and exercise \nprudent judgment. Members and Candidates must act for the benefit of their clients and place their \nclients' interests before their employer's or their own interests. Neither Fischer's bankruptcy no nor \nthe act of trespassing during a protest imposes on her duty of loyalty to her clients. She has not \nviolated Standard III (A).",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to independence and objectivity? Members should encourage their firms to:",
+      "options": {
+        "A": "prohibit any employee participation in equity-related IPOS.",
+        "B": "remove a corporate client company from the research universe and put it on a restricted list \nif the firm is unwilling to disseminate adverse opinions about the company.",
+        "C": "provide every client with the procedures and policies for reporting potentially unethical \nbehaviour, viviolations of regulations, or other activities that may harm the firm's reputation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the recommended procedures for compliance with Standard I (B), \nIndependence and Objectivity, Create a restricted list if the firm is unwilling to permit dissemination \nof adverse opinions about a corporate client, members and candidates should encourage the firm to \nremove the controversial company from the research universe and put it on a restricted list so that \nthe firm disseminates only factual information about the company. A is incorrect because according to the recommended procedures for compliance with Standard I (B). \nIndependence and Objectivity. Members and candidates should encourage their investment firms to \ndevelop formal policies related to employee purchases of equity or equity related tPOS Firms should \nrequire prior approval for employee participation to IPOS with prompf disclosure of investatent \nactions taken following the offering. So, the recommendation is to have regulation around IPOs: but \nnot explicitly pronins them. C is incorrect because according to the recommended procedures for compliance with Standard I (B), \nIndependence and Objectivity, Firms should provide every employee with the procedures and \n\npolicies for reporting potentially unethical behavior, viviolations of regulations, or other activities that \nmay harm the firm's reputation. So, should provide to every firms should provide to every employee, \nnot every client.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "According to the recommended procedure for compliance with the Standard relating to \nmisconduct, members should encourage their firms to disseminate a list of potential \nviviolations and associated disciplinary sanctions to:",
+      "options": {
+        "A": "all clients only.",
+        "B": "all employees only.",
+        "C": "both all clients and all employees."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the recommended procedures for compliance with Standard I(D), \nmisconduct, members and candidates should encourage their firms to adopt the following policies \nand procedures to support the principles of Standard I(D): \nList of viviolations: Disseminate to all employees a list of potential viviolations and associated \ndisciplinary sanctions, up to and including dismissal from the firm. A is incorrect because according to the recommended procedures for compliance with Standard I(D), \nmisconduct, members and candidates should encourage their firms to adopt the following policies \nand procedures to support the principles of Standard I(D). List of viviolations: Disseminate to all \nemployees a list of potential viviolations and associated disciplinary sanctions, up to and including \ndismissal from the firm. Dissemination to clients is not among the recommended procedures. C is incorrect because according to the recommended procedures for compliance with Standard I(D), \nmisconduct, members and candidates should encourage their firms to adopt the following policies \nand procedures to support the principles of Standard I(D): List of viviolations: Disseminate to all \nemployees a list of potential viviolations and associated disciplinary sanctions, up to and including \ndismissal from the firm. Dissemination to clients is not among the recommended procedures.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "According to the recommended procedures for compliance with the Standard relating to \nmisconduct, members should encourage their firms to:",
+      "options": {
+        "A": "conduct background checks of all employees at least annually.",
+        "B": "develop and adopt a code of ethics to which every employee must subscribe.",
+        "C": "check references of potential clients to ensure that they are of good character."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the recommended procedures for compliance with the Standard I \n(D), members should encourage their firms to develop and/or adopt a code of ethics to which every \nemployee must subscribe. A is incorrect because according to the recommended procedures for compliance with the Standard 1 \n(D). Misconduct, members should encourage their firms to check references of potential employees \nto ensure that they are of good character and not ineligible to work in the investment industry \nbecause of past infractions of the law. However, the Standard does not recommend to conduct \nbackground checks of all current (as opposed to potential) employees once per year. C is incorrect because according to the recommended procedures for compliance with the Standard I \n(D), Misconduct, members should encourage their firms to check references of potential employees \nto ensure that they are of good character and not ineligible to work in the investment industry \nbecause of past infractions of the law. Therefore, the recommendation is to check references of \npotential employees, not clients.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "According to the guidance for the Standard relating to loyalty, prudence, and care, which \nof the following statements is most accurate?",
+      "options": {
+        "A": "Voting proxies is necessary in all instances.",
+        "B": "Members must maximize the economic value of proxies for clients.",
+        "C": "Consistent application of proxy policies includes voting with management on all nonroutine \ngovernance matters."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard III (A), Loyalty, Prudence, and Care, proxies have economic \nvalue to a client, and members and candidates must ensure that they properly safeguard and \nmaximize this value. A is incorrect because according to Standard III (A), Loyalty, Prudence, and Care, a cost-benefit \nanalysis may show that voting all proxies may not benefit the client, so voting proxies may not be \nnecessary in all instances. C is incorrect because according to Standard III (A), Loyalty, Prudence, and Care, an investment \nmanager who fails to vote, casts a vote without considering the impact of the question, or votes \nblindly with management on nonroutine governance issues (e.g., a change in company \ncapitalization) may violate this standard. Therefore, the statement that consistent application of \nproxy policies includes voting with management on all nonroutine governance matters is not \naccurate.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "According to the guidance for the Standards, which of the following statements are \naccurate? \n● Statement 1: Employees must place employer interests ahead of personal interests in \nall matters. \n● Statement 2: Senior management of a member's firm should create financial \ncompensation structures that do not 2 drive unethical behavior.",
+      "options": {
+        "A": "Statement 1 only.",
+        "B": "Statement 2 only.",
+        "C": "Both Statement 1 and Statement 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard IV (A), Loyalty, the employer is responsible for a positive \nworking environment, which includes an ethical workplace. Senior management has the additional \nresponsibility to devise compensation structures and incentive arrangements that do not encourage \nunethical behavior. Therefore, Statement 2 is accurate. A is incorrect because according to Standard IV (A), Loyalty, employers must recognize the duties and \nresponsibilities that they owe to their employees if they expect to have content and productive \nemployees. Further, this standard is not meant to be a blanket requirement to place employer \ninterests ahead of personal interests in all matters. Therefore, Statement 1 - employees must place \nemployer interests ahead of personal interests in all matters – is not accurate. C is incorrect because according to Standard IV (A), Loyalty, employers must recognize the duties and \nresponsibilities that they owe to their employees if they expect to have content and productive \nemployees. Further, this standard is not meant to be a blanket requirement to place employer \ninterests ahead of personal interests in all matters. Therefore, Statement 1 - employees must place \nemployer interests ahead of personal interests in all matters - is not accurate.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "A member himself from believes a colleague is participating in unethical activities at \nwork. The member does not disassociate the activities of his colleague. The member has most \nlikely violated:",
+      "options": {
+        "A": "only the Standard relating to knowledge of the law.",
+        "B": "only the Standard relating to disclosure of conflicts.",
+        "C": "both the Standard relating to knowledge of the law and the Standard relating to disclosure of \nconflicts."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I(A) Knowledge of the Law, if a member or candidate has \nreasonable grounds to believe that imminent or ongoing client or employer activities are illegal or \nunethical, the member or candidate must disassociate, or separate, from the activity. Inaction \n\ncombined with continuing association with those involved in illegal or unethical conduct may be \nconstructed as participation or assistance in the illegal or unethical conduct. B is incorrect because according to Standard VI(A), Disclosure of Conflicts, Members and Candidates \nmust make full and fair disclosure of all matters that could reasonably be expected to impair their \nindependence and objectivity or interfere with respective duties to their clients, prospective clients, \nand employer. Members and Candidates must ensure that such disclosures are prominent, are \ndelivered in plain language, and communicate the relevant information effectively. This Standard \ndoes not apply to guiding a member's behaviour for cases in which the member believe that a \ncolleague participates in unethical behaviour. Here, the member has not violated Standard VI (A). C is incorrect because according to Standard VI(A), Disclosure of Conflicts, Members and Candidates \nmust make full and fair disclosure of all matters that could reasonably be expected to impair their \nindependence and objectivity or interfere with respective duties to their clients, prospective clients, \nand employer. Members and Candidates must ensure that such disclosures are prominent, are \ndelivered in plain language, and communicate the relevant information effectively. This Standard \ndoes not apply to guiding a member's behavior for cases in which the member believe that a \ncolleague participates in unethical behavior. Here, the member has not violated Standard VI (A).",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "According to the Standard relating to loyalty, members must:",
+      "options": {
+        "A": "place their employer's interest above their personal interests in all matters.",
+        "B": "notify their employer before engaging in an independent practice while still employed.",
+        "C": "never act against their employer's interests when complying with their duties to clients."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Although Standard IV (A) Loyalty does not preclude members of cendinates from \nentering into anundependers trusses while still employed, members and candidates who plan to \nengage in independent practice for compensation must notify their employer and desonne the types \nof services they will render prospective todepennant clients, the expected duranine of the services, \nand the pampasan fer ine services Members and candidates should not rentier services anal they \nreceive consent from their employer to all of the terms of the arrangement. A is incorrect because according to Standard IV (A), Loyalty, this standard is not meant to be a blanket \nrequirement to place employer interests ahead of personal interests in all matters. The standard \ndoes not require members and candidates to  subordinate important personal and family obligations \nto thea week. C is incorrect because according to Standard IV (A), Loyalty, circumstances may arise (eg, when an \nemployer is engaged in illegal or unethical activity) in which members and candidates must act \ncontrary to their employer's interests in order to comply with their duties to the market and clients. \nIn such instances, activities that would normally violate a member's or candidate's duty to his or her \nemployer (such as contradicting employer Instructions, violating certain policies and procedures, or \npreserving a record by copying employer records) may be justified.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to \nrecommend investments for his clients that are consistent with their overall objectives and \nrisk tolerance. His firm gives its advisors a bonus for recommending the firm's proprietary \nproducts. If all other variables are equal in an investment choice, Milton uses the proprietary \nproducts Milton does not inform the clients of this bonus. Has Milton most likely violated the \nStandards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, the Standard relating to suitability.",
+        "C": "Yes, the Standard relating to loyalty, prudence, and care."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III (A). Loyalty, Prudence, and Care. Particular care must be \ntaken to detect whether the goals of the Investment manager or the firm in conducting business \nselling products and executing security transactions potentially conflict with the best interests and \nobjectives of the client. When members and candidates cannot avolo potential conflicts between \ntheir firm and clients interests, they must provide clear and factual disclosures of the circumstances \nto the clients. Milton must disclose that he receives a bonus for using the firm's proprietary funds to \nthe client, and is in viviolation of this Standard. A is incorrect because Milton must disclose that he receives a bonus for using the firm's proprietary \nfunds to the client, so he is in viviolation of Standard III (A), Loyalty, Prudence, and Care, as described \nin the rationale for the correct answer. B is incorrect because Standard III (C), Suitability, requires that members and candidates who are in an \ninvestment advisory relationship with clients consider carefully the needs, circumstances, and \nobjectives of the clients when determining the appropriateness and suitability of a given investment \nor course of investment action. Milton is making his investment decisions for his clients based on \ntheir objectives and risk tolerance, and suitability, and therefore is not in viviolation of this Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Which of the following are among the recommended procedures for compliance with the \nStandard relating to independence and objectivity? \nProcedure 1: Impose limits on investment personnel acquiring securities in private \nplacements. \nProcedure 2: Prohibit employees from receiving reimbursement from corporate issuers for air \ntransportation when attending meetings at the issuers' headquarters. \nProcedure 3: Remove a company from the restricted list if the firm is unwilling to permit \ndissemination of adverse opinions about the company.",
+      "options": {
+        "A": "Procedure 1 and Procedure 2",
+        "B": "Procedure 1 and Procedure 3",
+        "C": "Procedure 2 and Procedure"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I(B), Independence and Objectivity, members and \nCandidates must use reasonable care and judgment to achieve and maintain independence and \nobjectivity in their professional activities. \nAs for Procedure 1, restrict investments: Members and candidates should encourage their \ninvestment firms to develop formal policies approval for employee related to employee purchases of \nequity or equity-related IPOS. Firms should require prior participation in IPOS, with prompt \ndisclosure of investment actions taken following the should be imposed on investment personnel \nacquiring securities in private placements. \noffering. Strict limits \nAs for Procedure 2, restrict special cost arrangements: When attending meetings at an issuer's \nheadquarters, members and candidates should pay for commercial transportation and hotel \ncharges. No corporate issuer should reimburse members or candidates for air transportation. B is incorrect because Procedure 1 is among the recommended procedures for compliance with the \nStandard relating to independence and objectivity, but Procedure 3 is not. \nAs for Procedure 3, create a restricted list. If the firm is unwilling to permit dissemination of adverse \nopinions about a corporate client, members and candidates should encourage the firm to remove \nthe controversial company from the research universe and put it on a restricted list so that the firm \ndisseminates only factual information about the company. Thus, putting the company on the \nrestricted list is among the recommended procedures. C is incorrect because Procedure 2 is among the recommended procedures for compliance with the \nStandard relating to independence and objectivity, but Procedure 3 is not.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Vinod Shah, CFA, is a fund manager for the employee pension plan of Jupiter \nCorporation, a publicly traded company. Shah owes a primary duty of loyalty, prudence, and \ncare to the:",
+      "options": {
+        "A": "shareholders of Jupiter.",
+        "B": "management of Jupiter.",
+        "C": "beneficiaries of the pension fund."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III (A), Loyalty, Prudence, and Care, the shareholders are \nnot the beneficiaries of his fund. When the manager is responsible for the portfolios of pension plans \nor trusts, however, the client is not the person or entity who hires the manager but, rather, the \nbeneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries. A is incorrect because according to Standard III (A), Loyalty, Prudence, and Care, the shareholders are \nnot the beneficiaries of his fund. When the manager is responsible for the portfolios of pension \nplans or trusts, however, the client is not the person or entity who hires the manager but, rather, the \nbeneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries. B is incorrect because according to Standard III (A), Loyalty, Prudence, and Care, the shareholders are \nnot the beneficiaries of his fund. When the manager is responsible for the portfolios of pension \nplans or trusts, however, the client is not the person or entity who hires the manager but, rather, the \nbeneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Min Joon, CFA, works in the client services department at an investment firm. Joon has \nbeen short-selling stocks on his personal account in anticipation of a significant decline in the \nmarket. His transactions do not disadvantage his firm's clients. Following a dramatic rise in \nthe markets, Joon is unable to cover his short positions and is forced to declare personal \nbankruptcy. Has Joon violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to misconduct",
+        "C": "Yes, the Standard relating to loyalty, prudence, and care"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I(D), Misconduct, Members and Candidates must not \nengage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that \nreflects adversely on their professional reputation, Integrity, or competence. Joon's actions do not \nresult from fraudulent or deceitful business conduct and personal bankruptcy may not reflect on the \nintegrity or trustworthiness of the person declaring bankruptcy. Also, according to Standard III(A), \nLoyalty, Prudence, and Care, Members and Candidates must act for the benefit of their clients and \nplace their clients' interests before their employer's or their own interests. There is nothing here to \nsuggest that Joon has not acted for the benefit of his clients. B is incorrect because according to Standard I(D), Misconduct, Members and Candidates must not \nengage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that \nreflects adversely on their professional reputation, integrity, or competence. Joon's actions do not \nresult from fraudulent or deceitful business conduct and personal bankruptcy may not reflect on the \nintegrity or trustworthiness of the person declaring bankruptcy. So, Joon has not violated this \nStandard. C is incorrect because according to Standard III(A), Loyalty, Prudence, and Care, Members and \nCandidates must act for the benefit of their clients and place their clients' interests before their \nemployer's or their own interests. There is nothing here to suggest that Joon has not acted for the \nbenefit of his clients. So, Joon has not violated this Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "A member secures a controlling, dominant position in an option on a stock in order to \nbenefit from trading the stock. The option trades are reported by the exchange and the \nincreased option trading volume leads other traders to take positions in the option and in the \nunderlying stock. The member has violated the Standards:",
+      "options": {
+        "A": "by engaging in transaction-based manipulation only.",
+        "B": "by engaging in information-based manipulation only.",
+        "C": "by engaging in both transaction-based manipulation and information-based manipulation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard II (B), Market Manipulation, Transaction-based \nmanipulation involves instances where a member or candidate knew or should have known that his \nor her actions could affect the pricing of a security. This type of manipulation includes, but is not \nlimited to, the following securing a controlling, dominant position in a financial instrument to exploit \nand manipulate the price of a related derivative and/or the underlying asset. B is incorrect because according to Standard II (B), Market Manipulation, Information-based \nmanipulation includes, but is not limited to, spreading false rumors to induce trading by others. \nHere, the member is not engaging in spreading rumors or alike, the member actions are not an \nexample of information-based manipulation. C is incorrect because the member has violated Standard II (B), Market Manipulation, by engaging in \ntransaction- based manipulation, as described in the response rationale for the correct answer. \nMeanwhile, Information-based manipulation includes, but is not limited to, spreading false rumors \nto induce trading by others.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to performance presentation? When presenting performance, members should:",
+      "options": {
+        "A": "exclude terminated accounts.",
+        "B": "use a single representative account for each investment mandate.",
+        "C": "disclose that investment results are simulated when model results are used."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III (D), Performance Presentation, \"[m]embers and \ncandidates can also meet their obligations under Standard III (D) [relating to performance \npresentation] by...■ including disclosures that fully explain the performance results being reported \n(for example, stating, when appropriate, that results are simulated when model results are used, \nclearly indicating when the performance record is that of a prior entity, or disclosing whether the \nperformance is gross of fees, net of fees, or after tax)...\" Hence, the use of simulated results should \nbe disclosed.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Mary Rein, CFA, makes a brief presentation about her firm's performance to a group of \ncurrent and prospective clients. According to the Standard relating to performance \npresentation, is Rein required to make available the detailed information supporting her \npresentation to clients upon request?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, only to current clients.",
+        "C": "Yes, both to current clients and to prospective clients."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III (D), Performance Presentation, if the presentation is \nbrief, the member or candidate must make available to clients and prospects, on request, the \ndetailed information supporting that communication. Best practice dictates that brief presentations \ninclude a reference to the limited nature of the information provided. A is incorrect because according to Standard III (D), Performance Presentation, information should be \nmade available to both clients and prospects on request, as described in the response rationale for \nthe correct answer. B is incorrect because according to Standard III (D), Performance Presentation, information should be \nmade available to both clients and prospects on request, as described in the response rationale for \nthe correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "According to the Standard relating to suitability, a member who manages a mutual fund \nis required: fund's stated mandate.",
+      "options": {
+        "A": "only to invest in a manner consistent with the",
+        "B": "only to determine the suitability of the fund for investors who may be purchasing shares in \nthe fund.",
+        "C": "both to invest in a manner consistent with the fund's stated mandate and to determine the \nsuitability of the fund for investors who may be purchasing shares in the fund."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard III (C), Suitability, Some members and candidates do not \nmanage money for individuals but are responsible for managing a fund to an index or an expected \nmandate. The responsibility of these members and candidates is to invest in a manner consistent \nwith the stated mandate. B is incorrect because according to Standard III (C), Suitability, Members and candidates who manage \npooled assets to a specific mandate are not responsible for determining the suitability of the fund as \nan investment for investors who may be purchasing shares in the fund. The responsibility for \ndetermining the suitability of an investment for clients can be conferred only on members and \ncandidates who have an advisory relationship with clients. Therefore, members managing a mutual \nfund to a mandate are not required to determine the suitability of the fund for investors who may \nbe purchasing shares in the fund. C is incorrect because according to Standard III (C), Suitability, Members and candidates who manage \npooled assets to a specific mandate are not responsible for determining the suitability of the fund as \nan investment for investors who may be purchasing shares in the fund. The responsibility for \ndetermining the suitability of an investment for clients can be conferred only on members and \ncandidates who have an advisory relationship with clients. Therefore, members managing a mutual \nfund to a mandate are not required to determine the suitability of the fund for investors who may \nbe purchasing shares in the fund.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    }
+  ]
+}

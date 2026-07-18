@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "quant-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 47–69)",
+  "group": "1000 Question Bank — Quantitative Methods",
+  "source": "1000 Practice Questions — Quantitative Methods",
+  "questions": [
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "An analyst gathers the following returns for seven funds: 12% 7% 5% 4% 8% 3% 3% The second quartile return is",
+      "options": {
+        "A": "4%",
+        "B": "5%.",
+        "C": "6%,"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The formula for the position of a percentile in an array with n entries sorted in ascending order is L = (n + 1) x Y/100, where y is the percentage point at which we are dividing the distributien and L, is the location (L) of the percentile (P) in the array sorted in ascending order with seven entries, the location of the second quartile, or 50th percentile, is: L= (7 + 1) x 50/100 = 4 When placing the funds' returns in ascending order (3%, 3%, 4%, 5% 7%, 8%; 12%), the return of the 4th fund is 5% Alteratively, candidates might realize that the secced quartile or 50th percentue is the median, The median is the value of the middle item of a set of items that has been sorted into ascending or descending order. In an odd - numbered sample of n items, the median occupies the (n + 1)/2 position Hence, the median return is 5%. A is incorrect because it confuses the location of the second quartile, which is calculated as L, = (7 + 1) x 50/100 = 4, with the value of the second quartile, which is the return of the 4th fund after placing the funds' returns in ascending order. 4% also corresponds to the retum of the 4 fund (the middle fund) when the array has not been sorted in ascending order, which a candidate might interpret as the 50th percentile (the median). C is incorrect because the mean is mistaken as the 50th percentile or second quartile, mean return = (12% + 8% + 7% + 5% + 4% + 3% + 3% )/7=6%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "The correlation coefficient:",
+      "options": {
+        "A": "ranges from 0 to 1.",
+        "B": "is not affected by outliers.",
+        "C": "Indicates the strength of the linear relationship between two random variables."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The correlation coefficient expresses the strength of the linear relationship between the two random variables. A is incorrect because correlation ranges from - 1 and + 1 for two random variables, X and Y. B is incorrect because correlation may also be an unreliable measure when outliers are present in one or both of the variables. As we have seen, outliers are small numbers of observations at either extreme (small or large) of a sample. The correlation may be quite sensitive to outliers.",
+      "answer_source": "red",
+      "tags": [
+        "interpret correlation between two variables to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "If the covariance between two positively correlated random variables remains the same but the variance of both variables increases, the correlation between the two variables:",
+      "options": {
+        "A": "decreases",
+        "B": "stays the same.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The correlation between two random variables, R, and R,, is defined as p(Ri,Rj)= Cov(Ri,Rj), [o(Ri),σ(Rj)], where Cov denotes the covariance and σ the standard deviation. Since the standard deviation of each asset occurs in the denominator of the correlation formula, it is clear that, all else being equal. an increase in the variance (hence standard deviation) of either variable will decrease the correlation. B is incorrect because the correlation between two random variables, R, and R, is defined as p(Ri,Rj) = Cov(Ri,Rj)[ σ(Ri), σ(Rj)], where Cov denotes the covariance and σ the standard deviation. Hence an increase in variance will decrease the correlation, not keep it the same. Candidates may select this answer choice since the covariance of correlated variables has remained the same, or if they assume that correlation is independent of variance. C is incorrect because the correlation between two random variables, R, and R, is defined as p(Ri,Rj) = Cov(Ri,Rj /[ σ (Ri),σ(Rj)], where Cov denotes the covariance and σ the standard deviation. Hence an increase in variance will decrease the correlation, not increase it. Candidates may select this answer choice if they think that more variance means more covariance and hence more correlation, or if they swap numerator and denominator of the correlation formula; [σ(Ri),σ(Rj)]/Cov(Ri,Rj).",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the expected value, variance, standard deviation, covariances, and correlations of portfolio returns"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "The correlation between two variables measures:",
+      "options": {
+        "A": "only their linear relationship.",
+        "B": "only their non-linear relationship.",
+        "C": "both their linear and non-linear relationships."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The correlation coefficient is a measure of the linear association between two variables; it would not be appropriate to use the correlation coefficient to measure the non - linear relationship between variables. B is incorrect because the correlation coefficient is a measure of the linear association between two variables. It does not measure non - linear relationships between variables. C is incorrect because the correlation coefficient is a measure of the linear association between two variables. It does not measure non - linear relationships between variables.",
+      "answer_source": "red",
+      "tags": [
+        "interpret correlation between two variables to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "Which of the following is required to compute the standard error of a sample mean using the bootstrap resampling method?",
+      "options": {
+        "A": "The mean of each resample",
+        "B": "The mean of the original sample",
+        "C": "The standard deviation of the original sample"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The equation to estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required. B is incorrect because the equation to estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required. C is incorrect because the equation to estimate the standard error of the sample mean effectively computes the sample standard deviation of the different means generated across all resamples. Hence the mean of each resample is required. However, neither the mean, nor the standard deviation, of the original sample are required.",
+      "answer_source": "red",
+      "tags": [
+        "describe the use of resampling (bootstrap, jackknife) to estimate the sampling distribution of a statistic"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "A discrete random variable X has the following probability distribution: Probability Outcome 0.20 35 0.30 50 0.50 80 The standard deviation of X is closest to:",
+      "options": {
+        "A": "18.73.",
+        "B": "20.00.",
+        "C": "22.91."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The expected value E(X) = Σi=1 nP(Xi)Xj = (0.20 x 35) + (0.30 x 50) + (0.50 x 80) = 62. The variance σ2(X) = E{[X - E(X)]^2}= Σi=1 nP(Xi)[X - E(X)]^2 = 0.20 x (35 - 62)^2 + 0.30 x (50 - 62)^2 + 0.50 × (80 - 62)^2 = 351. Standard deviation is the positive square root of variance: σ = 351^(1/2) ~ 18.73. B is incorrect because it uses the simple average of the outcomes instead of the expected value in the calculation. The simple average Xbar = (35 + 50 + 80)/3 = 55. Hence the variance becomes σ2(X) = Σi=1 nP(Xi)[X — Xbar]^2 =0.20 x (35 - 55)^2 + 0.30 x (50 - 55)^2 + 0.50 x (80 - 55)^2 = 400. Then, the standard deviation is equal to σ = 400^(1/2) = 20.00. C is incorrect because it ignores that this is a random variable and just calculates the sample standard deviation instead for a sample with 3 observations. The sample mean Xoar (35 + 50 + 80)/3 = 55. Hence the sample variance is equal to σ2 = (Σi=1 n [X - Xbar]^2)/(n − 1) = [(35 −55)^2 + (50 - 55)^2 + (80 - 55)^2]/(3 - 1) = 525. Then, the sample standard deviation is equal to σ = 525^(1/2) ~ 22.91.",
+      "answer_source": "red",
+      "tags": [
+        "calculate expected values, variances, and standard deviations and demonstrate their application to investment problems"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "A tree diagram contains the following information about the dividend per share payable by a company under two scenarios: Scenario Probability of Scenario Dividend per Share Probability of Dividend Favorable 0.60 $2.00 $1.50 0.80 0.20 Unfavorable 0.40 $0.75 $0.50 0.30 0.70 The expected dividend per share under the favorable scenario is closest to:",
+      "options": {
+        "A": "$1.14.",
+        "B": "$1.37.",
+        "C": "$1.90."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The expected value of a random variable X given an event or scenario S is denoted E(XS). Suppose the random variable X can take on any one of n distinct outcomes X1, X2, ….Xn, (these outcomes form a set of mutually exclusive and exhaustive events). The expected value of X conditional on S is the first outcome, X,, times the probability of the first outcome given S, P(X1 | S), plus the second outcome, X₂, times the probability of the second outcome given S, P(X2 | S), and so forth. In our case, S = Favorable scenario, X1 = Dividend of $2.50, P(X1 | S) = 0.80 X₂ = Dividend of $1.50, P(X₂ | S) = 0.20. Thus, the expected dividend given the favorable scenario = (0.80 x $2.00) + (0.20 x $1.50) = $1.90. A is incorrect because it wrongly multiplies the expected dividend per share given the favorable scenario ($1.90) by the probability of the scenario (0.60): Probability of favorable scenario x E(Dividend | Favorable scenario) = 0.60 × [(0.80 x $2.00) + (0.20 x $1.50)] = 0.60 x $1.90 = $1.14. B is incorrect because it is the unconditional expected dividend per share based on the total probability rule for expected value: E(Dividend | Favorable scenario) = (0.80 x $2.00) + (0.20 x $1.50) = $1.90. E(Dividend | Unfavorable scenario) = (0.30 x $0.75) + (0.70 x $0.50) = $0.575. E(Dividend) = (0.60 x $1.90) + (0.40 x $0.575) = $1.37.",
+      "answer_source": "red",
+      "tags": [
+        "formulate an investment problem as a probability tree and explain the use of conditional expectations in investment application"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "The stated annual rate for Term Deposit 2 that should make the investor indifferent between the two term deposits is closest toAn investor is considering two term deposits with the following characteristics: Term Deposit 1 Term Deposit 2 • Compounding frequency Quarterly Continuous • Stated annual rate 4% ?",
+      "options": {
+        "A": "3.92%.",
+        "B": "3.98%",
+        "C": "4.06%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The investor will be indifferent if the EAR for both term deposits is the same. Therefore, we need to find the stated annual rate with continuous compounding that corresponds to the EAR of the quarterly compounded term deposit. Calculations: EAR of Term Deposit 1 = (1 + 0.04/4)^4 - 1= 0.040604. Hence, EAR of Term Deposit 2 = 0.040604=er - 1, leading to a stated annual rate for Term Deposit 2 of r = In(1.040604) = 0.039801 = 3.98%. A is incorrect because it takes the natural logarithm of Term Deposit 1's stated annual rate instead of its effective annual rate (EAR). Calculation: In(1.04) = 0.039221 = 3.92%. C is incorrect because it is the EAR of Term Deposit 1, not the stated annual rate of Term Deposit 2. EAR of Term Deposit 1 = (1 + 0.04/4)^4 - 1= 0.040604 = 4.06%. This answer is also closest to the calculations e0.04 - 1 = 0.040811 = 4.08% or e0.040604 - 1 = 0.041440 = 4.14%. =.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret annualized return measures and continuously compounded returns, and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "An investor invests a fixed amount of money into a fund each year for three years as follows: Year Price per Share 1 €14.00 2 €12.00 3 €17.00 The investor's average cost per share is closest to",
+      "options": {
+        "A": "€14.05.",
+        "B": "€14.33.",
+        "C": "€14.63."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The harmonic mean is used to determine the average price paid per share when using cost averaging. 3 1 14 + 1 12 + 1 17 = 14.05 The weighted mean formula could also be used, where the weights would be the proportion of the total number of shares purchased. However, in order to use this method a fixed investment amount would need to be created. B is incorrect because it is the average price per share, not the cost per share; (14 + 12 + 17)/3 = 14.33. Using the arithmetic mean assumes equal weighting, which is not appropriate when the investment amount is fixed and the share price is variable. C is incorrect because the price per share is incorrectly used as the weight in the weighted mean formula: 14( 14 14 + 12 + 17) + 12( 12 14 + 12 + 17) + 17( 17 14 + 12 + 17) = 14.63.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret different approaches to return measurement over time and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "The simple linear regression model in which only the independent variable is in logarithmic form is best described as the",
+      "options": {
+        "A": "log-lin model.",
+        "B": "lin-log model.",
+        "C": "log-log model"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The lin - log model is similar to the log - lin model, but only the independent variable is in logarithmic form. A is incorrect because in the log - lin model, the dependent variable is in logarithmic form and the independent variable is not. C is incorrect because the log - log model is one in which both the dependent variable and the independent variable are linear in their logarithmic forms. In the lin - log model only the independent variable is in logarithmic form.",
+      "answer_source": "red",
+      "tags": [
+        "describe different functional forms of simple linear regressions"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "An analyst produces the following joint probability function for the returns on two companies, X and Y. P(X = 20%, Y = 15%) = 0.2; P(X = 15%, Y = 10%) = 0.4; P(X = 10%, Y = 5%) = 0; and the probability is 0 for every other combination of X and Y. The expected returns of companies X and Y are 14% and 9%, respectively. The covariance of returns between X and Y (in percent squared) is closest to:",
+      "options": {
+        "A": "0.",
+        "B": "5.",
+        "C": "14."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The formula for calculating the covariance between random variables RA, and RB is Cov(RA,RB) = ΣΣP(RA,I,RB,i)(RA,i) - E[RA])(RB,j - E[RB]). The expected return (given) for each company is: E[RX]= 0.2(20) + 0.4(15) + 0.4(10) = 4 + 6 + 4= 14, E[RY] = 0.2(15) + 0.4(10) + 0.4(5)=3 + 4 + 2 = 9. Hence, Cov(Rx,Ry) = 0.2(2014) (15 - 9) + 0.4(15 - 14)(10 - 9) + 0.4(10 - 14)(5 - 9)=0.2(6)(6) + 0.4(1)(1) + 0.4( - 4) ( - 4)=7.2 + 0.4 + 6.4 = 14. A is incorrect because the covariance formula is misapplied as Cov(RA,RB) = ΣP(RA,i,RB,j)(RA,i − E[RA]) + ΣP(RA,i,RBi) (RB,i - E[RB]), resulting in 0.2(2014) + 0.4(1514) + 0.4(10 - 14) + 0.2(159) + 0.4(109) + 0.4(5 - 9) = 1.2 + 0.4 + ( - 1.6) + 1.2 + 0.4 + ( - 1.6) = 0. B is incorrect because the covariance formula is misapplied as Cov(RA,RB) = ΣP(RA,i,RB,i)(RA,i - RB,i;) resulting in 0.2(20 - 15) + 0.4(15 - 10) + 0.4(10 - 5) = 0.2(5) + 0.4(5) + 0.4(5) = 1 + 2 + 2=5. This answer also represents the difference between the expected returns of X and Y: 14 - 9 = 5.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the covariance and correlation of portfolio returns using a joint probability function for returns"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "An analyst gathers the following sample returns for a security: Return • -2% • -1% • 1% • 2% The mean absolute deviation of the sample returns is:",
+      "options": {
+        "A": "less than the sample standard deviation.",
+        "B": "equal to the sample standard deviation.",
+        "C": "greater than the sample standard deviation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The mean absolute deviation of 1.5% is less than the sample standard deviation of 1.83%. The mean absolute deviation, MAD, is calculated as: ∑ |𝑋𝑖 −𝑋| 𝑛 𝑖=1 𝑛 where the sample mean, 𝑋̅= ∑ 𝑋𝑖 𝑛 𝑖=1 𝑛 As the sample mean is: 𝑋̅= (−2−1 + 1 + 2) 4 = 0 the calculation of MAD is: |−2−0| + |−1−0| + |1−0| + |2−0| 4 = 2 + 2 + 1 + 1 4 = 1.5000%, while the sample standard deviation of n observations, Xi, is S = √∑ (𝑋𝑖−𝑋) 𝑛 𝑖=1 ^2 𝑛−1 here: √(−2−0)^2 + (−1−0)^2 + (1−0)^2 + (2−0)^2 4−1 = √ 4 + 1 + 4 + 1 3 = √3.3333 = 1.8257%. B is incorrect because the mean absolute deviation, MAD, is less than standard deviation of returns in the sample. The mean absolute deviation, MAD, is calculated as: ∑ |𝑋𝑖−𝑋| 𝑛 𝑖=1 𝑛 where the sample mean, 𝑋̅= ∑ 𝑋𝑖 𝑛 𝑖=1 𝑛 which results in MAD = 1.50% while sample standard deviation S = √∑ (𝑋𝑖−𝑋) 𝑛 𝑖=1 ^2 𝑛−1 = 1.83% therefore MAD is less than standard deviation of sample returns. C is incorrect because the mean absolute deviation, MAD, is less than standard deviation of returns in the sample. The mean absolute deviation, MAD, is calculated as: ∑ |𝑋𝑖 𝑛 𝑖=1 −𝑋̅| 𝑛 where the sample mean, 𝑋̅= ∑ 𝑋𝑖 𝑛 𝑖=1 𝑛 which results in MAD = 1.50% while sample standard deviation S = √∑ (𝑋𝑖−𝑋̅)^2 𝑛 𝑖=1 𝑛−1 = 1.83% therefore MAD is less than standard deviation of sample returns.",
+      "answer_source": "red",
+      "tags": [
+        "calculate, interpret, and evaluate measures of dispersion to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "An investor gathers the following information about a stock: • Stock price at t=0 $20 • Dividend paid at t=1 $3 • Stock price at t=1 $12 • Dividend paid at t=2 $1 • Stock price at t=2 $20 The investor purchased one unit of the stock at t = 0 and sold it at = 2 If the dividends were not reinvested, the money-weighted rate of return is closest to:",
+      "options": {
+        "A": "10%.",
+        "B": "15%.",
+        "C": "20%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The money - weighted return and its calculation are similar to the internal rate of return and the yield to maturity. Just like the internal rate of return, amounts invested are cash outflows from the investor's perspective and amounts returned or withdrawn by the investor, or the money that remains at the end of an investment cycle, is a cash inflow for the investor. For the stock investment this is: $20 $3/(1 + r) + ($20 + $1)/(1 + r)², yielding r = 10.24% ~10%. Calculator solution: CF0 = - 20; CF1 = 3; CF2 = 21; IRR CPT = 10.24. B is incorrect because it is time - weighted, not money - weighted, rate of return. For the stock investment, the holding period returns (HPR) for the two periods are HPR, = ($12 - $20 + $3)/$20= - 0.25= - 25% and HPR₂ = ($20 - $12 + $1)/$12 = 0.75 = 75%. Hence, TWR = √(0.75 x 1.75) - 1=0.1456 = 14.56% ~ 15%. C is incorrect because it confuses the money - weighted rate of return with the 'money returned', Le. the net cash flow: $20 + $3 + $1 - $20= $4, which, on an initial investment of $20, corresponds to a 20% return; $4/$20 = 0.2 = 20%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "Which of the following statements is most accurate? The money-weighted return:",
+      "options": {
+        "A": "ignores cash withdrawals and additional cash investments.",
+        "B": "measures what the investor actually earned on the funds invested.",
+        "C": "should be used to compare the performance of different investment managers."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The money - weighted return is an accurate measure of what the investor actually eamed on the money invested. A is incorrect because the money - weighted return and its calculation are similar to the internal rate of return and the yield to maturity. Just like the internal rate of return, amounts invested are cash outflows from the investor's perspective and amounts returned or withdrawn by the investor, or the money that remains at the end of an investment cycle, is a cash inflow for the investor That is, cash withdrawals and investments are included in the money - weighted return calculation, however, cash withdrawals and investments are ignored in the calculation of the arithmetic and geometric mean returns. C is incorrect because although the money - weighted return is an accurate measure of what the investor actually earned on the money invested, it is limited in its applicability to other situations. For example, it does not allow for return comparison between different individuals or different investment opportunities. Two investors in the same mutual fund may have different money - weighted returns because they invested different amounts in different years.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "In evaluating portfolio performance, the return measure most affected by an addition of funds to the portfolio just before a market downturn is the:",
+      "options": {
+        "A": "time-weighted return.",
+        "B": "arithmetic mean return.",
+        "C": "money-weighted return."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The money - weighted rate of return ... puts a greater weight on the second year's relatively poor performance... than the first year's relatively good performance..., as more money was invested in the second year than in the first. That is the sense in which returns in this method of calculating performance are 'money weighted If a client gives an investment manager more funds to invest at an unfavorable time, the manager's money - weighted rate of return will tend to be depressed. A is incorrect because an investment measure that is not sensitive to the additions and withdrawals of funds is the time - weighted rate of return. The time - weighted rate of return measures the compound rate of growth of $1 initially invested in the portfolio over a stated measurement period. For the evaluation of portfolios of publicly traded securities, the time - weighted rate of return is the preferred performance measure as it neutralizes the effect of cash withdrawals or additions to the portfolio, which are generally outside of the control of the portfolio manager. B is incorrect because the simplest way to compute the return is to take a simple arithmetic average of all holding period returns. Moreover, the arithmetic mean return assumes that the amount invested at the beginning of each period is the same. Thus, the arithmetic mean return does not account for cash additions to the portfolio and it is not affected by them.",
+      "answer_source": "red",
+      "tags": [
+        "compare the money - weighted and time - weighted rates of return and evaluate the performance of portfolios based on these measures"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "An equally weighted portfolio consists of two securities, each with a standard deviation of 3%. If the two securities returns are uncorrelated, the portfolio's standard deviation is closest to",
+      "options": {
+        "A": "0.0%.",
+        "B": "2.1%.",
+        "C": "3.0%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio standard deviation is 2.1%; √(0.5)^2(3)^2 + (0.5)^2(3)^2 + 2(0.5)(0.5)(3)(3)(0) = √4.5 or 2.12%, using the formula √σ2p = √w[Ww1 σ21 + W22 σ22 + 2W1W2Cov(R1,R2) where the Cov(R1,R2) = P(R1,R2)σ(R1)σ(R2) , which is equal to zero because the funds are uncorrelated; P(R1, R2)=0. A is incorrect because \"uncorrelated\" is misinterpreted as having a correlation value of - 1 (i.e., perfect negative correlation is used instead of zero) when calculating the portfolio standard deviation; σp = √(0.5)²(3)² + (0.5)²(3)² + 2(0.5)(0.5)(3)(3)(−1) = √0 = 0% -. C is incorrect because it is the weighted average of the two securities' standard deviation and calculates the portfolio standard deviation as: σ = (0.5) (3%) + (0.5) (3%) = 3.0%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the expected value, variance, standard deviation, covariances, and correlations of portfolio retums"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "An investment requires 10 equal annual payments, starting today, and will pay out a lump sum of $500,000 15 years from today. If the interest rate is 4% per year compounded annually, the required annual payment is closest to",
+      "options": {
+        "A": "$32,913.",
+        "B": "$34,230.",
+        "C": "$40,044"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The present value of the future lump sum payment is PV = FVN (1 + r) - N = $500,000(1 + 0.04) - 15= $277,632.25. The 10 annual payments form an annuity due (since the payments start today) whose present value equals the present value of an ordinary annuity with 9 annual payments plus the first payment, i.e. PV = A + A[1 - 1/(1 + r)N ]/r=A(1 + [1 - 1/(1 + 0.04)^9]/0.04)= 8.4353 (A). Setting the PV of the cash outflows (the annuity) equal to the PV of the cash inflows (the return in 15 years), we can solve for the annual payment amount; A = $277,632.25/8.4353 $32,913. Calculator solution: BGN; N = 10; I/Y = 4; PV = 277,632.25; solve for PMT 32,913. B is incorrect because it mistakes the required payments as an ordinary annuity, rather than an annuity due, calculating their present value as: PV = A[1 - 1/(1 + r)N]/r = A([1 - 1/(1 + 0.04)^10 ]/0.04)= 8.1109(A). The present value of the return at t = 15 is PV = FV (1 + r) - N= $500,000(1 + 0.04) - 15= $277,632.25. Setting these two values equal and solving for the annual payment thus yields: A = $277,632.25/8.1109 $34,230. Calculator solution: END; N = 10; I/Y= 4; PV = 277,632.25; solve for PMT = 34,230. C is incorrect because it assumes the $500,000 return is paid at t = 10 instead of t = 15. The present value of this payment is therefore PV = FV (1 + r) - N = $500,000(1 + 0.04) - 10 = $337,782.08. The 10 annual payments form an annuity due (since the payments start today) whose present value equals the present value of an ordinary annuity with 9 annual payments plus the first payment, i.e. PV = A + A[1 - 1/(1 + r)N ]/r=A(1 + [1 - 1/(1 + 0.04)^9 /0.04)= 8.4353(A). Setting the PV of the cash outflows (the annuity) equal to the PV of the cash inflows (the return in 15 years), we can solve for the annual payment amount; A = $337,782/8.4353 ~ $40,044. Calculator solution: BGN; N = 10; I/Y = 4; FV = 500,000; solve for PMT = 40,044.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the implied return of fixed - income instruments and required return and implied growth of equity instruments given the present value (PV) and cash flows"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "The probability of correctly rejecting a false null hypothesis is best described as one minus the:",
+      "options": {
+        "A": "test statistic's p-value.",
+        "B": "probability of a Type I error.",
+        "C": "probability of a Type II error."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The power of a test is the probability of Correct ly rejecting the null - that is, the probability of rejecting the null when it is false. Failing to reject the null hypothesis when it is false is a Type II error. So the power of the test is equal to one minus the probability of Type II error. A is incorrect because the power of the test is equal to one minus the probability of Type II error. The p - value is a measure of Type I error and is synonymous with distracter B. B is incorrect because the power of the test is equal to one minus the probability of Type II error. The p - value is a measure of Type I error and is synonymous with distracter B.",
+      "answer_source": "red",
+      "tags": [
+        "explain hypothesis testing and its components, including statistical significance, Type I and Type II errors, and the power of a test."
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "All else being equal, which of the following would most likely lead to a wider prediction interval for the dependent variable when re-estimating a linear regression model? An increase in the",
+      "options": {
+        "A": "sample size",
+        "B": "level of significance",
+        "C": "standard error of the estimate"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The prediction interval is equal to the predicted value of the dependent variable plus/minus the critical ! - value times the standard error of the forecast. The better the fit of the regression model, the smaller the standard error of the estimate (s) and, therefore, the smaller standard error of the forecast. When the standard error of the estimate increases, the standard error of the forecast will increase, which will lead to a wider prediction interval if holding other things constant. A is incorrect because the prediction interval is equal to the predicted value of the dependent variable plus/minus the critical t - value times the standard error of the forecast. The larger the sample size (n) in the regression estimation, the smaller the standard error of the forecast. Meanwhile, when the sample size is larger, the critical t - value will be smaller. Both will lead to a narrower prediction interval if holding other things constant. B is incorrect because the prediction interval is equal to the predicted value of the dependent variable plus/minus the critical - value times the standard error of the forecast. When the level of significance increases, the critical - value will decrease, which will lead to a narrower prediction interval if holding other things constant.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the predicted value for the dependent variable, and a prediction interval for it, given an estimated linear regression model and a value for the independent variable"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "An investor needs to make the following payments to cover college tuition fees, starting 10 years from today: Annual fee (payable at the beginning of each year) $50,000 Number of years of fee payments 4 If the investor's annual discount rate is 3%, the minimum investment amount required today to fund all four years of college tuition is closest to",
+      "options": {
+        "A": "$138,294.",
+        "B": "$142,442.",
+        "C": "$146,716."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The present value (PV) of the annuity due 10 years from today equals PV 10 = $50,000 + $50,000 [1 - 1/(1.03) ^3/0.03 =$50,000 + $50,000 x 2.828611 = $191,431. The PV of the annuity today equals PV $191.431/(1.03)^10 =$142,442. Calculator solution: BEGIN mode; N = 4; I/Y=3%; PMT = 50,000; solve for PV 191,431. Discounted back 10 years: N = 10; I/Y= 3%, FV = 191,431, solve for PV = 142,442. Alternatively, the annuity can be treated as an ordinary annuity, with a PV 9 years from today of PV,= $50,000 × [1 - 1/(1.03)^4/0.03 = $50,000 × 3.717098 = $185,855. The PV of the annuity today equals PV₁ = $185,855/(1.03)^9 = $142,442. Calculator solution: END mode; N= 4; I/Y= 3%; PMT 50,000; solve for PV = 185,855. Discounted back 9 years: N = 9; I/Y= 3%, FV = 185,855; solve for PV = 142,442. A is incorrect because the annuity is taken as an ordinary annuity rather than an annuity due, leading to a PV 10 years from today of PV10 $50,000 x [1 - 1/(1.03)^4]/0.03= $50,000 × 3.717098 = $185,855. The PV of the annuity today would equal PV, = $185.855/(1.03)^10 = $138,294. Calculator solution: END mode, N = 4; I/Y = 3%; PMT 50,000; solve for PV = 185,855. Discounted back 10 years: N = 10; I/Y= 3%, FV= 185,855, solve for PV = 138,294. This is also the result if the PV of the annuity due is discounted back 11 years instead of 10 years: $191.431/(1.03)^11 = $138,294. Calculator solution: BEGIN mode; N = 4; I/Y=3% ; PMT = 50,000, solve for PV 191,431. Discounted back 11 years: N = 11, I/Y=3%; FV = 191,431, solve for PV = 138,294. C is incorrect because the PV of the annuity due is discounted back 9 years instead of 10 years: $191,431/(1.03)^9 = $146,716. Calculator solution: BEGIN mode: N = 4; I/Y=3% ; PMT = 50,000; solve for PV 191,431, Discounted back 9 years: N = 9; I/Y = 3%; FV = 191,431; solve for PV = 146,716. This answer is also closest to the PV of the entire required amount: $200,000/(1.03) 10 = $148,819.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the implied return of fixed - income instruments and required return and implied growth of equity instruments given the present value (PV) and cash flows"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "An annuity makes seven annual payments of $10,000 each, with the first payment occurring five years from today. If the discount rate is 6% per year, the value of the annuity today is closest to",
+      "options": {
+        "A": "$ 41,715.",
+        "B": "$44,218.",
+        "C": "$55,824."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The present value in Year 4 of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows: PV=A[1 - 1/(1 + r)N]/r PV4 $10,000 × [1 - 1/(1 + 0.06)^7]/0.06 PV4 $55,823.81 Then, using a time line, the PV of the annuity in today's dollars is PV0 = FV4(1 + r) - N PV0 $55,823.81 × (1 + 0.06) - 4 PV0 $44,217.69 ~ $44,218. Calculator solution: (1) END mode; N = 7; 1= 6; PMT= - 10,000; FV = 0; solve for PV = 55,823.81. (2) END mode; N = 4; 1= 6; PMT = 0; FV = - >55,823.81; solve for PV = 44,217.69. A is incorrect because it assumes the ordinary annuity starts in Year 5 instead of Year 4. The present value of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows: PV=A[1 - 1/(1 + r)N]/r PV4=$10,000 × [1 - 1/(1 + 0.06)^7]/0.06 PV4 $55,823.81 Then the PV of the investment is incorrectly discounted from Year 5 instead of Year 4 such that: PV1 = FV5(1 + r) - N PV= $55,823.81 × (1 + 0.06) - 5 PV= $41,714.80 ~ $41,715. Calculator solution: (1) END mode; N = 7; 1= 6; PMT = - 10,000; FV = 0; solve for PV = 55,823.81. (2) END mode; N = 5; 1= 6; PMT = 0; FV = - 55,823.81; solve for PV = 41,714.80. C is incorrect because it is an intermediate step in the calculation and it represents the value of the annuity in 4 years. The present value in Year 4 of an ordinary annuity with 7 payments of $10,000 at a 6% discount rate is calculated as follows: PV=A[1 - 1/(1 + r)^N/r PV, $10,000 x [1 - 1/(1 + 0.06)^7]/0.06 PV $55,823.81 ~ $55,824. Calculator solution: (1) END mode, N = 7; 1= 6; PMT - 10,000; FV = 0; solve for PV = 55,823.81.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the present value (PV) of fixed - income and equity instruments based on expected future cash flows"
+      ]
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "With respect to simple linear regression, a residual is best described as the difference between the observed value of a dependent variable and:",
+      "options": {
+        "A": "Its mean.",
+        "B": "Its estimated value using a fitted regression line based on the sample.",
+        "C": "its expected value based on the true underlying population relationship."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The residual for the observation, e,, is how much the observed value of Y, differs from the estimated [value] using the regression line. Further, the residual refers to the fitted linear relation based on the sample. A is incorrect because we look at the sum of squared deviations of the observations from the mean to capture [the variation of the dependent variable]. Our goal is to understand what explains the variation of Y. The variation of Y is often referred to as the sum of squares total (SST), or the total sum of squares. Therefore, the difference between an observation and the mean of the dependent variable is not the observation's residual. C is incorrect because the error term refers to the true underlying population relationship, whereas the residual refers to the fitted linear relation based on the sample. Further, the error term, or simply the error, represents the difference between the observed value of Y and that expected from the true underlying population relation between Y and X.",
+      "answer_source": "red",
+      "tags": [
+        "describe a simple linear regression model, how the least squares criterion is used to estimate regression coefficients, and the interpretation of these coefficients"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "The time preference of individuals for current instead of future real consumption is captured by the",
+      "options": {
+        "A": "liquidity premium.",
+        "B": "maturity premium",
+        "C": "real risk-free interest rate"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The real risk - free rate reflects the time preferences of individuals for current versus future real consumption. A is incorrect because the liquidity premium compensates investors for the risk of loss relative to an investment's fair value if the investment needs to be converted to cash quickly. US T - bills, for example, do not bear a liquidity premium because large amounts can be bought and sold without affecting their market price. B is incorrect because the maturity premium compensates investors for the increased sensitivity of the market value of debt to a change in market interest rates as maturity is extended. For example, the difference between the interest rate on longer - maturity, liquid Treasury debt and that on short - term Treasury debt reflects a positive maturity premium for the longer - term debt.",
+      "answer_source": "red",
+      "tags": [
+        "interpret interest rates as required rates of return, discount rates, or opportunity costs and explain an interest rate as the sum of a real risk - free rate and premiums that compensate investors for bearing distinct types of risk"
+      ]
+    }
+  ]
+}

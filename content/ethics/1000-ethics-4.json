@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "ethics-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 64–84)",
+  "group": "1000 Question Bank — Ethics",
+  "source": "1000 Practice Questions — Ethics",
+  "questions": [
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "Tania Watt, CFA, issues \"buy\" recommendations for several bonds to her clients without \nproviding further details. She notifies the clients that additional information is available upon \nrequest. One week later, the prices of all recommended bonds decline because of an \nunexpected increase in interest rates. Watt's clients suffer large losses as a result, Has Watt \nmost likely violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by issuing recommendations which result in large losses for her clients",
+        "C": "Yes, by issuing \"buy\" recommendations for several bonds to her clients without providing \nfurther details."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V (B), Communication with Clients and Prospective Clients \nIf recommendations are contained in capsule form (such as a recommended stock list), members \nand candidates should notify clients that additional information and analyses are available from the \nproducer of the report. Also, Members and candidates must disclose significant risks known to them \nat the time of the disclosure Members and candidates cannot be expected to disclose risks they are \nunaware of at the time recommendations or investment actions are made. In this case, the central \nbank action happened after the recommendation was sent out, and it was an unexpected move, so \nWatt cannot be blamed for not warning clients and causing portfolio losses. B is incorrect because Watt did not violate Standard V (B), Communication with Clients and Prospective \nClients, as described in the response rationale for the correct answer. C is incorrect because Watt did not violate Standard V (B), Communication with Clients and Prospective \nClients, as described in the response rationale for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "According to the GIPS standards, a firm:",
+      "options": {
+        "A": "must include non-discretionary portfolios in the firm's composites.",
+        "B": "may refer to its performance calculation methodology as being \"in accordance with the GIPS \nstandards.\"",
+        "C": "may determine a portfolio is non-discretionary if client imposed restrictions interfere with \nthe implementation of the intended strategy."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the fundamentals of compliance of the GIPS standards, If \ndocumented client- imposed restrictions interfere with the implementation of the intended strategy \nto the extent that the portfolio is no longer representative of the strategy, the firm may determine \nthat the portfolio is non-discretionary. A is incorrect because according to the fundamentals of compliance of the GIPS standards, Non-\ndiscretionary portfolios must not be included in a firm's composites. B is incorrect because according to the fundamentals of compliance of the GIPS standards, Statements \nreferring to the calculation methodology as being 'in accordance, 'in compliance' or 'consistent with \nthe Global Investment Performance Standards, or similar statements, are prohibited.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the fundamentals of compliance, including the \nrecommendations of the GIPS standards with respect to the definition of the firm and the firm's \ndefinition of discretion"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "Which of the following is not a key concept of the GIPS standards? The GIPS standards for \nfirms:",
+      "options": {
+        "A": "require the use of composites.",
+        "B": "rely on the integrity of input data.",
+        "C": "address every aspect of performance measurement."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the GIPS standards, the GIPS standards do not address every aspect \nof performance measurement. Therefore, it is not a key concept of the GIPS standards to address \nevery aspect of performance measurement. A is incorrect because according to the GIPS standards one of the key concepts of the standards is the \nrequired uses of composites. A composite is an aggregation of one or more portfolios managed \naccording to a similar investment mandate, objective, or strategy. Therefore, it is a key concept that \nthe GIPS standards require to aggregate one or more portfolios managed according to similar \ninvestment strategies in a composite. B is incorrect because according to the GIPS standards, the GIPS standards rely on the integrity of \ninput data, the quality of which is critical to creating accurate performance presentations. Therefore, \nit is a key concept to rely on the integrity of input data.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the key concepts of the GIPS Standards for Firms"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping company. \nKite concludes that the stock of a company is a good investment and decides to put a \"buy\" \nrecommendation on the stock. According to the recommended procedures for compliance, \nKite should communicate the recommendation:",
+      "options": {
+        "A": "within the firm first and then to customers.",
+        "B": "to customers first and then within the firm.",
+        "C": "simultaneously within the firm and to customers."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the recommended procedures for compliance with Standard III (B). \nFair Dealing, a common practice to assure fair dealing is to communicate recommendations \nsimultaneously within the firm and to customers Members and candidates should encourage firms \nto develop guidelines that prohibit personnel who have prior knowledge of an investment \nrecommendation from discussing or taking any action on the pending recommendation. Members \nand candidates should encourage firms to develop guidelines that prohibit personnel who have prior \nknowledge of an investment recommendation from discussing or taking any action on the pending \nrecommendation. A is incorrect because according to the recommended procedures for compliance with Standard III (B), \nFair Dealing, a common practice to assure fair dealing is to communicate recommendations \nsimultaneously within the firm and to customers. B is incorrect because according to the recommended procedures for compliance with Standard III (B), \nFair Dealing, a common practice to assure fair dealing is to communicate recommendations \nsimultaneously within the firm and to Customers.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: evaluate practices, policies, and conduct relative to the CFA \nInstitute Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "Hugh Matthew, CFA, covers several companies within a sector. After thorough analysis of \neach company, he issues \"buy\" recommendations for each company. In each report, Matthew \ndiscloses the assumptions, methodology and risk factors used in his research. Two weeks \nlater, an unexpected event occurs that negatively impacts the sector. As a result, all the \n\ncompanies Matthew covers experience significant losses. Has Matthew most likely violated \nthe Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to diligence and reasonable basis",
+        "C": "Yes, the Standard relating to communication with clients and prospective clients"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V (B), Investment Analysis, Recommendations, and Actions \n- Communication with Clients and Prospective Clients, Members and candidates cannot be expected \nto disclose risks they are unaware of at the time recommendations or investment actions are made. \nIn assessing compliance with Standard V(B), it is important to establish knowledge of a purported \nsignificant risk or limitation. A one-time investment loss that occurs after the disclosure does not \nconstitute a pertinent factor in assessing whether significant risks and limitations were properly \ndisclosed. Having no knowledge of a risk or limitation that subsequently triggers a loss may reveal a \ndeficiency in the diligence and reasonable basis of the research of the member or candidate but may \nnot reveal a breach of Standard V(B). B is incorrect because described conduct does not violate the Standard V(A) Diligence and Reasonable \nBasis, Members and Candidates must: 1.Exercise diligence, independence, and thoroughness in \nanalyzing investments, making investment recommendations, and taking investment actions. 2.Have \na reasonable and adequate basis, supported by appropriate research and investigation, for any \ninvestment analysis, recommendation, or action. C is incorrect because according to Standard V (B), Communication with Clients and Prospective \nClients, The appropriateness of risk disclosure should be assessed on the basis of what was known at \nthe time the investment action was taken (often called an ex ante basis). Members and candidates \n\nmust disclose significant risks known to them at the time of the disclosure. Members and candidates \ncannot be expected to disclose risks they are unaware of at the time recommendations or \ninvestment actions are made. In assessing compliance with Standard V(B), it is important to establish \nknowledge of a purported significant risk or limitation. A one-time investment loss that occurs after \nthe disclosure does not constitute a pertinent factor in assessing whether significant risks and \nlimitations were properly disclosed.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "According to the recommended procedures for compliance with the Standard relating to \ndiligence and reasonable basis, members should encourage their firms to:",
+      "options": {
+        "A": "evaluate the adequacy of external advisors by customizing the evaluation criteria for each \nadvisor.",
+        "B": "establish maximum levels of scenario testing of all computer-based models used in \nevaluating financial instruments.",
+        "C": "appoint a supervisory analyst to determine whether research reports have a reasonable and \nadequate basis prior to external circulation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the recommended procedures for compliance with Standard V (A), \nDiligence and Reasonable Basis, members and candidates should encourage their firms to establish a \npolicy requiring that research reports, credit ratings, and investment recommendations have a basis \nthat can be substantiated as reasonable and adequate. An individual employee (a supervisory \nanalyst) or a group of employees (a review committee) should be appointed to review and approve \nsuch items prior to external circulation to determine whether the criteria established in the policy \nhave been met. Therefore, appointing a supervisory analyst to determine whether research reports \nhave a reasonable and adequate basis, before circulating the reports externally, is a recommended \nprocedure for compliance with Standard V (A). A is incorrect because according to the recommended procedures for compliance with Standard V (A), \nDiligence and Reasonable Basis, members and candidates should encourage their firms to adopt a \nstandardized set of criteria for evaluating the adequacy of external advisers. Therefore, customizing \nthe evaluation criteria for each external advisor is not a recommended procedure for compliance \nwits Standard V (A). B is incorrect because according to the recommended procedures for compliance with Standard V (A). \nDiligence and Reasonable Basis, members and candidates should encourage their firms to develop \nderailed written guidance that establishes minimum levels of scenario testing of all computer-based \nmodels used in developing rating, and evaluating financial insturnerds. Therefore establishing \nmaximum levels of spenand testing is incorrect.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "A member works for an investment firm. There are no applicable laws relating to record \nretention. The firm's policy requires staff to retain records for five years. A local investment \nassociation recommends retaining records for eight years. At a recent client briefing, some of \nthe firm's largest clients expressed a preference for the firm to retain records for at least ten \nyears. To be consistent with the Standards, records should be retained for:",
+      "options": {
+        "A": "5 years.",
+        "B": "8 years.",
+        "C": "10 years."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V (C) Record Retention, Local regulators often impose \nrequirements on members, candidates, and their firms related to record retention that must be \nfollowed Firms may also implement policies detailing the applicabile time frame for retaining \nresearch and client communication records. Fulfilling such regulatory and firm requirements satisfies \nthe redbrements of Standard V(C) In the absence of rematory guidance or firm pallets, CFA Institute \nrecommends ceanteteing records tot at least seven years Here, there is no appesable jay Also \npicasicoeimentative of the baital industar andy tedd counts preferences ace not relevant lasteart, \nthe memberhes to abide by the firm's policy to maintain records for at least 5 years. B is incorrect because according to Standard:V (C) Reed Retentions, Local regulators oden \nyapose.reqethente on mempers, candidates and the firms related to record retention that must be \nfollowed Firms nas atse implement policies telaining the applicable tere Baibe to retaining research \nand cheat compianication records. Fulfilling such regulatory and arm requirements satisfies the \nrequirements of Standard VIC) in the apesnice of registory guidance or firm policies. CFA rostitme \nrecommends maintaining records for at least seven years, riese (here is no appicable law Also, the \nrecommendation of the local industry body and the clients' preferences are no! relevam instang: the \nmember nas to abide by the firm's policy to matatato records for at least 5 years. C is incorrect because according to Standard V (C), Record Retention. Local régulators often impose \nrequirements on members, candidates, and then firms related to record retention that must be \nfollowed Fenis may also implement policies detailing the applicable time frame for retaining \nresearch and client communication records Fulfilling such regulatory and firm requirements satisfies \nme requirements of Standard V(C) in the absence of regulatory guidance or firm policies, CFA \nInstiane recommends maintaining records for at least seven years Here there is no applicable law \nAlso, the recommendation of the local industry body and the clients' preferences are not relevant \ninstead the member has to abide by the firm's policy to maintain records for at least 5 years.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Issues of professional integrity Professional Conduct to situations involving"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "According to the recommended procedures for compliance with the Standard relating to \npriority of transactions, members should:",
+      "options": {
+        "A": "discourage clients from trading during blackout periods.",
+        "B": "supply copies of their personal securities transactions to clients upon request.",
+        "C": "preclear their participation in IPOS even if there is no conflict of interest between their \nparticipation in an IPO and the client's interests."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the recommended procedures for compliance with Standard VI(B), \nPriority of Transactions, members and candidates should preclear their participation in IPOs, even in \nsituations without any conflict of interest between a member's or candidate's participation in an IPO \nand the client's interest. A is incorrect because Standard VI(B), Priority of Transactions, recommends blackout/restricted \nperiods to prohibit members from early personal trading (\"front-running\"), not to discourage clients \nfrom trading. According to the recommended procedures for compliance with Standard VI(B), \ninvestment personnel involved in the investment decision-making process should establish blackout \nperiods prior to trades for clients so that managers cannot take advantage of their knowledge of \nclient activity by \"front-running\" client trades (trading for one's personal account before trading for \nclient accounts). B is incorrect because Standard VI(B), Priority of Transactions, makes no recommendation with \nrespect to members supplying clients with copies of personal securities transactions. According to \nthe recommended procedures for compliance with Standard VI(B), investment personnel should be \nrequired to direct their brokers to supply to firms duplicate copies or confirmations of all their \npersonal securities transactions and copies of periodic statements for all securities accounts.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "A member keeps all records supporting his decisions to buy or sell securities, but discards \nthe records not leading to changes in positions. The member keeps some records in hard copy \nbut others in electronic form. The member has most likely violated the Standard relating to \nrecord retention:",
+      "options": {
+        "A": "only by discarding the records not leading to changes in positions.",
+        "B": "only by keeping some records in hard copy but others in electronic form.",
+        "C": "both by discarding the records not leading to changes in positions and by keeping some \nrecords in hard copy but others in electronic form."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V (C), Record Retention, The retention requirement \napplies to decisions to buy or sell a security as well as reviews undertaken that do not lead to a \nchange in position. B is incorrect because according to Standard V (C), Record Retention, Records may be maintained \neither in hard copy or electronic form. C is incorrect because the member only violates Standard V (C), Record Retention, by discarding the \nrecords that do not lead to changes in positions, as described in the response rationale for the \ncorrect answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "Mary Lorraine, CFA, is a portfolio manager. She adds new factors to her stock selection \nprocess which affects all existing clients. She omits providing her clients with a written \nupdate regarding this change. Instead, Lorraine explains the change to her clients over the \nphone. Has Lorraine violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, because she adds new factors to her stock selection process which affects all existing \nclients",
+        "C": "Yes, because she fails to provide her clients with a written update about adding new factors \nto her stock selection process"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard V(B), Communication with Clients and Prospective Clients, \nThe member or candidate must keep clients and other interested parties informed on an ongoing \nbasis about changes to the investment process. Also, For purposes of Standard V(B), communication \nis not confined to a written report. A presentation of information can be made via any means of \ncommunication, including in-person recommendation description, telephone conversation. \nTherefore, Lorraine does not violate Standard V(B) because changing the investment process is not \nprohibited and verbal communication by phone regarding this change is permitted. B is incorrect because Lorraine has not violated Standard V(B), Communication with Clients and \nProspective Clients, as described in the response for the correct answer. C is incorrect because Lorraine has not violated Standard V(B), Communication with Clients and \nProspective Clients, as described in the response for the correct answer.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "A member claims a professional designation she has not earned. This action most likely \nviolates the Standard(s) relating to:",
+      "options": {
+        "A": "loyalty only.",
+        "B": "misconduct only.",
+        "C": "both loyalty and misconduct."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Actions involving unearned designations are viviolations of Standard IV (A), Loyalty \nbut also Standard I (D), Misconduct. The Standard relating to loyalty deals with matters related to \nemployment, Members and Candidates must act for the benefit of their employer and not deprive \ntheir employer of the advantage of their skills and abilities, divulge confidential information, or \notherwise cause harm to their employer. Actions regarding unearned designations are potentially \nharmful to an employer. The standard relating to misconduct requires, Members and Candidates \nmust not engage in any professional conduct involving dishonesty, fraud, or deceit or commit any \nact that reflects adversely on their professional reputation, integrity, or competence. Actions \nregarding uneamed designations are dishonest, an act of fraud and deceitful and will reflect \nadversely on a person's professional reputation, integrity and competence. A is incorrect because actions involving unearned designations not only violate Standard IV (A), \nLoyalty but also Standard I (D), Misconduct. The Standard relating to loyalty deals with matters \nrelated to employment Members must act for the benefit of their employer and not deprive their \nemployer of the advantage of their skills and abilities, divulge confidential information, or otherwise \ncause harm to their employer Actions regarding uneamed designations are potentially harmful to an \nemployer. B is incorrect because actions involving unearned designations not only watate Standard IV (A), \nLoyalty but also Standard I (D), Misconduct. The standard relating to misconduct requires, Members \nmust not engage in any professional cotiduct involving dishonesty fraud of decse or cemant any ect \nthat reflects adversely on their professional reputation, integoty or competence Actions regarding \nunearned designations are dishonest an act of Iraud and deceitful and will reflect adversely on a \nperson's professional reputatida, integnty and competesos.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on a \ncompany in which her brother holds shares. Chan does not disclose her brother's holdings in \nher report as she has no beneficial ownership in her brother's account. Has Chan violated the \nStandards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to disclosure of conflicts",
+        "C": "Yes, the Standard relating to communication with clients and prospective clients"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard VI(A), Disclosure of Conflicts Members and Candidates \nmust make full and fair disclosure of all matters that could reasonably be expected to impair their \nindependence and objectivity or interfere with respective duties to their clients, prospective clients \nand employer. In addition, sell-side members and candidates should disclose any matenally \nbeneficial ownership interest in a secuaty or other investeract that the member or candidates \nrecommending Chan has en beneficial ownncship in her birither's account so she is ttet redared to \ndisclose it. Therefore: Chan has not violated the Standard VI(A) \nIn addron, Standard V(B), Communicaban with Clients and Prospective Clients states that roeritters \nand candidates should communicate in a recoremeodatie de factors that were instruowntel in \nnioking the insestment recommendation Audical part of this remeremant is to distinguish clearly \nbatween opinions and facts in preparing a research report, the member or candidate must present \nthe basic characteestics of the securities being analyzed, which will allow the reader to evaluate the \nreport and incorporate infomation the reader deems relevant to his or her investment decision-\nmaking process. Standard V(B) is addressing the investment process communication with clients. \nChan has not violated the Standard V(B). B is incorrect because according to Standard VI(A), Disclosure of Conflicts Members and Candidates \nmust make full and fair disclosure of all matters that could reasonably be expected to impair their \nindependence and objectivity or interfere with respective duties to their clients, prospective clients, \nand employac In addition, sell-side members and candidates should disclose any materially \nbeneficial ownership interest in a security or other investment that the member or candidate is \nrecommending Chan has no beneficial ownership in her brother's account, so she is not required to \ndisclose it. Therefore, Chan has not violated the Standard VI(A). C is incorrect because Standard V(B), Communication with Clients and Prospective Clients, states that \nmembers and candidates should communicate in a recommendation the factors that were \ninstrumental in making the investment recommendation A critical part of this requirement is to \ndistinguish clearly between opinions and facts. In preparing a research report, the member or \ncandidate must present the basic characteristics of the security(ies) being analyzed, which will allow \nthe reader to evaluate the report and incorporate information the reader deems relevant to his or \nher investment decision-making process. Standard V(B) is addressing the investment process \ncommunication with clients. Chan has not violated the Standard V(B).",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: identify conduct that conforms to the Code and Standards and \nconduct that violates the Code and Standards"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "Jane Macmara, CFA, has just passed Level III of the CFA exam. In her blog, Macmara \nshares her views: \"CFA exams are outrageously difficult,\" and \"Thankfully, the CAPM was not \ntested.\" Macmara has most likely violated the \nStandards:",
+      "options": {
+        "A": "only by writing \"Thankfully, the CAPM was not tested.\"",
+        "B": "only by writing \"CFA exams are outrageously difficult.\"",
+        "C": "by writing both \"Thankfully, the CAPM was not tested\" and \"CFA exams are outrageously \ndifficult.\""
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard VII (A), Conduct as Participants in CFA Institute Programs, \nCFA Institute program rules, regulations, and policies prohibit candidates from disclosing confidential \nmaterial gained during the exam process Examples of information that cannot be disclosed by \ncandidates sitting for an exam include but are not limited to broad topical areas and formulas tested \nor not tested on the exam. Further All aspects of the exam, including questions, broad logical areas, \nand formulas tested or not tested, are considered confidential pohl such time as CFA Institute elects \nto rotease them publicly Theres no vodication that CFA Institute bas released details about the \nexam. Therefore, Macmara has violated Standard VII (A) by staring Thankfully, the CAPM forumeife \nwas not lested. B is incorrect because Standard VII (A) Conduct as Participants in CFA Institute Programs, does not \ncover expressing opinions regarding CFA Institute, the CFA Program, or other CFA Institute programs \nMembers and candelates are free to disagree and express their disagreement with CFA Institute on \nits policies, its procedures. or any advocacy positions taken by the organization. When expressing a \npersonal opinion, a candidate is prohibited from disclosing content-specific information, including \nany actual exam question and the information as to subject matter covered or not covered in the \nexam Macraana has not disclosed content-specific information but has only expressed har opinion \nabout the CFA exams. Therefore, Macmara has not violated Standard VII (A) by wating CFA exams \nare outrageously difficult. C is incorrect because according to Standard VII (A), Conduct as Participants in CFA Institute Programs, \nMacmara has violated Standard VII (A) only by writing \"Thankfully, the CAPM formula was not \ntested\". CFA Institute program rules, regulations, and policies prohibit candidates from disclosing \nconfidential material gained during the exam process. Examples of information that cannot be \ndisclosed by candidates sitting for an exam include but are not limited to: broad topical areas and \nformulas tested or not tested on the exam. Further, All aspects of the exam, including questions, \nbroad topical areas, and formulas, tested or not tested, are considered confidential until such time \nas CFA Institute elects to release them publicly. There is no indication that CFA Institute has released \ndetails about the exam.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "Donovan Jones, CFA, works at Grae Investments (GI). Gl's main product invests in liquid \nand illiquid assets. Prices for its illiquid holdings are determined by an independent valuation \nfirm. Jones markets performance of the GI product without providing a comparison \nbenchmark. Jones also switches to a different independent valuation firm because of the \nfirm's reputation for giving illiquid assets higher valuations. Jones has most likely violated the \nStandard relating to misrepresentation:",
+      "options": {
+        "A": "only by switching valuation firms",
+        "B": "only by marketing performance without abenchmark.",
+        "C": "both by switching valuation firms and by marketing performance without a benchmark."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I (C), Misrepresentation, changing pricing providers should \nnot be based solely on the justification that the new provider reports a higher current value of a \nsecurity. B is incorrect because Standard I(C) [Misrepresentation) does not require that a benchmark always be \nprovided in order to comply Some investment strategies may not lend themselves to displaying an \nappropriate benchmark because of the complexity or diversity of the investments included Grae's \nownership of several liquid and illiquid asset classes exhibits a diversity of investments. C is incorrect because Standard ((C) [Misrepresentation] does not require that a benchmark always be \nprovided in order to comply. Some investment strategies may not lend themselves to displaying an \nappropriate benchmark because of the complexity or diversity of the investments included Grae's \nownership of liquid and illiquid securities suggests a diversity of investments, so marketing \nperformance without a benchmark is not a viviolation of the Standard.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: demonstrate the application of the Code of Ethics and \nStandards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "Which of the following can claim compliance with the GIPS standards?",
+      "options": {
+        "A": "Consultants who advise investment firms that manage discretionary client assets.",
+        "B": "Asset owners that do not compete for business but report their performance to oversight \nbodies.",
+        "C": "Vendors that provide software to assist investment firms in claiming compliance with the \nGIPS standards."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Asset owners may comply with the GIPS standards in the same way as firms if \nthey compete for business. If they don't compete for business but report their performance to an \noversight body, asset owners may choose to comply with the GIPS Standards for Asset Owners. A is incorrect because consultants cannot make a claim of compliance unless they actually manage the \nassets for which they are making a claim of compliance. They can claim to endorse the GIPS \nstandards and/or require that their investment managers comply with the GIPS standards. C is incorrect because only a firm managing assets can claim compliance. Similarly, software (and the \nvendors who supply software) cannot be 'compliant.' Software can assist firms in achieving \ncompliance with the GIPS standards (e.g., by calculating performance in a manner consistent with \nthe calculation requirements of the GIPS standards), but only a firm managing assets can claim \ncompliance once the firm has satisfied all applicable requirements of the GIPS standards.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: explain why the GIPS standards were created, who can claim \ncompliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "Which of the following statements is most accurate? In countries where regulations \nconflict with, or contradict, the GIPS standards, firms that claim compliance are required to \ncomply with:",
+      "options": {
+        "A": "local regulations with full disclosure of the conflict.",
+        "B": "the stricter of local regulations or the GIPS standards.",
+        "C": "local regulations with optional disclosure of the conflict."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the GIPS standards, in cases in which laws and/or regulations \nconflict with the GIPS standards, firms are required to comply with the laws and regulations and \nmake full disclosure of the conflict in the GIPS Report. B is incorrect because , as explained in the justification for the correct answer, firms are required to \ncomply with the laws and regulations and make full disclosure of the conflict in the GIPS Report. C is incorrect because , as explained in the justification for the correct answer, firms are required to \ncomply with the laws and regulations and make full disclosure of the conflict in the GIPS report.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the fundamentals of compliance, including the \nrecommendations of the GIPS standards with respect to the definition of the firm and the firm's \ndefinition of discretion"
+      ]
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "According to the GIPS standards, a firm must include a terminated composite on the \nfirm's list of composite descriptions for at least:",
+      "options": {
+        "A": "5 years after the composite termination date.",
+        "B": "7 years after the composite termination date.",
+        "C": "10 years after the composite termination date."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the GIPS standards, The FIRM MUST include terminated \nCOMPOSITES on this list for at least five years after the COMPOSITE TERMINATION DATE. B is incorrect because firms must include terminated composites on the firm's list of composite \ndescriptions for at least five years after the composite termination date, as described in the \nresponse rationale for the correct answer, and not for 7 years. C is incorrect because firms must include terminated composites on the firm's list of composite \ndescriptions for at least five years after the composite termination date, as described in the \nresponse rationale for the correct answer, and not for 10 years.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the fundamentals of compliance, including the \nrecommendations of the GIPS standards with respect to the definition of the firm and the firm's \ndefinition of discretion"
+      ]
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "According to the GIPS standards, verification is:",
+      "options": {
+        "A": "performed with respect to an entire firm.",
+        "B": "performed by a firm's compliance department.",
+        "C": "mandatory for firms that claim compliance with the GIPS standards."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the GIPS standards, verification is performed with respect to an \nentire firm, not on specific composites or pooled funds. B is incorrect because according to the GIPS standards, Verification is a process by which an \nindependent verification firm (verifier) conducts testing of a firm on a firm-wide basis in accordance \nwith the required verification procedures of the GIPS standards. C is incorrect because according to the GIPS standards. Once a firm claims compliance with the GIPS \nstandards, it may voluntarily hire an independent third party to perform a verification in order to \nincrease confidence in the firm's claim of compliance.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: describe the concept of independent verification"
+      ]
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "Which of the following is a recommended procedure for complying with the Standard \nrelating to preservation of confidentiality? \nProcedure 1: Disclose to authorized fellow employees only information that will improve \nservice to the client  \nProcedure 2: Encourage the adoption of standard confidentiality procedures utilized by \nleading firms in the industry",
+      "options": {
+        "A": "Procedure 1 only",
+        "B": "Procedure 2 only",
+        "C": "Both Procedure 1 and Procedure 2"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the recommended procedures for compliance with Standard II (E), \nPreservation of Confidentiality, avoid disclosing any information received from a client except to \nauthorized fellow employees who are also working for the client. Is the information background \nmaterial that, if disclosed, will enable the member or candidate to improve service to the client? B is incorrect because according to the recommended procedures for compliance with Standard II (E), \nPreservation of Confidentiality, members should encourage the development of procedures that \nappropriately reflect the firm's size and business operations and not only large firm's standard \nmodels. C is incorrect because according to the recommended procedures for compliance with Standard II (E), \nPreservation of Confidentiality, members should encourage the development of procedures that \nappropriately reflect the firm's size and business operations and not only large firm's standard \nmodels.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "According to recommended procedures for compliance with the Standard relating to \nmaterial nonpublic information, \nfirms should:",
+      "options": {
+        "A": "review employee trading through the maintenance of watch lists.",
+        "B": "prohibit all types of proprietary activity when a firm comes into possession of material \nnonpublic information.",
+        "C": "permit regular interdepartmental communication of nonpublic information between the \ncorporate finance and equity research departments of a firm."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the recommended procedures for compliance with Standard II(A) \nMaterial Nonpublic Information the use of watch lists is a minimum element of such a system. The \nminimum elements of include, but are not limited to, the review of employee trading through the \nmaintenance of \"watch\" rumor\" lists. B is incorrect because according to the recommended procedure for compliance with Standard II(A) \nMaterial Nonpublic  \nsuch a system \"restricted\" and \" Information, prohibition on all types of proprietary activity when a \nfirm comes into possession of material nonpublic information is not appropriate. For example, when \na firm acts as a market maker, a prohibition on proprietary trading may be counterproductive to the \ngoals of maintaining the confidentiality of information and market liquidity. C is incorrect because according to the recommended procedure for comprence with Standard 11(A) \nMaterial Nonpublic Information interdepartmental communication between such departments and \ntheir employees should be generally minimized to restrict the possible flow on material nonpublic \ninformation The guidance notes that The minimum elements of such a system include but are not \nlimited to, the substantial control of relevant interdepartmental communications preferably through \na clearance area wifhmm the firm in either the compliance.or legal depettraent.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: recommend practices and procedures designed to prevent \nviviolations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "Q . Tim Howley, CFA, \"pumps up\" the price of a security by spreading misleading \ninformation and later \"dumps\" the security after the price reaches an artificially high level. \nHowley has most likely violated the Standard relating to:",
+      "options": {
+        "A": "market manipulation.",
+        "B": "independence and objectivity.",
+        "C": "material nonpublic information."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the Standard II(B), market manipulation includes (1) the \ndissemination of false or misleading information Also, information-based manipulation includes, but \nis not limited to, spreading false rumors to induce trading by others. For example, members and \ncandidates must refrain from \"pumping up the price of an investment by issuing misleading positive \ninformation or overly optimistic projections of a security's worth only to later \"dump\" the \ninvestment (i e sell it) once the price, fueled by the misleading information's effect on other market \nparticipants, reaches an artificially high level. B is incorrect because according to Standard ((B), independence and objectivity. Members and \nCandidates must use reasonable care and judgment to achieve and maintain independence and \nobjectivity in their professional activities Members and Candidates must not offer, solicit, or accept \nany gift, befisfit, compensation, or consideration that reasonably could be expected to compromise \ntheir own or another's independence and objectivity. C is incorrect because according to Standard II(A), metenal nenpublic information Members and \nCandidates who possess material nonpublic information that could affect the value of an mvestment \nmust not act or cause others to act on the information.",
+      "answer_source": "red",
+      "tags": [
+        "Ethical and Professional Standards: evaluate practices, policies, and conduct relative to the CFA \nInstitute Code of Ethics and Standards of Professional Conduct"
+      ]
+    }
+  ]
+}

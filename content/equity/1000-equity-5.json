@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-5",
+  "name": "1000 Câu Hỏi — Đề 5 (câu 91–112)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "Q. If securities are purchased on margin with a maximum leverage ratio of 1.75, the minimum margin requirement is closest to:",
+      "options": {
+        "A": "43%.",
+        "B": "57%.",
+        "C": "75%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement. Or, MLR= 1/ MMR and MMR = 1 / MLR. In this case: the minimum margin requirement (MMR) = 1 / 1.75 = 57%. A is incorrect because It is (1 - the minimum margin requirement): 1-(1/1.75) = 43%. C is incorrect because It is (the maximum leverage ratio-1)= 1.75-1 = 75%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call"
+      ]
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "Q. Which of the following market anomalies is best described as a time-series anomaly?",
+      "options": {
+        "A": "Size effect",
+        "B": "Momentum",
+        "C": "Initial Public Offerings"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The momentum anomaly is best described as a time-series anomaly. Momentum anomalies relate to short-term share price patterns where past price moves continued through time to move in the same direction. A is incorrect because The size effect is a cross-sectional anomaly, not a time-series anomaly. Two of the most researched cross-sectional anomalies in financial markets are the size effect and the value effect. The size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis. C is incorrect because The Initial Public Offering (IPO) anomaly is best described as an \"other\" anomaly.",
+      "answer_source": "red",
+      "tags": [
+        "describe market anomalies"
+      ]
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "An analyst gathers the following information about a company: Dividend payout ratio 40% Required rate of return on equity 15% Return on equity 20% Q. The justified forward P/E ratio for the company's stock is closest to:",
+      "options": {
+        "A": "5.7.",
+        "B": "8.0.",
+        "C": "13.3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The justified forward P/E ratio = Po/E₁ = p/ (r-g), where p is the dividend payout ratio, r is the required rate of return, g is the sustainable dividend growth rate; g = bx ROE where b is the earning retention. A is incorrect because Dividend payout ratio instead of retention ratio is used to calculate g = 0.40 × 20% = 8%, so the P/E ratio = 0.40 / (0.15-0.08) = 5.7,. B is incorrect because The denominator is calculated as return on equity - required rate of return on equity, hence the P/E ratio 0.40/(0.20-0.15)= 8.0.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q94",
+      "num": 94,
+      "question": "Q. A trader uses margin to purchase a stock for $50 by posting 30% equity. If the first margin call occurs when the price falls below $43.75, the maintenance margin requirement is closest to:",
+      "options": {
+        "A": "13%.",
+        "B": "18%.",
+        "C": "20%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The margin requirement is equity per share / price per share:= (Initial equity + actual price - initial price)/(actual price) (15+43.75-50)/43.75 = 20%. A is incorrect because It uses the relative change in stock price as the margin requirement. Margin requirement = (50 -43.75)/50 12.5% 13%. B is incorrect because It divides by the initial price instead of the last price. (Initial equity + actual price - initial price)/ (initial price) = (15+ 43.75-50/50 17.5% = 18%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call"
+      ]
+    },
+    {
+      "id": "Q95",
+      "num": 95,
+      "question": "A trader buys a stock on margin with the following conditions: Purchase price per share $50 Equity per share $25 Maintenance margin requirement 25% Q. If the share price declines, the highest price at which the trader will receive a margin call is closest to:",
+      "options": {
+        "A": "$12.50.",
+        "B": "$33.33.",
+        "C": "$37.50."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The original equity of $25 indicates a margin loan of $25 ($50-$25). At a stock price of $33.33, equity will equal $33.33 less the $25 margin loan, or $8.33, which is 25% of the equity per share. $8.33/$33.33= 25%. To reach this answer through calculation, determine where the equity per share equals the 25% margin requirement: Equity/Share = (P-L)/P = maintenance margin; Where P = Share price and L = Loan amount; 0.25 (P-$25)/P; P= $33.33. A is incorrect because At a share price of $12.50 and a margin loan of $25, equity will be negative. $12.50 is 25% of the current price of $50 per share. C is incorrect because (1- maintenance margin) x price = (1-0.25) x $50 = $37.50.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q96",
+      "num": 96,
+      "question": "Q. The observation that a large-capitalization company's stock price is inflated after the company releases unexpected good news at year end is most likely related to the:",
+      "options": {
+        "A": "value effect.",
+        "B": "overreaction effect.",
+        "C": "turn-of-the-year effect."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The overreaction effect or anomaly is described as the propensity for investors to overreact to the release of unexpected public information. Therefore, stock prices will be inflated (depressed) for those companies releasing good (bad) information. In other words, inflated (depressed) here means the change of value that is overshooting (undershooting) the fair (intrinsic) value after incorporating the new information, rather than the price action that goes up (down) itself. A is incorrect because The value effect is a market anomaly that value stocks, which are generally referred to as stocks that have below-average price-to-earnings (P/E) and market-to-book (M/B) ratios, and above-average dividend yields, have consistently outperformed growth stocks over long periods of time. This is a cross-sectional anomaly and is not related to an information release. C is incorrect because The turn-of-the-year effect is a calendar anomaly that stock market returns in January were significantly higher compared to the rest of the months of the year, with most of the abnormal returns reported during the first five trading days in January. This is a time-series anomaly related to the calendar but not an information release.",
+      "answer_source": "red",
+      "tags": [
+        "describe market anomalies."
+      ]
+    },
+    {
+      "id": "Q97",
+      "num": 97,
+      "question": "Q. Order matching rules in order-driven trading systems are used to:",
+      "options": {
+        "A": "match buy orders to sell orders.",
+        "B": "determine the prices at which the orders submitted by dealers are matched.",
+        "C": "determine the prices at which the orders submitted by customers are matched."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The order matching rules match buy orders to sell orders. B is incorrect because The trade pricing rules (not the order matching rules) determine the prices at which the matched trades take place, regardless of who submits the order, the customer or dealer. C is incorrect because The trade pricing rules (not the order matching rules) determine the prices at which the matched trades take place, regardless of who submits the order, the customer or the dealer.",
+      "answer_source": "red",
+      "tags": [
+        "describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets"
+      ]
+    },
+    {
+      "id": "Q98",
+      "num": 98,
+      "question": "Q. Which of the following is an objective of market regulation?",
+      "options": {
+        "A": "Controlling agency problems only",
+        "B": "Ensuring that long-term liabilities are funded only",
+        "C": "Both controlling agency problems and ensuring that long-term liabilities are funded"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The objectives of market regulation include both controlling agency problems and ensuring that long-term liabilities are funded. In total, the objectives of market regulation are: 1 control fraud; 2 control agency problems; 3 promote fairness;. A is incorrect because The objectives of market regulation are to control agency problems and ensure that long-term liabilities are funded. Therefore, an objective of market regulation is not to control agency problems only. B is incorrect because The objectives of market regulation are to control agency problems and ensure that long-term liabilities are funded. Therefore, an objective of market regulation is not to ensure that long-term liabilities are funded only.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q99",
+      "num": 99,
+      "question": "An analyst gathers the following information about a company and its historical price multiples: Current Historical EPS $3.00 …. Cash flow per share $4.00 …. Book value per share $40.00 …. P/B 0.6 P/E 12.0 P/CF 8.0 Q. Based only on this information, if the share price is $30, the company's shares are most likely overvalued based on:",
+      "options": {
+        "A": "P/B.",
+        "B": "P/E.",
+        "C": "P/CF."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The P/B value for the company is $30/$40 = 0.75, which is above the benchmark ratio of 0.6, indicating the shares are overvalued based on P/B (ie, the ratio is higher than the benchmark). Both the P/E and P/CF ratios for the company are below their benchmarks, and therefore are not overvalued on that basis (see calculations options B and C). B is incorrect because The P/E value for the company is $30/$310, which is below the benchmark ratio of 12, indicating the shares are undervalued based on P/E (ie. the ratio is lower than the benchmark). C is incorrect because The P/CF value for the company is $30/$47.5, which is below the benchmark ratio of 8. indicating the shares are undervalued based on P/CF (Le. the ratio is lower than the benchmark).",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q100",
+      "num": 100,
+      "question": "Q. Porter's five determinants of the intensity of competition in an industry do not include the:",
+      "options": {
+        "A": "power of buyers.",
+        "B": "threat of substitutes.",
+        "C": "position of a company in its life-cycle stage."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The position of a company in its life-cycle stage is not part of Porter's five forces. The five forces are: threat of entry, power of suppliers, power of buyers, threat of substitutes, and rivalry among existing competitors. A is incorrect because Power of buyers is part of the five forces. B is incorrect because Threat of substitutes is part of the five forces.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q101",
+      "num": 101,
+      "question": "A trader reports the following information about an equity investment which was sold after 1 year: Number of shares purchased 2,000 Leverage ratio 3 Purchase price per share $12.00 Sale price per share $9.50 Call money rate per year 3% Q. The trader's equity value as a result of the trade is closest to:",
+      "options": {
+        "A": "$460,",
+        "B": "$2,520.",
+        "C": "$3,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The remaining equity can be calculated as: Proceeds on sale - payoff amount borrowed - payoff loan interest Amount paid to purchase shares = $12 × 2,000 = $24,000 Equity investment = $24,000/3= $8,000 Amount borrowed = $24,000 - $8,000 $16,000 Interest on loan = $16,000 × 3% = $480 Therefore, remaining equity = (2,000 × $9.50) − $16,000 − (3% × $16,000) = $19,000 − $16,000 − $480 = $2,520. A is incorrect because It uses the leverage ratio debt / equity invested instead of dividing the total equity investment by the leverage ratio.The incorrect answer is calculated as follows: Proceeds on sale - payoff amount borrowed - payoff loan interest Amount paid to purchase shares = $12 × 2,000 = $24,000 Equity investment = $24,000/4= $6,000 Amount borrowed = $24,000-$6,000 = $18,000 Interest on loan = $18,000 × 3% = $540 Therefore, remaining equity = (2,000 × $9.50) − $18,000 − (3% × $18,000) = $19,000 − $18,000 − $540 = $460. C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q102",
+      "num": 102,
+      "question": "Q. If a security's intrinsic value is $55 per share and is currently selling for $50 per share, the security is:",
+      "options": {
+        "A": "undervalued.",
+        "B": "fairly valued.",
+        "C": "overvalued."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The security's market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset's intrinsic value. B is incorrect because The security's market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset's intrinsic value. C is incorrect because The security's market price is less than its intrinsic value, indicating that it is undervalued. The dividend discount model can be used to estimate an asset's intrinsic value.",
+      "answer_source": "red",
+      "tags": [
+        "contrast market value and intrinsic value"
+      ]
+    },
+    {
+      "id": "Q103",
+      "num": 103,
+      "question": "Q. Convertible preference shares.",
+      "options": {
+        "A": "are popular in financing venture capital and private equity transactions.",
+        "B": "are subject to more price volatility than the underlying common shares.",
+        "C": "do not increase in value due to an increase in price of the underlying common shares."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The use of convertible preference shares is a popular financing option in venture capital and private equity transactions in which the issuing companies are considered to be of higher risk and when it may be years before the issuing company 'goes public' (ie., issues common shares to the public). B is incorrect because The convertible preference shares' price is less volatile than the underlying common shares because the dividend payments are known and more stable. C is incorrect because Convertible preference shares allow investors to benefit from a rise in the price of the common shares through the conversion option.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of types of equity securities"
+      ]
+    },
+    {
+      "id": "Q104",
+      "num": 104,
+      "question": "Q. If the price of a stock bought on 30% margin increases by 40%, the return on equity to the buyer is closest to:",
+      "options": {
+        "A": "52%.",
+        "B": "75%.",
+        "C": "133%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The return on equity to a margin position is calculated by multiplying the unleveraged return by the financial leverage ratio. The financial leverage ratio is equal to 1/margin. In this case, financial leverage is 1/0.30= 3.3333, so the return on equity = 40% 3.3333 133.33%, which is closest to 133%. A is incorrect because It calculates return on equity as unleveraged return (1 + margin) = 40% (1+30% ) = 52%. B is incorrect because It calculates return on equity as margin / return = 30% /40% = 75%. In other words, it incorrectly swaps the numerator and denominator in the correct solution (40%/30% becomes 30% /40%).",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call"
+      ]
+    },
+    {
+      "id": "Q105",
+      "num": 105,
+      "question": "Q. The size effect anomaly results when it is observed that on a risk-adjusted basis small cap companies tend to:",
+      "options": {
+        "A": "underperform equities of large-cap companies.",
+        "B": "perform in line with equities of large-cap companies.",
+        "C": "outperform equities of large-cap companies."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis. A is incorrect because The size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis. B is incorrect because The size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis.",
+      "answer_source": "red",
+      "tags": [
+        "describe market anomalies"
+      ]
+    },
+    {
+      "id": "Q106",
+      "num": 106,
+      "question": "Q. Within Porter's five forces framework, the power of buyers within an industry is most likely influenced by the:",
+      "options": {
+        "A": "industry concentration.",
+        "B": "availability of lower priced alternative brands.",
+        "C": "number of customers for the industry's products."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The smaller the number of buyers, the more likely buyer power will increase. Bargaining Power of Customers. Affected by: size and concentration of customers, costs of switching to other suppliers, customers ability to produce the product or service themselves. Are customers able to force price reductions or better payment terms? This can affect the intensity of competition by exerting influence on suppliers regarding prices (and possibly other factors such as product quality). For example, auto parts companies generally sell to a small number of auto manufacturers, which allows those customers, the auto manufacturers, to be tough negotiators when it comes to setting prices. A is incorrect because The degree of industry concentration most likely explains the bargaining power of suppliers, which is a different Porter force. B is incorrect because The availability of lower priced alternative brands most likely explains the threat of substitution, a different Porter force.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q107",
+      "num": 107,
+      "question": "An investor purchases 1,000 shares of a non-dividend paying stock on margin and sells them after one year as follows: Purchase price per share $25 Sale price per share $20 Annual call money rate 5% Leverage ratio 2 Q. Ignoring commissions, the investor's holding period return is closest to:",
+      "options": {
+        "A": "-45%.",
+        "B": "-40%.",
+        "C": "-23%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This is the return on investment to the investor. Total purchase price = $25/share x 1,000 shares = $25,000 Leverage ratio of 2 indicates buyer's equity of 1/2 Buyer's equity = 1/2* $25,000 = $12,500 Borrowed money = $25,000-$12,500 $12,500 Interest on borrowed money = 5% x $12,500 = $625 Sale proceeds = $20/share × 1,000 shares = $20,000 Net return to buyer = Sale proceeds - purchase price - interest payment = $20,000-$25,000-$625-$5,625 Return on investment to the buyer = -$5.625/$12,500-45%. B is incorrect. (No explanation was provided in the source material.) C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q108",
+      "num": 108,
+      "question": "An analyst gathers the following information about a market-capitalization-weighted index and one of its four constituent stocks: Total Market Capitalization (in $ billions) Stock 20 Index 57 Q. If the stock price is $30 per share and the index value is 100, the stock's weight in the index is closest to:",
+      "options": {
+        "A": "25%.",
+        "B": "30%.",
+        "C": "35%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The stock's weight in a market-capitalization-weighted index = market capitalization of stock/ market capitalization of index = $20 billion / $57 billion = 35.08%, which is closest to 35%. A is incorrect because 25% is the stock's weight using equal-weighted method: 1 stock / 4 stocks = 25%. B is incorrect because This is the stock's weight using the price-weighted method: stock's price/index value = $30/ 100 = 30%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and analyze the value and return of an index given its weighting method"
+      ]
+    },
+    {
+      "id": "Q109",
+      "num": 109,
+      "question": "Q. The beginning value for an index is 1540 and the ending value is 1575. If the income for the period is 55, the total return of the index is closest to:",
+      "options": {
+        "A": "1.3%.",
+        "B": "2.2%.",
+        "C": "5.8%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The total return of an index is the price appreciation, or change in the value of the price return index, plus income (dividends and/or interest) over the period, expressed as a percentage of the beginning value of the price return index. Total return = (ending index value - beginning index value + income) / beginning index value = (1575-1540 +55)/1540 = 90/1540 = 5.8%. A is incorrect because The beginning and ending index values were reversed in the calculation: (1540-1575+55)/1575=20/1575 = 1.3%. B is incorrect because The income is not taken into account: (1575-1540)/154035/1540 = 2.2%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the value, price return, and total return of an index"
+      ]
+    },
+    {
+      "id": "Q110",
+      "num": 110,
+      "question": "Q. If investors can successfully predict future asset prices based on past prices, markets are most likely:",
+      "options": {
+        "A": "inefficient.",
+        "B": "weak-form efficient only.",
+        "C": "semi-strong-form efficient."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. Therefore, if investors can predict future asset prices based on past prices, markets are inefficient. B is incorrect because In the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical prices and trading volume information. If markets are weak-form efficient, past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past. C is incorrect because Under all forms of market efficiency past trading data are already reflected in current prices and investors cannot predict future price changes by extrapolating prices or patterns of prices from the past.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management"
+      ]
+    },
+    {
+      "id": "Q111",
+      "num": 111,
+      "question": "Q. A company's current dividend (D) of $3 per share is expected to grow 20% per year for three years, then 5% per year thereafter. If the required rate of return is 10%, using a multistage dividend discount model, the intrinsic value of the stock at the end of Year 3 is closest to:",
+      "options": {
+        "A": "$81.79.",
+        "B": "$92.53.",
+        "C": "$108.86."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The value at the end of Year 3 (same as at the beginning of Year 4) will be: V = D₃(1+g_L)/(r-g_L) = D₄/(r-g_L), where g_L = long-term growth rate. The Year 4 dividend equals the initial dividend compounded at 20% for three years, then compounded at 5% for another year; D, = $3 x (1.2)x(1.05) $5.4432. V = $5.4432/(0.10-0.05)= $108.8640~ $108.86. A is incorrect because It is the present value of the terminal value at the end of Year 3: $108.8640/(1.10)³ = $81.7911 - $81.79. B is incorrect because It is the current intrinsic value, which includes the present values of the dividends for the first three years, plus the present value of the terminal value at the end of Year 3. The current intrinsic value includes the present value of dividends for the first three years, plus the present value of the terminal value at the end of Year 3. Dividends: $3.0000 (current), $3.6000 (Year 1), $4.3200 (Year 2), $5.1840 (Year 3). Discount factors at 10% per year: 0.9091 (Year 1), 0.8264 (Year 2), 0.7513 (Year 3). Present values of dividends: $3.2727 + $3.5702 + $3.8948 = $10.7378. Present value of the terminal value (second stage): $108.8640/(1.10)³ = $81.7911. Total = $10.7378 + $81.7911 = $92.5289 ≈ $92.53.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the intrinsic value of an equity security based on the Gordon (constant) growth dividend discount model or a two-stage dividend discount model, as appropriate"
+      ]
+    },
+    {
+      "id": "Q112",
+      "num": 112,
+      "question": "Q. A disadvantage of an equal-weighted index is that:",
+      "options": {
+        "A": "maintaining equal weights requires frequent reconstitution of the index.",
+        "B": "securities that represent a relatively large fraction of the target market value are underrepresented.",
+        "C": "securities that represent a relatively small fraction of the target market value are underrepresented."
+      },
+      "answer": "B",
+      "explanation": "B is correct. This is considered a disadvantage of an equal weighted index. Equal weighting has a number of disadvantages. Securities that constitute the largest fraction of the target market value are underrepresented, and securities that constitute a small fraction of the target market value are overrepresented. A is incorrect because An equal weighted index requires frequent rebalancing, not reconstitution, when its constituent securities' prices change. Equal weighting has a number of disadvantages. After the index is constructed and the prices of constituent securities change, the index is no longer equally weighted. Therefore, maintaining equal weights requires frequent adjustments (rebalancing) to the index. C is incorrect because Smaller stocks are overrepresented in an equal weighted index. Equal weighting has a number of disadvantages. Securities that constitute the largest fraction of the target market value are underrepresented, and securities that constitute a small fraction of the target market value are overrepresented.",
+      "answer_source": "red",
+      "tags": [
+        "describe the choices and issues in index construction and management"
+      ]
+    }
+  ]
+}

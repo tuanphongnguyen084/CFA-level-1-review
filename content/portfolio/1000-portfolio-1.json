@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "id": "portfolio-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–22)",
+  "group": "1000 Question Bank — Portfolio Management",
+  "source": "1000 Practice Questions — Portfolio Management",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following statements about pension plans is most accurate?",
+      "options": {
+        "A": "Defined benefit plans typically have a low risk tolerance.",
+        "B": "Defined contribution plans typically have a low risk tolerance.",
+        "C": "The sponsor of a defined benefit plan specifies the obligation owed to participants."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants. A is incorrect because the risk tolerance for defined benefit pension plans will vary with the maturity of the plan, but is typically quite high. B is incorrect because defined contribution pension plans are managed for individual investors, therefore the risk tolerance of each plan varies with the individual. Some individuals will be investing for growth and will therefore seek assets that have the potential for capital gains. Others, such as retirees, may need to draw an income from their assets and may therefore choose to invest more in fixed-income and dividend-paying shares. The investment needs of individuals will depend in part on their broader financial circumstances, such as their employment prospects and whether or not they own their own residence. They may also need to consider such issues as building up a cash reserve and the purchase of appropriate insurance policies before undertaking longer-term investments. The risk tolerance of an individual investor varies by individual.",
+      "answer_source": "red",
+      "tags": [
+        "describe defined contribution and defined benefit pension plans"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "The process of risk management is best described as the set of decisions that maximizes a company's value while:",
+      "options": {
+        "A": "minimizing the risk taken.",
+        "B": "bearing a tolerable level of risk.",
+        "C": "predicting the potential risk correctly."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company's or portfolio's value... Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk. A is incorrect because risk management is not about minimizing risk; it is about actively understanding and embracing those risks that best balance the achievement of goals with an acceptable chance of failure, quantifying the exposure, and continually monitoring and modifying it. C is incorrect because risk management is not even about predicting risks. The Doctrine of No Surprises' is a key mantra among many risk managers, but it does not mean they are expected to predict what will happen.",
+      "answer_source": "red",
+      "tags": [
+        "define risk management"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following is least consistent with effective risk governance?",
+      "options": {
+        "A": "Taking an enterprise-wide view",
+        "B": "Defining the enterprise's risk tolerance",
+        "C": "Following a bottom-up process to direct risk management activities"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk governance is the top-down [not bottom-up] process and guidance that directs risk management activities to align with and support the overall enterprise. A is incorrect because to achieve the best results for an organization, risk governance should take an enterprise-wide view. B is incorrect because good governance should include defining an organization's risk tolerance and providing risk oversight.",
+      "answer_source": "red",
+      "tags": [
+        "define risk governance and describe elements of effective risk governance"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "With regard to an investment policy statement, which of the following statements about return objectives is most accurate?",
+      "options": {
+        "A": "A return objective cannot be a required rate of return.",
+        "B": "Return objectives must be set independent of risk objectives.",
+        "C": "When setting a relative return objective, a good benchmark should be investable."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A benchmark is used as a relative return objective and a good benchmark should be investable. A is incorrect because a return objective can be a required rate of return. The return objective could be a required return-that is, the amount the investor needs to earn to meet a particular future goal-such as a certain level of retirement income. B is incorrect because the return objective must be consistent with the client's risk objective (high expected returns are unlikely to be possible without high levels of risk).",
+      "answer_source": "red",
+      "tags": [
+        "describe risk and return objectives and how they may be developed for a client"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "The correlation between the risk-free asset and the optimal risky portfolio is expected to be:",
+      "options": {
+        "A": "negative.",
+        "B": "zero.",
+        "C": "positive."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset. A is incorrect because a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset. C is incorrect because a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset and thus has zero correlation with the risk-free asset.",
+      "answer_source": "red",
+      "tags": [
+        "describe the implications of combining a risk-free asset with a portfolio of risky assets"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "An investor who can lend and borrow at the risk-free rate builds a portfolio using the risk-free asset and the market portfolio. The risk-free rate is 3% and the expected market return is 15%. If the expected portfolio return is 18%, the investor's portfolio is:",
+      "options": {
+        "A": "a lending portfolio.",
+        "B": "a leveraged portfolio.",
+        "C": "the optimal risky portfolio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A leveraged portfolio is a portfolio that has a negative investment in the risk-free asset. A portfolio's expected return, E(R), is calculated as: E(R) = w₁R,+ (1 - w₁)E(R), where w, is the proportion invested in the risk-free asset, returning R,, and E(R) is the expected return on the market portfolio. Thus, 0.18 = w1 x 0.03 + (1 - w₁) x 0.15 0.18 - 0.15 = w1 (0.03 - 0.15) 0.03 = w1 x (-0.12) w₁ = 0.03/(-0.12) W₁ =-0.25 A negative proportion invested in the risk-free rate implies a leveraged portfolio. A is incorrect because a lending portfolio is a portfolio that has a positive investment in the risk-free asset. A portfolio's expected return, E(𝑅𝑝), is calculated as: E(𝑅𝑝) = w1Rf + (1 - w₁)E(Rm), where w₁ is the proportion invested in the risk-free asset, returning Rf, and E(𝑅𝑚) is the expected return on the market portfolio. Thus, 0.18 = w1 x 0.03 + (1 - w₁) x 0.15 0.18 - 0.15 = w1 x (0.03 - 0.15) 0.03 = w1 x (-0.12) w₁ = 0.03/(-0.12) W₁ = -0.25 A negative proportion invested in the risk-free rate implies a leveraged, not a lending, portfolio. C is incorrect because the expected market return is 15%, while the expected portfolio return is 18%. Since the two returns are different, the investor's portfolio is different from the optimal risky (market) portfolio.",
+      "answer_source": "red",
+      "tags": [
+        "explain the capital allocation line (CAL) and the capital market line (CML)"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "A risk-neutral investor most likely seeks to maximize:",
+      "options": {
+        "A": "both risk and return.",
+        "B": "return irrespective of risk.",
+        "C": "return for a given level of risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A risk-neutral investor would maximize return irrespective of risk. This is because such an investor cares only about return and not about risk, so higher return investments are more desirable even if they come with higher risk. A is incorrect because a risk-seeking investor would maximize both risk and return. A risk-neutral investor maximizes return irrespective of risk. That is, a risk-neutral investor deliberately seeks to maximize only return, not risk. It is possible that a risk-neutral investor could end up maximizing risk by maximizing return, but he only seeks to maximize return and risk is not a consideration. C is incorrect because only risk-averse investors want to minimize their risk for the same amount of return, and maximize their return for the same amount of risk. A risk-neutral investor seeks to maximize return irrespective of risk, not for a given level of risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain risk aversion and its implications for portfolio selection"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following is most likely a consequence of overconfidence bias? Investors:",
+      "options": {
+        "A": "holding poorly diversified portfolios.",
+        "B": "continuing to hold classes of assets with which they are familiar.",
+        "C": "holding investments in a loss position longer than justified, in the hope that they will return to breakeven."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Overconfidence bias is a bias in which people demonstrate unwarranted faith in their own abilities. As a result of overconfidence bias, FMPs (financial market participants] may hold poorly diversified portfolios, which may result in significant downside risk. B is incorrect because this is a potential consequence of endowment bias, not overconfidence bias. Endowment bias is an emotional bias in which people value an asset more when they own it than when they do not. Endowment bias may lead FMPs (financial market participants] to continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they already own and may be reluctant to purchase assets with which they have less experience Familiarity adds to owners perceived value of a security. C is incorrect because this is a potential consequence of loss-aversion bias, not overconfidence. As a result of loss-aversion bias, FMPs (financial market participants] may hold investments in a loss position longer than justified by fundamental analysis, in the hope that they will return to breakeven.",
+      "answer_source": "red",
+      "tags": [
+        "discuss commonly recognized behavioral biases and their implications for financial decision making"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Failing to act in pursuit of long-term goals in favor of short-term satisfaction best describes which of the following emotional biases?",
+      "options": {
+        "A": "Self-control bias",
+        "B": "Endowment bias",
+        "C": "Loss-aversion bias"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Self-control bias is a bias in which people fall to act in pursuit of their long-term, overarching goals in favor of short-term satisfaction. B is incorrect because endowment bias is an emotional bias in which people value an asset more when they own it than when they do not, and is not about acting in favor of short-term satisfaction the cost of long-term goals. C is incorrect because loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains, and is not about acting in favor of short-term satisfaction at the cost of long-term goals.",
+      "answer_source": "red",
+      "tags": [
+        "discuss commonly recognized behavioral biases and their implications for financial decision making"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "When creating a long-only portfolio, which of the following correlation coefficients between assets would be most effective at reducing portfolio risk?",
+      "options": {
+        "A": "- 0.5.",
+        "B": "0.",
+        "C": "0.5."
+      },
+      "answer": "A",
+      "explanation": "A is correct. -05 is the smallest of the three correlations and the closer the correlation coefficient is to -1. the greater the reduction in portfolio risk. The correlation coefficient between two assets determines the effect on portfolio risk when the two assets are combined. You will find that portfolio risk is unaffected when the two assets are perfectly correlated (p₁₂ = +1). In other words, the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets and as such a portfolio's risk is unchanged with the addition of assets with the same risk parameters. Portfolio risk falls, however, when the two assets are not perfectly correlated (p₁₂) <+1) Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which p₁₂ = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free Analytically, the standard deviation risk of a two asset portfolio is given by the square root of the portfolio's variance: 𝜎𝑃 =(𝑤1 2𝜎1 2 + 𝑤1 2𝜎1 2 + 2𝑤1𝑤2𝑝12𝜎1𝜎2) 1/2 which is a strictly increasing function of p₁₂ Hence, -0.5, the smallest of the three correlations, has the lowest risk. B is incorrect because the correlation coefficient is not the lowest of the three options. The closer the correlation coefficient is to -1, the greater the reduction in portfolio risk Portfolio risk falls when the two assets are not perfectly correlated (𝑝12<+1). Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which p₁₂ = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free. C is incorrect because the correlation coefficient is not the lowest of the three options. The closer the correlation coefficient is to -1. the greater the reduction in portfolio risk \"Portfolio risk falls when the two assets are not perfectly correlated (𝑝12< +1). Sufficiently low values of the correlation coefficient can make the portfolio riskless under certain conditions. For an extreme case in which 𝑝12 = -1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free.",
+      "answer_source": "red",
+      "tags": [
+        "describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Which of the following can best be explained by overconfidence when predicting companies' earnings growth rates?",
+      "options": {
+        "A": "Base-rate neglect",
+        "B": "The value anomaly",
+        "C": "The disposition effect"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A number of other studies have offered behavioral explanations for value anomalies presenting the anomalies as mispricing rather than compensation for increased risk. These studies recognize the emotional factors involved in appraising stocks. Overconfidence can also be involved in predicting growth rates, potentially leading growth stocks to be overvalued, leading to the value anomaly. A is incorrect because in base-rate neglect, a phenomenon's rate of incidence in a larger population-its base rate -is neglected in favor of specific information. The specific, individual information may be misleading relative to the more appropriate base rate or general information. Base-rate neglect is connected to representativeness bias and not overconfidence, nor does it relate to earnings growth rates. C is incorrect because an important concept embedded in this utility representation is what has been termed the disposition effect the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (ie, holding on to losers and selling winners). The disposition effect does not relate to prediction errors, not to earnings growth rates.",
+      "answer_source": "red",
+      "tags": [
+        "describe how behavioral biases of investors can lead to market characteristics that may not be explained by traditional finance"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Which of the following is most likely developed by combining a client's investment objectives and constraints with long-term capital market expectations?",
+      "options": {
+        "A": "Risk budget",
+        "B": "Strategic asset allocation",
+        "C": "Investment policy statement"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A strategic asset allocation results from combining the constraints and objectives articulated in the IPS [investment policy statement] and long-term capital market expectations regarding the asset classes. A is incorrect because risk budgeting is the process of deciding on the amount of risk to assume in a portfolio (the overall risk budget), and subdividing that risk over the sources of investment return (e.g.. strategic asset allocation, tactical asset allocation, and security selection). Because the decision about the amount of risk to be taken is made in constructing the IPS, at this stage we are concerned about the subdivision of that risk. C is incorrect because long-term capital market expectations are not commonly stated in the IPS, which in addition to Investment Objectives and Investment Constraints typically includes the following sections: Introduction, Statement of Purpose, Statement of Duties and Responsibilities, Procedures, Investment Guidelines, Evaluation and Review, Appendices. Therefore, combining investment objectives and constraints with long-term capital market expectations does not result in a client's IPS.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "The diversification ratio of a portfolio is best described as the ratio of the:",
+      "options": {
+        "A": "standard deviation of the equally weighted portfolio's returns to the average standard deviation of the individual securities' returns.",
+        "B": "standard deviation of the market-capitalization-weighted portfolio's returns to the standard deviation of the equally weighted portfolio's returns.",
+        "C": "average standard deviation of the individual securities' returns to the standard deviation of the market-capitalization-weighted portfolio's returns."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. In the example of the 5-stock portfolio given, the equally weighted portfolio's standard deviation is approximately 71 percent of the average standard deviation of the 5 stocks (24.9%); ie., the denominator is the average standard deviation of all individual securities in the portfolio and the numerator is the standard deviation of the equally weighted portfolio. B is incorrect because the standard deviation of the equally weighted portfolio should be the numerator (not the denominator) and the denominator should be the average standard deviation of all individual securities in the portfolio. C is incorrect because the average standard deviation of all individual securities in the portfolio should be the denominator (not the numerator) and the numerator should be the standard deviation of the equally weighted portfolio.",
+      "answer_source": "red",
+      "tags": [
+        "describe the portfolio approach to investing"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "In regard to the asset allocation process, a top-down analysis most likely begins with an examination of",
+      "options": {
+        "A": "macroeconomic growth.",
+        "B": "a company's board of directors.",
+        "C": "the expected growth of a company's competitors."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A top-down analysis begins with consideration of macroeconomic conditions. Based on the current and forecasted economic environment, analysts evaluate markets and industries with the purpose of investing in those that are expected to perform well. Finally specific companies within these industries are considered for investment. B is incorrect because a top-down analysis begins with consideration of macroeconomic conditions. Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a bottom-up analysis focuses on company-specific circumstances, such as management quality and business prospects. C is incorrect because a top-down analysis begins with consideration of macroeconomic conditions. Bottom-up analysis focuses on company specifics. Rather than emphasizing economic cycles or industry analysis, a bottom-up analysis focuses on company-specific circumstances, such as management quality and business prospects.",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the portfolio management process"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Which of the following is most likely a consequence of the illusion of control bias?",
+      "options": {
+        "A": "An investor's portfolio turnover is too low.",
+        "B": "The investor's portfolio contains concentrated positions in companies.",
+        "C": "An investor uses a simple forecasting model for portfolio construction."
+      },
+      "answer": "B",
+      "explanation": "B is correct. As a result of illusion of control bias, FMPS [financial market participants] may inadequately diversify portfolios. Research has found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions. A is incorrect because as a result of illusion of control bias, FMPS (financial market participants] may trade more than is prudent. Researchers have found that portfolio turnover is negatively correlated with investment returns. C is incorrect because as a result of illusion of control bias, FMPS (financial market participants] may construct financial models and forecasts that are overly detailed. FMPs may require detailed models before making an investment decision, believing that forecasts from these models control uncertainty. Although a greater understanding of an investment, issuer, or industry is often useful, increased model complexity does not control the inherent risk and uncertainty of investment outcomes.",
+      "answer_source": "red",
+      "tags": [
+        "discuss commonly recognized behavioral biases and their implications for financial decision making"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Which of the following is best classified as a non-financial risk?",
+      "options": {
+        "A": "Credit risk",
+        "B": "Liquidity risk",
+        "C": "Accounting risk"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Although most risks have monetary consequences, there are a number of risks that are typically classified as non-financial in nature. These risks arise from a variety of sources, such as the relationship between the entity and counterparties, regulators, governments, the environment, suppliers, customers, and employees The following three non-financial risks are related: regulatory risk, accounting risk, and tax risk. They could even be collectively referred to as compliance risk because they all deal with the matter of conforming to policies, laws, rules, and regulations as set forth by governments and authoritative bodies, such as accounting governing boards. A is incorrect because the second primary financial risk is credit risk. Credit risk is the risk of loss if one party fails to pay an amount owed on an obligation, such as a bond, loan, or derivative to another party. B is incorrect because liquidity risk is a financial risk and defined as the risk of a significant downward valuation adjustment when selling a financial asset.",
+      "answer_source": "red",
+      "tags": [
+        "identify financial and non-financial sources of risk and describe how they may interact"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Portfolio rebalancing is best described as a process aimed at:",
+      "options": {
+        "A": "generating alpha.",
+        "B": "aligning portfolio weights with the tactical asset allocation decision.",
+        "C": "restoring the portfolio's original exposures to systematic risk factors."
+      },
+      "answer": "C",
+      "explanation": "C is correct. As the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio's original exposures to systematic risk factors is known as the rebalancing policy. A is incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. On the other hand, security selection is an attempt to generate higher returns than the asset class benchmark by selecting securities with a higher expected return. An \"alpha process is a process for adding value through active investing. B is incorrect because periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. On the other hand, tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors (l.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "The risk-return trade-off of a portfolio of only risky assets most likely improves when a risk-free asset is added to the portfolio because:",
+      "options": {
+        "A": "the risk-free asset is uncorrelated with the other assets in the portfolio.",
+        "B": "the lower return on the risk-free asset provides a diversification effect",
+        "C": "the correlations among the risky assets decrease, providing a diversification effect."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An investor's portfolio improves if a risk-free asset is added to the mix. In other words, a combination of the risk-free asset and a risky asset can result in a better risk-return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. B is incorrect because the risk-return trade-off is improved by lower risk not a lower return. It is the zero correlation of the risk-free asset with the risky assets in the portfolio that lowers the risk level. C is incorrect because the correlations among the risky assets are unaffected by the addition of a risk-free asset to the portfolio. The risk-return trade-off is improved by the zero correlation of the risk-free asset with the risky assets in the portfolio, not a change in correlations among the risky assets.",
+      "answer_source": "red",
+      "tags": [
+        "describe the implications of combining a risk-free asset with a portfolio of risky assets"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Which of the following best describes a potential consequence of the regret-aversion bias for financial market participants?",
+      "options": {
+        "A": "Engaging in herding behaviour",
+        "B": "Borrowing excessively to finance present consumption",
+        "C": "Misidentifying risk tolerances because of how questions about risk tolerance were framed"
+      },
+      "answer": "A",
+      "explanation": "A is correct. As a result of regret-aversion bias, FMPS [financial market participants] may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. Regret-aversion bias is an emotional bias in which people tend to avoid making decisions out of fear that the decision will turn out poorly. B is incorrect because it is a likely consequence of the self-control bias, and not the regret-aversion bias. As a result of self-control bias, FMPs (financial market participants] may borrow excessively to finance present consumption. C is incorrect because it is a likely consequence of the framing bias, and not the regret-aversion bias. As a result of framing bias, FMPs [financial market participants] may misidentify risk tolerances because of how questions about risk tolerance were framed, becoming more risk-averse when presented with a gain frame of reference and more risk-seeking when presented with a loss frame of reference.",
+      "answer_source": "red",
+      "tags": [
+        "discuss commonly recognized behavioral biases and their implications for financial decision making"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Cognitive errors:",
+      "options": {
+        "A": "stem from impulses and intuition.",
+        "B": "result in the same decision as assumed by traditional finance theory.",
+        "C": "can often be corrected or eliminated through better information, education, and advice."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Cognitive errors can often be corrected or eliminated through better information, education, and advice. A is incorrect because emotional biases [not cognitive errors], on the other hand, are harder to correct because they stem from impulses and intuitions. B is incorrect because both forms of bias [cognitive and emotional], regardless of their source, may cause decisions to deviate from what is assumed by traditional finance theory.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast cognitive errors and emotional biases"
+      ]
+    }
+  ]
+}

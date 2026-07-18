@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "fi-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 64–84)",
+  "group": "1000 Question Bank — Fixed Income",
+  "source": "1000 Practice Questions — Fixed Income",
+  "questions": [
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "An analyst observes the following price-yield relationship for an option-free bond: Price per 100 of Par Value Yield to Maturity 100.95 7.45% 101.80 6.75% 103.40 6.05% If the bond trades at 101.80 per 100 of par value, its approximate modified duration is closest to:",
+      "options": {
+        "A": "1.72.",
+        "B": "2.25.",
+        "C": "3.44."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The approximate modified duration of a bond is calculated as follows: ApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] = (103.40 - 100.95)/(2 x 0.0070 x 101.80) = 2.45/1.4252 = 1.7191 ≈ 1.72. B is incorrect because the approximate modified duration of a bond is calculated as follows ApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] However, in this case, the higher yield/lower price is omitted from the calculation and the multiplication by 2 in the denominator is omitted as well: = (103.40 - 101.80)/(101.80*(6.75% - 6.05%)) = 2.2453 = 2.25. C is incorrect because the approximate modified duration of a bond is calculated as follows ApproxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝑌𝑖𝑒𝑙𝑑) ∗(𝑃𝑉0)] However, in this case, the number 2 is omitted from the denominator. = (103.40-100.95)/(0.0070 × 101.80) = 2.45/0.7126 = 3.4381 ≈ 3,44.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "An analyst gathers the following information about a bond which is currently trading at 95.35 per 100 par Benchmark Yield Bond Price 3.50% 99.50 4.00% 95.35 4.50% 92.25 The effective duration of the bond is closest to:",
+      "options": {
+        "A": "6.5.",
+        "B": "7.6.",
+        "C": "8.7"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve. EffDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] With 𝑃𝑉0 = 95.35, 𝑃𝑉− = 99.50, 𝑃𝑉+ = 92.25, EffDur= (99.50 - 92.25)/(2 x 0.005 x 95,35) = 7.60. A is incorrect because the effective duration is incorrectly calculated as EffDur = [(𝑃𝑉0) −(𝑃𝑉+)]/[( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] = (95.35-92.25)/(0.005 × 95.35) = 6.50. C is incorrect because the effective duration is incorrectly calculated as EffDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗(𝑃𝑉0)] = (99.50 - 95.35)/(0.005 x 95.35) = 8.70.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "An analyst gathers the following information about a bond: Par value 100 Coupon rate 5.50% Coupon frequency Annual Time to maturity 5 years Holding period 3 years If the market discount rate is 4.75% for the holding period, the future value of reinvested coupons at the end of the holding period is closest to:",
+      "options": {
+        "A": "15.05.",
+        "B": "17.30.",
+        "C": "18.12."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The first coupon is reinvested at 4.75% for two years, the second coupon is reinvested at 4.75% for one year, and the third coupon has not yet been reinvested. (5.50 × 1.0475^2)+(5.50×1.0475) + 5.50 = 17 2962 ≈ 17 30. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity. A is incorrect because 4.75% is used as the coupon rate and 5.50% as the reinvestment rate, resulting in (4.75 x 1.0550^2) + (4.75 x 1.0550) + 4.75 = 15.0481 ≈ 15.05. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity. C is incorrect because the coupons are deemed to have been reinvested over 3 years, 2 years, and 1 year, respectively, resulting in (5.50 x 1.0475^3)+(5.50 x 1.0475 ^2)+(5.50 x 1.0475) = 18.1177 ≈ 18.12. Interest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the sources of return from investing in a fixed-rate bond"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "Bonds are quoted using the:",
+      "options": {
+        "A": "full price and settled using the flat price.",
+        "B": "flat price and settled using the full price.",
+        "C": "\"dirty\" price and settled using the invoice price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date. A is incorrect because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date. C is incorrect because the flat price usually is quoted by bond dealers. If a trade takes place, the accrued interest is added to the flat price to obtain the full price paid by the buyer and received by the seller on the settlement date\" and the full price also is called the invoice or 'dirty' price.",
+      "answer_source": "red",
+      "tags": [
+        "calculate a bond's price given a yield-to-maturity on or between coupon dates"
+      ]
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "Which of the following does not depend on the market discount rate? A bond's:",
+      "options": {
+        "A": "flat price",
+        "B": "full price",
+        "C": "accrued interest"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The accrued interest part of the full price does not depend on the yield-to-maturity. A is incorrect because it is the flat price that is affected by a market discount rate change. B is incorrect because it is the flat price that is affected by a market discount rate change, and if the flat price is affected by the market discount rate so is the full price (as full price equals flat price plus accrued interest).",
+      "answer_source": "red",
+      "tags": [
+        "calculate a bond's price given a yield-to-maturity on or between coupon dates"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "An investor determines the following information about the price sensitivity of an option-free bond: Rate Change Price 75 basis point increase 104.0 75 basis point decrease 108.5 If the current price is 106, the duration of this bond is closest to:",
+      "options": {
+        "A": "2.1.",
+        "B": "2.8.",
+        "C": "3.0."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The following formula estimates the approximate percentage price change for a 100 basis point change in yield (duration) is Duration = Price if yield declines - Price if yield rises 2 x (initial price) x (change in yield in decimal format) = 108.5 - 104 2 x 106 x 0.0075 = 4.5 1.59 = 2.83, or 2.8. A is incorrect because it uses 100 bps instead of 75bps in the denominator Duration ≠ 108.5 - 104 2 × 106 x 0.0100 ≠ 2.12, or 2.1. C is incorrect because it uses par value instead of market value in the denominator Duration ≠ 108.5 - 104 2 x 100 x 0.0075 ≠ 3.0.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "The number of common shares a convertible bond can be converted into is the:",
+      "options": {
+        "A": "conversion ratio.",
+        "B": "conversion price.",
+        "C": "conversion value."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The conversion ratio is the number of common shares that each bond can be converted into. B is incorrect because the conversion price is the price per share at which the convertible bond can be converted into shares. C is incorrect because the conversion value, sometimes called the parity value, is the current share price multiplied by the conversion ratio.",
+      "answer_source": "red",
+      "tags": [
+        "describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "A credit card receivable asset-backed security most likely.",
+      "options": {
+        "A": "faces high prepayment risk.",
+        "B": "uses fully-amortizing loans as collateral.",
+        "C": "reinvests principal repayments during the lockout period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The collateral of credit card receivable ABS is a pool of non-amortizing loans. These loans have lockout periods during which the cash flows that are paid out to security holders are based only on finance charges collected and fees. When the lockout period is over, the principal that is repaid by the cardholders is no longer reinvested but instead is distributed to investors. A is incorrect because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans. B is incorrect because a non-amortizing loan does not involve scheduled principal repayments, an ABS backed by non-amortizing loans is not affected by prepayment risk. Credit card receivable ABS are an example of ABS backed by non-amortizing loans.",
+      "answer_source": "red",
+      "tags": [
+        "describe types and characteristics of non-mortgage asset-backed securities, including the cash flows and risks of each type"
+      ]
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "An analyst gathers the following information about a bond currently trading at par. Change in Benchmark Curve Price per 100 of Par Value +25 bps 98 -25 bps 103 The effective duration of this bond is closest to:",
+      "options": {
+        "A": "2.5.",
+        "B": "5.0.",
+        "C": "10.0."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The effective duration is calculated as (𝑃𝑉−) −(𝑃𝑉+)]/[2 ∗( 𝛥𝐶𝑢𝑟𝑣𝑒) ∗ 𝑃𝑉0) where: 𝑃𝑉+ = the bond price when the benchmark yield is decreased, 𝑃𝑉0 = the bond price when the benchmark yield is increased, and PV, then current bond price. Effective duration = (103-98)/(2 * 0.0025 × 100) = 10. A is incorrect because it omits the basis point change x 100 from the calculation. Effective duration ≠ (𝑃𝑉−) −(𝑃𝑉+)/2 = (103 - 98)/2 = 2.5. B is incorrect because it is the difference in the prices (103-98 = 5).",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "An analyst gathers the following spot and forward rates: 2-year spot rate 1.0% 4-year spot rate 2.5% 4-year forward rate, two years from today 3.0% The 2-year forward rate, four years from today is closest to:",
+      "options": {
+        "A": "2%.",
+        "B": "3%.",
+        "C": "4%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The general formula for the relationship between two spot rates and the implied forward rate is (1 + 𝑍𝐴 )𝐴 * (1 + 𝐼𝐹𝑅𝐴.𝐵−𝐴 )𝐵−𝐴= (1 + 𝑍𝐵 )𝐵𝑛 where z, is the x-year spot rate and IFR is the y-year forward rate, x years from now. Using the formula, the 6 year spot rate can be calculated in two different ways: X 1. Using A = 2, B=6 : (1 + z6)^6 = (1 + z2)^2 × (1+ IFR2,4)^4 2. Using A = 4, B = 6: (1 + z6)^6 = (1 + Z4) × (1+IFR4,2)^2 Equating the two we get: (1+z2)^2 x (1 + IFR2,4)^4 = (1 + z4)^4 × (1+ IFR4,2)^2. Using the numbers from the stem: (1+0.01)^2 × (1+0.03)^4=(1+0.025)^4 × (1+IFR4,2)^4 1.0201 x 1.1255 = 1.1038 × (1+ IFR4,2)^2 IFR4,2 =(1.1481/1.1038)^0.5-1=0.0199~2%. B is incorrect because instead of using the formula for the relationship between spot rates and the implied forward rates, the candidate assumed that the 2 year forward rate, 4 years from today is equal to the 4 year forward rate, 2 years from today. C is incorrect because when calculating IFR in the last step, the candidate forgets to take the square root IFR4,2 ≠1.1481/1.1038-1 = 0.0401 ≈ 4%.",
+      "answer_source": "red",
+      "tags": [
+        "define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "A bond issuer has a credit rating of BBB. Based only on this information, the rating of a senior unsecured bond from this issuer is most likely to be:",
+      "options": {
+        "A": "lower than BBB.",
+        "B": "BBB",
+        "C": "higher than BBB."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The issuer credit rating usually applies to its senior unsecured debt. A is incorrect because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt. C is incorrect because as noted in the rationale for the correct answer, the issuer credit rating usually applies to senior unsecured debt.",
+      "answer_source": "red",
+      "tags": [
+        "describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "An analyst gathers the following information about a zero-coupon bond: Time to maturity 5 years Annual convexity 28.835 Annual yield to maturity 2% If the yield decreases by 1%, the bond's percentage change in price is closest to:",
+      "options": {
+        "A": "4.76%.",
+        "B": "5.05%.",
+        "C": "5.14%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Macaulay duration of a zero-coupon bond is its time-to-maturity and modified duration is the Macaulay duration statistic divided by one plus the yield per period Here, modified duration = 5 / 1.02 = 4.901961 Thus, the percentage change in price = -4.901961* -0.01 + (0.5*28.835* -0.012) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%. A is incorrect because the convexity adjustment is subtracted rather than added. The percentage change in price is not equal to -4.901961*-0.01- (0.5 * 28.835* - 0.014)=0.04901961 -0.0014418 = 4.757781%, rounded to 4.76%. C is incorrect because the convexity adjustment is applied to the Macaulay duration rather than the modified duration. The percentage change in price is not equal to -5* -0.01+ (0.5*28.835 - 0.012) = 0.05 +0.0014418 = 5.14418%, rounded to 5.14%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and Convexity"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "The Macaulay duration of a zero-coupon bond is most likely.",
+      "options": {
+        "A": "less than the time to maturity.",
+        "B": "equal to the time to maturity.",
+        "C": "greater than the time to maturity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Macaulay duration of a zero-coupon bond is its time-to-maturity. A is incorrect because the Macaulay duration of a zero-coupon bond is equal to the time-to-maturity, not less-than the time-to-maturity. C is incorrect because the Macaulay duration of a zero-coupon bond is equal to the time-to-maturity, not greater-than the time-to-maturity.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret Macaulay duration"
+      ]
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "US municipal bonds are best described as:",
+      "options": {
+        "A": "agency bonds.",
+        "B": "non-sovereign bonds.",
+        "C": "quasi-government bonds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The main types of non-sovereign government issuers include agencies, public banks supranationals and regional governments Redicinal Governrsent testers. These inchide provincial, state, ama incal governams, referred to as muiticpal bouds in the US and most often as local authority bonds elsewhere within a specias sovereign Junsdiction. A is incorrect because government agencies are quasi-government entities that issue debt in order to fund the government-sponsored provision of specific public goods or services based on sovereign or local law This may involve the financing of specific activities promoted by the govemment or the operation of necessary infrastructure as mandated by law The bonds issued by these agencies are known as quasi govemment bonds or agency bonds. C is incorrect because government agencies are quas-government entities that issue debt in order to fund the government-sponsored provisies of specific public goods or senecue based on sovereign or local law. This may involve the financing of snet 50 aervities promoter by the emernout the asennon of necessary lottastover, its mamfered by lass Timi coals relied by these agences ar.",
+      "answer_source": "red",
+      "tags": [
+        "desenterfinding choices by sovereign and monisovereige governments, quasi-govamenteobusa and supranational agencies"
+      ]
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "A bond portfolio consists of the following option-free annual-pay coupon bonds: Bond 1 Bond 2 Par value $300,000 $450,000 Market value $200,000 $400,000 Yield to maturity 4% 3% Macaulay duration 7.5 5.4 The modified duration of this portfolio is closest to:",
+      "options": {
+        "A": "5.9.",
+        "B": "6.0.",
+        "C": "6.1."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Macaulay and modified durations for the portfolio are calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. First we calculate the modified duration (ModDur) of the individual bonds using formula below ModDur = MacDur / (1+r) ModDur of Bond 1 = 7.5/(1+4%) = 7.211538 ModDur of Bond 2 = 5.4/(1+3%) = 5.242718. Next, we calculate the weights for the individual bonds based on market values, as follows: Weight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333 Weight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667 Modified duration of the portfolio = (Weight for Bond 1 x ModDur of Bond 1) + (Weight for Bond 2 x ModDur of Bond 2) = (0.333333 7.211538) + (0.666667 x 5.242718)= 5.898992 ≈ 5.9. B is incorrect because the weights based on par value are used. Weight for Bond 1≠ $300,000/ ($300,000+ $450,000) = 0.4 Weight for Bond 2≠ $450,000/ ($300,000+ $450,000) = 0.6 Modified duration of the portfolio (0.4 x 7.211538) + (0.6 x 5.242718)=6.030246 ≈ 6.0. C is incorrect because it uses Macaulay duration instead of modified duration for the individual bonds, and represents the Macaulay duration of the portfolio. Modified duration of the portfolio Macaulay duration of the portfolio = (0.333333 x 7.5) + (0.666667 × 5.4) = 6.099999 ≈ 6.1.",
+      "answer_source": "red",
+      "tags": [
+        "calculate portfolio duration and convexity and explain the limitations of these measures"
+      ]
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "An analyst gathers the following information about forward rates: Time Period Forward Rate 0y1y 1% 1y1y 2% 2y1y 4% Using only this information, the price per 100 of par value of a 3-year, 1% annual coupon bond is closest to:",
+      "options": {
+        "A": "84.05.",
+        "B": "91.74.",
+        "C": "96.23."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The geometric average of the forward rates gives us the spot rates (ie. (0y1y x 1y1y) = (1 + Z2)^2, (0y1y x 1y1y x 2y1y) = (1 + Z3)^3)), hence the price of a bond using forward rates can be calculated using: PV = PMT / (1 + Z1)^1 + PMT / (1 + Z2)^2+. + (PMT + FV)/(1+ZN)N where 𝑍1 = spot rate, or the zero-coupon yield, or zero rate, for Period 1, 𝑍2 = spot rate, or the zero-coupon yield, or zero rate, for Period 2, 𝑍𝑁 = spot rate, or the zero-coupon yield, or zero rate, for Period N. PV> = PMT / (1 +0y1y) + PMT / (1 + 0y1y x 1y1y) + (PMT + FV) / (1 +0y1y x 1y1y x 2y1y) PV = 1 / (1 +1%) + 1/((1+1%) (1+2% )) + (1 + 100)/((1+1%) (1+2%) (1+4%) = 0.9901+0.9707 +94.2685 = 96.2293, rounded to 96.23. A is incorrect because each denominator is raised to the power of the corresponding year. PV ≠ PMT/ (1 +0y1y) + PMT/ (1+0y1y x 1y1y)^2 + (PMT + FV)/(1+0y1y x 1y1y x 2y1y)^3 PV ≠ 1/(1+1%) + 1/((1+1%) (1 + 2% ))^2 + (1+100)/((1+1%) (1+2%) (1 + 4% ) )^3 = 0.9901+0.9422 +82.1215 = 84.0538, rounded to 84.05. B is incorrect because the forward rates are used directly as spot rates. Hence, PV ≠ PMT / (1 + Z1)^1 + PMT / (1 + Z2)^2 + ... + (PMT + FV) / (1 + ZN)N PV ≠ 1/(1+1%)^1 +1 / (1 +2%)^2 + (1 + 100)/(1+4%)^3 = 0.9901 +0.9612 +89.7886 = 91.7399, rounded to 91.74.",
+      "answer_source": "red",
+      "tags": [
+        "define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+      ]
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "With respect to interest rate risk, an investor who sells a fixed-rate bond after the first coupon is received and before its maturity is exposed to:",
+      "options": {
+        "A": "market price risk, only.",
+        "B": "coupon reinvestment risk, only",
+        "C": "both market price risk and coupon reinvestment risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The investor faces coupon reinvestment risk for all coupons received (first coupon plus any others until sale) and also faces market price risk as changes in the interest rate will impact the sale price of the bond. Coupon reinvestment risk matters more when the investor has a long-term horizon relative to the time-to-maturity of the bond. For instance, a buy-and-hold investor only has coupon reinvestment risk. Market price risk matters more when the investor has a short-term horizon relative to the time-to-maturity. For example, an investor who sells the bond before the first coupon is received has only market price risk. A is incorrect because changes in interest rates change the future value of reinvested coupon payments. Therefore, the investor faces coupon reinvestment risk, too. B is incorrect because the investor will be selling the bond before maturity and faces the risk that it will be sold at a higher or lower price (market price risk).",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the sources of return from investing in a fixed-rate bond"
+      ]
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "For an option-free fixed-rate corporate bond, the duration and convexity statistics are most likely relevant for a change in:",
+      "options": {
+        "A": "the credit spread only.",
+        "B": "the benchmark yield only",
+        "C": "both the credit spread and the benchmark yield.]"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread. A is incorrect because the yield-to-maturity on a corporate bond consists of a government benchmark yield and a spread, a change in the bond's yield-to-maturity can originate in either component or a combination of the two. The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread. B is incorrect because the yield-to-maturity on a corporate bond consists of a government benchmark yield and a spread a change in the bond's yield-to-maturity can originate in either component or a combination of the two The key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread.",
+      "answer_source": "red",
+      "tags": [
+        "describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads"
+      ]
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "An analyst gathers the following information about a callable bond that pays interest annually: Current price 105 per 100 of par value Time-to-maturity 4 years Coupon rate 4% Call price at year 2 103 per 100 of par value Call price at year 3 101 per 100 of par value This bond's yield to worst is the:",
+      "options": {
+        "A": "yield to maturity.",
+        "B": "yield to first call.",
+        "C": "vield to second call."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The lowest of the sequence of yields-to-call and the yield-to-maturity is known as the yield-to-worst. The sequence of yields for the bond is as follows: Yield-to-maturity, rytm, is calculated by solving this equation: 105 = 4/(1 +rytm)^1+4/(1+rytm)^2+4/(1+rytm)^3 + 104/(1 + rytm)^4 Using a financial calculator with N = 4, PV=-105, FV = 100, PMT=4 and solving for I, 𝑟𝑦𝑡𝑚 = 2.6656% ≈ 2.7%. Yield-to-first-call, r, is calculated by solving this equation: 105 = 4/(1+r1)^1+ (4+103)/(1+r1)^2 Using a financial calculator with N = 2, PV=-105, FV = 103, PMT=4 and solving for 1, r = 2.8706% ≈ 2.9%. Yield-to-second-call, r, is calculated by solving this equation: 105 = 4/(1 + r2)^1 + 4/(1+r2)^2+(4+101)/(1+r2)^3 Using a financial calculator with N = 3, PV=-105, FV = 101, PMT=4 and solving for I, r2 = 2.5718% ≈ 2.6%. Therefore the yield-to-worst is equal to the yield-to-second-call. A is incorrect because the yield-to-maturity, 𝑟𝑦𝑡𝑚 is : 105 = 4/(1 + rytm)^1 + 4/(1 + rytm)^2 + 4/(1 + rytm)^3 + 104/(1 + rytm)^4 Using a financial calculator with N = 4, PV=-105, FV = 100, PMT=4 and solving for I, 𝑟𝑦𝑡𝑚 = 2.6656% ≈ 2.7%. Although less than the yield to first call of 2.9%, the YTM is greater (better) than the yield to second call of 2.6%, making the latter the yield to worst. B is incorrect because the yield-to-first-call, r, is: 105 = 4/(1+r)^1+ (4+103)/(1+r)^2 Using a financial calculator with N = 2, PV=-105, FV = 103, PMT 4 and solving for I, r₁ = 2.8706% ≈ 2.9%. This yield is greater (better) than both the yield to second call of 2.6% (which is the lowest, or worst) and the YTM of 2.7%,.",
+      "answer_source": "red",
+      "tags": [
+        "compare, calculate, and interpret yield and yield spread measures for fixed-rate bonds"
+      ]
+    },
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "An analyst gathers the following information about three option-free bonds, each trading at a premium: Coupon Yield to Maturity Time to Maturity Bond 1 4% 4% 10 years Bond 2 4% 5% 11 years Bond 3 5% 5% 9 years All else being equal, the bond with the lowest Macaulay duration is most likely.",
+      "options": {
+        "A": "Bond 1.",
+        "B": "Bond 2.",
+        "C": "Bond 3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value.\" In this case, Bond 3 has a higher coupon, the same or higher yield-to-maturity, and the shortest time to maturity. It therefore has the lowest Macaulay duration. A is incorrect because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value. Bond 1 has a lower coupon than Bond 3, a lower yield-to-maturity, and a longer maturity. The Macaulay duration of Bond 1 is therefore greater than that of Bond 3. B is incorrect because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value. Bond 2 has a lower coupon than Bond 3, the same yield-to-maturity, and a longer maturity The Macaulay duration of Bond 2 is therefore greater than that of Bond 3.",
+      "answer_source": "red",
+      "tags": [
+        "explain how a bond's maturity, coupon, and yield level affect its interest rate risk"
+      ]
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "An analyst gathers the following information about a bond: Clean price (per 100 of par value) 114.75 Annual modified duration 4.8250 Macaulay duration (years) 4.9469 Accrued interest (per 100 of par value) 1.6250 The bond's money duration (per 100 of par value) is closest to:",
+      "options": {
+        "A": "553.67.",
+        "B": "561.51.",
+        "C": "575.70."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The money duration equals the product of modified duration and full price Full price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375; Money duration = Modified duration x Full Price = 116.375 x 4.8250 = 561.5094 ≈ 561.51. Modified duration is a measure of the percentage price change of a bond given a change in its yield-to-maturity. A related statistic is money duration. The money duration of a bond is a measure of the price change in units of the currency in which the bond is denominated. The money duration can be stated per 100 of par value or in terms of the actual position size of the bond in the portfolio. In the United States, money duration is commonly called 'dollar duration 'Money duration (MoneyDur) is calculated as the annual modified duration times the full price (𝑃𝑉𝐹𝑢𝑙𝑙) of the bond, including accrued interest. A is incorrect because it multiplies the modified duration with the clean price instead of the full price. 4.8250 x 114.75 = 553.6688 ≈ 553.67. C is incorrect because it multiplies the full price with the Macaulay duration instead of the modified duration. Full price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375, Macaulay duration x Full price = 4.9469 x 116.375 = 575.6955 ≈ 575.70.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    }
+  ]
+}

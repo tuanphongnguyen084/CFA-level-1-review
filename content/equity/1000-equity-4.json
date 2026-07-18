@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 68–90)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "Q. In which markets are government bills most likely traded?",
+      "options": {
+        "A": "Money markets",
+        "B": "Capital markets",
+        "C": "Alternative investment markets"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Money markets trade debt instruments maturing in one year or less. The most common such instruments are repurchase agreements, negotiable certificates of deposit, government bills. B is incorrect because Capital markets trade instruments of longer duration, such as bonds and equities. Whereas government bills are a short-term debt instrument. C is incorrect because Alternative investments include hedge funds, private equities (including venture capital), commodities, real estate securities and real estate properties, securitized debts, operating leases, machinery, collectibles, and precious gems.",
+      "answer_source": "red",
+      "tags": [
+        "describe classifications of assets and markets"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "Q. Enterprise value is most likely associated with:",
+      "options": {
+        "A": "multiplier models.",
+        "B": "present value models.",
+        "C": "asset-based valuation models."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Multiplier models are based chiefly on share price multiples or enterprise value multiples. Enterprise value (EV) multiples have the form (Enterprise value)/(Value of a fundamental variable). Two possible choices for the denominator are earnings before interest, taxes, depreciation, and amortization (EBITDA) and total revenue. B is incorrect because Present value models estimate the intrinsic value of a security as the present value of the future benefits expected to be received from the security. In present value models, benefits are often defined in terms of cash expected to be distributed to shareholders (dividend discount models) or in terms of cash flows available to be distributed to shareholders after meeting capital expenditure and working capital needs (free-cash-flow-to-equity models). C is incorrect because Asset-based valuation models estimate intrinsic value of a common share from the estimated value of the assets of a corporation minus the estimated value of its liabilities and preferred shares. The estimated market value of the assets is often determined by making adjustments to the book value (synonym: carrying value) of assets and liabilities. The theory underlying the asset-based approach is that the value of a business is equal to the sum of the value of the business's assets.",
+      "answer_source": "red",
+      "tags": [
+        "describe major categories of equity valuation models"
+      ]
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "Q. A characteristic of real assets is that they most likely:",
+      "options": {
+        "A": "trade in liquid markets.",
+        "B": "are inexpensive to manage.",
+        "C": "are unique assets with different attributes."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Real assets are unique properties in the sense that no two properties are alike. A is incorrect because Real assets tend to trade in very illiquid markets. B is incorrect because Investments in real assets generally require substantial management to ensure that the assets are maintained and used efficiently. Investment managers investing in such assets must either hire personnel to manage them or hire outside management companies. Either way, management of real assets is quite costly.",
+      "answer_source": "red",
+      "tags": [
+        "describe the major types of securities, currencies, contracts, commodities, and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "Q. If a European investor believes the US equity market will decline in the next three months, the transaction most likely to allow the investor to profit from this view is the purchase of a:",
+      "options": {
+        "A": "put option.",
+        "B": "call option.",
+        "C": "currency swap."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Option holders generally will exercise call options if the strike price is below the market price of the underlying instrument, in which case, they will be able to buy at a lower price than the market price. Similarly, they will exercise put options if the strike price is above the underlying instrument price so that they will sell at a higher price than the market price. Therefore, if the investor purchases a put option and the US market declines, they will profit by buying at the lower market price and selling at the higher strike price. B is incorrect because Option holders generally will exercise call options if the strike price is below the market price of the underlying instrument, in which case, they will be able to buy at a lower price than the market price. Similarly, they will exercise put options if the strike price is above the underlying instrument price so that they will sell at a higher price than the market price. C is incorrect because A currency swap is a swap in which parties exchange payments denominated in different currencies. A currency swap will most likely not allow a European investor to profit from the decline in the US equity market.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "Q. If the ability of clients to identify competent agents increases, the need for regulation most likely.",
+      "options": {
+        "A": "decreases,",
+        "B": "remains the same.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Regulation would not be necessary if customers could identify competent agents and effectively measure their performance. Therefore an increase in client ability to identify competent agents would reduce the need for regulation. B is incorrect because The clients' difficulty in identifying competent agents results in a regulatory need. An increase in their ability to select competent agents would reduce this regulatory need. C is incorrect because The clients' difficulty in identifying competent agents results in a regulatory need. An increase in their ability to select competent agents would reduce, not increase, this regulatory need.",
+      "answer_source": "red",
+      "tags": [
+        "describe objectives of market regulation"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "Q. The book value of a company's equity is:",
+      "options": {
+        "A": "the present value of its future cash flows.",
+        "B": "the difference between its total assets and total liabilities.",
+        "C": "its share price multiplied by the number of outstanding shares."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The book value of a company's equity is the difference between its total assets and total liabilities. A is incorrect because Intrinsic value is often defined as the present value of all expected future cash flows of the asset. C is incorrect because This the total market value of equity (or market capitalization) computed as the number of shares outstanding multiplied by the market price per share.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the market value and book value of equity securities"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "Q. A company's ROE most likely decreases if shareholders' equity increases at:",
+      "options": {
+        "A": "a lower rate than net income.",
+        "B": "the same rate as net income.",
+        "C": "a higher rate than net income."
+      },
+      "answer": "C",
+      "explanation": "C is correct. ROE can increase if net income increases at a faster rate than shareholders' equity or if net income decreases at a slower rate than shareholders' equity. A is incorrect because ROE can increase if net income increases at a faster rate than shareholders' equity or if net income decreases at a slower rate than shareholders' equity. If shareholder equity increases at a faster rate than net income increases, then ROE will decrease, not increase. B is incorrect because ROE can increase if net income increases at a faster rate than shareholders' equity or if net income decreases at a slower rate than shareholders' equity. If shareholder equity increases at the same rate as net income, then ROE will remain the same and not increase.",
+      "answer_source": "red",
+      "tags": [
+        "compare a company's cost of equity, its (accounting) return on equity, and investors' required rates of return"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "Q. An equity index representing groups of securities classified on the basis of market capitalization is most likely a:",
+      "options": {
+        "A": "style index.",
+        "B": "sector index.",
+        "C": "multi-market index."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Style indexes represent groups of securities classified according to market capitalization, value, growth, or a combination of these characteristics. They are intended to reflect the investing styles of certain investors, such as the growth investor, value investor, or small-cap investor. B is incorrect because Sector indexes represent and track different economic sectors-such as consumer goods, energy, finance health care, and technology-on either a national, regional, or global basis. C is incorrect because Multi-market indexes may represent multiple national markets, geographic regions, economic development groups, and, in some cases, the entire world.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of equity indexes"
+      ]
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "An analyst gathers the following information about common shares: Company Peer Group Dividend payout ratio 40% 50% Estimated future dividend growth rate 5% 4% Q. If the investor's required rate of return is 9%, the company's justified forward P/E is:",
+      "options": {
+        "A": "less than the peer group's justified forward P/E.",
+        "B": "the same as the peer group's justified forward P/E.",
+        "C": "greater than the peer group's justified forward P/E."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The company's justified forward P/E is the same as the peer group's justified forward P/E. The company's justified forward P/E = p / (r-g) = 0.40 / (0.09 -0.05)= 10.0. The peer group's justified forward P/E =0.50/(0.09 -0.04) 10.0. A is incorrect because The company's justified forward P/E is not less than the peer group's justified forward P/E, but is the same. The company's justified forward P/E = p / (r-g)= 0.40 / (0.09 -0.05) = 10.0. The peer group's justified forward P/E = 0.50 / (0.09 -0.04) 10.0. The candidate may select this response if they believe the company's lower payout ratio results in a lower P/E. C is incorrect because The company's justified forward P/E is not greater than the peer group's justified forward P/E, but is the same. The company's justified forward P/E = p / (r-g)= 0.40/(0.09 -0.05) = 10.00. The peer group's.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "An analyst gathers the following information about a company's shares: Dividend payable per share $0.50 Ex-date 20 August Closing share price on 19 August $29.00 Q. All else being equal, at the beginning of trading on 20 August, the company's shares will most likely trade at:",
+      "options": {
+        "A": "$28.50.",
+        "B": "$29.00.",
+        "C": "$29.50."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The ex-dividend date (or ex-date) is the first date that a share trades without (i.e., 'ex') the dividend. Because buyers of a company's shares on the ex-dividend date are no longer eligible to receive the upcoming dividend, all else being equal, on that day the company's share price immediately decreases by the amount of the foregone dividend. If the share trades at $29.00 on 19 August (the day before ex-date) and the upcoming dividend is $0.50, then all else being equal, the shares would trade at $28.50 ($29.00 - $0.50) on the ex-date. B is incorrect because $29.00 is the price of the share before the ex-date which is the last day purchasers will receive the upcoming dividend. All else being equal, the share price should trade below $29.00 and not at or above $29.00. C is incorrect because Purchasers of shares on the ex-date or after the ex-date will not be entitled to the upcoming dividend and the share price should trade below $29.00 and not above $29.00. An uninformed candidate may confuse the dates and think that the share price on the ex-date should include dividends declared and inadvertently think that the 19 August share price doesn't include the dividend. Therefore the uninformed candidate adds $0.50 to the share price to arrive at $29.50.",
+      "answer_source": "red",
+      "tags": [
+        "describe dividend payment chronology"
+      ]
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "An analyst gathers the following information about a company's dividend payment chronology: Ex-dividend date 2 August Holder-of-record date 5 August Q. The last date an investor can purchase the company's stock and be entitled to receive the dividend is most likely.",
+      "options": {
+        "A": "1 August.",
+        "B": "2 August.",
+        "C": "4 August."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The ex-dividend date (or ex-date) is the first date that a share trades without (i.e., 'ex') the dividend. Thus, an investor will be able to receive the company's dividend if he purchases shares no later than on 1 August, one business day before ex-date of 2 August. B is incorrect because In order to receive the dividend, the last day to purchase shares is the business day before the ex-date. An uninformed candidate may incorrectly assume that ex-date is the last date when shares are traded with the dividend. C is incorrect because In order to receive the dividend, the last day to purchase shares is the business day before the ex-date. An uninformed candidate may incorrectly assume that if an investor purchases the stock before the holder-of-record date, they can still receive the dividend.",
+      "answer_source": "red",
+      "tags": [
+        "describe dividend payment chronology"
+      ]
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "Q. The January effect is an example of:",
+      "options": {
+        "A": "loss aversion.",
+        "B": "an earnings surprise.",
+        "C": "a market pricing anomaly."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The January effect, has been observed in most equity markets around the world. This anomaly is also known as the \"turn-of-the-year\" effect. The January effect is a time series anomaly and is an observed pricing anomaly. A is incorrect because Loss aversion refers to the tendency of people to dislike losses more than they like comparable gains. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets. Thus loss aversion is related to behavioral finance and is not a market anomaly. B is incorrect because Earnings surprise, is the portion of earnings that is unanticipated by investors and, according to the efficient market hypothesis, merits a price adjustment. Earnings surprise is a type of market anomaly but is not the January effect.",
+      "answer_source": "red",
+      "tags": [
+        "describe market anomalies"
+      ]
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "An investor gathers the following data regarding three stocks: Stock Expected Rate of Return Investor’s Required Rate of Return 1 9% 9% 2 13% 11% 3 15% 16% Q. All else being equal, the investor should purchase:",
+      "options": {
+        "A": "Stock 1.",
+        "B": "Stock 2.",
+        "C": "Stock 3."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The expected rate of return for Stock 2 exceeds the investor's required rate of return. In other words, the cost of equity can be thought of as the minimum expected rate of return that a company must offer its investors to purchase its shares in the primary market and to maintain its share price in the secondary market. If this expected rate of return is not maintained in the secondary market, then the share price will adjust so that it meets the minimum required rate of return demanded by investors. For example, if investors require a higher rate of return on equity than the company's cost of equity, they would sell their shares and invest their funds elsewhere resulting in a decline in the company's share price. A is incorrect because The expected rate of return for Stock 1 is equal to the investor's required rate of return. If investors require a higher rate of return on equity than the company's cost of equity, they would sell their shares and invest their funds elsewhere resulting in a decline in the company's share price. C is incorrect because The expected rate of return for Stock 3 is below the investor's required rate of return. If investors require a higher rate of return on equity than the company's cost of equity, they would sell their shares and invest their funds elsewhere resulting in a decline in the company's share price.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "Q. Behavioral finance:",
+      "options": {
+        "A": "suggests that behavioral biases only affect novice investors.",
+        "B": "provides a possible explanation for a number of pricing anomalies,",
+        "C": "relies on the assumption that people consider all available information in decision-making."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The focus of much of the work in this area is on the behavioral biases that affect investment decisions. The behavior of individuals, in particular their behavioral biases, has been offered as a possible explanation for a number of pricing anomalies. A is incorrect because Behavioral biases can affect all market participants, from the novice investor to the most experienced investment manager. C is incorrect because Behavioral finance does not assume that people consider all available information in decision-making.",
+      "answer_source": "red",
+      "tags": [
+        "describe behavioral finance and its potential relevance to understanding market anomalies"
+      ]
+    },
+    {
+      "id": "Q83",
+      "num": 83,
+      "question": "An analyst gathers and estimates the following information about a company's stock: Current dividend per share (D) $4 Current EPS $5 Dividend growth rate 4% Q. If the estimated stock value using the Gordon growth model is $92 per share, the required return on this stock is closest to:",
+      "options": {
+        "A": "8.35%.",
+        "B": "8.52%.",
+        "C": "9.44%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Gordon growth model is V₁ = D, / (r-g), where V, is current value, D, is next year's x dividend (D, * (1 + g)), r is required return and g is growth rate. Solving this equation for r is r = D, / Vo + g = (Do X × (1+g)) / Vo+g. r = ($4 × (1+4%)) / $92 + 4% = ($4.16) / $92+4% = 8.522%, which is closest to 8.52%. A is incorrect because It incorrectly uses D, instead of D₁: r = $4/$92 + 4% = 8.348%, which is closest to 8.35%. C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q84",
+      "num": 84,
+      "question": "Q. The first date that a share trades without the declared dividend is the:",
+      "options": {
+        "A": "ex-date.",
+        "B": "payable date.",
+        "C": "declaration date."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The ex-dividend date (or ex-date), the first date that a share trades without (i.e., \"ex\") the dividend. B is incorrect because Payment date (or payable date), which is the day that the company actually mails out (or electronically transfers) a dividend payment to shareholders. C is incorrect because The declaration date, the day that the company issues a statement declaring a specific dividend.",
+      "answer_source": "red",
+      "tags": [
+        "describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse stock splits, and share repurchases"
+      ]
+    },
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "Q. A $25 par value non-callable, non-convertible preferred share pays an annual dividend rate of 5%. If the required rate of return is 4%, the preferred share's intrinsic value is closest to:",
+      "options": {
+        "A": "$25.25.",
+        "B": "$26.00.",
+        "C": "$31.25."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The estimated intrinsic value (Vo) is: V0 = D0/ r, where D0 = dividend, and r = the required rate of return. The D0 = par value x annual dividend rate V0 = $25 × 0.05 $1.25. $1.25/0.04 = $31.25. A is incorrect because It is equal to the par value + 1% (the difference between the 5% dividend and the 4% required return). 25 × (1+ (0.05 -0.04)) = $25.25. Also, if a candidate mistakenly calculates V₂ = (25 × 0.04)/0.05 = $20.00, which is closest to this answer choice. B is incorrect because It is the par value multiplied by the required return = 25 × (1+0.04) = $26.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the intrinsic value of a non-callable, non-convertible preferred stock"
+      ]
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "Q. An investor buys a security on margin posting 50% of the initial price as equity. All else being equal, if the price declines 25%, the investor's new leverage ratio is closest to:",
+      "options": {
+        "A": "2.",
+        "B": "3.",
+        "C": "4."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The leverage ratio is defined as the ratio of the value of the position to the value of the equity investment in it. The leverage ratio indicates how many times larger a position is than the equity that supports it. The starting leverage value/equity = 1/0.5 = 2 The change in market value is given as 25% decline, implying a new market value of 75%. With leverage of 2, new equity declines by 2 × 25% = 50% (relatively). 50% × 50% = 25% remaining equity. New leverage = new value/new equity = 0.75/0.25 = 3. Expressed alternatively: New leverage = (1 - 0.25) / (0.5 - 0.25) = 3. A is incorrect because 2 is the starting leverage before the price change, 1/0.5 = 2. C is incorrect because The amount of the price decline is used instead of the margin to calculate the leverage ratio, 1/ 0.25 = 4.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call"
+      ]
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "Q. When using a multiplier model, the fundamental variable is stated on:",
+      "options": {
+        "A": "a trailing basis only.",
+        "B": "a forward basis only.",
+        "C": "either a forward basis or a trailing basis."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The fundamental variable may be stated on a forward basis (e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the usage is consistent across companies being examined. A is incorrect because The fundamental variable may be stated on a forward basis (e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the usage is consistent across companies being examined. B is incorrect because The fundamental variable may be stated on a forward basis (e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the usage is consistent across companies being examined.",
+      "answer_source": "red",
+      "tags": [
+        "describe major categories of equity valuation models"
+      ]
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "Q. For a security position purchased on margin, the leverage ratio is the ratio of the value of the position to:",
+      "options": {
+        "A": "the value of equity in the position.",
+        "B": "the amount of the margin loan in the position.",
+        "C": "the amount of the margin loan plus equity in the position."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The leverage ratio is the ratio of the value of the position to the value of the equity investment in it. B is incorrect because The leverage ratio is the ratio of the value of the position to the value of the equity investment in it. C is incorrect because The leverage ratio is the ratio of the value of the position to the value of the equity investment in it.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call"
+      ]
+    },
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "Q. A non-callable, non-convertible perpetual preferred share pays a level dividend of $1.20 with a current market price of $20. If an investor has a required rate of return of 6%, the preferred shares are most likely:",
+      "options": {
+        "A": "undervalued.",
+        "B": "fairly valued.",
+        "C": "overvalued."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The market price is equal to the calculated value based on the stated rate of return. Since the preferred share pays a perpetual level dividend, its value is V₁ = D/r = $1.20/0.06 = $20. If the estimated value equals the market price, the analyst infers the security is fairly valued. A is incorrect because The market price equals the calculated intrinsic value, implying the shares are not undervalued. C is incorrect because The market price equals the calculated intrinsic value, implying the shares are not overvalued.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the intrinsic value of a non-callable, non-convertible preferred stock"
+      ]
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "Q. Broker 1 has a minimum margin requirement of 62.5% and Broker 2 has a maximum leverage ratio of 1.6. The maximum financial leverage possible with Broker 1 is:",
+      "options": {
+        "A": "less than the maximum financial leverage with Broker 2.",
+        "B": "equal to the maximum financial leverage with Broker 2.",
+        "C": "greater than the maximum financial leverage with Broker 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The maximum financial leverage is the same at both firms given Broker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio = 100% / margin requirement: Broker 1's leverage ratio = 100% / 62.5% = 1.6 = Broker 2's leverage ratio. A is incorrect because The leverage ratios with the two brokers are the same at both firms given Broker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio 100% / margin requirement: Broker 1's leverage ratio = 100% / 62.5% = 1.6 = Broker 2's leverage ratio. C is incorrect because The leverage ratios with the two brokers are the same at both firms given Broker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio = 100% / margin requirement: Broker 1's leverage ratio = 100% / 62.5% = 1.6 = Broker 2's leverage ratio.",
+      "answer_source": "red",
+      "tags": []
+    }
+  ]
+}

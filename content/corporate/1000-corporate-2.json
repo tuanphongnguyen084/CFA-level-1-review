@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "corporate-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 23–45)",
+  "group": "1000 Question Bank — Corporate Issuers",
+  "source": "1000 Practice Questions — Corporate Issuers",
+  "questions": [
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "An analyst gathers the following information about a company's capital investment: Initial cash outlay: $90 million Annual before-tax cash flows (year-end) for Year 1 through Year 6: $50 million Marginal tax rate: 15% Required rate of return: 12% The net present value of the investment is closest to:",
+      "options": {
+        "A": "$85 million.",
+        "B": "$116 million.",
+        "C": "$175 million."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a capital investment with one investment outlay, made initially, the net present value (NPV) present value of the future after-tax cash flows minus the investment outlay NPV = ∑𝑛 𝑡=1 𝐶𝐹𝑡/(1 + 𝑟)𝑡− outlay. We calculate the present value of the future after-tax cash flows using the calculator with the following parameters: Yearly after-tax payment/cash-flow: PMT = 50 x (1 - 0.15) = 42.5 Number of payments: N = 6 Int. rate = 12%, To calculate the NPV, from the present value we subtract the initial $90 million outflow. Accordingly, NPV = $174.7 million - $90.0 million = $84.7 ≈ $85 million. B is incorrect because it uses the before-tax cash flow of $50 million in the calculation (instead of the after-tax cash flow of $42.5 million). Calculating the present value of the cash flows with parameters PMT = 50, N = 6 and Int. Rate = 12% gives a present value of $205.57 million, and subtracting the initial $90 million outflow, the NPV is incorrectly calculated as NPV = $205.57 million - $90 million = $115.6 million ≈ $116 million. C is incorrect because it omits the initial cash outlay. Accordingly, the NPV = $174.7 ≈ $175 million.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Which of the following is most likely a feature of sole proprietorships?",
+      "options": {
+        "A": "Existence of a legal identity",
+        "B": "Operational simplicity and flexibility",
+        "C": "Taxation of business profits as corporate income"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Key features of sole proprietorships include the following: Operational simplicity and flexibility. A is incorrect because key features of sole proprietorships include the following: No legal identity: considered extension of owner. C is incorrect because key features of sole proprietorships include the following: Profits from business taxed as personal income.",
+      "answer_source": "red",
+      "tags": [
+        "compare the organizational forms of businesses"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "The source of capital that most likely benefits from a tax shield is:",
+      "options": {
+        "A": "debt.",
+        "B": "equity.",
+        "C": "preferred equity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation and the marginal cost of debt is 𝑟𝑑(1-t). The cost of debt capital is the only cost of capital that can benefit from a tax shield. B is incorrect because only debt benefits from a tax shield. The cost of equity calculation used in the WACC is simply the weight of equity times the cost of equity with no adjustments made for taxation. Taking the sources of capital to be common stock, preferred stock, and debt and allowing for the fact... that in some jurisdictions interest expense may be tax deductible, the expression for WACC is WACC = 𝑤𝑑 𝑟𝑑 (1 - t) + 𝑤𝑝𝑟𝑝 + 𝑤𝑒𝑟𝑒… 𝑤𝑒 = the proportion of equity that the company uses when it raises funds and 𝑟𝑒 = the marginal cost of equity. C is incorrect because unlike interest on debt, the dividend on preferred stock is not tax-deductible by the company: therefore, there is no adjustment to the cost of taxes. Therefore, raising capital by issuing preferred equity does not give rise to a tax shield to the company.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the weighted-average cost of capital for a company"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Which of the following mature companies is most likely to use the greatest amount of leverage in its capital structure?",
+      "options": {
+        "A": "Mining company",
+        "B": "Software company",
+        "C": "Shipping company"
+      },
+      "answer": "C",
+      "explanation": "C is correct. In real estate utilities, shipping, airlines, and certain other highly capital-intensive businesses, the underlying assets can be bought and sold fairly easily, tend to retain their value regardless of who owns them and can therefore support substantial debt secured by those assets. A is incorrect because a mining company will be more likely to raise equity funding than debt funding. In cyclical sectors, such as mining and minerals, and many industrials, revenues and cash flows vary widely through the economic cycle, which limits debt capacity. As a result, businesses in cyclical sectors may have less debt in their capital structures than companies in other less cyclical industries. B is incorrect because a software company is. being capital light, less likely to need to raise debt than a shipping company which will likely need to make substantial debt-funded capital investments. Some business models are inherently \"capital light,\" that is, they require little incremental investment in fixed assets or working capital to enable revenue growth As a result, they have no need to borrow or otherwise raise capital to grow, even though they could easily support debt Software businesses often fit this description.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors affecting capital structure and the weighted average cost of capital"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "A company should exercise the abandonment option on an investment if the present value of the cash flows from continuing the investment is:",
+      "options": {
+        "A": "lower than the cash flow from abandoning the investment.",
+        "B": "the same as the cash flow from abandoning the investment.",
+        "C": "greater than the cash flow from abandoning the investment."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. Conversely, if the the PV of the cash flows from continuing the investment is lower than the cash flow from abandoning the investment, the company should exercise the abandonment option. B is incorrect because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment [and not when it is equal to], the company should exercise the abandonment option. C is incorrect because if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment, the company should exercise the abandonment option. The the PV of the cash flows from continuing the investment is greater than the cash flow from abandoning the investment, the company should not exercise the abandonment option.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of real options relevant to capital investments"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Consider the following information about a company: Market value of debt outstanding: £15,000 Market value of company: £40,000 Cost of debt: 4.0% Unlevered WACC: 9.0% Tax rate: 25% Based on the Modigliani-Miller propositions, the company's cost of equity is closest to:",
+      "options": {
+        "A": "10.4%.",
+        "B": "11.3%.",
+        "C": "12.0%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modigliani and Miller also show that the cost of equity for the same company with debt is: 𝑟𝑒 = 𝑟0+ (𝑟0-𝑟𝑑)(1 - t)(D/E), where: 𝑟𝑒 = cost of equity 𝑟0= cost of capital for a company financed only with equity 𝑟𝑑= cost of debt D = market value of debt E = market value of equity. Cost of equity = 0.09 + (0.09 - 0.04) x (1 - 0.25) x (£15,000/(£40,000 - 15,000)) = 0.1125 ≈ 11.3%. A is incorrect because this is the result generated if the company value is used rather than the equity value. Cost of equity ≠ 0.09 + (0.09 - 0.04) x (1 - 0.25) x (£15,000/£40,000) = 0.1041 ≈ 10.4%. C is incorrect because this result reflects the cost of equity in the absence of corporate taxes. Cost of equity ≠ 0.09 + (0.09 - 0.04) x (£15,000/(£40,000 - £15,000)) = 0.1200 ≈12.0%.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "All else being equal, a company most likely has a reduced debt capacity when its:",
+      "options": {
+        "A": "current ratio increases.",
+        "B": "leverage ratio decreases.",
+        "C": "Interest coverage ratio decreases."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Interest coverage ratios are also commonly used to assess companies' debt capacities. Generally, these ratios provide an estimate of how many times a company can cover its interest expense (or interest expense plus lease payments) with current earnings (usually measured as EBIT or EBITDA) In other words, interest coverage ratios provide an indication of a company's financial cushion in meeting its debt service obligations The larger the interest coverage ratio, the larger the financial cushion and the greater the company's ability to service its debt obligations. A is incorrect because it is a lower, not higher, current ratio that would indicate liquidity problems for a company, and hence a reduced debt capacity (ie., ability to take additional debt). A starting point for determining a company's debt capacity is its current ratio, equal to current assets divided by current liabilities. The current ratio provides an Indication of the ability of the firm to meet its short-term debt obligations. The higher the ratio, the greater the ability of the company to repay its debt. B is incorrect because a higher, not lower, leverage ratio would indicate a reduced debt capacity (ie., ability for a company to take additional debt) Firms with higher proportions of debt in their capital structures face a higher probability of default and have less ability to service additional debt than underleveraged firms.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors affecting capital structure and the weighted average cost of capital"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "According to the Modigliani-Miller Proposition I without taxes, when a firm increases the proportion of debt in its capital structure, the firm value:",
+      "options": {
+        "A": "decreases.",
+        "B": "remains unchanged.",
+        "C": "increases."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modigliani and Miller proved that changing the capital structure does not affect firm value. The value of a film is thus determined not by the securities it issues but, rather, by its expected future cash flows. A is incorrect because , according to the MM Proposition I without taxes, the firm value is not affected by the company's capital structure. It is determined solely by the firm’s expected future cash flows. C is incorrect because , according to the MM Proposition I without taxes, the firm value is not affected by the company's capital structure. It is determined solely by the firm's expected future cash flows.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "With respect to liquidity management, which of the following activities most likely provides access to a primary source of liquidity?",
+      "options": {
+        "A": "Liquidating obsolete assets",
+        "B": "Creating an effective cash management system",
+        "C": "Negotiating new debt contracts that delay principal repayment"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Primary sources of liquidity are liquidity, sources that are the most readily accessible resources available to the company One of the examples is cash flow management, which is the company's effectiveness in its cash management system and practices and the degree of decentralization of the collections or payments processes The more decentralized the system of collections for example, the more likely the company will be to have cash tied up in the system and not available for use. Therefore, an effective cash management system is a primary source of liquidity as it is likely to be the most readily accessible resources available to the company. A is incorrect because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company. However, liquidating assets, which depends on the degree to which short-term and/or long-term assets can be liquidated and converted into cash without substantial loss in value may affect a company's normal operation as productivity is reduced Therefore. liquidating assets cannot be a primary source of liquidity. C is incorrect because negotiating debt contracts, relieving pressures from high interest payments or principal repayments may signal a company's deteriorating financial health and provide liquidity at a high price. This may well affect the normal operations of the company. Therefore, negotiating debt contracts cannot be a primary source of liquidity.",
+      "answer_source": "red",
+      "tags": [
+        "explain liquidity and compare issuers' liquidity levels"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Which of the following company stakeholders is most likely exposed to the greatest information asymmetry when compared to the company's management?",
+      "options": {
+        "A": "A bank lender",
+        "B": "A public debtholder",
+        "C": "A member of the board"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Public debtholders do not have access to non-public information. Public debtholders (or bondholders) rely on public information and credit rating agency determinations to make their investment decisions. Unlike shareholders, debtholders do not hold voting power and they typically have limited influence over a company's day-to-day operations. A is incorrect because banks and private lenders generally hold a company's debt to maturity. They typically have direct access to company management and non-public information about the company in principle. this reduces information asymmetries that exist between the company and these groups. C is incorrect because a member of the board of directors has significant influence and access to non-public information A company's board of directors is elected by shareholders to protect shareholders' interests and provide strategic direction, taking into consideration the company's risk appetite, which it defines for the company The board is also responsible for hiring the CEO and monitoring the performance of the company and management.",
+      "answer_source": "red",
+      "tags": [
+        "describe a company's stakeholder groups and compare their interests"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "According to Modigliani and Miller's Proposition II without taxes:",
+      "options": {
+        "A": "the cost of bankruptcy is high.",
+        "B": "a company's cost of equity is a linear function of its debt-to-assets ratio.",
+        "C": "substituting equity with lower-cost debt capital results in an unchanged overall WACC."
+      },
+      "answer": "C",
+      "explanation": "C is correct. MM Proposition II without taxes tells us that adding any amount of lower-cost debt capital to the capital structure is always perfectly offset by an increase in the cost of equity, resulting in no change to the company's overall weighted average cost of capital. A is incorrect because Modigliani and Miller did not assume away the possibility of bankruptcy. They simply assumed there was no cost to bankruptcy. B is incorrect because MM Proposition II without taxes tells us that a company's cost of equity is a linear function of its debt-to-equity ratio not debt-to-assets ratio.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "According to the Modigliani and Miller Proposition I with taxes, the value of a levered company is greater than the value of the unlevered company by an amount equal to the:",
+      "options": {
+        "A": "value of the debt.",
+        "B": "after-tax interest paid.",
+        "C": "tax rate multiplied by the value of the debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield. A is incorrect because the savings are equal to the tax rate multiplied by the value of the debt, not the value of the debt. Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield. B is incorrect because this is the after-tax cost of debt ((1-t) rather than taxes saved (t) because of the debt. Modigliani and Miller show that in the presence of corporate taxes (but not personal taxes), the value of the levered company is greater than that of the all-equity company by an amount equal to the tax rate multiplied by the value of the debt, also termed the debt tax shield.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "In a limited partnership, business operations are the responsibility of.",
+      "options": {
+        "A": "the general partner only.",
+        "B": "the limited partners only.",
+        "C": "both the general partner and the limited partners."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations. B is incorrect because key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations. C is incorrect because key features of limited partnerships include: GP operates the business, having unlimited liability, LPs have limited liability but lack control over business operations.",
+      "answer_source": "red",
+      "tags": [
+        "compare the organizational forms of businesses"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Which of the following is considered a capital allocation pitfall? Basing investment decisions on:",
+      "options": {
+        "A": "opportunity costs.",
+        "B": "after-tax cash flows.",
+        "C": "short-run accounting numbers."
+      },
+      "answer": "C",
+      "explanation": "C is correct. One common pitfall is basing investment decisions on EPS, net income or ROE: Companies sometimes have incentives to boost earnings per share, net income, or return on equity. Many investments: even those with strong NPVs, do not increase these accounting numbers in the short run and may even reduce them. Paying too much attention to short-run accounting numbers can result in a company choosing investments that are not in the long-run economic interests of its shareholders. A is incorrect because not identifying the economic alternatives (real and financial) that are the opportunity costs is probably the biggest failure by companies in their analyses. Basing investments decisions on opportunity costs is the correct approach and hence not a capital allocation pitfall. B is incorrect because one of the capital allocation assumptions is that decisions must reflect the impact of taxes. Furthermore, in analyzing a complicated investment, individuals assessing the investment for the company may erroneously omit relevant cash flows, double-count cash flows, and mishandle taxes. Basing investments decisions on after-tax cash flows is the correct approach and hence not a capital allocation pitfall.",
+      "answer_source": "red",
+      "tags": [
+        "describe principles of capital allocation and common capital allocation pitfalls"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following is defined as the sensitivity of a firm's operating profit to a change in its revenues?",
+      "options": {
+        "A": "Total leverage",
+        "B": "Financial leverage",
+        "C": "Operating leverage"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Operating leverage captures the sensitivity of operating profit, proxied by EBIT, to a change in revenues. A is incorrect because an approach is to consider profit sensitivity by looking at the change in revenues to capture total leverage of the business. B is incorrect because financial leverage reflects the variability of sensitivity of net profit to a change in operating profit.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors affecting capital structure and the weighted-average cost of capital"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Proxy voting is best described as permitting:",
+      "options": {
+        "A": "different voting rights for multiple share classes.",
+        "B": "shareholders to cast all of their votes for one board nominee.",
+        "C": "shareholders to vote their shares when absent from meetings."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Proxy voting is a process that authorize another individual (for example, another enables shareholders who are unable to attend a meeting to shareholder or director) to vote on their behalf. A is incorrect because it describes dual classes of common equity, not proxy voting. Proxy voting is a process that enables shareholders who are unable to attend a meeting to authorize another individual (for example, another shareholder or director) to vote on their behalf. B is incorrect because it describes cumulative voting, not proxy voting. Cumulative voting (as opposed to straight voting) enables each shareholder to accumulate and vote all his or her shares for a single candidate in an election involving more than one director.",
+      "answer_source": "red",
+      "tags": [
+        "describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Owners have limited liability in a:",
+      "options": {
+        "A": "corporation.",
+        "B": "sole proprietorship.",
+        "C": "general partnership."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Owners in a corporation have limited liability. B is incorrect because in a sole proprietorship the owner has unlimited liability and retains all risk associated with the business, meaning she can be held financially responsible for all debt the business owes. C is incorrect because a general partnership has two or more owners called partners and all profits, losses, and risks of the business are collectively assumed and shared by the partners. If one partner is unable to pay their share of the business's debts, the remaining partners are fully liable. Partners in a general partnership have unlimited liability.",
+      "answer_source": "red",
+      "tags": [
+        "compare the organizational forms of businesses"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Which of the following statements about sources of liquidity is most accurate?",
+      "options": {
+        "A": "Filing for bankruptcy is considered a secondary source of liquidity.",
+        "B": "Secondary sources of liquidity have a lower cost than primary sources of liquidity.",
+        "C": "Using a primary source of liquidity impacts the financial and operating positions of a company."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Secondary sources include: filing for bankruptcy protection and reorganization. Further, reorganization through bankruptcy, may also be considered a liquidity tool because a company under bankruptcy protection that generates operating cash will be liquid and generally able to continue business operations until a restructuring has been devised and approved. B is incorrect because primary sources represent funds that are readily accessible at relatively low cost. On the other hand, use of secondary sources may signal a company's deteriorating financial health and provide liquidity at a high price - the cost of giving up a company asset to produce emergency cash. C is incorrect because the main difference between the primary and secondary sources of liquidity is that using a primary source is not likely to affect the normal operations of the company, whereas using a secondary source may result in a change in the company's financial and operating positions.",
+      "answer_source": "red",
+      "tags": [
+        "explain liquidity and compare issuers' liquidity levels"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Subsequent to making a capital investment, a company reacts to poor financial results from the project by abandoning it. This action alone best exemplifies the exercise of a:",
+      "options": {
+        "A": "sizing option.",
+        "B": "timing option.",
+        "C": "flexibility option."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Sizing options encompass abandonment or expansion of capacity. If after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option. Al some future date, if the cash flow from abandoning an investment exceeds the present value of the cash flows from continuing the investment the company should exercise the abandonment option Conversely, if the company can make additional investments when future financial results are strong, the company has a growth option or an expansion option. B is incorrect because timing options involve the sequencing of projects. Instead of investing now. the company can delay investing Delaying an investment and basing the decision on hopefully improved information that you might have in, say, a year could help improve the NPV of the projects selected. Project sequencing options allow the company to defer the decision to invest in a future investment until the outcome of some or all of a current investment is known Investments are sequenced over time, so that investing in a project creates the option to make future investments. C is incorrect because flexibility options include operational changes possible with current capacity, such as paying overtime or adding a shift to meet excess demand. Once an investment is made, operational flexibilities besides abandonment or expansion may be available. If demand exceeds capacity, by increasing prices, the company could benefit from the excess demand, which it cannot do by increasing production. There are also production-flexibility options, which offer the operational flexibility to alter production when demand varies from what is forecast. Even though it is expensive, the company can profit from working overtime or from adding additional shifts.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of real options relevant to capital investments"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "A measure of how effectively capital is converted into after-tax operating profits is the:",
+      "options": {
+        "A": "hurdle rate.",
+        "B": "cost of capital.",
+        "C": "return on invested capital."
+      },
+      "answer": "C",
+      "explanation": "C is correct. ROIC reflects how effectively a company's management is able to convert capital into after-tax operating profits. A is incorrect because the hurdle rate is the rate that a project's IRR must exceed for the project to be accepted by the company. B is incorrect because cost of capital (COC), is the required return used in the NPV calculation, and the company's associated cost of funds.",
+      "answer_source": "red",
+      "tags": [
+        "describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation."
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Which of the following statements about corporations is most accurate?",
+      "options": {
+        "A": "Upside return potential is unlimited for both equity holders and debtholders",
+        "B": "Equity is riskier than debt from the perspective of both investors and issuers",
+        "C": "Losses for both equity holders and debtholders are limited to their initial investment"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Shareholder losses are limited to their initial investment. For both equityholders and debtholders, their initial investment represents their maximum possible loss. A is incorrect because upside return potential is capped for debtholders while it is unlimited for equityholders. If the corporation is successful, there is theoretically no limit to how much equity owners could make from their investment. No matter how profitable the company becomes, however, bondholders will never receive more than their interest and principal repayment. B is incorrect because from issuers' perspective debt is riskier than equity while the opposite is true for the investors. From an investor's perspective, stocks are riskier than bonds because shareholders are residual claimants on the firm. From the issuer's perspective, bonds are riskier than stocks for the same reason bonds are safer than stocks for investors. Bonds increase risk to the corporation by increasing leverage. If the company is struggling and cannot meet its promised obligations to bondholders, bondholders have the legal standing to force certain actions upon the corporation, such as bankruptcy and liquidation.",
+      "answer_source": "red",
+      "tags": [
+        "compare the financial claims and motivations of lenders and shareholders"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "With respect to ESG implementation, which of the following is most likely a social factor?",
+      "options": {
+        "A": "Board composition",
+        "B": "Pollution prevention",
+        "C": "Management of human capital"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Social factors considered in ESG implementation generally pertain to the management of the human capital of a business, including human rights and welfare concerns in the workplace, product development, and, in some cases, community impact. A is incorrect because governance factors have long been recognized in investment analysis. Many performance indicators can help evaluate risks arising from governance issues such as ownership structure, board independence and composition. Thus, board composition is a matter of governance and not a social factor considered in ESG implementation. B is incorrect because environmental factors that are generally considered material in investment analysis include natural resource management and/or pollution prevention Thus, pollution prevention is an environmental consideration and not a social factor considered in ESG implementation.",
+      "answer_source": "red",
+      "tags": [
+        "describe environmental, social, and governance factors of Corporate Issuers considered by investors"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "Double taxation of profits is most likely a concern for owners in:",
+      "options": {
+        "A": "corporations.",
+        "B": "limited partnerships.",
+        "C": "general partnerships."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Tax disadvantage for owners in countries with double taxation is a key feature of corporations. In most countries, corporations are taxed directly on their profits. In many countries, shareholders pay an additional tax on distributions (dividends) that are passed on to them. Economists refer to this as the double taxation of corporate profits. B is incorrect because profits of limited partnerships are taxed only at the personal level. A key feature of limited partnerships is that all partners share in return, with profits taxed as personal income. C is incorrect because profits of general partnerships are taxed only at the personal level. A key feature of general partnerships is that all partners share all return, with profits taxed as personal income.",
+      "answer_source": "red",
+      "tags": [
+        "compare the organizational forms of businesses"
+      ]
+    }
+  ]
+}

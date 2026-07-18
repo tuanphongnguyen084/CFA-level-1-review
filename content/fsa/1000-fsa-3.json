@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 45–66)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "Deferred tax assets could arise when",
+      "options": {
+        "A": "taxable income exceeds accounting profit",
+        "B": "the carrying amount of assets exceeds their tax base.",
+        "C": "accounting income tax expense exceeds income taxes payable"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Deferred tax assets, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit). B is incorrect because a deferred tax asset arises when the tax base of an asset exceeds its carrying amount. Differences between the tax base and the carrying amount also result in differences between accounting profit and taxable income. Deductible temporary differences result in a deferred tax asset when the tax base of an asset exceeds its carrying amount. C is incorrect because deferred tax assets arise when the amount paid for taxes (taxes payable) exceeds the tax expense. A company's taxable income is the basis for its income tax payable (a liability) or recoverable (an asset) which is calculated on the basis of the company's tax rate and appears on its balance sheet. Deferred tax assets appear on the balance sheet when an excess amount is paid for income taxes (taxable income higher than accounting profit), and the company expects to recover the difference during the course of future operations. Actual income taxes payable may thus exceed the financial accounting income tax expense, which is based on accounting profit.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Under US GAAP, in Ihe second year of a multi-year lease, a lessee with an operating lease most likely reports a",
+      "options": {
+        "A": "higher interest expense than it would if the lease were a finance lease",
+        "B": "lower depreciation expense than it would if the lease were a finance lease",
+        "C": "greater financing cash outflow that would if the lease were a finance lease."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the case of operating leases under US GAAP, the lessee recognizes the lease payments as rent expense and does not report depreciation expense for the leased asset. The payments made reflect the right-of-use (ROU) asset's amortization over the lease term. The amortization expense and no depreciation expense are reported in the financial statements. A is incorrect because the interest expense for a lessee with an operating lease is lower compared to a finance lease (there is no interest expense under an operating lease). Under IFRS, there is a single accounting model for both finance and operating leases for lessors. At lease inception, the lessee records a lease payable liability and a \"right-of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments. The following describes how the transaction (under IFRS) affects the financial statements: interest expense on the lease liability and the amortization expense related to the ROU asset are reported separately on the income statement. However, under US GAAP, the interest and amortization expenses related to the ROU asset are reported as a single operating expense on the income statement. The interest and amortization components are not separately reported. C is incorrect because financing cash outflow for a lessee with an operating lease is lower compared to a finance lease under IFRS. There is a single accounting model for both finance and operating leases for lessors under IFRS. At lease inception, the lessee records a lease payable liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments. The principal repayment component of the lease liability is reported as a cash outflow under financing activities on the statement of cash flows. However, under US GAAP, the entire lease payment is reported as a cash outflow under operating activities on the statement of cash flows. The interest and principal payment components are not reported separately.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "In common-size analysis of the cash flow statement, each line item of cash inflow may be stated as a percentage of",
+      "options": {
+        "A": "total assets",
+        "B": "net revenue.",
+        "C": "net cash flow."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In common-size cash flow statement analysis, there are two prevalent approaches. The primary approach involves expressing each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue. A is incorrect because in common-size cash flow statement analysis, there are two common approaches. The primary approach is to express each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue, not total assets. C is incorrect because in common-size cash flow statement analysis, there are two alternative approaches. The primary approach is to express each line item of cash inflow or outflow as a percentage of the total inflows or outflows of cash. The secondary approach is to express each line item as a percentage of net revenue, not net cash flows.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "Under US GAAP, which of the following is a required financial statement disclosure concerning inventory?",
+      "options": {
+        "A": "Only the material amount of income resulting from the liquidation of LIFO inventory",
+        "B": "Only the amount of any reversal of any write down that is recognized as a reduction in cost of goods sold in the period",
+        "C": "Both the material amount of income resulting from the liquidation of LIFO inventory, and the amount of any reversal of any write down that is recognized as a reduction in cost of goods sold in the period"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Disclosures are useful when analyzing a company. Under US GAAP, required financial statement disclosures concerning inventory include the accounting policies adopted in measuring inventories, including the cost formulas (inventory valuation methods) used. However, the second part of the disclosure regarding the amount of any reversal of write-downs that reduce the cost of goods sold is not relevant under US GAAP, as US GAAP doesn't allow for the reversal of prior-year inventory write-downs. US GAAP also requires disclosure of significant estimates applicable to inventories and any material amount of income resulting from the liquidation of LIFO inventory. B is incorrect because the second part of the disclosure regarding the amount of any reversal of write-downs that reduce the cost of goods sold is not relevant under US GAAP, as US GAAP doesn't allow for the reversal of prior-year inventory write-downs. The actual required disclosures under US GAAP differ from this statement. C is incorrect because although disclosures are useful when analyzing a company, the second part of the disclosure about the reversal of write-downs is not applicable under US GAAP. US GAAP doesn't permit the reversal of prior-year inventory write-downs. The required disclosures under US GAAP pertain more to accounting policies, significant estimates applicable to inventories, and any material amount of income resulting from the liquidation of LIFO inventory.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "An analyst gathers the following Information about a company's non-depreciable asset reported under the revaluation model Original cost €25,000 Reported value after initial evaluation €27.600 Reported value after second revelation 22.500 The revaluation surplus after the second revaluation is:",
+      "options": {
+        "A": "€2,500",
+        "B": "€0",
+        "C": "€2.600"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under the revaluation model, when an asset's value increases, the surplus goes directly to equity. Any subsequent decrease in the asset's value will decrease the revaluation surplus and then affect the income statement. Therefore, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. Out of the subsequent decrease of €5,000 (€22,500 - €27,500) in fair value, €2,500 is used to decrease the revaluation surplus, while the remaining €2,500 goes to the income statement. Thus, the revaluation surplus ends up at €0. A is incorrect because as a result of the revaluations, the €2,500 increase in the value of the asset during the first year (€27,500 - €25,000) is recorded in the revaluation surplus account in equity. The subsequent decrease in fair value by €5,000 (€22,500 - €27,500) in the second year is assumed to be applied only to the revaluation surplus account, resulting in a balance of -€2,500 (-€25,000 - €5,000). C is incorrect because , as a result of the revaluations, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. The subsequent decrease of €5,000 (€22,500 - €27,500) in fair value is accounted for in the income statement and does not directly affect the revaluation surplus account.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "An analyst gathers the following Information about an electronics manufacturing company's inventory. Year 2 Year 1 Cost €100,000 €100,000 Nel realizable value €105.000 €97,000 As a result of the reversal of the write-down, the company's Year 2 financial statements should report a decrease in cost of sales of",
+      "options": {
+        "A": "€0",
+        "B": "€3.000",
+        "C": "€6.000"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to IFRS, inventories are measured at the lower of cost and net realizable value. With each subsequent period, a new assessment of net realizable value is made. Reversal of any write-down of inventories, limited to the original write-down amount, is recognized as a reduction in cost of sales (i.e., a reduction in the amount of inventories recognized as an expense). • On December 31 of Year 1, the inventory is carried on the balance sheet at the lower of cost and net realizable value: min(€100,000, €97,000) = €97,000. • The write-down of inventory equals the Cost of inventory minus the Net realizable value: €100,000 - (€97,000) = €3,000. • On December 31 of Year 2, the Net realizable value (€105,000) is higher than the previous level (exceeding the cost of inventory). The reversal of any write-down of inventories is recognized as a reduction in cost of sales and is limited to the amount of the original write-down, which is €3,000. A is incorrect because US GAAP prohibits the reversal of write-downs, but not IFRS. C is incorrect because it computes the reversal of inventory write-down as the difference between the net realizable value at the next assessment date and its previous level (€105,000 - €97,000 = €8,000), while the reversal of any write-down of inventories is limited to the amount of the original write-down, which is €3,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "An analyst gathers the following Information about a company. ROE 10% Financial leverage 2.0 Net profit margin 4% EBIT margin 5% Interest burden 85% The total asset turnover ratio is closet to",
+      "options": {
+        "A": "1.0",
+        "B": "1.3",
+        "C": "1.5"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the DuPont analysis for ROE, ROE = Net Profit Margin × Total Asset Turnover × Leverage. Thus, rearranging the formula for Total Asset Turnover: Total Asset Turnover = ROE / (Net Profit Margin × Leverage) = 10% / (4% × 2) = 10 / 8 = 1.25, approximately 1.3. A is incorrect because it has included the EBIT Margin in the calculation instead of the Net Profit Margin. Accordingly, Total asset turnover = ROE / (EBIT Margin x Leverage); or = 10% / (5% x 2) = 10 / 10 = 1.0. C is incorrect because it included the Interest Burden in the calculation. Accordingly, Total Asset Turnover = ROE / (Net Profit Margin × Leverage × Interest Burden); or = 10% / (4% × 2 × 85%) = 10 / 6.8 ≈ 1.471, approximately 1.5.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "All else being equal, in a period of stable inventory quantities and declining inventory unit costs, using the LIFO Inventory valuation method will result in a lower:",
+      "options": {
+        "A": "gross profit than if the FIFO inventory valuation method had been used",
+        "B": "current ratio than if the FIFO Inventory valuation method had been used",
+        "C": "Inventory turnover ratio than if the FIFO inventory valuation method had been used."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If purchase prices of inventory are declining, using the LIFO method of inventory valuation will result in a higher ending inventory and a lower cost of sales compared to other inventory valuation methods. Inventory turnover is defined as cost of sales divided by average inventory. Since the cost of sales will be lower under LIFO compared to FIFO and average inventory will be higher under LIFO as compared to FIFO in a period of declining unit costs, inventory turnover will be lower under LIFO than FIFO in a period of declining inventory unit costs. A is incorrect because if purchase prices of inventory are decreasing, using the LIFO Inventory valuation method will result in higher gross profit compared to other methods. B is incorrect because if purchase prices of inventory are declining, using the LIFO method of inventory valuation will result in a higher current ratio compared to other methods. The use of the LIFO method results in a higher ending inventory current asset compared to other methods. Therefore, the current ratio, defined as current assets divided by current liabilities, will be higher as current assets (Inventory) will be higher and current liabilities will not be affected by the choice of the inventory valuation method.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "An analyst collects the following information (in € millions) about a manufacturing company's inventory Original cost 2,000 Net realizable value at end of Year 1 1,700 Net realizable value at end of Year 2 2,500 At the end of Year 2, thee balance sheet should reflect inventory (in € millions) of",
+      "options": {
+        "A": "1,700.",
+        "B": "2,000.",
+        "C": "2,500."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. Inventory would be written down from 2,000 to 1,700 in Year 1, and the reversal in Year 2 would be limited to the original write-down of 300, bringing the value back to 2,000 at the end of Year 2. A is incorrect because in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. Reversals are not allowed for US GAAP, which would result in this answer. Inventory would be written down from 2,000 to 1,700 in Year 1, and the reversal in Year 2 would be limited to the original write-down of 300, bringing the value back to 2,000 at the end of Year 2. C is incorrect because in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. The incorrect answer is obtained by writing the inventory up to the Year 2 net realizable value.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "In an environment of steadily increasing prices and quantities reported, ending inventory most closely reflects current replacement value under the",
+      "options": {
+        "A": "FIFO method using a periodic inventory system",
+        "B": "LIFO method using a periodic inventory system.",
+        "C": "LIFO method using a perpetual inventory system."
+      },
+      "answer": "A",
+      "explanation": "A is correct. FIFO assumes that the oldest inventory items are sold first, leaving the most recently purchased inventory on the balance sheet. The carrying amount of inventories under FIFO will more closely reflect current replacement values because inventories are assumed to consist of the most recently purchased items. Companies typically record changes to inventory using either a periodic inventory system or a perpetual inventory system. Under either system, the allocation of goods available for sale to cost of sales and ending inventory is the same if the inventory valuation method used is either specific identification or FIFO. B is incorrect because under LIFO, the most recently purchased inventory items are assumed to be sold first, so items included in the cost of goods sold more closely reflect current replacement value. However, the balance sheet inventory will reflect prior period (lower in this case) prices. The cost of sales under LIFO will more closely reflect current replacement value. Although the carrying amount of the ending inventory may differ (compared to the periodic system) because the perpetual system will apply LIFO continuously throughout the year, the effect of increasing prices and quantities will result in a lower reported inventory on the balance sheet than current replacement values. C is incorrect because under LIFO, the most recently purchased inventory items are assumed to be sold first, so items included in the cost of goods sold more closely reflect current replacement value. However, the balance sheet inventory will reflect prior period (lower in this case) prices. The cost of sales under LIFO will more closely reflect current replacement value. Although the carrying amount of the ending inventory may differ (compared to the periodic system) because the perpetual system will apply LIFO continuously throughout the year, the effect of increasing prices and quantities will result in a lower reported inventory on the balance sheet than current replacement values.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "An analyst gathers the following information (in € thousands) about a company's non-depreciable asset Historical cost 50 Carrying value after impairment, 31 December of Year 1 40 Recoverable amount, 31 December of Year 2 60 The maximum allowable carrying amount (in € thousands) on the Year 2 balance sheet is",
+      "options": {
+        "A": "40",
+        "B": "50",
+        "C": "60"
+      },
+      "answer": "B",
+      "explanation": "B is correct. In recognizing the impairment loss in Year 1, carrying cost was reduced from €50,000 to €40,000, so an impairment loss of €10,000 was reported. A reversal can only be taken for the previous carrying amount, not the full recoverable amount. Therefore, with the reversal, carrying cost reverts to its previous level of €50,000. Note that IFRS permit the reversal of impairment losses only. IFRS do not permit the revaluation to the recoverable amount if the recoverable amount exceeds the previous carrying amount. A is incorrect because an adjustment is permitted in all cases under IFRS. The only situation where the loss cannot be reversed is under US GAAP for an asset held for use. Under US GAAP, the impairment loss would not be reversed, remaining at €40,000. C is incorrect because IFRS permit the reversal of impairment losses only. IFRS do not permit the revaluation to the recoverable amount if the recoverable amount exceeds the previous carrying amount. Previously, carrying cost was reduced from €50,000 to €40,000, so an impairment loss of €10,000 was reported. A reversal can only be taken for the previous carrying amount. Therefore, the new carrying cost cannot increase to the full recoverable amount of €60,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "All else being equal, a write down of inventory by a manufacturing company most likely results in a",
+      "options": {
+        "A": "lower total asset turnover ratio and a lower current ratio",
+        "B": "higher total asset turnover ratio and a lower current ratio.",
+        "C": "lower total asset turnover ratio and a higher current ratio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When the value of inventory declines below the carrying amount on the balance sheet, the inventory carrying amount must be written down to its net realizable value. This write-down reduces both inventory and the carrying value of inventory on the balance sheet, impacting asset turnover and solvency ratios. The total asset turnover ratio, calculated by dividing net sales by average total assets, will increase due to the reduction in average total assets caused by the write-down. However, the current ratio, computed as current assets divided by current liabilities, decreases because reducing inventory affects the numerator while current liabilities remain unaffected. A is incorrect because a write-down of inventory to a lower value would decrease both total asset turnover and the current ratio. Total asset turnover, calculated by dividing net sales by average total assets, will decrease as the denominator (average total assets) decreases due to the reduced inventory value. Similarly, the current ratio, calculated as current assets divided by current liabilities, will decline because reducing inventory (a component of current assets) decreases the numerator, affecting the ratio. C is incorrect because a write-down of inventory to its net realizable value would result in a lower total asset turnover ratio and a lower current ratio due to the reduction in inventory value impacting both ratios negatively. Note: \"All else being equal\" has been considered in this analysis to isolate the impact of inventory write-downs on these financial ratios.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "On the statement of cash flows, interest paid should be classified as",
+      "options": {
+        "A": "a financing cash flow only",
+        "B": "an operating cash flow only.",
+        "C": "ether a financing or an operating cash flow"
+      },
+      "answer": "C",
+      "explanation": "C is correct. IFRS allows more flexibility in the reporting of such items as interest paid. IFRS allow companies to classify Interest expense as either an operating activity or a financing activity. A is incorrect because IFRS allow companies to classify interest expense as either an operating activity or a financing activity. This is the treatment of dividends paid under US GAAP US GAAP classify dividends paid to stockholders as a financing activity. B is incorrect because IFRS allow companies to classify interest expense as either an operating activity or a financing activity. This is the treatment of interest paid under US GAAP US GAAP classy interest expense as an operating activity, even though the principal amount of the debt issued is classified as a financing activity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "An analyst gathers the following information (in millions) about an automobile manufacturer's inventory: Year 2 Year 1 Cost of goods sold 600 700 Cost of inventory 100 90 Net realizable value of inventory 120 80 The Inventory turnover (calculated using average inventory in Year 2) is closest to:",
+      "options": {
+        "A": "6.0",
+        "B": "6.3",
+        "C": "6.7"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under IFRS, inventories are to be measured (and carried on the balance sheet) at the lower of cost and net realizable value. Accordingly, Year 1 inventory = 80 (being the lower of 90 and 80), and Year 2 inventory = 100 (being the lower of 100 and 120). Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((100 + 80) / 2) = 600 / 90 = 6.7. A is incorrect because the inventory turnover in Year 2 was calculated based on the average of the Net Realizable Value of Inventory for the two years. Consequently, the Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((120 + 80) / 2) = 600 / 100 = 6.0. B is incorrect because the inventory turnover in Year 2 was calculated based on the average of the Cost of Inventory for the two years. Consequently, the Inventory turnover in Year 2 = Cost of goods sold / Average Inventory = 600 / ((100 + 90) / 2) = 600 / 95 = 6.3.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "An analyst gathers the following Information (in € thousands) about an electronics manufacturing company's inventory. Cost of ending inventory 3,600 Net realizable value 3,300 Current replacement cost 3,200 Net realizable value less a normal profit margin 3,100 The Inventory (in € thousands) is carried on the balance sheet at",
+      "options": {
+        "A": "3,100.",
+        "B": "3,200",
+        "C": "3,300."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under IFRS, inventories are to be measured (and carried on the balance sheet) at the lower of cost and net realizable value. Accordingly, Min(Cost, Net realizable value) = Min(€3,600, €3,300) = €3,300. A is incorrect because it assumes the company reports under US GAAP and uses the LIFO inventory valuation method, taking the lower limit of market value (i.e., net realizable value less a normal profit margin) instead of the current replacement cost. Accordingly, Min(Cost, Net realizable value less a normal profit margin) = Min(€3,600; €3,100) = €3,100. B is incorrect because it assumes the company reports under US GAAP and uses the LIFO inventory valuation method. Under US GAAP, for inventories measured using LIFO and retail inventory methods, market value is defined as the current replacement cost (€3,200), subject to upper and lower limits. The lower limit of market value is the net realizable value less a normal profit margin (€3,100). Accordingly, Min(Cost, Market value) = Min(€3,600, €3,200) = €3,200.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "For leases with a term of twelve months or less, the lessee",
+      "options": {
+        "A": "may recognize lease payments on a straight-line",
+        "B": "must report at lease inception a \"right-of-use” asset and a lease liability, which are both equal to the present value of future lease payments",
+        "C": "must report at lease inception a right-of-use asset and a lease liability, which are both equal to the undiscounted value of future lease payments"
+      },
+      "answer": "A",
+      "explanation": "A is correct. For lessees, there are lease accounting exemptions for certain lease contracts. If the term is 12 months or less (under both IFRS and US GAAP) or for a \"low-value asset\" up to $5,000 or similar amounts (under IFRS only), the lessee can elect to simply expense the lease payments on a straight-line basis. These exemptions are not available to lessors. B is incorrect because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a \"right-of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments. C is incorrect because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "According to the converged standards for revenue recognition, a receivable is recognized on the seller's balance sheet when",
+      "options": {
+        "A": "a contract is signed",
+        "B": "all performance obligations have been met except for payment",
+        "C": "consideration is received in advance of transferring goods or services"
+      },
+      "answer": "B",
+      "explanation": "B is correct. It is only when all performance obligations have been met except for payment that a receivable appears on the seller's balance sheet. A is incorrect because A contract is signed. According to the converged standards of revenue recognition, the process involves five steps: 1. Identify the contract(s) with a customer. 2. Identify the separate or distinct performance obligations in the contract. 3. Determine the transaction price. 4. Allocate the transaction price to the performance obligations in the contract. 5. Recognize revenue when (or as) the entity satisfies a performance obligation. While entering into or signing the contract would be covered by steps 1-4, step 5 is required to recognize revenue. The entity will only recognize revenue when it is able to satisfy the performance obligation. C is incorrect because it is only when all performance obligations have been met except for payment that a receivable appears on the seller's balance sheet. If consideration is received in advance of transferring goods or services, the seller presents a contract liability. Consequently, the seller recognizes a contract liability rather than a receivable.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "An analyst gathers the following Information about a company's equipment Carrying value prior to impairment €20,000 Undiscounted expected future cash flows €22,000 Value in use €17,400 Fair value if sold €19,100 Costs to sell €1.900 The carrying value of the equipment should be",
+      "options": {
+        "A": "€17,200",
+        "B": "€17,400.",
+        "C": "€20,000"
+      },
+      "answer": "B",
+      "explanation": "B is correct. It represents the value of the asset in use. Under IFRS, the company would compare the carrying value (€20,000) with the higher of its fair value less costs to sell (€19,100 - €1,900 = €17,200) and its value in use (€17,400). Under IFRS, the carrying value is €17,400. A is incorrect because it is the value of the asset if sold less costs to sell, which is the lower, not higher, of its fair value less costs to sell and its value in use. Under IFRS, the company would compare the carrying value (€20,000) with the higher of its fair value less costs to sell (€19,100 - €1,900 = €17,200) and its value in use (€17,400). Under IFRS, the carrying value is €17,400. C is incorrect because this is the carrying amount after impairment assessment under.",
+      "answer_source": "red",
+      "tags": [
+        "the carrying amount (€20,000) is compared with the undiscounted expected future cash flows (€22,000). The carrying amount is less than the undiscounted expected future cash flows, so the carrying amount is considered recoverable. The equipment would continue to be carried at €20,000 under US GAAP"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "Which of the following ratios would most likely be positively affected by an inventory write-down compared to the value absent the write down?",
+      "options": {
+        "A": "Activity",
+        "B": "Liquidity",
+        "C": "Solvency"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Activity ratios (such as Inventory turnover and total asset turnover) will be positively affected by a write-down because the asset base (denominator) is reduced. B is incorrect because an inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet, thus having a negative effect on profitability, liquidity, and solvency ratios. C is incorrect because an inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet, thereby negatively impacting profitability, liquidity, and solvency ratios.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "A deferred tax asset has been previously recognized. At the current balance sheet date, the criteria for economic benefits are not met but the tax differences are still expected to be temporary. As a result:",
+      "options": {
+        "A": "The existing deferred tax asset should be reversed",
+        "B": "a valuation allowance account should be established",
+        "C": "the existing deferred tax asset should be reclassified as equity"
+      },
+      "answer": "A",
+      "explanation": "A is correct. If a deferred tax asset or liability resulted in the past, but the criteria of economic benefits are not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed. B is incorrect because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits are not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed. Under US GAAP, a valuation allowance is established. C is incorrect because it refers to a deferred tax liability reported under US GAAP. The analysis should classify the deferred tax liability as debt if the liability is expected to reverse with subsequent tax payment. If the liability is not expected to reverse, there is no expectation of a cash outflow, and the liability should be treated as equity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "An analyst gathers the following information (in € thousands) about a company Revenue 5,000 Cash balance, beginning of year 2,000 Cash balance, end of year 2,000 Increase in accounts receivable 1.200 Cash received from customers (in € thousands) is:",
+      "options": {
+        "A": "3,800.",
+        "B": "5,000",
+        "C": "6,200."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If revenue reported using accrual accounting is higher than the cash actually collected, the result will typically be an increase in accounts receivable. Also, Beginning accounts receivable plus Revenue minus Cash collected from customers equals Ending accounts receivable, restated as: Cash collected from customers = Beginning accounts receivable + Revenue - Ending accounts receivable or Revenue - Increase in accounts receivable = 5,000 - 1,200 = 3,800. B is incorrect because it equals Revenue (3,000) or the Reverse Change in cash balance (instead of Change in accounts receivable) = 6,000 - (2,000 - 2,000) = 6,000 - 0 = 5,000. C is incorrect because it assumes Cash collected from customers = Revenue + Increase in accounts receivable = 5,000 + 1,200 = 6,200.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "Which of the following is an inventory related financial statement disclosure required under US GAAP?",
+      "options": {
+        "A": "The carrying amount of inventories carried at fair value less costs to sell.",
+        "B": "The circumstances or events that led to the reversal of a prior-year write-down of inventories",
+        "C": "The amount of reversal of any prior year write-down of inventories that is recognized as a reduction in cost of sales in the current period."
+      },
+      "answer": "A",
+      "explanation": "A is correct. IFRS requires eight financial statement disclosures concerning inventory, including (1) the carrying amount of inventories carried at fair value less costs to sell, (2) the amount of any reversal of any write-down that is recognized as a reduction in cost of sales in the period, and (3) the circumstances or events that led to the reversal of a write-down of inventories. Inventory-related disclosures under US GAAP are very similar to the disclosures above, except that requirement (2) and (3) are not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs. B is incorrect because inventory-related disclosures under US GAAP are very similar to the disclosures under IFRS, except that the requirement \"the circumstances or events that led to the reversal of a write-down of inventories\" is not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs. C is incorrect because inventory-related disclosures under US GAAP are very similar to the disclosures under IFRS, except that the requirement \"the amount of any reversal of any write-down that is recognized as a reduction in cost of sales in the period\" is not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs.",
+      "answer_source": "red"
+    }
+  ]
+}

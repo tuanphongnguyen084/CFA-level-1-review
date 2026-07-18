@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "fi-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–21)",
+  "group": "1000 Question Bank — Fixed Income",
+  "source": "1000 Practice Questions — Fixed Income",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "If an issuer is required to retire a specified portion of the bond's principal each year, the bond most likely.",
+      "options": {
+        "A": "is callable.",
+        "B": "is a step-up note.",
+        "C": "has a sinking fund provision."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A sinking fund provision requires retirement of a portion of the bond's principal every year, rather than retirement of the entire issue at maturity. A is incorrect because a bond that is currently callable may be retired by the issuer, but the issuer is not required to do so. B is incorrect because a step-up note has a coupon rate that increases over time according to a predetermined schedule.",
+      "answer_source": "red",
+      "tags": [
+        "describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "A five-year semiannual bond has a yield to maturity of 8%. Converted to a quarterly periodicity, the yield to maturity is closest to:",
+      "options": {
+        "A": "1.98%",
+        "B": "3.92%",
+        "C": "7.92%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. (1 + APR2/2)² = (1 + APR4/4)^4 for annual percentage rates using semiannual and quarterly basis (APR2 and APR4, respectively). This gives (1+0.08/2)² = (1 + APR4/4)^4 = APR4/4 = 1.98% and APR4 = 4 x 1.98% = 7.92%. A is incorrect because the yield to maturity converted to a quarterly basis should be expressed in annual terms just like the semiannual yield to maturity: for bonds maturing in more than one year, investors want an annualized and compounded yield-to-maturity. The formula for converting m periods to n periods per year is (1 + APRm /m)m = (1 + APRn /n)n. Thus, (1+0.08/2)² = (1 + APR4/4)^4 <=> APR4/4= 1.98% ≠ APR4 . B is incorrect because the yield to maturity converted to a quarterly basis cannot be calculated by simply scaling the yield to maturity with a periodicity that is twice longer: APR4 ≠(1 + APR2)^1/2 - 1 = 1.081/2 – 1 = 3.92%. The correct formula for converting m periods to n periods per year is (1 + APRm/m)m = (1 + APR>n/n)n.",
+      "answer_source": "red",
+      "tags": [
+        "calculate annual yield on a bond for varying compounding periods in a year"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "The key rate duration best measures a bond's sensitivity to a change in the:",
+      "options": {
+        "A": "level of the yield-to-maturity.",
+        "B": "slope of the yield-to-worst curve.",
+        "C": "shape of the benchmark yield curve."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve ( e.g., the yield curve becoming steeper or flatter). A is incorrect because this describes modified duration. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. B is incorrect because the duration of a callable bond is not the sensitivity of the bond price to a change in the yield-to-worst (Le.. the lowest of the yield-to-maturity, yield-to-first-call, yield-to-second-call, and so forth). In contrast to effective duration, key rate durations help identify 'shaping risk' for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter).",
+      "answer_source": "red",
+      "tags": [
+        "define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic of - 212. If the market yield increases by 75 basis points, the price of this bond is closest to",
+      "options": {
+        "A": "93.7.",
+        "B": "94.3.",
+        "C": "94.9."
+      },
+      "answer": "A",
+      "explanation": "A is correct. %𝛥𝑃𝑉𝐹𝑢𝑙𝑙= (−𝐴𝑛𝑛𝑀𝑜𝑑𝐷𝑢𝑟 × 𝛥𝑌𝑖𝑒𝑙𝑑) + [(0.5 × 𝐴𝑛𝑛𝑐𝑜𝑛𝑣𝑒𝑥𝑖𝑡𝑦 × 𝛥(𝑌𝑖𝑒𝑙𝑑)^2] = (−6.9 × 0.0075) + (0.5 × −212 × 0.00752) = −0.05175 −0.0059625 = 0.0577125, rounded to 5.77%. The percentage decline in price = -0.0577125 x 99.4 = - 5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66. B is incorrect because the price is calculated using par instead of 99.4 Price ≠ 100 - 5.74 = 94.26. C is incorrect because the convexity adjustment is input as a positive number:(-6.9 x 0.0075) + (0.5 x 212 × 0.00752) = -0.05175 + 0.0059625 = 0.04579, rounded to 4.58%. The percentage decline in price = 0.04579 x 99.4 = 4.5515, and the bond price = 99.4 - 4.5515 = 94.8485, rounded to 94.85.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "If interest rates rise over the holding period, the total return of a coupon bond held until maturity is most likely to be:",
+      "options": {
+        "A": "less than the yield to maturity at purchase.",
+        "B": "equal to the yield to maturity at purchase.",
+        "C": "greater than the yield to maturity at purchase."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A long-term investor faces coupon reinvestment risk as well as market price risk if the bond needs to be sold prior to maturity. An [buy-and-hold] investor [in a 10- year bond) with a 10-year time horizon is concerned only with coupon reinvestment risk. This situation assumes of course, that the issuer makes all of the coupon and principal payments as scheduled. The buy-and-hold investor has a higher total return if interest r. A is incorrect because a buy-and-hold investor has a higher total return if interest rates rise due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy-and-hold investor realizes no market price returns as he is redeemed at par at maturity. B is incorrect because a buy-and-hold investor has a higher total return if interest rates rise due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy-and-hold investor realizes no market price returns as he is redeemed at par at maturity. This choice may be attractive to uninformed candidates who focus on the buy-and-hold investor, and not any market interest rate changes.",
+      "answer_source": "red",
+      "tags": [
+        "describe the relationships among a bond's holding period return, its Macaulay duration, and the investment horizon"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment best describes a",
+      "options": {
+        "A": "step-up coupon bond.",
+        "B": "deferred coupon bond.",
+        "C": "payment-in-kind coupon bond."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A payment-in-kind (PIK) coupon bond typically allows the issuer to pay interest in the form of additional amounts. A is incorrect because the coupon of a step-up coupon bond, which may be fixed or floating, increases by specified margins at specified dates. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment. B is incorrect because a deferred coupon bond, sometimes called a split coupon bond, pays no coupons for its first few years but then pays a higher coupon than it otherwise normally would for the remainder of its life. It does not allow the issuer to pay interest in the form of additional amounts of the bond issue in lieu of a cash payment.",
+      "answer_source": "red",
+      "tags": [
+        "describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "In the event of default, investors in covered bonds most likely have recourse against:",
+      "options": {
+        "A": "the issuer only.",
+        "B": "a segregated pool of assets only.",
+        "C": "both the issuer and a segregated pool of assets."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A covered bond is a debt obligation backed by a segregated pool of assets called a \"cover pool\" in the event of default, bondholders have recourse against both the financial institution and the cover pool. A is incorrect because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool. B is incorrect because in contrast [to asset-backed securities], in the case of covered bonds, the pool of assets remains on the financial institution's balance sheet. In the event of default, bondholders have recourse against both the financial institution and the cover pool.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics and risks of covered bonds and how they differ from other asset-backed securities"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "In the securitization process, the trustee most likely.",
+      "options": {
+        "A": "sells the underlying collateral.",
+        "B": "owns the underlying collateral.",
+        "C": "holds the underlying collateral."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A trustee or trustee agent is typically a financial institution with trust powers that safeguards the assets after they have been sold to the SPE, holds the funds due to the ABS holders until they are paid, and. A is incorrect because the seller of the collateral, sometimes called the depositor is the corporation that originated the loans. They are sold to an SPE and held by the trustee. B is incorrect because the SPE purchases the loans or receivables and uses them as collateral to issue the ABS After the sale is completed, it is [the SPE], not [the depositor/seller], that legally owns them. The SPE owns the collateral but does not hold the collateral, and although the trustee does not own the underlying collateral it does hold it.",
+      "answer_source": "red",
+      "tags": [
+        "describe securitization, including the parties and the roles they play"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "The coupon of a residential mortgage-backed security is the:",
+      "options": {
+        "A": "pass-through rate",
+        "B": "weighted average coupon rate.",
+        "C": "rate on the underlying pool of mortgages."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A mortgage pass-through security's coupon rate is called the pass-through rate. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass-through rate that the investor receives is said to be \"net interest\" or \"net coupon. B is incorrect because not all of the mortgages that are included in a pool of securitized mortgages have the same mortgage rate and the same maturity. The WAC is calculated by weighting the mortgage rate of each mortgage in the pool by the percentage of the outstanding mortgage balance relative to the outstanding amount of all the mortgages in the pool. This rate, less servicing and other administrative fees, determines the pass-through rate. C is incorrect because a mortgage pass-through security's coupon rate is called the pass-through rate. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass-through rate that the investor receives is said to be 'net interest' or 'net coupon\".",
+      "answer_source": "red",
+      "tags": [
+        "describe types and characteristics of residential mortgage-backed securities, including mortgage pass-through securities and collateralized mortgage obligations, and explain the cash flows and risks for each type"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "The stated annual yield to maturity on a semiannual bond basis is 3.66%. The effective annual yield is closest to:",
+      "options": {
+        "A": "3.63%",
+        "B": "3.69%",
+        "C": "7.45%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. An effective annual rate has a periodicity of one because there is just one compounding period in the year. No calculations are required based on the intuitive idea that due to semi-annual compounding, the effective annual yield must be slightly higher. The formula to calculate the effective annual yield of a semi-annual pay bond is: = (1 + yield/2)² - 1 = (1 + 0.0366/2)^2 – 1 = 1.036935 - 1.036935 ≈ 3.69%. A is incorrect because the formula converts from an effective annual yield to a semiannual-pay yield: ≠ ((1+ yield)^0.5 - 1) x 2 = ((1+0.0366)^0.5 - 1) x 2= (1.018136 - 1) x 2 = .036272 ≈ 3.63%. C is incorrect because the the yield is not divided by 2. The formula used to calculate the effective annual yield of a semi-annual pay bond: ≠ (1+ yield)² - 1 = (1 + 0.0366)^2-1 = 1.07454 – 1 = .07454 ≈ 7.45%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate annual yield on a bond for varying compounding periods in a year"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "In a securitization, the purchase agreement between the seller of the collateral and the special purpose entity most likely provides:",
+      "options": {
+        "A": "a description of the transaction structure.",
+        "B": "representations about the quality of the assets.",
+        "C": "documentation of enhancements used to reduce credit risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An important legal document is the purchase agreement between the seller of the collateral and the SPE, which sets forth the representations and warranties that the seller makes about the assets sold. These representations and warranties assure investors about the quality of the assets. A is incorrect because this is part of the prospectus. Another important legal document is the prospectus, which describes the structure of the securitization. C is incorrect because this is part of the prospectus. Securitizations often use several forms of credit enhancements, which are documented in the prospectus.",
+      "answer_source": "red",
+      "tags": [
+        "describe securitization, including the parties and the roles they play"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "An analyst gathers the following information about a bond: • Price 96.00 • Price with yield to maturity 10 basis points higher 95.80 • Price with yield to maturity 10 basis points lower 96.30 The approximate convexity of this bond is closest to:",
+      "options": {
+        "A": "521.",
+        "B": "1,042.",
+        "C": "2,604."
+      },
+      "answer": "B",
+      "explanation": "B is correct. ApproxCon = (𝑃𝑉_)+(𝑃𝑉+)−[2𝑥(𝑃𝑉0)] (𝛥𝑌𝑖𝑒𝑙𝑑)^2×(𝑃𝑉0) Therefore the approximate convexity of this bond = [96.3+95.8]−[2×96] (0.001)^2 ×(96) = 1.042. A is incorrect because the denominator is incorrectly multiplied by 2, as happens in the calculation of approximate duration: [96.3+95.8]−[2×96] 2×(0.001)^2 ×(96) = 521. C is incorrect because the approximate convexity is incorrectly calculated as approximate duration, with a mistake in that the change in yield (0.001) is squared: [96.3−95.8] (0.001)^2 × 2 ×(96) = 2.604.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret convexity and describe the convexity adjustment"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "A break-even reinvestment rate is most likely equivalent to a(n):",
+      "options": {
+        "A": "par rate.",
+        "B": "spot rate.",
+        "C": "implied forward rate."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An implied forward rate is a break-even reinvestment rate. It links the return on an investment in a shorter-term zero-coupon bond to the return on an investment in a longer-term zero-coupon bond. A is incorrect because a par curve is a sequence of yields-to-maturity such that each bond is priced at par value. Par rates are not break-even reinvestment rates. B is incorrect because the spot rate is a sequence of yields-to-maturity on zero-coupon bonds. A forward rate links one spot rate to another and for this reason can be characterized as a break-even reinvestment rate. A spot rate alone is, however, not a break-even reinvestment rate.",
+      "answer_source": "red",
+      "tags": [
+        "define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "A bond trading at its no-arbitrage value is priced at a premium. The sum of the present value of the bond's cash flows discounted at spot rates is:",
+      "options": {
+        "A": "less than the sum of the present values of the bond's cash flows discounted at its yield to maturity",
+        "B": "equal to the sum of the present values of the bond's cash flows discounted at its yield to maturity.",
+        "C": "greater than the sum of the present values of the bond's cash flows discounted at its yield to maturity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value' If the current market price equals the 'no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. A is incorrect because the bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value' If the current market price equals the no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no-arbitrage value. C is incorrect because bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value'. If the current market price equals the no-arbitrage value, discounting the cash flows by either spot rates or yield to maturity arrives to the same price. The level of the current market price vis a vis par has no bearing the no-arbitrage value.",
+      "answer_source": "red",
+      "tags": [
+        "define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "An analyst gathers the following information about a company that only has senior unsecured debt. Type Total Amount Outstanding Time to Maturity Floating-rate note (FRN) $50 million 12 years Fixed-rate bond $10 million 2 years In a bankruptcy scenario, if the priority of claims is enforced, it is most likely that",
+      "options": {
+        "A": "fixed-rate bond is repaid first because it matures earlier.",
+        "B": "both bondholders are repaid proportionally to the amount owed.",
+        "C": "FRN is repaid first because it has the highest amount outstanding."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Both bonds represent forms of senior unsecured debt and therefore, all creditors are at the same level of the capital structure and treated as one class, thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing\") in right of payment. A is incorrect because all creditors at the same level of the capital structure are treated as one class, thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing\") in right of payment. C is incorrect because all creditors at the same level of the capital structure are treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing').",
+      "answer_source": "red",
+      "tags": [
+        "describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "All else being equal, reinvestment risk is greatest for:",
+      "options": {
+        "A": "putable bonds.",
+        "B": "callable bonds.",
+        "C": "non-callable convertible bonds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Callable bonds present investors with a higher level of reinvestment risk than non-callable bonds, that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment. A is incorrect because putable bonds are beneficial for the bondholder by guaranteeing a pre-specified selling price at the redemption dates. If interest rates rise after the issue date, thus depressing the bond's price, the bondholders can put the bond back to the issuer and get cash. This cash can be reinvested in bonds that offer higher yields, in line with the higher market interest rates. Thus reinvestment risk is lower for a putable bond than for a callable bond, all else being equal. C is incorrect because a convertible bond can be viewed as the combination of a straight bond (option-free bond) plus an embedded equity call option. Convertible bonds can also include additional provisions, the most common being a call provision. As there is no call provision applicable in this instance, reinvestment risk will be lower than for an equivalent bond with a call provision: callable bonds present investors with a higher level of reinvestment risk than non-callable bonds, that is, if the bonds are called, bondholders have to rei.",
+      "answer_source": "red",
+      "tags": [
+        "describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "An analyst is concerned that a bond might be downgraded one category by Standard & Poor's and become non-investment grade. The current rating of this bond is most likely.",
+      "options": {
+        "A": "A-",
+        "B": "BB-",
+        "C": "BBB-"
+      },
+      "answer": "C",
+      "explanation": "C is correct. BBB- is the lowest rating for investment grade bonds. A one-category downgrade (from BBB- to BB-). A is incorrect because a bond rated A-can be downgraded one category (to BBB-) and still be an investment grade bond. B is incorrect because a bond rated BB- is already below investment grade before any downgrade.",
+      "answer_source": "red",
+      "tags": [
+        "describe the uses of ratings from credit rating agencies and their limitations"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "A corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries Debt at the operating level must be serviced before funds can be upstreamed to pay debt at the holding company. This arrangement best describes:",
+      "options": {
+        "A": "structural subordination.",
+        "B": "a cross-default provision.",
+        "C": "the corporate family rating."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Another factor considered by rating agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (\"upstreamed\") to the holding company to service debt at that level. B is incorrect because cross-default provisions, occur when default such as non-payment of interest on one bond trigger default on all outstanding debt. This is not structural subordination. C is incorrect because rating agencies will typically provide both issuer and issue ratings, particularly as they relate to corporate debt. Terminology used to distinguish between issuer and issue ratings includes corporate family rating. This is not structural subordination.",
+      "answer_source": "red",
+      "tags": [
+        "describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "For an option-free fixed-rate bond trading at a premium, as the coupon payment date approaches, Macaulay duration most likely",
+      "options": {
+        "A": "decreases.",
+        "B": "remains constant.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. As times passes during the coupon period (moving from right to left in the diagram), the Macaulay duration declines smoothly and then jumps upward after the coupon is paid. The usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par Conversely, a shorter time to maturity corresponds to a lower Macaulay duration during the coupon period. B is incorrect because the usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par Macaulay duration statistic stays constant if the bond is a perpetuity. C is incorrect because if the bond is priced at a discount [not at a premium], a longer time-to-maturity might lead to a lower duration. This situation only occurs if the coupon rate is low (but not zero) relative to the yield and the time-to-maturity is long. Conversely, only for special cases of discount bonds, a shorter time to ma.",
+      "answer_source": "red",
+      "tags": [
+        "explain how a bond's maturity, coupon, and yield level affect its interest rate risk"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Using the rating scale from Standard & Poor's or Fitch, the lowest rating for an investment-grade bond is",
+      "options": {
+        "A": "BBB-",
+        "B": "BBB",
+        "C": "BBB+"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor's and Fitch are considered investment grade. B is incorrect because bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor's and Fitch are considered investment grade. C is incorrect because bonds rated Baa3 or higher by Moody's and BBB- or higher by Standard & Poor'.",
+      "answer_source": "red",
+      "tags": [
+        "describe fixed-income market segments and their issuer and investor participants"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "The EBITDA/interest expense ratio is best classified as a:",
+      "options": {
+        "A": "leverage ratio.",
+        "B": "coverage ratio.",
+        "C": "profitability ratio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Coverage ratios measure an issuer's ability to meet-to \"cover-its interest payments. The two most common are the EBITDA/interest expense and EBIT/interest expense ratios. A is incorrect because EBITDA/interest is a coverage ratio, not a leverage ratio. There are a few measures of leverage used by credit analysts. The most common are the debt/capital, debt/EBITDA, and measures of funds or cash flows/debt ratios. C is incorrect because while there are several measures of cash flow and profitability used in credit analysis, EBITDA/interest is not a measure of profitability EBITDA is a commonly used measure of cash flow that takes operating income and adds back depreciation and amortization expense because those are noncash items.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret financial ratios used in credit analysis"
+      ]
+    }
+  ]
+}

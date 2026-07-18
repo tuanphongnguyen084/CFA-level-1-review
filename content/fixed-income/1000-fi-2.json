@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "fi-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 22–42)",
+  "group": "1000 Question Bank — Fixed Income",
+  "source": "1000 Practice Questions — Fixed Income",
+  "questions": [
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following statements is most accurate? US commercial paper typically:",
+      "options": {
+        "A": "requires the issuer to pledge collateral",
+        "B": "requires the issuer to have a backup line of credit.",
+        "C": "has a maturity ranging from a few days up to two years."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Credit rating agencies often require that commercial paper issuers secure a backup line of credit from banks. A is incorrect because commercial paper is a short-term unsecured promissory note issued in the public marker or via a private placement that represents a debt obligation of the issuer Being unsecured the issuer is not required to pledge collateral. C is incorrect because maturities for US commercial paper typically range from a few days up to 270 days.",
+      "answer_source": "red",
+      "tags": [
+        "compare short-term funding alternatives available to corporations and financial institutions"
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of $100 and currently priced at $85.70 is closest to:",
+      "options": {
+        "A": "4.50%",
+        "B": "5.25%.",
+        "C": "5.93%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Current yield is calculated as ($4.5 / $85.70) = 5.25%. A is incorrect because it is the coupon of the bond. C is incorrect because it is calculated as follows: 100 - 85.70 = 14.30 14.30 / 10 = 1.43. 4.5 + 1.43 = 5.93.",
+      "answer_source": "red",
+      "tags": [
+        "compare, calculate, and interpret yield and yield spread measures for fixed-rate bonds"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Which of the following types of collateralized debt obligations (CDOS) are most likely backed by asset-backed securities?",
+      "options": {
+        "A": "Structured finance CDOS",
+        "B": "Collateralized loan obligations",
+        "C": "Collateralized bond obligations"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOS. B is incorrect because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations. CDOs backed by leveraged bank loans are collateralized loan obligations (CLOS). C is incorrect because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations CDOs backed by corporate and emerging market bonds are collateralized bond obligations (CBOs).",
+      "answer_source": "red",
+      "tags": [
+        "describe collateralized debt obligations, including their cash flows and risks"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "An analyst gathers the following information about a 6% coupon bond currently trading at par: Benchmark Rate Price per 100 of Par Value 5.9% 100.75 6.0% 100.00 6.1% 99.26 The bond's effective duration is closest to:",
+      "options": {
+        "A": "3.75.",
+        "B": "7.45.",
+        "C": "7.50."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Effective duration - (𝑃𝑉+ −𝑃𝑉0) / (2 × 𝛥curve x 𝑃𝑉0) = (100.75 – 99.26) / (2 x 0.001 x 100.00) = 7.45. A is incorrect because it uses the current price instead of the price if interest rates increase in the numerator = (𝑃𝑉+ −𝑃𝑉0) / (2 × 𝛥curve x 𝑃𝑉0) = (100.75 - 100.00) / (2 x 0.001 x 100.00) = 3.75. C is incorrect because it uses the current price instead of the price if interest rates increase in the numerator and fails to multiply by 2 in the denominator, = (𝑃𝑉+ −𝑃𝑉0) / (𝛥curve x 𝑃𝑉0) = (100.75 - 100.00) / (0.001 x 100.00) = 7.50.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "An analyst gathers the following information about a pension plan's liabilities: Interest Rate Assumption Present Value of Liabilities (in $ Millions) 0.5% 198 1.0% 186 1.5% 174 If interest rates are currently 1.0%, the effective duration of the liabilities is closest to:",
+      "options": {
+        "A": "6.5.",
+        "B": "12.9.",
+        "C": "25.8."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Effective duration = (𝑃𝑉−−𝑃𝑉+) / (2 × 𝛥curve x 𝑃𝑉0) = ($198 million - $174 million) / (2 x 0.005 x $186 million) = 12.9032 ≈ 12.9. A is incorrect because this response uses 1% for the change in the benchmark yield curve (ACurve), instead of 0.5%. Effective duration = (𝑃𝑉−−𝑃𝑉+) / (2 × 𝛥curve x 𝑃𝑉0) = ($198 million - $174 million) / (2 x 0.01 x $186 million) = 6.4516 ≈ 6.5. C is incorrect because this response uses an incorrect formula for effective duration; (𝑃𝑉−− 𝑃𝑉+) / (𝛥curve x 𝑃𝑉0) = ($198 million - $174 million)/(0.005 x $186 million) = 25.8065 ≈ 25.8.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Which of the following is a curve duration measure?",
+      "options": {
+        "A": "Modified duration",
+        "B": "Effective duration",
+        "C": "Macaulay duration"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve. A is incorrect because modified duration is a yield duration statistic. There are several types of bond duration. In general, these can be divided into yield duration and curve duration. Yield duration is the sensitivity of the bond price with respect to the bond's own yield-to-maturity. C is incorrect because Macaulay duration is a weighted average of the time to receipt of . the bond's promised payments, where the weights are the shares of the full price that correspond to each of the bond'.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Bonds issued in the Eurobond market are most likely.",
+      "options": {
+        "A": "denominated only in euros.",
+        "B": "in the form of registered bonds.",
+        "C": "issued within the jurisdiction of the issuer's home country."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Eurobonds, domestic, and foreign bonds are now registered bonds for which ownership is recorded by either name or serial number. A is incorrect because bonds issued and traded on the Eurobond market are called Eurobonds, and they are named after the currency in which they are denominated. For example, Eurodollar and Euroyen bonds are denominated in US dollars and Japanese yens, respectively. Bonds that are denominated in euros are called euro-denominated Eurobonds. C is incorrect because Eurobonds are issued outside the jurisdiction of any single country, are usually unsecured, and may be denominated in any currency, including the issuer's domestic currency.",
+      "answer_source": "red",
+      "tags": [
+        "describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "For a coupon bond with a negative yield, compounding more frequently within the year results in a yield-to-maturity that is:",
+      "options": {
+        "A": "more negative.",
+        "B": "the same.",
+        "C": "less negative."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Compounding more frequently within the year results in a lower (more negative) yield-to-maturity. B is incorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity. Converting the annualized yield-to-maturity to quarterly and monthly compounding results in the same rates of return. C is incorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity.",
+      "answer_source": "red",
+      "tags": [
+        "calculate annual yield on a bond for varying compounding periods in a year"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "All else being equal, expected loss for a debt instrument:",
+      "options": {
+        "A": "is independent of the recovery rate.",
+        "B": "decreases as the recovery rate increases.",
+        "C": "changes proportionally to the recovery rate."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Expected loss = Default probability x Loss severity given default, where loss severity is often expressed as (1- Recovery rate), where the recovery rate is the percentage of the principal amount recovered in the event of default. Thus expected loss can also be written as Expected loss = Default probability x (1- Recovery rate), which means that the higher the recovery rate, the lower the expected loss. A is incorrect because Expected loss = Default probability x (1 - Recovery rate). Since expected loss is affected by changes in the recovery rate, it is not independent of the recovery rate. C is incorrect because the relationship Expected loss = Default probability x (1 - Recovery rate) implies that expected loss increases when the recovery rate decreases and vice versa, hence it does not change proportionally to the recovery rate.",
+      "answer_source": "red",
+      "tags": [
+        "describe credit risk and its components, probability of default and loss given default"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Matrix pricing is most likely used to estimate the price of a bond that",
+      "options": {
+        "A": "is highly liquid.",
+        "B": "is not yet issued.",
+        "C": "has unknown credit quality."
+      },
+      "answer": "B",
+      "explanation": "B is correct. For bonds that are not yet issued it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. A is incorrect because some fixed-rate bonds are not actively traded it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. Highly liquid bonds are priced based on actual market pricing rather than matrix pricing. C is incorrect because for comparable bonds that have similar times-to-maturity, coupon rates, and credit quality the estimation process is called matrix pricing. Bonds with uncertain credit qu.",
+      "answer_source": "red",
+      "tags": [
+        "describe matrix pricing"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "All else being equal, the risk of a strategic default for a non-recourse mortgage is most likely.",
+      "options": {
+        "A": "lower than for a recourse mortgage.",
+        "B": "the same as for a recourse mortgage.",
+        "C": "greater than for a recourse mortgage."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default. In countries where residential mortgages are recourse loans, a strategic default is less likely because the lender can seek to recover the shortfall from the borrower's other assets and/or income. Therefore, the risk of a strateg. A is incorrect because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default. Therefore, the risk of a strategic default is higher (not lower) for a non-recourse mortgage. B is incorrect because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a \"strategic default.\" Therefore, the risk of a strategic default is higher (not the same) for a non-recourse mortgage.",
+      "answer_source": "red",
+      "tags": [
+        "describe fundamental features of residential mortgage loans that are securitized"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "For bonds with embedded options, the most appropriate measure of price sensitivity to interest rate changes is:",
+      "options": {
+        "A": "effective duration.",
+        "B": "modified duration.",
+        "C": "Macaulay duration."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure. B is incorrect because in brief, [an option embedded) bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. C is incorrect because in brief. [an option embedded) bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "For a bond with an embedded option, effective duration is the most appropriate measure of interest rate risk because the bond's:",
+      "options": {
+        "A": "future cash flows are uncertain.",
+        "B": "internal rate of return is well-defined.",
+        "C": "pricing is sensitive to changes in credit spreads."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. The issuer's decision to call the bond depends on the ability to refinance the debt at a lower cost of funds. Effective duration is the appropriate duration measure. B is incorrect because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. C is incorrect because effective duration measures the bond's sensitivity to changes in the benchmark yield curve and not changes in credit spread, which are measured by other means (pricing models). This curve duration measure [effective duration] indicates the bond's sensitivity to the benchmark yield curve-in particular, the government par curve-assuming no change in the credit spread. A pricing model can be used to determine a 'credit duration statistic-that is, the sensitivity of the bond price to a change in the credit spread.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "An analyst gathers the following information about a spot curve: Term to Maturity Spot Rate 1 year 6% 2 years 5% 3 years 4% If the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest to:",
+      "options": {
+        "A": "97.28.",
+        "B": "99.86.",
+        "C": "100.00."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Given the spot rates, the price of a bond can be calculated using the following formula: PV = [PMT/(1+𝑍1)^1+ PMT/(1+ 𝑍2)²+...+ (PMT + FV)/(1+ 𝑍𝑁)N ] Hence, PV = 4/(1+0.06)^1 + 4/(1+0.05)² + (4 + 100)/(1+0.04)^3 = 4/1.06 + 4/1.1025+ 104/1.1249 = 3.77358 + 3.62812 + 92.4556 = 99.8573 ≈ 99.86. A is incorrect because the price of the bond is calculated using as discount rates the average of the spot rates; (6% + 5% + 4%)/3 = 15%/3 = 5%. Hence, PV ≠ 4/(1.05)¹ + 4/(1.05)^2 + 104/(1.05)^3 = 4/1.05 + 4/1.1025+ 104/1.157625 = 3.8095 + 3.6281 + 89.8391= 97.276 ≈ 97.28. C is incorrect because the price of the bond is calculated using the 3-year spot rate as discount rate for all cash flows. Hence, PV ≠ 4/(1 + 0.04)¹ + 4/(1 + 0.04)^2 + (4 + 100)/(1 + 0.04)^3 = 4/1.04 + 4/1.0816 + 104/1.1249 = 3.8461 + 3.6982 + 92.4527 = 99.9969 ≈ 100.00.",
+      "answer_source": "red",
+      "tags": [
+        "define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The price of an option-free bond increases by 7% when the yield to maturity decreases by 100 basis points. If the price of this bond decreases by 7%, the yield to maturity most likely increases by:",
+      "options": {
+        "A": "less than 100 basis points.",
+        "B": "100 basis points.",
+        "C": "more than 100 basis points."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect). A is incorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect). B is incorrect because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).",
+      "answer_source": "red",
+      "tags": [
+        "identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "All else being equal, the absolute value of the percentage price change for an option-free bond is most likely",
+      "options": {
+        "A": "less when the market discount rate decreases than when it increases by the same amount.",
+        "B": "the same whether the market discount rate decreases or increases by the same amount.",
+        "C": "greater when the market discount rate decreases than when it increases by the same amount."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect). A is incorrect because the opposite is true due to the convexity effect. For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect). B is incorrect because it ignores the convexity effect of most option-free bonds. For the same coupon rate and time. to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect).",
+      "answer_source": "red",
+      "tags": [
+        "identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An analyst gathers the following information about three option-free bonds: Bond 1 Bond 2 Bond 3 Coupon rate 5% 3% 3% Maturity (years) 15 10 15 All else being equal, if the market discount rate decreases by 50 basis points, the bond most likely to experience the greatest percentage price change is:",
+      "options": {
+        "A": "Bond 1.",
+        "B": "Bond 2.",
+        "C": "Bond 3"
+      },
+      "answer": "C",
+      "explanation": "C is correct. For the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect). Bond 3 has the same time-to-maturity as Bond 1 but a lower coupon, thus Bond 3 would experience a greater percentage price change compared to Bond 1. Also, generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, thus Bond 3 would experience a greater percentage price change compared to Bond 2. A is incorrect because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect). Bond 1 has the same time-to-maturity as Bond 3 but a higher coupon, thus Bond 1 would experience a smaller percentage price change compared to Bond 3. B is incorrect because generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect). Bond 2 has the same coupon rate as Bond 3 but a shorter maturity, thus Bond 2 would experience a smaller percentage price change compared to Bond 3.",
+      "answer_source": "red",
+      "tags": [
+        "identify the relationships among a bond's price, coupon rate, maturity, and yield-to-maturity"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Implied forward rates are best defined as the:",
+      "options": {
+        "A": "geometric average of spot rates.",
+        "B": "breakeven reinvestment rates between zero-coupon bonds.",
+        "C": "current yield to maturity on zero-coupon bonds of different maturities."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Implied forward rates (also known as forward yields) are calculated from spot rates. An implied forward rate is a break-even reinvestment rate. When the market is in equilibrium (no arbitrage) the implied forward rate is the same as the forward rate. A is incorrect because the spot curve can be calculated as the geometric average of the forward rates. C is incorrect because spot rates are yields-to-maturity on zero-coupon bonds maturing at the date of each cash flow.",
+      "answer_source": "red",
+      "tags": [
+        "define spot rates and the spot curve, and calculate the price of a bond using spot rates"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Effective duration is the most appropriate measure of interest rate risk for a bond with an embedded option because the bond does not have a well-defined:",
+      "options": {
+        "A": "effective convexity.",
+        "B": "internal rate of return.",
+        "C": "curve duration statistic."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. A is incorrect because bonds with embedded options have well-defined effective convexity. Negative convexity, which could be called \"concavity,\" is an important feature of callable bonds. Putable bonds, on the other hand, always have positive convexity. C is incorrect because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (𝛥Curve). The interest rate risk of bonds with embedded options is most appropriately measured using effective duration, a curve statistic, which means that the sensitivity of a bond with an embedded-option to a change in the level of the benchmark yield curve is in fact well-defined.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "When interest rates increase, mortgage-backed securities most likely exhibit increased:",
+      "options": {
+        "A": "extension risk.",
+        "B": "contraction risk.",
+        "C": "reinvestment risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Extension risk is the risk that when interest rates rise, prepayments will be lower than forecasted because homeowners are reluctant to give up the benefits of a contractual interest rate that now looks low. As a result, a security backed by mortgages will typically have a longer maturity than was anticipated at the time of purchase. B is incorrect because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now-available lower interest rates. Thus, a security backed by mortgages will have a shorter maturity than was anticipated at the time of purchase. Holding a security whose maturity becomes shorter when interest rates decline has two adverse consequences for investors. First, investors must reinvest the proceeds at lower interest rates. Second, if the security is prepayable or callable, its price appreciation is not as great as that of an otherwise identical bond that does not have a prepayment or call option. Increased contraction risk occurs when interest rates decline, not increase. C is incorrect because contraction risk is the risk that when interest rates decline, actual prepayments will be higher than forecasted because homeowners will refinance at now-available lower interest rates. First, investors must reinvest the proceeds at lower interest rates. When interest rates decline, as opposed to increase, prepayments are likely to increase and be reinvested at lower rates, thus increasing reinvestment risk. This is not likely to occur when interest rates rise.",
+      "answer_source": "red",
+      "tags": [
+        "define prepayment risk and describe time tranching structures in securitizations and their purpose"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Tightening corporate bond yield spreads are most likely associated with:",
+      "options": {
+        "A": "issuers' deteriorating creditworthiness.",
+        "B": "periods of high demand for corporate bonds.",
+        "C": "broker-dealers' reduced ability and willingness to make markets."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In periods of high demand for bonds, spreads will move tighter. A is incorrect because yield spreads widen based on two primary factors: (1) a decline in an issuer's creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in market liquidity risk. C is incorrect because yield spreads widen based on two primary factors: (1) a decline in an issuer's creditworthiness, sometimes referred to as credit migration or downgrade risk, and (2) an increase in market liquidity risk. Most markets beads trade primarily over the counter through broker-dealers trading for ther own accounts Their ability and willingness to make markets, as reflected in the bid-ask spread, is an important determinant of market liquidity risk.",
+      "answer_source": "red",
+      "tags": [
+        "describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads"
+      ]
+    }
+  ]
+}

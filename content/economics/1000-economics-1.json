@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "id": "economics-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–19)",
+  "group": "1000 Question Bank — Economics",
+  "source": "1000 Practice Questions — Economics",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Fiscal policy refers to the government's decisions about:",
+      "options": {
+        "A": "taxation only.",
+        "B": "taxation and spending only.",
+        "C": "taxation, spending, and the quantity of money in the economy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fiscal policy refers to the government's decisions about taxation and spending. A is incorrect because fiscal policy refers to the government's decisions about taxation and spending. C is incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government's decisions about taxation and spending.",
+      "answer_source": "red",
+      "tags": [
+        "compare monetary and fiscal policy"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Under which of the following market structures is product differentiation most important?",
+      "options": {
+        "A": "Monopoly",
+        "B": "Perfect competition",
+        "C": "Monopolistic competition"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Monopolistic competition is also highly competitive; however, it is considered a form of imperfect competition. The competitive characteristic is a notably large number of firms, while the monopoly aspect is the result of product differentiation. That is, if the seller can convince consumers that its product is uniquely different from other, similar products, then the seller can exercise some degree of pricing power over the market. A is incorrect because the least competitive market structure is monopoly. In pure monopoly markets, there are no other good substitutes for the given product or service. There is a single seller, which, if allowed to operate without constraint, exercises considerable power over pricing and output decisions. B is incorrect because perfect competition is a reality—for example, in several commodities markets, where sellers and buyers have a strictly homogeneous product and no single producer is large enough to influence market prices. Product differentiation is not possible under perfect competition.",
+      "answer_source": "red",
+      "tags": [
+        "identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following economic policies is most likely directed toward influencing the quantity of credit in an economy?",
+      "options": {
+        "A": "Fiscal policy only",
+        "B": "Monetary policy only",
+        "C": "Both fiscal policy and monetary policy"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. A is incorrect because fiscal policy refers to the government's decisions about taxation and spending and it is not directly related to the quantity of credit in an economy. C is incorrect because fiscal policy refers to the government's decisions about taxation and spending and it is not directly related to the quantity of credit in an economy.",
+      "answer_source": "red",
+      "tags": [
+        "compare monetary and fiscal policy"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "An analyst gathers the following information: USD/AUD spot rate 0.8027; AUD 1-year interest rate 3.30%; USD 1-year interest rate 2.42%. USD/AUD is the amount of USD per 1 AUD. The USD/AUD 1-year forward rate is closest to:",
+      "options": {
+        "A": "0.7959.",
+        "B": "0.8096.",
+        "C": "0.8292."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Ft/d = Ft/d ((1+if)/(1+id)). Substituting the values, Ft/d = 0.8027 x ((1+0.0242)/(1+0.033)) = 0.7959. B is incorrect because it uses the incorrect formula Ft/d = Ft/d ((1+ id)/(1+ if))). Substituting the values, Ft/d = 0.8027 x ((1+0.033)/(1+0.0242)) 0.8096. C is incorrect because it uses the incorrect formula Ft/d = Ft/d (1+if). Substituting the values, Ft/d = 0.8027 × (1+0.033) -0.8292.",
+      "answer_source": "red",
+      "tags": [
+        "explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "With respect to fiscal policy, transfer payments are best described as:",
+      "options": {
+        "A": "welfare payments.",
+        "B": "infrastructure spending.",
+        "C": "spending on recurring goods and services."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Transfer payments are welfare payments made through the social security system, and, depending on the country, comprise payments for state pensions, housing benefits, tax credits and income support for poorer families, child benefits, unemployment benefits and job search allowances. B is incorrect because capital expenditure includes infrastructure spending on roads, hospitals, prisons, and schools, not transfer payments. C is incorrect because current government spending involves spending on goods and services that are provided on a regular, recurring basis—including health, education, and defense, not transfer payments.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools of fiscal policy, including their advantages and disadvantages"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following economic conditions for a country best supports a well-functioning currency board exchange rate system?",
+      "options": {
+        "A": "Flexible domestic prices and wages",
+        "B": "Rapid growth in supply of the global reserve asset",
+        "C": "Large non-traded sectors of the domestic economy"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A currency board system works best if domestic prices and wages are very flexible. B is incorrect because a currency board system works best when the global supply of the reserve asset grows at a slow, steady rate consistent with long-run real growth with stable prices. C is incorrect because a currency board system works best if non-traded sectors of the domestic economy are relatively small.",
+      "answer_source": "red",
+      "tags": [
+        "describe exchange rate regimes and explain the effects of exchange rates on countries' international trade and capital flows"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following indexes is most likely considered a leading economic indicator?",
+      "options": {
+        "A": "Consumer price index",
+        "B": "Broad stock market index",
+        "C": "Industrial production index"
+      },
+      "answer": "B",
+      "explanation": "B is correct. As a leading economic indicator, a positive change in the S&P 500 Index is supposed to lead (come before) an increase in aggregate economic activity. An increase in the S&P 500 would be positive for future economic growth, all else equal. Additionally, the Euro Stoxx Equity Index is considered a leading indicator in the Eurozone. A is incorrect because the consumer price index is considered a lagging indicator: Inflation generally adjusts to the cycle late, especially the more stable services area. C is incorrect because this index measures industrial output, thus capturing the behavior of the most volatile part of the economy. This index is considered one of the 4 coincidental indicators in the United States as tracked by the Conference Board.",
+      "answer_source": "red",
+      "tags": [
+        "describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Independence, credibility, and transparency are most likely.",
+      "options": {
+        "A": "key objectives of fiscal policy.",
+        "B": "properties of the monetary transmission mechanism.",
+        "C": "qualities that determine the success of an inflation-targeting central bank."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Although inflation-targeting regimes vary a little from economy to economy, their success is thought to depend on three key concepts: central bank independence, credibility, and transparency. A is incorrect because these are qualities of a central bank. A primary aim for fiscal policy is to help manage the economy through its influence on aggregate national output, that is, real GDP. B is incorrect because these are qualities of a successful inflation-targeting central bank. The monetary transmission mechanism is the process whereby a central bank's interest rate gets transmitted through the economy and ultimately affects the rate of increase of prices—that is, inflation. Those channels include bank lending rates, asset prices, agents' expectations, and exchange rates.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools used to implement monetary policy tools and the monetary transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "With respect to geopolitics, setting standards for the size and shape of containers used for shipping is most likely an example of:",
+      "options": {
+        "A": "regulatory cooperation.",
+        "B": "process standardization.",
+        "C": "operational synchronization."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An example of operational synchronization is standards set for containers of uniform size and shape using multi-modal forms of transport (land, sea, air, rail) and port cranes. A is incorrect because regulatory cooperation includes setting up regulatory bodies such as Basel Committee on Banking Supervision (BCBS) rather than setting standards for container size and shape. B is incorrect because process standardization includes establishing processes like Society for Worldwide Interbank Financial Telecommunication (SWIFT) rather than setting standards for container size and shape.",
+      "answer_source": "red",
+      "tags": [
+        "describe geopolitics from a cooperation versus competition perspective"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A nation that cooperates with a neighboring country is most likely characterized as:",
+      "options": {
+        "A": "autarkic.",
+        "B": "bilateral.",
+        "C": "hegemonic."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bilateralism is the conduct of political, economic, financial, or cultural cooperation between two countries. Countries engaging in bilateralism may have relations with many different countries, but they are one-at-a-time agreements without multiple partners. A is incorrect because autarky describes countries seeking political self-sufficiency with little or no external trade or finance. Autarkic countries tend not to be cooperative with other countries. C is incorrect because hegemonic countries tend to be regional or even global leaders, and they use their political or economic influence of others to control resources economic and political dominance may provide important influence on global affairs. Thus, hegemonic countries tend to lead or dominate more than cooperate.",
+      "answer_source": "red",
+      "tags": [
+        "describe geopolitics from a cooperation versus competition perspective"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "The inflation target of an effective central bank is most likely.",
+      "options": {
+        "A": "equal to zero to avoid the risk of deflation.",
+        "B": "sufficiently below zero to maintain high credibility.",
+        "C": "low enough to ensure a significant degree of price stability."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability. A is incorrect because an inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability. B is incorrect because an inflation-targeting framework normally has a clear, symmetric and forward-looking medium-term inflation target, sufficiently above 0 percent to avoid the risk of deflation but low enough to ensure a significant degree of price stability.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools used to implement monetary policy tools and the monetary transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Under which of the following conditions is monetary policy most effective? When the:",
+      "options": {
+        "A": "demand for money is infinitely elastic.",
+        "B": "central bank targets an exchange rate.",
+        "C": "risk of inflation is greater than deflation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Deflation is more problematic for the central bank than Inflation. Deflation is a pervasive and persistent fall in a general price index and is more difficult for conventional monetary policy to deal with than inflation. This is because cutting nominal interest rates much below zero to stimulate the economy is difficult it is at this point that the economic conditions for a liquidity trap arise. A is incorrect because this leads to a liquidity trap. In very extreme instances, there may be occasions where the demand for money becomes infinitely elastic so that further injections of money into the economy will not serve to further lower interest rates or affect real activity. This is known as a liquidity trap in this extreme circumstance monetary policy can become completely ineffective. B is incorrect because when the central bank or monetary authority chooses to target an exchange rate, interest rates and conditions in the domestic economy intrat adapt to accommodate this target and domestic interest rates and money supply can become more volatile.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks, contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy, and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Cyber threats most likely fall into the category of",
+      "options": {
+        "A": "event risk.",
+        "B": "thematic risk.",
+        "C": "exogenous risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Cyber threats are another example of thematic risk. A is incorrect because event risk evolves around set dates, such as elections, new legislation, or other date-driven milestones, such as holidays or political anniversaries, known in advance, whilst thematic risks are known risks that evolve and expand over a period of time and cyber threats are an example of thematic risk. C is incorrect because exogenous risk is a sudden or unanticipated risk that impacts either a country's cooperative stance, the ability of non-state actors to globalize, or both. Examples include sudden uprisings, invasions, or the aftermath of natural disasters, whilst thematic risks are known risks that evolve and expand over a period of time and cyber threats are [an example of thematic risk].",
+      "answer_source": "red",
+      "tags": [
+        "describe the impact of geopolitical risk on investments"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Flat money:",
+      "options": {
+        "A": "is not currently used in any major economy.",
+        "B": "can be exchanged for a precious metal at the country's central bank.",
+        "C": "derives its value via government decree and because people accept it for payment."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Fiat money derives its value via government decree and because people accept it for payment of goods and services and for debt repayment. A is incorrect because money in all major economies today is not convertible by law into anything else, but it is, in law, legal tender. Money that is not convertible into any other commodity is known as fiat money. B is incorrect because money that is not convertible into any other commodity is known as fiat money.",
+      "answer_source": "red",
+      "tags": [
+        "describe the roles and objectives of central banks"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "An objective of fiscal policy is to:",
+      "options": {
+        "A": "supervise the banking system.",
+        "B": "influence the quantity of credit in an economy.",
+        "C": "distribute income among different segments of the population."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Fiscal policy involves the use of government spending and changing tax revenue to affect a number of aspects of the economy including the distribution of income and wealth among different segments of the population. A is incorrect because monetary policy, not fiscal policy, refers to central bank activities such as supervising the banking system. B is incorrect because monetary policy refers to central bank activities that are directed toward influencing the quantity of money and credit in an economy. By contrast, fiscal policy refers to the government's decisions about taxation and spending.",
+      "answer_source": "red",
+      "tags": [
+        "describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "A decrease in taxes and an increase in interest rates most likely reflect:",
+      "options": {
+        "A": "easy fiscal policy and tight monetary policy.",
+        "B": "tight fiscal policy and easy monetary policy.",
+        "C": "tight fiscal policy and tight monetary policy."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Decreasing taxes reflects easy fiscal policy. If taxes are cut the expansionary fiscal policy will lead to a rise in aggregate output Increasing interest rates reflects tight monetary policy. If this is accompanied by a reduction in money supply to offset the fiscal expansion, then interest rates will rise. B is incorrect because a decrease in taxes is expansionary fiscal policy, not tight fiscal policy. C is incorrect because a decrease in taxes is expansionary fiscal policy, not tight fiscal policy.",
+      "answer_source": "red",
+      "tags": [
+        "explain the interaction of monetary and fiscal policy"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "With respect to conventional monetary policy, combating inflation is most likely.",
+      "options": {
+        "A": "less difficult than combating deflation.",
+        "B": "equally difficult as combating deflation.",
+        "C": "more difficult than combating deflation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Deflation is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further. B is incorrect because deflation is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further. C is incorrect because deflation is more difficult for conventional monetary policy to deal with than inflation. This is because once the monetary authority has cut nominal interest rates to zero to stimulate the economy, it cannot cut them any further.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks, contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy, and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "With respect to the foreign exchange market, an arbitrage relationship involving countries' relative interest rates serves as the basis for:",
+      "options": {
+        "A": "real exchange rates.",
+        "B": "forward exchange rates.",
+        "C": "nominal exchange rates."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Forward exchange rates are based on an arbitrage relationship that equates the investment return on two alterative but equivalent investments, which involves the relationship between the risk-free interest rates of the two countries concerned. The arbitrage relationship is Ff/d = Ff/d (1+if)/(1+id), where Ff/d is the forward rate. St/d is the spot rate, and if (id) is the foreign (domestic) risk-free interest rate. A is incorrect because real exchange rates are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another, and are therefore not based on an arbitrage relationship. C is incorrect because the nominal exchange rate is the number of units of one currency (called the price currency) that one unit of another currency (called the base currency) will buy, and is set by market forces eg, capital flows, trade flows, etc. While it is true that cross-rate (nominal exchange rate) quotes must be consistent, the market will arbitrage the mispricings, the specific arbitrage relationship relating to nominal exchange rates does not involve relative interest rates, it is simply based on currency market quotations (and subsequently by the derived currency cross-rates).",
+      "answer_source": "red",
+      "tags": [
+        "explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Which of the following would most likely lead to an increase in globalization? A decrease in:",
+      "options": {
+        "A": "soft power.",
+        "B": "nationalism.",
+        "C": "standardization."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Globalization is marked by economic and financial cooperation, including the active trade of goods and services, capital flows, currency exchange, and cultural and information exchange. Actors participating in globalization are likely to reach beyond their national borders for access to new markets, talent, or learning. By contrast, anti-globalization or nationalism is the promotion of a country's own economic interests to the exclusion or detriment of the interests of other nations. A is incorrect because soft power has a positive effect on globalization. Soft power is a means of influencing another country's decisions without force or coercion. Soft power can be built over time through such actions as cultural programs, advertisement, travel grants, and university exchange. And globalization also has cultural and communicative features. Although it can be difficult to measure these features, such as the spread of information or culture, it has increased interactions between citizens of countries all over the world. Internet usage allows for the near-instantaneous spread of cultural information and context. C is incorrect because standardization is the process of creating protocols for the production, sale, transport, or use of a product or service. Standardization occurs when relevant parties agree to follow these protocols together. It helps support expanded economic and financial activities across borders. And as globalization deepens, companies develop standards and processes to incorporate multiple cultures into their overall corporate culture. They must cooperate with multiple sets of rules, and they may establish standard procedures based on the groups of companies they operate in.",
+      "answer_source": "red",
+      "tags": [
+        "describe geopolitics and its relationship with globalization"
+      ]
+    }
+  ]
+}

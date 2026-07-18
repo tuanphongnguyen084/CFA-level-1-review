@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "id": "portfolio-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 43–62)",
+  "group": "1000 Question Bank — Portfolio Management",
+  "source": "1000 Practice Questions — Portfolio Management",
+  "questions": [
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Which of the following lines is plotted on a graph with the excess return of a security on the y-axis and the excess return of the market on the x-axis?",
+      "options": {
+        "A": "Capital market line",
+        "B": "Security market line",
+        "C": "Security characteristic line"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Similar to the SML (security market line), we can draw a security characteristic line (SCL) for a security. The SCL is a plot of the excess return of the security on the excess return of the market. The security characteristic line can also be estimated by regressing the excess security return, Ri - Rf, on the excess market return, Rm - Rf. A is incorrect because the capital market line is a special case of the capital allocation line, where the risky portfolio is the market portfolio. The capital market line is shown in Exhibit 3, where the standard deviation (𝜎𝑝), or total risk, is on the x-axis and expected portfolio return, E(𝑅𝑝), is on the y-axis. B is incorrect because the security market line represents a graph of the capital asset pricing model. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm - Rf.",
+      "answer_source": "red",
+      "tags": [
+        "describe and demonstrate applications of the CAPM and the SML"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "According to capital market theory, the only type of risk that is priced is:",
+      "options": {
+        "A": "systematic risk.",
+        "B": "diversifiable risk.",
+        "C": "idiosyncratic risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. Pricing or valuing an asset is equivalent to estimating its expected rate of return. B is incorrect because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. C is incorrect because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "Which of the following is most accurate regarding an investment policy statement (IPS)?",
+      "options": {
+        "A": "Policies on sustainable investing require a separate IPS.",
+        "B": "Investment constraints can be determined by the client or by the law.",
+        "C": "Clients can specify different spending goals, but each goal must have the same risk tolerance and return objective."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The constraints may be internal (ie., set by the client), or external (ie., set by law or regulation). A is incorrect because although the IPS is sometimes complemented by a document outlining policy on sustainable investing policies on sustainable investing may also be integrated within the IPS itself. In the remainder of this reading, the integration of sustainable investing within the IPS will be our working assumption. C is incorrect because as part of their financial planning, clients may specify specific spending goals, each of which could have different risk tolerance and return objectives.",
+      "answer_source": "red",
+      "tags": [
+        "describe the reasons for a written investment policy statement (IPS)"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "An investor's ability to take risk:",
+      "options": {
+        "A": "is a function of risk tolerance.",
+        "B": "is typically assessed by a psychometric questionnaire.",
+        "C": "increases with the length of the investment horizon, all else being equal."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income , and the level of wealth relative to liabilities. For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon. This difference is because over 20 years there is more scope for losses to be recovered or other adjustments to circumstances to be made than there is over two years. A is incorrect because a client's overall risk tolerance is a function of the client's ability to bear (accept) risk and his or her 'risk attitude,' which might be considered as the client's willingness to take risk,\" not the other way around. B is incorrect because a willingness [not ability] to take risk may be gauged by discussing risk with the client or by asking the client to complete a psychometric questionnaire.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "The capital market line most likely consists of portfolios that:",
+      "options": {
+        "A": "are fully diversified.",
+        "B": "have zero systematic risk.",
+        "C": "have nonsystematic risk equal to beta."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The capital market line (CML) does not apply to all securities or assets but only to portfolios on the efficient frontier. The efficient frontier gives optimal combinations of expected return and total risk. Total risk and systematic risk are equal only for efficient portfolios because those portfolios have no diversifiable risk remaining. Thus, the CML holds only for well-diversified portfolios. B is incorrect because the nonsystematic risk of the market portfolio is zero, but not its systematic risk. Because nonsystematic risk is zero for well-diversified portfolios, such as the market portfolio, the total risk of a market portfolio and other similar portfolios is only systematic risk, which is 𝛽𝑖𝜎𝑚.Therefore, portfolios on the CML have zero nonsystematic (not systematic) risk. C is incorrect because the total risk of a market portfolio and other similar portfolios is only systematic risk, which is 𝛽𝑖𝜎𝑚. Therefore, portfolios on the CML have nonsystematic risk equal to zero, not beta.",
+      "answer_source": "red",
+      "tags": [
+        "explain the capital allocation line (CAL) and the capital market line (CML)"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "The Markowitz efficient frontier is best described as a curve that:",
+      "options": {
+        "A": "lies above and to the left of the minimum-variance frontier.",
+        "B": "connects the minimum-variance portfolios for all possible returns.",
+        "C": "contains all portfolios of risky assets that rational, risk-averse investors will choose."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Markowitz efficient frontier contains all portfolios of risky assets that rational, risk-averse investors will choose. A is incorrect because the curve that lies above and to the right of the global minimum-variance portfolio is referred to as the Markowitz efficient frontier because it contains all portfolios of risky assets that rational, risk-averse investors will choose. The efficient frontier is the upper part of the minimum-variance frontier, it does not lie above and to the left of it. B is incorrect because the entire collection of minimum-variance portfolios for all possible returns is referred to as the minimum-variance frontier, not the efficient frontier (which is only the upper arm of the minimum-variance frontier). Compared to the investment opportunity set, the minimum-variance frontier defines the smaller set of portfolios in which investors would want to invest. Note that no risk-averse investor will choose to invest in a portfolio to the right of the minimum-variance frontier because a portfolio on the minimum-variance frontier can give the same return but at a lower risk.",
+      "answer_source": "red",
+      "tags": [
+        "describe and interpret the minimum-variance and efficient frontiers of risky assets and the global minimum- variance portfolio"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "Which of the following most likely affects a client's ability to take risk? The client's:",
+      "options": {
+        "A": "utility function",
+        "B": "degree of risk aversion",
+        "C": "level of wealth relative to liabilities"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities. A is incorrect because the client's utility function affects their willingness, not ability, to take risk. Utility is a measure of relative satisfaction from consumption of various goods and services or in the case of investments, the satisfaction that an investor derives from different portfolios. B is incorrect because the client's degree of risk aversion affects their willingness, not ability, to take risk. Risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the willingness and the ability (capacity) to take risk in analyzing an investor's financial risk tolerance"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "The expected return for a security is equal to the market's risk premium. If the risk-free rate is positive and the CAPM holds, the beta of the security is:",
+      "options": {
+        "A": "less than 1.",
+        "B": "equal to 1.",
+        "C": "greater than 1."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, the beta of the security has to be less than 1 in order for the security's return to be the same as the market risk premium, given that the risk-free rate is positive. B is incorrect because the CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, if beta is equal to 1, the security's return will be higher than the market risk premium. C is incorrect because the CAPM equation is E(Ri) = Rf +𝛽[E(Rm) - Rf. Therefore, if beta is greater than 1, the security's return will be higher than the market risk premium.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the expected return of an asset using the CAPM"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "Which of the following characteristics is most likely used to determine an investor's ability to take risk? The investor's:",
+      "options": {
+        "A": "risk attitude.",
+        "B": "self-confidence.",
+        "C": "years until retirement."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The ability to bear risk is measured mainly in terms of objective factors, such as time horizon, For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon. A is incorrect because risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances. Risk attitude is an investor's willingness to take risk, not the investor's ability to take risk. B is incorrect because risk attitude, or willingness to take risk, is a more subjective factor based on the client's psychology and perhaps also his or her current circumstances. Although the list of factors that are related to an individual's risk attitude remains open to debate, it is believed that some psychological factors, such as personality type, self-esteem, and inclination to independent thinking, are correlated with risk attitude. Self-confidence is therefore associated with an investor's willingness to take risk, not the investor's ability to take risk.",
+      "answer_source": "red",
+      "tags": [
+        "describe risk and return objectives and how they may be developed for a client"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "An analyst gathers the following information: Risk-free rate 2% Expected return of the market portfolio 10% Standard deviation of the market portfolio 20% Standard deviation of the security 35% Correlation between the security and the market 0.8 According to the CAPM, the expected return of the security is closest to:",
+      "options": {
+        "A": "5.7%.",
+        "B": "13.2%.",
+        "C": "16.0%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The expected return of the security can be calculated using the CAPM equation: E(Ri) = Rf +𝛽[E(Rm) - Rf]. The beta of the security can be calculated using the equation 𝛽 = (Pi,m x 𝜎𝑖)/ 𝜎𝑚. Therefore, 𝛽 = (0.8 x 35% )/20% = 1.4. Beta is the product of the asset's correlation with the market with a ratio of standard deviations of return (ie., the ratio of the asset's standard deviation to the market's). Therefore, using the CAPM equation: E(Ri) = 2% +1.4 x (10% - 2% ) = 13.2%. A is incorrect because the security beta is wrongly calculated due to the reversal of the standard deviations of the security and the market portfolio. Therefore, the beta is calculated as 𝛽 = (0.8 x 20%)/35% = 0.457. Next, using the CAPM equation, E(Ri) = Rf +𝛽[E(Rm) - Rf], the expected return of the security is calculated as E(Ri) = 2% + 0.457 x (10% - 2% ) = 5.66% ≈ 5.7%. C is incorrect because the risk-free rate is not included in the calculation of the market risk premium. Beta is calculated as 𝛽 = (0.8 x 35% ) / 20% = 1.4. Therefore, using the CAPM equation: E(Ri) = 2% +1.4 x (10%) = 16.0%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the expected return of an asset using the CAPM"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "The correlation of returns between two securities with equal standard deviation of returns is 0.75. If the covariance of returns is 5.5%², the standard deviation of returns for each security is closest to:",
+      "options": {
+        "A": "2.7%.",
+        "B": "3.7%.",
+        "C": "7.3%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The correlation between the returns of the two securities is 𝑟𝑖𝑗= 𝐶𝑜𝑣𝑖𝑗 𝜎𝑖𝜎𝑗 => 𝜎𝑖𝜎𝑗= 5.5 0.71 = 7.3 . Since the two securities have equal risk, 𝜎𝑖= 𝜎𝑗 𝜎𝑖 2 = 7.3 => 𝜎𝑖= 2.7%. B is incorrect because it is a miscalculation and mistakes 𝜎𝑖𝜎𝑗, as 2 x 𝜎𝑖, 𝜎𝑖𝜎𝑗= 5.5 0.71 = 7.3 2 x 𝜎𝑖= 7.3% ; 𝜎𝑖= 3.67% ≈3.7%. C is incorrect because it is an intermediate step in the correct calculation; 𝜎𝑖𝜎𝑗= 5.5 0.71 = 7.3%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the mean, variance, and covariance (or correlation) of asset returns based on historical data"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "An analyst gathers the following information about an asset and the market: Risk-free rate 1% Market risk premium 5% Asset's expected return 5% Based on the CAPM, the asset's beta is closest to:",
+      "options": {
+        "A": "0.80.",
+        "B": "1.00.",
+        "C": "1.25."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The expected return of an asset is E(Ri) = Rf +𝛽i[E(Rm) – Rf], where Rf, Rm, and Ri, denote the return on the asset, the market, and the risk-free asset, respectively, B, is the asset's beta, and [E(Rm) – Rf] is the market risk premium. Thus, 𝛽𝑖= [E(𝑅𝑖)-𝑅𝑓]/[E(𝑅𝑚)-𝑅𝑓] = [5% - 1% ] / 5% = 4%/5% = 0.8. B is incorrect because it does not subtract the risk-free rate in the numerator and calculates 𝛽𝑖= E(𝑅𝑖)/[E(𝑅𝑚)-𝑅𝑓] = 5%/5% = 1.0. It is also the answer if the market risk premium is confused with the market return, thus 𝛽𝑖= [𝐸> (𝑅𝑖) −𝑅𝑓]/[market risk premium - 𝑅𝑓 = [5% - 1% ] / [5% - 1% ] = 4%/4% = 1.0. C is incorrect because it is the inverse of beta, 1/𝛽𝑖> = [E(𝑅𝑚)-𝑅𝑓]/[E(𝑅𝑚)-𝑅𝑓] = market risk premium [𝐸(𝑅𝑖) −𝑅𝑓]= 5% /[5%-1% ] = 5%/4% = 1.25. It is also the answer if two mistakes are made: The risk-free rate is not subtracted from the expected return in the numerator and the market risk premium is confused with the market return. Thus, 𝛽𝑖= 𝐸(𝑅𝑖)/ [market risk premium - R = 5% / [5% -1% ] = 5%/4% = 1.25.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret beta"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "Long-term historical data on the risk-return trade-off of securities show that investors are most likely",
+      "options": {
+        "A": "risk averse.",
+        "B": "risk neutral.",
+        "C": "risk seeking."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The expression 'risk-return trade-off refers to the positive relationship between expected risk and return. In other words, a higher return is not possible to attain in efficient markets and over long periods of time without accepting higher risk. Expected returns should be greater for assets with greater risk. Over long periods of time, we observe that higher risk does result in higher mean returns. Thus, it is reasonable to claim that, over the long term, market prices reward higher risk with higher returns, which is a characteristic of a risk-averse investor. B is incorrect because long-term historical data on securities suggest that investors are risk averse, not risk neutral. C is incorrect because because long-term historical data on securities suggest that investors are risk averse, not risk seeking.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of the major asset classes that investors consider in forming portfolios"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "Information regarding the permissible use of derivatives in a portfolio is most likely found in which of the following sections of an investment policy statement?",
+      "options": {
+        "A": "Procedures",
+        "B": "Investment Guidelines",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Investment Guidelines section of an Investment Policy Statement (IPS) provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any. A is incorrect because the Procedures section of an Investment Policy Statement (IPS) explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. Information regarding the permissible use of derivatives is included under Investment Guidelines. C is incorrect because the Statement of Duties and Responsibilities section of an Investment Policy Statement (IPS) details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. Information regarding the permissible use of derivatives is included under Investment Guidelines.",
+      "answer_source": "red",
+      "tags": [
+        "describe the major components of an IPS"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "In the portfolio management process, the feedback step most likely involves:",
+      "options": {
+        "A": "rebalancing the portfolio.",
+        "B": "deciding on an asset allocation.",
+        "C": "understanding the client's constraints."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The feedback step assists the portfolio manager in rebalancing the portfolio due to a change in. for example, market conditions or the circumstances of the client. B is incorrect because it is part of the execution step, not the feedback step. The portfolio execution step consists of first deciding on a target asset allocation, which determines the weighting of asset classes to be included in the portfolio. C is incorrect because it is part of the planning step, not the feedback step. The first step [the planning step] in the investment process is to understand the client's needs (objectives and constraints) and develop an investment policy statement (IPS).",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the portfolio management process"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Which of the following investment principles best explains the use of strategic asset allocation in portfolio construction?",
+      "options": {
+        "A": "Returns on similar assets reflect exposures to certain sets of systematic factors.",
+        "B": "Nonsystematic risk accounts for most of the change in portfolio value over the long term.",
+        "C": "Deviating from policy exposures to systematic risk factors may add value to the portfolio."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One such principle is that the returns to groups of similar assets (e g.. long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the inflation rate). B is incorrect because the focus on the SAA [strategic asset allocation] is the result of a number of important investment principles. One principle is that a portfolio's systematic risk accounts for most of its change in value over the long term. C is incorrect because the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e.. the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes is called tactical asset allocation. It is not one of the investment principles which strategic asset allocation is based upon.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "In the investment policy statement of a pension fund, a countrywide limit on the proportion of high-risk assets that can be held in long-term pension portfolios is most likely a:",
+      "options": {
+        "A": "liquidity constraint.",
+        "B": "legal and regulatory constraint.",
+        "C": "time horizon constraint."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The IPS should state any legal and regulatory restrictions that constrain how the portfolio is invested. In some countries, such institutional investors as pension funds are subject to restrictions on the composition of the portfolio. For example, there may be a limit on the proportion of equities or other risky assets in the portfolio, or on the proportion of the portfolio that may be invested overseas. A is incorrect because the countrywide constraint for pension funds that limits the proportion of high-risk assets in the portfolio is a regulatory constraint. The fact that the constraint is formulated as a limit to invest in high-risk assets does not indicate it is a liquidity constraint. Liquidity constraints state what the likely requirements are to withdraw funds from the portfolio. C is incorrect because the countrywide constraint for pension funds that limits the proportion of high-risk assets in the portfolio is a regulatory constraint. The constraint does not change the broad investment time horizon of the pension fund and is therefore not a time horizon constraint. Time horizon constraints state the time horizon over which the investor is investing.",
+      "answer_source": "red",
+      "tags": [
+        "describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "The global minimum-variance portfolio is a portfolio that lies:",
+      "options": {
+        "A": "anywhere along the minimum-variance frontier.",
+        "B": "at the left-most point of the minimum-variance frontier.",
+        "C": "at the upper right-most point of the minimum-variance frontier."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The left-most point on the minimum-variance frontier is the portfolio with the minimum variance among all portfolios of risky assets, and is referred to as the global minimum-variance portfolio. A is incorrect because the entire collection of these minimum-variance portfolios is referred to as the minimum-variance frontier. This describes the minimum variance portfolio, but not the global minimum-variance portfolio. C is incorrect because the upper right-most point of the minimum-variance frontier is the opposite position of the global minimum-variance portfolio, it is actually the maximum variance on the curve of risky portfolios.",
+      "answer_source": "red",
+      "tags": [
+        "describe and interpret the minimum-variance and efficient frontiers of risky assets and the global minimum- variance portfolio"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "Which of the following principles best explains the focus on a strategic asset allocation when constructing a client's IPS?",
+      "options": {
+        "A": "Adding assets with high correlation improves the risk-return trade-off.",
+        "B": "Nonsystematic risk accounts for most of a portfolio's change in value over the long term.",
+        "C": "The returns to groups of similar assets predictably reflect exposures to certain systematic factors."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The focus on the SAA (strategic asset allocation) is the result of a number of important investment principles. A second principle is that the returns to groups of similar assets (eg, long-term debt claims) predictably reflect exposures to certain sets of systematic factors (e.g., for the debt claims, unexpected changes in the interest rate). A is incorrect because this is not one of the two principles which resulted in the focus on a strategic asset allocation in portfolio construction. Furthermore, in general, adding assets classes with low (not high) correlation improves the risk-return trade-off (more return for similar risk). B is incorrect because a portfolio's systematic (not nonsystematic) risk accounts for most of its change in value over the long term.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principles of portfolio construction and the role of asset allocation in relation to the IPS"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "Which of the following sections of an investment policy statement (IPS) most likely explains how and when the IPS should be reviewed?",
+      "options": {
+        "A": "Procedures",
+        "B": "Investment Guidelines",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The IPS should be reviewed on a regular basis to ensure that it remains consistent with the client's circumstances and requirements. The IPS should also be reviewed if the manager becomes aware of a material change in the client's circumstances, or on the initiative of the client when his or her objectives, time horizon, or liquidity needs change. The major components of an IPS include the following section: Procedures This section explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. B is incorrect because the Investment Guidelines section of the investment policy statement (IPS) provides Information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment if any information about how and when the IPS should be reviewed can be found in the Procedures section. C is incorrect because the Statement of Duties and Responsibilities section of the investment policy statement (IPS) details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. While this section may outline who is responsible for reviewing the IPS, information about how and when the IPS should be reviewed is more likely to be found in the Procedures section.",
+      "answer_source": "red",
+      "tags": [
+        "describe the major components of an IPS"
+      ]
+    }
+  ]
+}

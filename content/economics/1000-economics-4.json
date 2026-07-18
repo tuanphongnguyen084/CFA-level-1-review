@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "id": "economics-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 58–76)",
+  "group": "1000 Question Bank — Economics",
+  "source": "1000 Practice Questions — Economics",
+  "questions": [
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Which of the following is most likely an objective of fiscal policy?",
+      "options": {
+        "A": "Maintaining price stability",
+        "B": "Affecting aggregate demand",
+        "C": "Achieving an exchange rate target"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The tools associated with fiscal policy involve the use of government spending and changing tax revenue to affect a number of aspects of the economy: including the overall level of aggregate demand in an economy and hence the level of economic activity. A is incorrect because ensuring price stability is an objective of monetary policy not fiscal policy. There is one overarching objective [of the central bank] that most seem to acknowledge explicitly, and that is the objective of maintaining price stability. C is incorrect because targeting exchange rates is a part of monetary not fiscal policy. Many developing economies choose to operate monetary policy by targeting their currency's exchange rate, rather than an explicit level of domestic inflation.",
+      "answer_source": "red",
+      "tags": [
+        "describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "Which of the following is most likely to limit the effectiveness of monetary policy?",
+      "options": {
+        "A": "A liquidity trap",
+        "B": "The crowding out effect",
+        "C": "A time lag to implement government spending"
+      },
+      "answer": "A",
+      "explanation": "A is correct. There may be occasions where the demand for money becomes infinitely elastic so that further injections of money into the economy will not serve to further lower interest rates or affect real activity. This is known as a liquidity trap. In this extreme circumstance, monetary policy can become completely ineffective. B is incorrect because crowding out is the reduction in private sector investment due to increased government borrowing and describes a difficulty in implementing fiscal, not monetary, policy. C is incorrect because this is the action lag and describes a difficulty in implementing fiscal policy. An example of the action lag is the government's decision to raise spending on capital projects to increase employment and incomes, but they may take many months to implement.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks; contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy, and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "Which of the following is a limitation of monetary policy?",
+      "options": {
+        "A": "The presence of automatic stabilizers in the economy",
+        "B": "The ineffectiveness of interest rate adjustments in deflationary environments",
+        "C": "The uneven distribution of income and wealth among different segments of the population"
+      },
+      "answer": "B",
+      "explanation": "B is correct. This is a limitation of monetary policy. The limitations of monetary policy include problems in the transmission mechanism and the relative ineffectiveness of interest rate adjustment as a policy tool in deflationary environments. A is incorrect because this is not a limitation of monetary policy. Automatic stabilizers [are features which] reduce output fluctuations in the economy and impact fiscal policy. C is incorrect because this is not a limitation of monetary policy. This is an aspect of the economy that fiscal policy tools try to address. The limitations of monetary policy include problems in the transmission mechanism and the relative ineffectiveness of interest rate adjustment as a policy tool in deflationary environments.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks, contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "The main objective of the World Bank Group is to:",
+      "options": {
+        "A": "support exchange rate stability and an open system of international payments.",
+        "B": "provide the legal and institutional foundation of the multinational trading system.",
+        "C": "help developing countries fight poverty and enhance environmentally sound economic growth."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The World Bank's main objective is to help developing countries fight poverty and enhance environmentally sound economic growth. A is incorrect because this refers to a key objective for the International Monetary Fund. That is, the IMF supports exchange rate stability and an open system of international payments. B is incorrect because this refers to a key objective for the World Trade Organization. That is, the WTO provides the legal and institutional foundation of the multinational trading system.",
+      "answer_source": "red",
+      "tags": [
+        "describe functions and objectives of the international organizations that facilitate trade, including the World Bank, the International Monetary Fund, and the World Trade Organization"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "Which of the following is an expansionary fiscal policy?",
+      "options": {
+        "A": "An increase in sales taxes",
+        "B": "A decrease in interest rates",
+        "C": "in public spending on infrastructure"
+      },
+      "answer": "C",
+      "explanation": "C is correct. There are a number of ways that fiscal policy can influence aggregate demand... expansionary policy could take one or more of the following forms:... New public spending on social goods and infrastructure. A is incorrect because expansionary [fiscal] policy could take one or more of the following forms:... Cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand. Thus, an increase in sales taxes would be contractionary, not expansionary. B is incorrect because when the economy is slowing and inflation and monetary trends are weakening, central banks may increase liquidity by cutting their target [interest] rate. In these circumstances, monetary policy is said to be expansionary. Thus while expansionary, this is an example of monetary rather than fiscal policy.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "If the spot rate for AUD/USD (amount of AUD per 1 USD) is 1.4780 and the 1-month forward points are -16.0, the 1-month forward rate for AUD/USD is closest to:",
+      "options": {
+        "A": "1.3180.",
+        "B": "1.4764.",
+        "C": "1.4796."
+      },
+      "answer": "B",
+      "explanation": "B is correct. To convert any of these quoted forward points into a forward rate, one would divide the number of points by 10.000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote. The forward points are negative and therefore the forward rate = - 16/10,000+ 1.4780=-0.0016+1.4780 =1.4764. A is incorrect because to convert any of these quoted forward points into a forward rate, one would divide the number of points by 10,000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote The forward points were incorrectly divided by 100 and the forward rate was calculated as follows -16/100+1.4780=- 0.16+1.4780=1.3180. C is incorrect because to convert any of these quoted forward points into a forward rate one would divide the number of points by 10.000 (to scale down to the fourth decimal place, the last decimal place in the spot quote) and then add the result to the spot exchange rate quote. In this case the forward points have been treated as a positive number as follows: 16/10,000+ 1.4780 = 0.0016 + 1.4780 = 1.4796.",
+      "answer_source": "red",
+      "tags": [
+        "explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "When a central bank sells government bonds to commercial banks, broad money growth:",
+      "options": {
+        "A": "decreases.",
+        "B": "remains the same.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (i.e., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism. B is incorrect because when a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (ie., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism. C is incorrect because when a central bank sells government bonds to a commercial bank the reserves of commercial banks decline, reducing their capacity to make loans (ie., create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools used to implement monetary policy tools and the monetary transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "When a country has a fiscal surplus and an excess of private saving over investment, its exports are:",
+      "options": {
+        "A": "less than its imports.",
+        "B": "equal to its imports.",
+        "C": "greater than its imports."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Using a fundamental identity from Macroeconomics: the relationship between the trade balance and expenditure/saving decisions can be expressed as: X-M = (S-I) + (T-G) where X represents exports, M is imports, S is private savings, I is investment in plant and equipment, T is taxes net of transfers, and G is government expenditure. From this relationship, we can see that a trade surplus (X> M) must be reflected in a fiscal surplus (T> G), an excess of private saving over investment (S> I), or both We can also see that when a country has a fiscal surplus (T> G) and an excess of private saving over investment (S>I), its exports are greater than its imports (X>M). A is incorrect because when a country has a fiscal surplus (T> G) and an excess of private saving over investment (S > I), its exports are greater than [not less than] its imports (X> M). B is incorrect because when a country has a fiscal surplus (T> G) and an excess of private saving over investment (S> I), its exports are greater than [not less than] its imports (X> M).",
+      "answer_source": "red",
+      "tags": [
+        "describe exchange rate regimes and explain the effects of exchange rates on countries' international trade and capital flows"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "Which of the following behavioral archetypes best describes a country that is high on the globalization spectrum but low on the cooperation spectrum?",
+      "options": {
+        "A": "Autarky",
+        "B": "Hegemony",
+        "C": "Bilateralism"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using the two axes we have discussed—political cooperation versus non-cooperation and globalization versus nationalism—Investment analysts can assess geopolitical actors and the likelihood of threat to investment outcomes Specifically, there are four archetypes of country behavior, autarky, hegemony, multilateralism, and bilateralism, where hegemony is situated low on the cooperation spectrum and high on the globalization spectrum. Hegemonic countries tend to be regional or even global leaders, and they use their political or economic influence of others to control resources State-owned enterprises tend to control key export markets. Examples of hegemonic countries include the United States and Russia. A is incorrect because there are four archetypes of country behavior: autarky, hegemony, multilateralism, and bilateralism, where autarky is situated low on the cooperation spectrum and low (not high) on the globalization spectrum. Autarky describes countries seeking political self-sufficiency with little or no external trade or finance. State-owned enterprises control strategic domestic industries. C is incorrect because there are four archetypes of country behavior autarky, hegemony, multilateralism, and bilateralism, where bilateralism is situated high on the cooperation (not globalization) spectrum and low on the globalization (not cooperation) spectrum. Bilateralism is the conduct of political, economic, financial, or cultural cooperation between two countries. Countries engaging in bilateralism may have relations with many different countries, but they are one-at-a-time agreements without multiple partners.",
+      "answer_source": "red",
+      "tags": [
+        "describe geopolitics from a cooperation versus competition perspective"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "An analyst gathers the following data about an economy: Real trend growth rate 0.5%; Central bank's policy rate 1.5%. If monetary policy is contractionary, the central bank's inflation target is:",
+      "options": {
+        "A": "less than 1.0%.",
+        "B": "equal to 1.0%.",
+        "C": "greater than 1.0%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When policy rates are above the neutral rate, monetary policy is contractionary when they are below the neutral rate, monetary policy is expansionary. The calculation of the neutral rate is as follows: Neutral rate Trend growth Inflation target. Therefore, if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate. B is incorrect because when policy rates are above the neutral rate, monetary policy is contractionary when they are below the neutral rate, monetary policy is expansionary. The calculation of the neutral rate is as follows: Neutral rate = Trend growth + Inflation target. Therefore, if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate. C is incorrect because when policy rates are above the neutral rate, monetary policy is contractionary; when they are below the neutral rate, monetary policy is expansionary. The calculation of the neutral rate is as follows: Neutral rate Trend growth + Inflation target. Therefore if monetary policy is contractionary then the policy rate (1.5%) must be greater than the neutral rate. Hence the long-term inflation rate must be less than 1.0% in order for the policy rate to be greater than the neutral rate.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks; contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "An analyst gathers the following information (in $ millions) about a firm operating in a perfectly competitive market: Total variable costs 700; Total fixed costs 400. If the firm's total revenue is $1,000 million, the firm should:",
+      "options": {
+        "A": "stay in the market in both the short run and long run.",
+        "B": "stay in the market in the short run and exit the market in the long run.",
+        "C": "shut down production in the short run and exit the market in the long run."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When TR total revenue is enough to cover TVC (total variable costs) but not all of TFC total continue to produce in the short run but will be unable to maintain financial solvency in 1,000 which is greater than TVC of $700, but not enough to cover the firm's TFC of $400. Therefore the firm will exit the market the long run. A is incorrect because TR > TVC but < TC. As such the firm will stay in the market in the short run and exit the market in the long run. C is incorrect because TR > TVC but <TC Therefore, the firm will stay in the market in the short run because TR is enough to cover TVC, the firm can continue to produce in the short run.",
+      "answer_source": "red",
+      "tags": [
+        "determine and interpret breakeven and shutdown competition points of production, as well as how economies and diseconomies of scale affect costs under perfect and imperfect competition"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "To be effective in targeting inflation a central bank is least likely to need:",
+      "options": {
+        "A": "government oversight.",
+        "B": "transparency of decisions.",
+        "C": "credibility with market participants."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An inflation-targeting framework normally has the following set of features - An independent and credible central bank. B is incorrect because by explaining their views on the economy and by being transparent in decision making, the independent, inflation-targeting central banks seek to gain reputation and credibility, making it easier to influence inflation expectations and hence ultimately easier to meet the inflation target. C is incorrect because credibility—the independence of the central bank and public confidence in it are key in the design of an inflation-targeting regime.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools used to implement monetary policy tools and the monetary transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates"
+      ]
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "To increase liquidity, a central bank most likely implements an interest rate policy that is:",
+      "options": {
+        "A": "contractionary.",
+        "B": "neutral.",
+        "C": "expansionary."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When the economy is slowing and inflation and monetary trends are weakening, central banks may increase liquidity by cutting their target rate. In these circumstances, monetary policy is said to be expansionary. A is incorrect because when they [central banks] believe that economic activity is likely to lead to an increase in inflation, they might increase interest rates, thereby reducing liquidity. In these cases, market analysts describe such actions as contractionary. B is incorrect because the neutral rate is that rate of interest that neither spurs on nor slows down the underlying economy. As such, when policy rates are above the neutral rate, monetary policy is contractionary, when they are below the neutral rate, monetary policy is expansionary.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks, contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "The conversion of nominal exchange rates into real exchange rates requires the:",
+      "options": {
+        "A": "GDP of both countries.",
+        "B": "price levels in both countries.",
+        "C": "interest rates in both countries."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair. A is incorrect because real exchange rates adjust for the price level in both countries not GDP. Real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair. C is incorrect because real exchange rates adjust for the price level in both countries not interest rates. Real exchange rates, which are indexes often constructed by economists and other market analysts to assess changes in the relative purchasing power of one currency compared with another. Creating these indexes requires adjusting the nominal exchange rate by using the price levels in each country of the currency pair.",
+      "answer_source": "red",
+      "tags": [
+        "describe the foreign exchange market, including its functions and participants, distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency"
+      ]
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "Which of the following is most likely a benefit of globalization?",
+      "options": {
+        "A": "Increased profits",
+        "B": "More equal income distribution",
+        "C": "Stronger environmental, social, and governance standards"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The opportunity to generate higher profits may motivate companies to globalize. The first way to generate profit is to increase sales. Companies may choose to engage in globalization in order to access new customers for their goods and services. Another way to increase profits is to reduce costs. Globalization allows companies to access lower tax-operating environments, reduce labor costs, or seek other supply chain efficiency gains. B is incorrect because globalization can contribute to income and wealth inequality, as well as differences in opportunity, within and between countries. C is incorrect because companies operating in lower-cost countries often operate in the local standards of those countries. If standards on environmental protection, social benefits, or corporate governance are lower in one country compared to another and companies ultimately reduce their standards of production in that context, then globalization can create a drain on human, administrative, and environmental resources.",
+      "answer_source": "red",
+      "tags": [
+        "describe geopolitics and its relationship with globalization"
+      ]
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "Natural disasters are an example of:",
+      "options": {
+        "A": "event risk.",
+        "B": "thematic risk.",
+        "C": "exogenous risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Exogenous risk is a sudden or unanticipated risk that impacts either a country's cooperative stance, the ability of non-state actors to globalize, or both. Examples include sudden uprisings, invasions, or the aftermath of natural disasters. A is incorrect because event risk evolves around set dates, such as elections, new legislation, or other date-driven milestones, such as holidays or political anniversaries, known in advance. B is incorrect because thematic risks are known risks that evolve and expand over a period of time. Climate change, pattern migration, the rise of populist forces, and the ongoing threat of terrorism fall into this category.",
+      "answer_source": "red",
+      "tags": [
+        "describe the impact of geopolitical risk on investments"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "Which of the following changes are investors most likely to make in response to a black swan risk?",
+      "options": {
+        "A": "Tactical",
+        "B": "Sector specific",
+        "C": "Asset allocation"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The velocity of geopolitical risk is the pace at which it impacts an investor portfolio. For the sake of simplicity, we explore short-term or 'high velocity' impacts, medium-term, and long-term or 'low velocity' impacts []. In the short term, we may see volatility in the markets affecting entire industries or even the entire market. Exogenous or 'black swan' events tend to fit into this category, causing market volatility and investor flight to quality. A black swan risk is an event that is rare and difficult to predict but has an important impact. Investors with the appropriate time horizon and risk tolerance may make tactical changes to their investment choices as a result of these events. Long-term changes are unlikely to be necessary. B is incorrect because this relates to a medium-term impact of geopolitical risk instead: Risks with a medium-term impact may begin to impair companies' processes, costs, and investment opportunities, resulting in lower valuations. These risks tend to be distributed towards specific sectors, meaning they will impact some companies much more than others. C is incorrect because this relates to a low velocity impact of geopolitical risk instead: The velocity of geopolitical risk is the pace at which it impacts an investor portfolio. For the sake of simplicity, we explore short-term or 'high velocity' impacts, medium-term, and long-term or 'low velocity' impacts. And long-term risks may have important environmental, social, governance, and other impacts. This can impact an investor's asset allocation—including choice of asset classes and investment styles—for a long-term horizon; however, the immediate impact on portfolios is likely to be more limited.",
+      "answer_source": "red",
+      "tags": [
+        "describe the impact of geopolitical risk on investments"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "During the recovery phase of the business cycle, inflation most likely.",
+      "options": {
+        "A": "remains moderate.",
+        "B": "further accelerates.",
+        "C": "decelerates but with a lag."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because, in the \"recovery\" phase, inflation remains moderate. B is incorrect because because, in the \"recovery\" phase, inflation remains moderate and in the \"slowdown\" phase inflation further accelerates. C is incorrect because because, in the \"recovery\" phase, inflation remains moderate and in the \"contraction\" phase inflation decelerates but with a lag.",
+      "answer_source": "red",
+      "tags": [
+        "describe the business cycle and its phases"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "The Herfindahl-Hirschman index is calculated based on:",
+      "options": {
+        "A": "market shares of the companies.",
+        "B": "elasticity of demand in the market.",
+        "C": "probability of new entry into the market."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In calculating the Herfindahl-Hirschman index the market shares of the top N companies are first squared and then added. If one firm controls the whole market (a monopoly), the Herfindahl-Hirschman index (HHI) equals 1. If there are M firms in the industry with equal market shares, then the HHI equals (1/M). B is incorrect because just like the concentration ratio, the HHI does not take the possibility of entry into account, nor does it consider the elasticity of demand. C is incorrect because just like the concentration ratio, the HHI does not take the possibility of entry into account, nor does it consider the elasticity of demand.",
+      "answer_source": "red",
+      "tags": [
+        "identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures"
+      ]
+    }
+  ]
+}

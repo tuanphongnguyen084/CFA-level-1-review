@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "id": "economics-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 20–38)",
+  "group": "1000 Question Bank — Economics",
+  "source": "1000 Practice Questions — Economics",
+  "questions": [
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following organizations was founded with the goal of assisting in the reconstruction of the international payment system?",
+      "options": {
+        "A": "The World Trade Organization",
+        "B": "The International Monetary Fund",
+        "C": "The International Bank for Reconstruction and Development"
+      },
+      "answer": "B",
+      "explanation": "B is correct. IMF was founded with the goal to stabilize exchange rates and assist the reconstruction of the world's international payment system. A is incorrect because WTO provides the legal and institutional foundation of the multinational trading system. It is the only international organization that regulates cross-border trade relationships among nations on a global scale. C is incorrect because the World Bank was created to facilitate post-war reconstruction and development. Also, World Bank's two closely affiliated entities—the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA)— provide low or no-interest loans and grants to countries that have unfavourable or no access to international credit markets.",
+      "answer_source": "red",
+      "tags": [
+        "describe functions and objectives of the international organizations that facilitate trade, including the World Bank, the International Monetary Fund, and the World Trade Organization"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Under which of the following market structures do firms have the least control over price?",
+      "options": {
+        "A": "Oligopoly",
+        "B": "Monopoly",
+        "C": "Monopolistic competition"
+      },
+      "answer": "C",
+      "explanation": "C is correct. From the perspective of the owners of the firm, the most desirable market structure is that with the most control over price, because this control can lead to large profits. Monopoly and oligopoly markets offer the greatest potential control over price; monopolistic competition offers less control. Firms operating under perfectly competitive market conditions have no control over price. A is incorrect because from the perspective of the owners of the firm, the most desirable market structure is that with the most control over price, because this control can lead to large profits. Monopoly and oligopoly markets offer the greatest potential control over price, monopolistic competition offers less control. Firms operating under perfectly competitive market conditions have no control over price. B is incorrect because from the perspective of the owners of the firm, the most desirable market structure is that with the most control over price, because this control can lead to large profits. Monopoly and oligopoly markets offer the greatest potential control over price, monopolistic competition offers less control. Firms operating under perfectly competitive market conditions have no control over price.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of perfect competition, monopolistic competition, oligopoly, and pure monopoly"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Assuming wages and prices are rigid, which of the following policy combinations most likely leads to the private sector increasing its share of GDP?",
+      "options": {
+        "A": "Easy fiscal policy and tight monetary policy",
+        "B": "Tight monetary policy and tight fiscal policy",
+        "C": "Tight fiscal policy and easy monetary policy"
+      },
+      "answer": "C",
+      "explanation": "C is correct. If a fiscal contraction is accompanied by expansionary monetary policy and low interest rates. then the private sector will be stimulated and will rise as a share of GDP, while the public sector will shrink. A is incorrect because if taxes are cut or government spending rises, the expansionary fiscal policy will lead to a rise in aggregate output. If this is accompanied by a reduction in money supply to offset the fiscal expansion, then interest rates will rise and have a negative effect on private sector demand. We have higher output and higher interest rates, and government spending will be a larger proportion of overall national income. B is incorrect because because, in the case of tight monetary policy and tight fiscal policy, interest rates rise (at least if the monetary impact on interest rates is larger) and reduce private demand. At the same time, higher taxes and falling government spending lead to a drop in aggregate demand from both public and private sectors.",
+      "answer_source": "red",
+      "tags": [
+        "explain the interaction of monetary and fiscal policy"
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Which of the following changes most likely reflects a discretionary fiscal policy action?",
+      "options": {
+        "A": "A decrease in corporate tax revenues due to lower corporate profitability",
+        "B": "An increase in government expenditures due to new infrastructure projects",
+        "C": "An increase in payments of unemployment benefits due to increasing unemployment"
+      },
+      "answer": "B",
+      "explanation": "B is correct. In addition to these automatic adjustments, governments also use discretionary fiscal adjustments to influence aggregate demand. These will involve tax changes and/or spending cuts or increase usually with the aim of stabilizing the economy. An increase in government expenditures due to new infrastructure projects is a discretionary fiscal policy action because new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand. A is incorrect because the deficit can change for reasons unrelated to actual fiscal policy changes. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise. C is incorrect because automatic stabilizers—such as income tax, VAT, and social benefits are important because as output and employment fall and reduce tax revenues, so net tax revenues also fall as unemployment benefits rise. This acts as a fiscal stimulus and serves to reduce the size of the multiplier, dampening the output response of whatever caused the fall in output in the first place. By their very nature, automatic stabilizers do not require policy changes; no policymaker has to decide that an economic shock has occurred and how to respond.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary."
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Each oligopoly firm faces an individual demand curve under:",
+      "options": {
+        "A": "colluding market conditions only.",
+        "B": "non-colluding market conditions only.",
+        "C": "both colluding and non-colluding market conditions."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In an oligopoly market where collusion is present, the aggregate market demand curve is divided up by the individual production participants. Under non-colluding market conditions, each firm faces an individual demand curve. A is incorrect because in an oligopoly market where collusion is present, the aggregate market demand curve is divided up by the individual production participants. Under non-colluding market conditions, each firm faces an individual demand curve. C is incorrect because in an oligopoly market where collusion is present, the aggregate market demand curve is divided up by the individual production participants. Under non-colluding market conditions, each firm faces an individual demand curve.",
+      "answer_source": "red",
+      "tags": [
+        "explain supply and demand relationships under oligopoly, including the optimal price and output for firms as well as pricing strategy"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "A decline in tax revenues due to a recession is best described as an example of a(n):",
+      "options": {
+        "A": "automatic stabilizer.",
+        "B": "expansionary fiscal policy.",
+        "C": "contractionary fiscal policy."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Falling tax revenues due to a recession is an example of automatic stabilizer, not a discretionary fiscal policy. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes, a recession will cause tax revenues to fall and the budget deficit to rise. B is incorrect because falling tax revenues due to a recession are an example of an automatic stabilizer. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise. An expansionary fiscal policy is discretionary in order to help manage the economy through its influence on aggregate national output, that is, real GDP. In a recession, governments can raise spending (expansionary fiscal policy) in an attempt to raise employment and output. C is incorrect because falling tax revenues due to a recession are an example of an automatic stabilizer. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes; a recession will cause tax revenues to fall and the budget deficit to rise. A contractionary fiscal policy is discretionary in order to help manage the economy through its influence on aggregate national output, that is, real GDP. When an economy has full employment and wages and prices are rising too fast—then government spending may be reduced and taxes raised (contractionary fiscal policy).",
+      "answer_source": "red",
+      "tags": [
+        "explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "According to the Cournot assumption, in an oligopoly market each firm determines its profit-maximizing production level by assuming that other firms will:",
+      "options": {
+        "A": "decrease output.",
+        "B": "not change output.",
+        "C": "increase output."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the Cournot assumption, each firm determines its profit-maximizing production level by assuming that the other firms' output will not change. This assumption simplifies pricing strategy because there is no need to guess what the other firm will do to retaliate. A is incorrect because in the Cournot assumption, each firm determines its profit-maximizing production level by assuming that the other firms' output will not change. This assumption simplifies pricing strategy because there is no need to guess what the other firm will do to retaliate. C is incorrect because in the Cournot assumption, each firm determines its profit-maximizing production level by assuming that the other firms' output will not change. This assumption simplifies pricing strategy because there is no need to guess what the other firm will do to retaliate.",
+      "answer_source": "red",
+      "tags": [
+        "explain supply and demand relationships under oligopoly, including the optimal price and output for firms as well as pricing strategy"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "The main objective of most central banks is to maintain:",
+      "options": {
+        "A": "price stability.",
+        "B": "gold reserves.",
+        "C": "an employment target."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a central bank there is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability. B is incorrect because while most central banks will also be responsible for managing their country's foreign currency reserves and also its gold reserves. There is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability. C is incorrect because while some central banks are charged with doing all they can to maintain full employment and output there is one overarching objective that most seem to acknowledge explicitly, and that is the objective of maintaining price stability.",
+      "answer_source": "red",
+      "tags": [
+        "describe the roles and objectives of central banks"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "An analyst gathers the following information about a company: Average variable cost per unit $12.50; Selling price per unit $37.50; Total fixed costs $900,000. The minimum production level needed to continue operations over the long run is most likely.",
+      "options": {
+        "A": "24,000 units.",
+        "B": "36,000 units",
+        "C": "72,000 units."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the long run if a firm cannot earn at least a zero economic profit, it will not operate because it is not covering the opportunity cost of all its factors of production, labor and capital in the long run. If total revenues equal or exceed total costs the firm should stay in the market At a selling price of $37.50 each unit will cover $12.50 of variable cost, and contribute $25 (contribution margin) towards fixed costs $900,000 of fixed costs divided by this $25 equals 36,000 units. At 36,000 units all variable and fixed costs are covered by total revenues. A is incorrect because in the long run, if a firm cannot earn at least a zero economic profit, it will not operate because it is not covering the opportunity cost of all of its factors of production, labor, and capital in the long run, if total revenues equal or exceed total costs the firm should stay in the market At a selling price of $37.50 each unit will cover $12.50 of variable cost, and contribute $25 towards fixed costs $900,000 of fixed costs divided by this $25 equals 36,000 units At 36,000 units all variable and fixed costs are covered by total revenues if the full selling price of $37.50 is divided into the $900,000 total fixed. costs, the result is 24,000 units which is below the minimum production required to continue operations in the long run. C is incorrect because in the long run, if a firm cannot earn at least a zero economic profit, it will not operate because it is not covering the opportunity cost of all of its factors of production, labor, and capital. In the long run, if total revenues equal or exceed total costs the firm should stay in the market. At a selling price of $37.50, each unit will cover $12.50 of variable cost, and contribute $25 (contribution margin) towards fixed costs $900,000 of fixed costs divided by this $25 equals 36,000 units. At 36.000 units, all variable and fixed costs are covered by total revenues. This is the minimum production level needed for the company to continue production. If the average variable cost of $12.50 is divided into $900,000 the result is 72,000 units.",
+      "answer_source": "red",
+      "tags": [
+        "determine and interpret breakeven and shutdown points of production, as well as how economies and diseconomies of scale affect costs under perfect and imperfect competition"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "The implementation of an export subsidy for a normal good produced in a small country will most likely increase the:",
+      "options": {
+        "A": "domestic consumption of the good.",
+        "B": "price of the good in the domestic market.",
+        "C": "national welfare of the country providing the subsidy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the case of an export subsidy, the exporter has the incentive to shift sales from the domestic to the export market because it receives the international price plus the per-unit subsidy for each unit of the good exported. This scenario raises the price in the domestic market by the amount of the subsidy in the small country case (price before subsidy plus subsidy). A is incorrect because in the case of an export subsidy, the exporter has the incentive to shift sales from the domestic to the export market. This scenario raises the price in the domestic market by the amount of the subsidy in the small country case (price before subsidy plus subsidy). As the domestic price in the small country is higher, the consumption of the good will decline (rather than increase). C is incorrect because an export subsidy is a payment by the government to a firm for each unit of a good that is exported. Its goal is to stimulate exports. But it interferes with the functioning of the free market and may distort trade away from comparative advantage. Hence, it reduces welfare.... The net welfare effect is negative in both the large and small country cases. Thus, export subsidies decrease rather than increase national welfare.",
+      "answer_source": "red",
+      "tags": [
+        "compare types of trade restrictions, such as tariffs, quotas, and export subsidies, and their economic implications"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Under monopolistic competition, a firm's supply curve is represented by:",
+      "options": {
+        "A": "average cost.",
+        "B": "marginal cost.",
+        "C": "neither average cost nor marginal cost."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In perfect competition, the firm's supply schedule is represented by the marginal cost schedule. In monopolistic competition, there is no well-defined supply function. The information used to determine the appropriate level of output is based on the intersection of MC and MR. However, the price that will be charged is based on the market demand schedule. The firm's supply curve should measure the quantity the firm is willing to supply at various prices. That information is not represented by either marginal cost or average cost. A is incorrect because in perfect competition, the firm's supply schedule is represented by the marginal cost schedule. In monopolistic competition, there is no well-defined supply function. The information used to determine the appropriate level of output is based on the intersection of MC and MR. However, the price that will be charged is based on the market demand schedule. The firm's supply curve should measure the quantity the firm is willing to supply at various prices. That information is not represented by either marginal cost or average cost. B is incorrect because in perfect competition, the firm's supply schedule is represented by the marginal cost schedule. In monopolistic competition, there is no well-defined supply function. The information used to determine the appropriate level of output is based on the intersection of MC and MR. However, the price that will be charged is based on the market demand schedule. The firm's supply curve should measure the quantity the firm is willing to supply at various prices. That information is not represented by either marginal cost or average cost.",
+      "answer_source": "red",
+      "tags": [
+        "explain supply and demand relationships under monopolistic competition, including the optimal price and output for firms as well as pricing strategy"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "During the slowdown phase of the business cycle:",
+      "options": {
+        "A": "inflation decelerates.",
+        "B": "business halts new orders.",
+        "C": "business slows its rate of hiring."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In the slowdown phase business continue hiring but at a slower rate. The unemployment rate continues to fall but at a decreasing rate. A is incorrect because in the slowdown phase inflation further accelerates [not decelerates]. B is incorrect because in the slowdown phase companies continue to place new orders as they operate at or near capacity.",
+      "answer_source": "red",
+      "tags": [
+        "describe the business cycle and its phases"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "The interest rate spread between 10-year treasury yields and overnight borrowing rates most likely.",
+      "options": {
+        "A": "is a lagging economic indicator.",
+        "B": "decreases when the market expects an economic downturn.",
+        "C": "increases as the market expects future short-term interest rates to decrease."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Long-term yields express market expectations about the direction of short-term interest rates, and rates ultimately follow the economic cycle up and down, a wider spread, by anticipating short rate increases, also anticipates an economic upswing Conversely, a narrower spread by anticipating short rate decreases, also anticipates an economic downturn. A is incorrect because leading economic indicators have turning points those usually precede those of the overall economy. Lagging economic indicators have turning points that take place later those of the overall economy Interest rate spread between 10-year treasury yields and overnight borrowing rates is a leading economic indicator. C is incorrect because long-term yields express market expectations about the direction of short-term interest rates, and rates ultimately follow the economic cycle up and down, a wider spread, by anticipating short rate increases, also anticipates an economic upswing. anticipates an economic downturn.",
+      "answer_source": "red",
+      "tags": [
+        "describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Which of the following monetary policy actions is most likely considered expansionary? The central bank:",
+      "options": {
+        "A": "acts as the lender in a repurchase agreement",
+        "B": "sells government bonds to commercial banks.",
+        "C": "raises reserve requirements of commercial banks."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If the central bank wishes to increase the supply of money, it might buy bonds (usually government bonds) from the banks, with an agreement to sell them back at some time in the future. This transaction is known as a repurchase agreement. The lender in a repurchase agreement is the party that initially buys the bonds and agrees to sell them back at a later point in time. By purchasing bonds from banks the central bank is increasing the money supply, or increasing liquidity, which is expansionary. B is incorrect because the central bank can sell government bonds to commercial banks. By doing this, the reserves of commercial banks decline, reducing their capacity to make loans (ie, create credit) to households and corporations and thus causing broad money growth to decline through the money multiplier mechanism. This reduction in liquidity is contractionary, not expansionary. C is incorrect because a central bank could restrict money creation by raising the reserve requirements of banks. This causes banks to keep more money in reserve, which reduces the money supply. This monetary policy action is contractionary, not expansionary.",
+      "answer_source": "red",
+      "tags": [
+        "describe qualities of effective central banks; contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Dollarization is best described as an exchange rate regime whereby a country:",
+      "options": {
+        "A": "uses the currency of another nation as its medium of exchange.",
+        "B": "participates in a monetary union whose members share the same legal tender.",
+        "C": "makes a commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In case of dollarization the country uses the currency of another nation as its medium of exchange and unit of account. B is incorrect because the IMF identifies two types of arrangements in which a country does not have its own legal tender. In the first, known as dollarization, the country uses the currency of another nation as its medium of exchange and unit of account. In the second, the country participates in a monetary union whose members share the same legal tender. Therefore dollarization is not best described as an exchange rate regime whereby the county participates in a monetary union whose members share the same legal tender. C is incorrect because in case of dollarization the country uses the currency of another nation as its medium of exchange and unit of account. In contrast, a currency board is a monetary regime based on an explicit legislative commitment to exchange domestic currency for a specified foreign currency at a fixed exchange rate, combined with restrictions on the issuing authority to ensure fulfillment of its legal obligation.",
+      "answer_source": "red",
+      "tags": [
+        "describe exchange rate regimes and explain the effects of exchange rates on countries' International trade and capital flows"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Which of the following fiscal policy actions is most likely contractionary?",
+      "options": {
+        "A": "Increasing taxes and decreasing spending",
+        "B": "Decreasing taxes and increasing spending",
+        "C": "Decreasing taxes and decreasing spending"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Increasing taxes and decreasing spending are indicative of a contractionary fiscal policy. When an economy has full employment and wages and prices are rising too fast—then government spending may be reduced and taxes raised (contractionary fiscal policy). B is incorrect because decreasing taxes and increasing spending are indicative of a budget deficit, which is expansionary. An expansionary policy could take one or more of the following forms cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand cuts in corporation (company) taxes to boost business profits, which may raise capital spending, and cuts in tax rates on personal savings to raise disposable income for those with savings, with the objective of raising consumer demand Expansionary fiscal policy also includes new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand. An increase in a budget surplus would be associated with contractionary fiscal policy, while a rise in a deficit is an expansionary fiscal policy. C is incorrect because a decrease in taxes is expansionary, while a decrease in spending is contractionary. Without knowing the relative magnitudes, we cannot say whether the policy is expansionary or contractionary. An expansionary policy could take one or more of the following forms cuts in sales (indirect) taxes to lower prices which raises real incomes with the objective of raising consumer demand cuts in corporation (company) taxes to boost business profits, which may raise capital spending, and cuts in tax rates on personal savings to raise disposable income for those with savings, with the objective of raising consumer demand. However, an increase (not decrease) in spending is expansionary. Expansionary fiscal policy also includes new public spending on social goods and infrastructure, such as hospitals and schools, boosting personal incomes with the objective of raising aggregate demand. An increase in a budget surplus would be associated with contractionary fiscal policy. while a rise in a deficit is an expansionary fiscal policy.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "A fiscal policy tool that can immediately influence spending is most likely.",
+      "options": {
+        "A": "indirect taxes.",
+        "B": "exchange rate targeting.",
+        "C": "capital expenditure plans."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Indirect taxes can be adjusted almost immediately after they are announced and can influence spending behaviour instantly and generate revenue for the government at little or no cost to the government. B is incorrect because exchange rate targeting is a monetary policy tool, not a fiscal policy tool. Many developing economies choose to operate monetary policy by targeting their currency's exchange rate. C is incorrect because capital spending plans take longer to formulate and implement, typically over a period of years. The slower the impact of a fiscal change, the more likely other exogenous changes will already be influencing the economy before the fiscal change kicks in.",
+      "answer_source": "red",
+      "tags": [
+        "describe tools of fiscal policy, including their advantages and disadvantages"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following is most likely a lagging economic indicator?",
+      "options": {
+        "A": "Inventory-sales ratio",
+        "B": "S&P 500 Stock Index",
+        "C": "Manufacturers' new orders for consumer goods and materials"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Inventories accumulate as sales initially decline then, once a business adjusts its ordering. become depleted as sales pick up, so this ratio tends to lag the cycle. B is incorrect because this is a leading economic indicator. Stock prices anticipate economic turning points, both up and down, so their movements offer a useful early signal on economic cycles. C is incorrect because this is a leading economic indicator. Businesses cannot wait too long to meet demands for materials consumer goods or materials without ordering, so these gauges tend to lead at upturns and downturns. Indirectly, changes in business sentiment as well, which also often leads the cycle.",
+      "answer_source": "red",
+      "tags": [
+        "describe how resource use, consumer and business activity, housing sector activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "As an economy moves from the gold standard to a system of fiat currency, the role of the central bank most likely.",
+      "options": {
+        "A": "becomes less crucial.",
+        "B": "remains unchanged.",
+        "C": "becomes more crucial."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Once an economy has moved to a system of fiat money, the role of the supplier of that money [the central bank] becomes even more crucial because they could, for example, expand the supply of this money indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies. A is incorrect because once an economy has moved to a system of fiat money, the role of the supplier of that money [the central bank] becomes even more crucial because they could, for example, expand the supply of this money indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies. B is incorrect because once an economy has moved to a system of fiat money, the role of the supplier of that money [the central bank] becomes even more crucial because they could, for example, expand the supply of this money Indefinitely should they wish to do so. Central banks therefore play a crucial role in modern economies as the suppliers and guardians of the value of their fiat currencies and as institutions charged with the role of maintaining confidence in their currencies.",
+      "answer_source": "red",
+      "tags": [
+        "describe the roles and objectives of central banks"
+      ]
+    }
+  ]
+}

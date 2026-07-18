@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "alternatives-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–21)",
+  "group": "1000 Question Bank — Alternative Investments",
+  "source": "1000 Practice Questions — Alternative Investments",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Compared to centralized cryptocurrency exchanges, decentralized exchanges are:",
+      "options": {
+        "A": "Less likely to be regulated and less susceptible to attacks from hackers.",
+        "B": "Less likely to be regulated and more susceptible to attacks from hackers.",
+        "C": "More likely to be regulated and less susceptible to attacks from hackers."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Decentralized exchanges lack a centralized control mechanism and operate on a distributed platform without central coordination or control. This comes with the benefit that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. That is why attacking decentralized exchanges is substantially more difficult. rendering such attacks almost certain to fail. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities Should the exchange's servers become compromised, the entire system may become paralyzed, halting trade, and leaking vital user information. Hence, decentralized exchanges are less susceptible to attacks from hackers. Moreover, decentralized exchanges are difficult to regulate because no single individual, organization, or group controls the system. This means that those trading on decentralized exchanges are generally free to transact without any regulatory scrutiny. However, some [centralized] exchanges are regulated, and depending on jurisdiction, these exchanges may be regulated as financial exchanges or other types of financial intermediaries. Hence, decentralized exchanges are less likely to be regulated. B is incorrect because decentralized exchanges lack a centralized control mechanism and operate on a distributed platform without central coordination or control. This comes with the benefit that should one of the computers on the network be attacked, the exchange remains operational since there are numerous other computers that continue to operate on the network. That is why attacking decentralized exchanges is substantially more difficult. rendering such attacks almost certain to fail. However, for a centralized exchange, trading is hosted on private servers, exposing the centralized exchanges and their clients to security vulnerabilities. Should the exchange's servers become compromised, the entire system may become paralyzed, halting trade, and leaking vital user information. Hence, decentralized exchanges are less (not more) susceptible to attacks from hackers. C is incorrect because decentralized exchanges are difficult to regulate because no single individual, organization, or group controls the system. This means that those trading on decentralized exchanges are generally free to transact without any regulatory scrutiny. However, some [centralized] exchanges are regulated, and depending on jurisdiction, these exchanges may be regulated as financial exchanges or other types of financial intermediaries. Hence, decentralized exchanges are less (not more) likely to be regulated.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment forms and vehicles used in digital asset investments."
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Which of the following forms of digital asset investment most likely involves the use of a cryptocurrency wallet?",
+      "options": {
+        "A": "Direct investment",
+        "B": "Indirect investment via ETFs",
+        "C": "Indirect investment via coin trusts"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Digital asset investment can take the form of direct investment on the blockchain or indirect investments. Direct ownership of bitcoin and other cryptocurrencies involves the use of a cryptocurrency wallet, which stores the (public and private) digital codes required to access the asset on a computer website or mobile device application. B is incorrect because an increasing number of exchange-traded products, such as ETFs, seek to replicate digital asset investment returns. These ETFS typically do not directly invest in cryptocurrencies and gain exposure to the value of cryptocurrencies using cash and cryptocurrency derivatives, Since a direct investment is made, a cryptocurrency wallet is not required. C is incorrect because cryptocurrency coin trusts allow investors to trade shares in trusts holding large pools of a cryptocurrency and that trade over the counter (OTC) and behave like closed-end funds. For an investor in a coin trust, there is no need to create a digital wallet and use encryption keys to invest in cryptocurrencies.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment forms and vehicles used in digital asset investments."
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "The correlation of cryptocurrencies with traditional assets has been:",
+      "options": {
+        "A": "Decreasing.",
+        "B": "Steady.",
+        "C": "Increasing."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The correlation of cryptocurrencies with traditional assets is on the rise. A is incorrect because the correlation of cryptocurrencies with traditional assets is on the rise. B is incorrect because the correlation of cryptocurrencies with traditional assets is on the rise.",
+      "answer_source": "red",
+      "tags": [
+        "analyze sources of risk, return, and diversification among digital asset investments"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Which of the following is most likely a major driver of bitcoin returns?",
+      "options": {
+        "A": "Increased market adoption",
+        "B": "The prospect of underlying cashflow generation",
+        "C": "Consistently high correlation with traditional asset classes"
+      },
+      "answer": "A",
+      "explanation": "A is correct. In practice, prices (or returns) of cryptocurrencies are driven more by market adoption, network effects, technological advancement, regulatory development, and general market risk appetite. B is incorrect because bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows. C is incorrect because since its launch in 2009, bitcoin's performance has been characterized by high return, high volatility, and low correlations with traditional asset classes. The fact that the correlation of cryptocurrencies with traditional assets is on the rise does not imply that the correlation of bitcoin and other cryptocurrencies has reached a high level yet, nor would a high level necessarily be a desirable feature.",
+      "answer_source": "red",
+      "tags": [
+        "analyze sources of risk, return, and diversification among digital asset investments"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Cryptocurrencies can be issued by:",
+      "options": {
+        "A": "individuals only.",
+        "B": "Corporations and organisations only.",
+        "C": "individuals, corporations and organisations."
+      },
+      "answer": "C",
+      "explanation": "C is correct. While there were around 70 cryptocurrencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals. A is incorrect because cryptocurrencies are not only issued by individuals but also by corporations and organizations. While there were around 70 cryptocurrencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals. B is incorrect because cryptocurrencies are not only issued by corporations and organizations but also by individuals. While there were around 70 cryptocurrencies recorded in 2013, by early 2022, there were close to 10,000 different cryptocurrencies issued by corporations, organizations, and in many cases, individuals.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of digital assets and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Compared to traditional financial assets, digital assets:",
+      "options": {
+        "A": "can be invested in through indirect investment vehicles such as ETFs.",
+        "B": "are generally recorded in private ledgers maintained by central intermediaries.",
+        "C": "do not have an inherent value based on underlying assets or on potential cash flows."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Unlike financial assets, most digital assets do not have an inherent value based on underlying assets or on the potential cash flow. A is incorrect because the main similarity [not difference] between these asset types is the emergence of indirect investment vehicles such as exchange-traded funds [ETFS] and hedge funds that invest both in traditional financial assets and in digital assets. B is incorrect because one key difference between digital assets and traditional financial instruments is that traditional [not digital] assets are generally recorded in private ledgers maintained by central intermediaries.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of digital assets and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A measure that restricts new investors in a hedge fund from redeeming their capital for a set amount of time in order to implement the fund's investment strategy is known as a:",
+      "options": {
+        "A": "gate.",
+        "B": "notice period.",
+        "C": "lockup period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Lockup periods—time periods when investors cannot withdraw their capital—provide the hedge fund manager the required time to implement and potentially realize a strategy's expected results. Lockup periods apply to new investors in a hedge fund with the goal of allowing the hedge fund manager time to implement the fund's investment strategy. A is incorrect because in addition, funds sometimes impose a gate, which limits or restricts redemptions for a period of time. A gate is imposed by the hedge fund manager independent of any lockup period that may apply. A gate therefore applies to all investors for a finite period of time while a lockup period applies to new investors only. B is incorrect because notice periods provide an opportunity for the hedge fund manager to liquidate a position in an orderly fashion without magnifying the losses. A notice period applies to all investors wanting to withdraw some or all of their capital from a hedge fund with the goal of providing the manager with advance warning of the withdrawal.",
+      "answer_source": "red",
+      "tags": [
+        "describe the performance appraisal of alternative investments"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Venture capital is best classified as a sub-category of.",
+      "options": {
+        "A": "real estate.",
+        "B": "hedge funds.",
+        "C": "private equity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Venture capital funds, a specialized form of private equity that typically involves investing in or providing financing to startup or early-stage companies with high growth potential, represent a small portion of the private equity market. A is incorrect because real estate investments are made in buildings or land, either directly or indirectly. Although some venture capital investments may have a real estate component, venture capital is broadly considered a type of private equity investing, and is best classified as such. B is incorrect because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although venture capital investments may be included in some hedge funds, venture capital is broadly considered a type of private equity investing, and is best classified as such.",
+      "answer_source": "red",
+      "tags": [
+        "describe features and categories of alternative investments"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "A leveraged loan is best defined as a loan:",
+      "options": {
+        "A": "that is itself levered.",
+        "B": "to mature companies in financial difficulty.",
+        "C": "that comes with warrants or conversion rights."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A leveraged loan is a loan that is itself levered. Private debt firms that invest in leveraged loans first borrow money to finance the debt and then extend it to another borrower. By using leverage, a private debt firm can enhance the return on its loan portfolio. B is incorrect because involvement in distressed debt typically entails buying the debt of mature companies in financial difficulty. These companies may be in bankruptcy, have defaulted on debt, or seem likely to default on debt Some investors identify companies with a temporary cash-flow problem but a good business plan to help the company survive and ultimately flourish. These investors buy the company's debt, expecting both the company and its debt to increase in value. Turnaround investors buy debt aiming to be more active in distressed company management and direction, seeking to restructure and revive them. C is incorrect because mezzanine debt often comes with additional features, such as warrants or conversion rights. These provide equity participation to lenders/investors, conveying the option to convert their debt into equity or purchasing the equity of the underlying borrower under certain circumstances.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private debt and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "From the perspective of a private equity firm, an advantage of exiting a portfolio company through a special purpose acquisition company (SPAC) most likely include:",
+      "options": {
+        "A": "floating valuation.",
+        "B": "flexibility of the transaction structure.",
+        "C": "lower deal risk due to restrictions on redemptions."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Advantages of a SPAC exit include: a. extended time for public disclosure on company prospects to build investor interest. b. fixed valuation with lower volatility of share pricing. c. flexibility of transaction structure to best suit the company's context, and d. association with potentially high-profile and seasoned sponsors and their extensive investor network. A is incorrect because advantages of a SPAC exit include fixed valuation with lower volatility of share pricing. C is incorrect because redemptions are allowed and increase the deal risk. Also, disadvantages include a. potential higher costs of capital from sponsor dilution, warrants, and other fees, b. spread between the announced and true equity value because of the dilution, c. deal and capital risk due to potential redemptions, and d. significant stockholder overhang and churn over the number of months after the merger.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private equity and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "With respect to private equity, the growth capital strategy is also known as:",
+      "options": {
+        "A": "venture capital.",
+        "B": "recapitalization.",
+        "C": "minority equity investing."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Among several other specialties, some private equity firms specialize in growth capital, also known as growth equity or minority equity investing. Growth capital generally refers to minority equity investments, whereby the firm takes a less-than-controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions. A is incorrect because venture capital is a different private equity strategy from growth capital. Venture capital (VC) entails investing in or providing financing to private companies with high growth potential. Typically these are start-ups or young companies, but venture capital can be provided at a variety of stages, ranging from the inception of an idea for a company to the point when the company is about to launch an IPO (initial public offering) or be acquired. Growth capital generally refers to minority equity investments, whereby the firm takes a less-than-controlling interest in more mature companies that are looking for capital to expand or restructure operations, enter new markets, or finance major acquisitions. B is incorrect because it is an exit strategy. Recapitalization in the context of private equity describes the steps a firm takes to increase or introduce leverage to its portfolio company and pay itself a dividend out of the new capital structure.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private equity and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following hedge fund investments require the highest level of scrutiny and due diligence?",
+      "options": {
+        "A": "Level 1 assets",
+        "B": "Level 2 assets",
+        "C": "Level 3 assets"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Any investment vehicle that is heavily involved with Level 3-priced assets deserves increased scrutiny and due diligence. The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing... Level 3 asset values are computed using only internal models when outsider broker (Level 2) quotes are not available or not reliable. A is incorrect because Level 1 assets have an exchange-traded, publicly traded price available that is mandated to be used for valuation purposes. The following is a methodology that involves the categorization of investments into three buckets Level 1, 2, and 3 asset pricing... Level 1 assets have an exchange-traded, publicly traded price available that is mandated to be used for valuation purposes. B is incorrect because Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available The following is a methodology that involves the categorization of investments into three buckets: Level 1, 2, and 3 asset pricing. Level 2 asset values use outside quotes from brokers when publicly traded (Level 1) prices are not available.",
+      "answer_source": "red",
+      "tags": [
+        "describe the performance appraisal of alternative investments"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Hedge funds are most likely to place restrictions on:",
+      "options": {
+        "A": "redemptions.",
+        "B": "the use of leverage.",
+        "C": "the use of derivatives."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Alternative investments often have many of the following characteristics. Restrictions on redemptions (.e., 'lockups' and 'gates'). As such, restrictions on redemptions are typically imposed [by hedge funds]. Investors may be required to keep their money in the hedge fund for a minimum period (referred to as a lockup period) before they are allowed to make withdrawals or redeem shares. Investors may be required to give notice of their intent to redeem, the notice period is typically 30-90 days. To redeem shares, investors may be charged a fee, typically payable to the fund itself (rather than the manager) so as not to disadvantage remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period. B is incorrect because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. Although hedge funds may be invested entirely in traditional assets, these vehicles are considered alternative because of their private nature. Hedge funds typically have more leeway to pursue investments and strategies offering the potential for higher returns, whether absolute or compared with a specific market benchmark, but these strategies may increase the risk of investment loss. They may involve long and short positions and may be highly leveraged Some aim to deliver investment performance that is independent of broader market performance. C is incorrect because hedge funds are private investment vehicles that manage portfolios of securities and/or derivative positions using a variety of strategies. They may involve long and short positions and may be highly leveraged. Some aim to deliver investment performance that is independent of broader market performance. A contemporary hedge fund generally has the following characteristics: It is a creatively managed portfolio of investments involved in one or more asset classes (equities, credit, fixed income, commodities, futures, foreign exchange, and sometimes even hard assets, such as real estate), sometimes trading in different geographic regions, that is often leveraged, generally takes both long and short positions (when possible), and quite often uses derivatives to express a view or establish a hedge.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Crude oil is categorized as:",
+      "options": {
+        "A": "a soft commodity.",
+        "B": "a hard commodity.",
+        "C": "neither a soft commodity nor a hard commodity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee). A is incorrect because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft' (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee). C is incorrect because oil is categorized as a hard, not a soft, commodity. Commodities are considered either 'hard (those mined, such as copper, or extracted, such as oil) or 'soft (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee).",
+      "answer_source": "red",
+      "tags": [
+        "describe features of commodities and their investment characteristics"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Compared with direct investing, co-investing in alternative investments most likely offers:",
+      "options": {
+        "A": "reduced control over the investment selection process.",
+        "B": "the same level of control over the investment selection process.",
+        "C": "higher control over the investment selection process."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Co-investing offers reduced control over the investment selection process compared with direct investing. B is incorrect because co-investing offers reduced control over the investment selection process compared with direct investing. C is incorrect because co-investing offers reduced control over the investment selection process compared with direct investing.",
+      "answer_source": "red",
+      "tags": [
+        "Compare direct investment, co-investment, and fund investment methods for alternative investments"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Which of the following methods of investing in alternative investments provides the most flexibility to the investor?",
+      "options": {
+        "A": "Co-investing",
+        "B": "Fund investing",
+        "C": "Direct investing"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Direct investing allows the investor to build a portfolio of investments to her exact requirements. Direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed. A is incorrect because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed. B is incorrect because direct investing provides the greatest amount of flexibility for the investor and grants the highest level of control over how the asset is managed.",
+      "answer_source": "red",
+      "tags": [
+        "compare direct investment, co-investment, and fund investment methods for alternative investments"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Which of the following is best classified as a commodity?",
+      "options": {
+        "A": "Livestock",
+        "B": "Timberland",
+        "C": "Agricultural land"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Commodity investments may involve investing in actual physical commodities or in producers of commodities. Commodities are considered either 'hard' (those mined, such as copper, or extracted, such as oil) or 'soft' (those grown over a period of time, such as livestock, grains, and cash crops, such as coffee). B is incorrect because timberland is a separate component of natural resources, not a commodity. Natural resources include commodities (hard and soft), agricultural land (farmland), and timberland. C is incorrect because resources include agricultural land is a separate component of natural resources, not a commodity. Natural commodities (hard and soft), agricultural land (farmland), and timberland.",
+      "answer_source": "red",
+      "tags": [
+        "describe features of commodities and their investment characteristics"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Investors in greenfield infrastructure projects typically:",
+      "options": {
+        "A": "rely on the assets' financial and operating history.",
+        "B": "invest alongside strategic investors or developers.",
+        "C": "have lower development risk than investors in brownfield projects."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Greenfield investors typically invest alongside strategic investors or developers who specialize in developing the underlying assets. A is incorrect because it is for brownfield, not greenfield, investors that, typically, some of the assets' financial and operating history is available. C is incorrect because investing in infrastructure assets that are to be constructed is generally referred to as greenfield investment. Thus, greenfield investors face higher development and construction risks compared to brownfield investors, and may expect capital appreciation to reflect the construction and commissioning risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of infrastructure"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM): $500 million Annual return before fees: 22% Management fee, based on end-of-year AUM before fees: 2% Incentive fee: 15% Hard hurdle rate: 10% Q. The incentive fee (in $ millions) based on returns net of management fees is closest to:",
+      "options": {
+        "A": "7.2.",
+        "B": "13.0.",
+        "C": "14.7."
+      },
+      "answer": "A",
+      "explanation": "A is correct. End-of-year AUM = $500 million x 22% = $610 million. Management fee = $610 million x 2% = $12.2 million. The hurdle rate is a minimum rate of return. typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Hard hurdle = $500 million x 10% $50 million. Incentive fee (based on returns net of management fees) = ($610 million - $500 million - $50 million - $12.2 million) x 15% = $47.8 million x 15% = $7.17 million $7.2 million. B is incorrect because it calculates the hurdle rate on the annual return before fees (instead of the Beginning-of-year AUM). End-of-year AUM = $500 million x 22% = $610 million. Management fee = $610 million x 2% = $12.2 million. Hard hurdle = ($610 million - $500 million) x 10% = $110 million x 10% = $11.0 million. Incentive fee (calculated net of management fees) = ($610 million - $500 million - $11.0 million - $12.2 million) x 15% $86.8 million x 15% = $13.02 million $13.0 million. C is incorrect because it assumes a soft hurdle rate (instead of a hard hurdle rate) of 10%. End-of-year AUM = $500 million x 22% = $610 million. Management fee = $610 million x 2% = $12.2 million. Gross annual return> soft hurdle rate, hence the hurdle rate is not deducted from the calculation of the incentive fee. Incentive fee (calculated net of management fees) = ($610 million - $500 million - $12.2 million) x 15% = $97.8 million * 15% = $14.67 million $14.7 million.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "A hedge fund strategy that seeks to influence a company's policies through the purchase of equity is best described as a(n):",
+      "options": {
+        "A": "activist strategy.",
+        "B": "market-neutral strategy.",
+        "C": "merger arbitrage strategy."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Event-driven strategies seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring. Further subdivisions of this category by HFR include the following: Activist. The term \"activist\" is short for \"activist shareholder.\" Here, managers secure sufficient equity holdings to allow them to influence a company's policies or direction. The hedge fund manager thus tries to create his or her own catalyst, influencing the investment's ultimate destiny by creating a desired corporate outcome. B is incorrect because equity hedge strategies are focused on public equity markets and take long and short positions in equity and equity derivative securities. Examples of equity hedge strategies include the in equity and equity derivative securities. Examples of equity hedge strategies include the following: Market neutral. These strategies use quantitative (technical) and fundamental analysis to identify under- and overvalued equity securities. The hedge fund takes long positions in securities it has identified as undervalued and short positions in securities it has identified as overvalued. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.) ideally, the portfolio has an overall beta of approximately zero. C is incorrect because event-driven strategies seek to profit from defined catalyst events, typically those that involve changes in corporate structure, such as an acquisition or restructuring Further subdivisions of this category by HFR include the following. Merger arbitrage. Generally, these strategies involve going long (buying) the stock of the company being acquired at a discount to its announced takeover price and going short (selling) the stock of the acquiring company when the merger or acquisition is announced. The manager may expect to profit once the initial deal spread narrows to the closing value of the transaction after it is fully consummated. The spread exists because there is always some uncertainty over whether the deal will actually close in the face of legal and regulatory hurdles.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Event-driven hedge fund strategies are most likely.",
+      "options": {
+        "A": "long biased.",
+        "B": "based on 'top-down' analysis.",
+        "C": "exploiting short-term pricing discrepancies between two related securities."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Event-driven strategies tend to be long biased, with merger arbitrage having the least bias. B is incorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring. They are considered to be based on bottom-up security-specific analysis, as opposed to top-down analysis. C is incorrect because event-driven strategies seek to profit from defined catalyst events, typically involving changes in corporate structure, such as an acquisition or restructuring. It is relative value funds that seek to profit from a pricing discrepancy between related securities based on an unusual short-term relationship.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    }
+  ]
+}

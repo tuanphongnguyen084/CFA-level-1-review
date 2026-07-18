@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-2",
+  "name": "1000 Câu Hỏi — Đề 2 (câu 23–44)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "With respect to the statement of cash flows under the indirect method, which of the Following will increase net cash provided by operating activities compared to net income? An increase in",
+      "options": {
+        "A": "inventory",
+        "B": "accounts payable",
+        "C": "accounts receivable"
+      },
+      "answer": "B",
+      "explanation": "B is correct. An increase in accounts payable means that less was paid than was purchased from suppliers. If accounts payable increased during the year, then purchases on an accrual basis would be higher than they would be on a cash basis, and vice versa. A is incorrect because an increase in inventory increases purchases from suppliers compared to cost of goods sold to determine purchases from suppliers, cost of goods sold is adjusted for the change in inventory. If inventory increased during the year, then purchases during the year exceeded cost of goods sold, and vice versa. C is incorrect because an increase in accounts receivable means that less was collected than was sold. To determine the approximate cash receipts from customers, it is necessary to adjust this revenue amount by the net change in accounts receivable for the year. If accounts receivable increase during the year, revenue on an accrual basis is higher than cash recepts from customers, and vice versa.",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Ignoring income taxes, acquiring an intangible asset would most likely result in",
+      "options": {
+        "A": "a lower net operating cash flow than internally developing the intangible asset",
+        "B": "the same net operating cash flow than internally developing the intangible asset",
+        "C": "a higher net operating cash flow than internally developing the intangible asset"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Acquiring an intangible asset is an investing activity whereas internally developing an intangible asset can be a combination of operating and investing activities. On the statement of cash flows, costs of internally developing intangible assets are classified as operating cash outflows whereas costs of acquiring intangible assets are classified as investing cash outflows. Cost of acquiring intangible assets are classified investing cash outflows. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalised as an intangible asset. IFRS alow companies to recognise an intangible asset arising from development (or the development phase of an internal project) if certain criteria are met, including a demonstration of the technical feasibility of completing the intangible asset and the intent to use or sell the asset. A is incorrect because acquiring an intangible asset is an investing activity whereas internally developing in intangible asset can be a combination of operating and investing activity. Costs of acquiring intangible assets are classified as investing cash outflows. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalised as an Intangible asset. IFRS allow companies to capitalise an intangible asset arising from development (or the development phase of an internal project) if certain criteria are met, including demonstration of the technical feasibility of completing the intangible asset and the intent to use or sell the asset. Consequently, acquiring an intangible asset would result in lower operating cast outflows than internally developing the intangible assets (as the latter would result in increased operating cash outflows during the research phase). B is incorrect because acquiring an intangible asset is an investing activity whereas internally developing in intangible asset can be a combination of operating and investing activity. On the statement of cash flows, costs of internally developing intangible assets are classified as operating cash outflows whereas costs of acquiring intangible assets are classed as investing cash outflows.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Which of the following is most accurate with respect to inherent limitations of audit?",
+      "options": {
+        "A": "An audit opinion is based on review of information only prepared by the auditor",
+        "B": "An audit is based on an exhaustive review of all transactions during a financial year",
+        "C": "An expectations gap may exist between the auditor's rule and the public's expectation of auditors"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An “expectation gap” may exist between the auditor’s role and the public’s expectation of auditors. An audit is not typically intended to detect fraud, it is intended to provide assurance that the financial reports are fairly presented. A is incorrect because an audit is based on a review of information provided by the company, not the auditor. Although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An audit opinion is based on a review of information prepared by the company. B is incorrect because an audit is based on sampling, not an exhaustive review of all transactions. Although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An audit is based on sampling and the sample might not reveal misstatements.",
+      "answer_source": "red",
+      "tags": [
+        "describe mechanisms the discipline financial reporting quality and the potential limitations of those mechanisms"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "An analyst gathers the following Information about a company for its fiscal year ended 31 December Net income €80,000 Common dividends declared are paid €16,000 Preferred dividends declared and paid €10,000 Weighted average common shares outstanding 150,000 Common shares outstanding at year end 130,000 Basic EFS is closest to",
+      "options": {
+        "A": "€0.36",
+        "B": "€0.47.",
+        "C": "€0.54."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Basic EPS (Net income - Preferred dividends)/(Weighted average number of shares outstanding) = (€80,000-€10,000)/150.000 = 0.47. A is incorrect because it reduces net income by the common and preferred dividend account. Basic EPS = (Net income - Common dividends - Preferred dividends) / weighted average number of shares outstanding) = (€80.000 - €16,000 - €10,000) / 150 000 = €0.36. C is incorrect because it uses the common shares outstanding at year end as the denominator. Basic EPS = €80,000 - €10,000) / 130,000 = €0.54.",
+      "answer_source": "red",
+      "tags": [
+        "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Which of the following opinions is the best indication that the auditor believes that the financial statements depart materially from accounting standards and are not fairly presented?",
+      "options": {
+        "A": "Adverse opinion",
+        "B": "Qualified opinion",
+        "C": "Disclaimer of opinion"
+      },
+      "answer": "A",
+      "explanation": "A is correct. An adverse audit opinion is issued when an auditor determines that the financial statements depart materially from accounting standards and are not fairly presented. B is incorrect because a qualified audit opinion is one in which there is some scope limitation or exception to accounting standards. Exceptions are described in the audit report with additional explanatory paragraphs so that the analyst can determine the importance of the exception. C is incorrect because a disclaimer of opinion occurs when, for some reason, such as a scope limitation, the auditors are unable to issue an opinion.",
+      "answer_source": "red",
+      "tags": [
+        "describe the importance of regulatory filings, financial statement rules and supplementary information, management's commentary, and audit reports"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "An analyst gathers the following information about a company. Payables turnover 8 Inventory turnover 2 Receivables turnover 10 If all purchases and sales were made on credit, the cash conversion cycle (based on a 360-day year) is",
+      "options": {
+        "A": "99 days",
+        "B": "171 days",
+        "C": "251 days."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Cash conversion cycle (CCC) = DOH + DSO - Number of days of payables. DOH = Number of days in period/ inventory turnover = 360/2 = 180 days. DSO = Number of days in period/ Receivables turnover-360/10 = 36 days. Number of days of payables Number of days in period /Payables turnover = 360/8 = 45 days Thus CCC = 180+36-45 = 171 days. A is incorrect because DSO was subtracted to derive CCC. Accordingly, CCC = DOH - DSO - Number of days of payables = 180 – 36 - 45 = 99 days. C is incorrect because Number of days of payables was added to derive CCC Accordingly CCC = DCH + DRO + Number of days of payables = 180+36 +45 =261 days.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret activity, Liquidity, solvency and profitability ratios"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "An analyst gathers the following information (in $ thousands) about a company Net income 10,000 Gain on debt retirement 500 Decrease in working capital 2,000 Cash flow from operating activities (in $ thousands) is",
+      "options": {
+        "A": "8.500.",
+        "B": "11,500",
+        "C": "12.000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Cash flow from operating activities = Net income + Decrease in working capital - Gain on retirement on debt = 10,000+2000-500 = 11,500. A is incorrect because it reverses all signs and calculates Cash flow from operating activities = Net income – Decrease in working capital + Gain on retirement on debt = 10.000 -2,000 + 500 - 8,500. C is incorrect because it reverses the sign on gain on retirement on debt and calculates Cash flow from operating activities = Net income + Decrease in working capital + Gain on retirement on debt = 10,000 + 2.000 – 500 = 12,500.",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using Income statement and balance sheet data"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following may be reported using the modified retrospective method?",
+      "options": {
+        "A": "Corrections of prior period errors",
+        "B": "Changes in estimated useful life of PP&E",
+        "C": "Changes in accounting policies based on the new revenue recognition standard"
+      },
+      "answer": "C",
+      "explanation": "C is correct. At times standard setters issue new standards that require companies to change accounting policies. Depending on the standard, companies may be permitted to adopt the standards prospectively (in the future) or retrospectively (restate financial statements as though the standard existed in the past) while the new revenue recognition standard also offered companies the option of using a modified retrospective method of adoption. Under the modified retrospective approach, companies were not required to revise previously reported financial statements. Instead, they adjusted the opening balances of retained earnings (and other applicable accounts) for the cumulative Impact of the new standard. A is incorrect because correction of an error for a prior period is handled by restating the financial statements including the balance presented sheet statement of owners’ equity, and cash flow statements to the prior periods, presented in the current financial statement in the current. Thus, it uses the “full retrospective method\" which requires companies to restate prior periods’ results. B is incorrect because changes accounting estimates are handled prospectively, with the change affecting the financial statements for the period of change and future periods.",
+      "answer_source": "red",
+      "tags": [
+        "describe the financial reporting treatment and analysis of non-recurring items (including discontinued operations, unusual or infrequent items) and changes in accounting policies"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "An analyst gathers the following information (in millions) about a company before any revaluations: Average total assets 20 Average total liabilities 0 Average total equity 12 An initial revaluation increases the carrying value of the asset valued under the revaluation model. Ignoring taxes, the financial leverage ratio most likely",
+      "options": {
+        "A": "decreases",
+        "B": "remains the same.",
+        "C": "increases"
+      },
+      "answer": "A",
+      "explanation": "A is correct. An upward revaluation is treated the same as the amount in excess of the reversal amount. In other words, if a revaluation initially increases the carrying amount of the asset class, the increase in the carrying asset class bypasses the income statement and goes directly to equity under the heading of revaluation surplus. The financial leverage ratio is the average total assets divided by average total equity. Increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio). B is incorrect because leverage is the average total assets divided by average shareholders’ equity, increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the ratio (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio). C is incorrect because leverage is the average total assets divided by average shareholders' equity, increasing both the numerator (assets) and denominator (equity) by the same amount leads to a decline in the ratio (Mathematically, when a ratio is greater than one, as in this case, an increase in both the numerator and the denominator by the same amount leads to a decline in the ratio).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "An analyst gathers the following information (in € thousands) about a company Net Income 143 Gain on sale of equipment 20 Decrease in accounts receivable 38 Cash flow from operating activities (in € thousands) is",
+      "options": {
+        "A": "85",
+        "B": "161.",
+        "C": "201."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Changes in working capital accounts include increases and decreases in the current operating asset and liability accounts. To make the working capital adjustments under the indirect method, any increase in a current operating asset account is subtracted from net income and a net decrease is added to net income. When calculating operating cash flow under the indirect method, gain on sale of assets are subjected from net income. Accordingly, cash flow from operating activities Net income gain on sale of equipment + decrease in accounts receivable = 143-20+38 = 161. A is incorrect because decrease in accounts receivable was deducted rather than added Consequently, cash flow from operating activities = Net income - gain on sale of equipment - decrease in accounts receivable = 143 - 20 – 38 = 85. C is incorrect because gain on sale of equipment was added rather than deducted from net income. Consequently, cash flow from operating activities = Net income + gain on sale of equipment decrease in accounts receivable= 143 +20 +36 =201.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Under US GAAP and all else being equal in a period of stable inventory quantities and rising inventory unit costs. Which inventory valuation method is least likely to incur inventory write downs?",
+      "options": {
+        "A": "FIFO",
+        "B": "LIFO",
+        "C": "Weighted average cost"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs than companies that use the LIFO method. Under the LIFO method, the oldest costs are reflected in the inventory carrying amount on the balance sheet. Given increasing inventory costs, the inventory carrying amounts under the LIFO method are already conservatively presented at the oldest and lowest costs. Thus, it is far less likely that inventory write-downs will occur under LIFO, and if a write-down does occur, it is likely to be of a lesser magnitude. A is incorrect because companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs then compares that use the LIFO method. C is incorrect because companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs than companies that use the LIFO method.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which of the following analyses can be used to compare a company's financial ratios with those of its major competitors?",
+      "options": {
+        "A": "Trend only",
+        "B": "Cross-sectional only",
+        "C": "Both trend and cross sectional"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Both types of analyses are used to compare a company's financial ratios with those of its competitors. In general, the financial ratios of a company are compared with those of its major competitors (cross-sectional and trend analysis) and to the company's prior periods (trend analysis). A is incorrect because both trend and cross-sectional analyses are used to compare a company's financial ratios with those of its competitors. In general, the financial ratios of a company are compared with those of its major competitors (cross-sectional and trend analysis) and to the company's prior periods trend analysis). B is incorrect because both trend and cross-sectional analyses are used to compare a company's financial ratios with those of is competitors. In general, the finance ratios of a company are compared with those of is major competitors (cross sectional and trend analysis) and to the company's prior periods trend analysis).",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret activity, liquidity, solvency, and profitability ratios"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "An analyst gathers the following information about a company's Fiscal year ended 31 December Net income $210,000 Common shares outstanding on 1 January 50.000 Common shares repurchased on 1 April 20.000 If a 2-for-1 stock split took effect on 1 July, basic EPS for the year is",
+      "options": {
+        "A": "$3.00.",
+        "B": "$3.50.",
+        "C": "54.20."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Basic EPS = (Net income – Preferred Dividends) / Weighted average number of shares outstanding = ($210,000 - $0) / [(50,000 × 3/12) + (30,000 × 9/12) * 2] = ($210,000) / [(12,500 + 22,500)*2] = $210,000 / 700,00 = $3.00. B is incorrect because it incorrectly calculates the weighted average number of shares outstanding. C is incorrect because it also miscalculates the weighted average number of shares outstanding.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "An analyst gathers the following information about two companies in thousands) Company 1 Company 2 Revenue 7,586,000 9,445,000 Cost of goods sold 3,413,700 4,533,600 Research and development expense 1,800,000 1,800,000 Advertising expense 531,020 755,600 Based only on the companies' common size income statements, it appears that",
+      "options": {
+        "A": "Company 1 spent more on advertising than Company 2",
+        "B": "both companies spent equally on research and development",
+        "C": "Company 1 has a higher gross profit margin than Company 2."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Common-size analysis of the income statement can be performed by stating each line item on the income statement as a percentage of revenue. Accordingly. Company 1's gross profit margin (7,586,000- 3.413,700) / 7,586,000 = 55%, being higher than Company 2's gross profit margin of (9,445,000-4.533,600) / 9.445,000 = 52%.",
+      "answer_source": "red",
+      "tags": [
+        "evaluate a company's financial performance using common-size Income statements and financial ratios based on the Income statement"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "A deferred tax liability could arise when",
+      "options": {
+        "A": "the tax base of an asset is greater than its carrying amount",
+        "B": "the carrying amount of a liability is greater than its tax base.",
+        "C": "financial accounting income tax expense exceeds income tax payable"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Deferred tax liabilities arise when a financial accounting income tax expense exceeds income taxes payable. A is incorrect because deferred tax assets, rather than deferred tax liabilities arise when the tax base of an assets greater than its carrying amount. B is incorrect because deferred tax assets, rather than deferred tax abilities arise when the carrying amount of a liability is greater than its tax base.",
+      "answer_source": "red",
+      "tags": [
+        "contrast accounting profit, taxable income taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An analyst gathers the following information (in € millions) about a company's fiscal year: Cost of goods sold 5,000 Increase in inventory 3,000 Increase in accounts payable 2.500 Case paid to suppliers (in € millions) is",
+      "options": {
+        "A": "6,500.",
+        "B": "9,000.",
+        "C": "11,500."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Cash paid to suppliers = Cost of goods sold + Increase in inventory - Increase in accounts payable = €5,000 + €3,000 - €2,500 = €5,500 - €2,500 = €6,500. B is incorrect because it excludes the increase in accounts payable and miscalculates Purchases from suppliers instead of Cash paid to suppliers. C is incorrect because it mistakenly added, rather than subtracted the increase in accounts payable in the calculation of Cash paid to suppliers.",
+      "answer_source": "red",
+      "tags": [
+        "demonstrate the conversion of cash flows from the indirect to direct method"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "An analyst gathers the following information about a company for its fiscal year ended 31 December: Net income €3 000 000 Common shares outstanding, January 3.500,000 Common shares issued, 1 April 1,000,000 Common shares outstanding 31 December 4,500,000 Convertible preferred shares outstanding 400,000 Convertible preformed dividend per share €1.00 Each convertible preferred share is convertible into two common shares, if there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
+      "options": {
+        "A": "€0.51",
+        "B": "€0.57",
+        "C": "€0.59"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Diluted EPS = Net income / (Weighted average number of common shares + New common shares issued at conversion). Weighted average number of common shares during the year = 3,500,000 + (1,000,000 × 9/12) = 4,250,000, considering the shares issued on April 1, which are outstanding for 9 out of the 12 months of the year. New shares issued at conversion = 400,000 × 2 = 800,000. Diluted EPS = €3,000,000 / (4,250,000 + 800,000) = €3,000,000 / 5,050,000 = €0.5941 (rounded to €0.59). The Basic EPS formula: Basic EPS = (Net income - Preferred dividend) / Weighted average common shares = (€3,000,000 - €400,000) / 4,250,000 = €2,600,000 / 4,250,000 = €0.6118. As the reported diluted EPS of €0.59 is less than the basic EPS of €0.6118, the convertible preferred shares are not anti-dilutive. Therefore, the reported diluted EPS is €0.59.",
+      "answer_source": "red",
+      "tags": [
+        "describe how earnings per share is calculated and calculate and interpret a company's basic and diluted earnings per share for companies with simple and complex capital structures including those with anti-dilutive securities"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "An analyst gathers the following Information (in thousands) about a company. Cash flow from operating activities 80 Capital expenditures 15 Interest paid and expensed 10 If interest paid is classified as a cash flow from operating activities and the income tax rate is 20%, FCFF (in € thousands) is:",
+      "options": {
+        "A": "57",
+        "B": "65",
+        "C": "73"
+      },
+      "answer": "C",
+      "explanation": "C is correct. FCFF can be computed from cash flow from operating activities as FCFF = CFO + int(1 - Tax rate) - FCInv. CFO represents cash flow from operating activities under US GAAP or under IFRS where the company has included interest paid in operating activities. Accordingly, FCFF = 80 + [10 × (1 - 0.20)] - 15 = 80 + (10 × 0.80) - 15 = 80 + 8 - 15 = €73. A is incorrect because it subtracted the after-tax interest adjustment instead of adding it back. Therefore, FCFF = 80 - 10 × (1 - 0.20) - 15 = 80 - (10 × 0.80) - 15 = 80 - 8 - 15 = €57. B is incorrect because it incorrectly assumed that interest expensed and paid was included in financing activities and did not adjust for int(1 - Tax rate). Accordingly, FCFF = CFO – FCInv = 80 - 15 = €65.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "A qualified audit opinion is most likely issued when financial statements are prepared",
+      "options": {
+        "A": "In compliance with accounting standards",
+        "B": "with material departures from accounting standards",
+        "C": "with some Limitation or exception to accounting standards"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Financial statements showing \"scope limitation or exception to accounting standards\" will earn a qualified opinion. A is incorrect because financial statements that are in compliance with accounting standards generally receive an unqualified (clean) opinion. B is incorrect because material departures from accounting standards will typically result in an adverse opinion, not a qualified one.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Common size statements are most likely the output of which of the following phases of the financial statement analysis framework?",
+      "options": {
+        "A": "Process data",
+        "B": "Analyze interpret the processed data",
+        "C": "Develop and communicate conclusions and recommendations"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Common-size statements are an output of the \"process data\" phase of the financial statement analysis framework. B is incorrect because analytical results, rather than common-size statements, are the output of the \"analyze and interpret the processed data\" phase. C is incorrect because analytical reports and recommendations, not common-size statements, are the outputs of the \"develop and communicate conclusions and recommendations\" phase.",
+      "answer_source": "manual"
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "An analyst gathers the following information about a company's fiscal year ended 31 December Interest payable on 1 January €45,000 Cash interest paid during the year €15,000 Interest expense during the year €50,000 Interest payable on 31 December is:",
+      "options": {
+        "A": "€30,000",
+        "B": "€80,000",
+        "C": "€95,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Ending Interest payable - Beginning Interest payable + Interest expense - Cash paid for interest. Accordingly, Ending interest payable = Beginning interest payable + Interest expense - Cash paid for interest = €45,000 + €50,000 - €15,000 = €80,000. A is incorrect because interest expense was not added. Accordingly, Ending interest payable = Beginning interest payable - Cash paid for Interest = €45,000 - €15,000 = €30,000. C is incorrect because Cash paid for interest was not deducted. Accordingly, Ending interest payable = Beginning interest payable + Interest expense = €45,000 + €50,000 - €95,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "An analyst gathers the following Information (in € thousands) about a company: FCFF 2500 FCFE 1,300 Interest paid 260 If Interest paid is classified as a cash flow from operating activities and the income tax rate is 40%, net debt repayment (in € thousands) is closest to",
+      "options": {
+        "A": "940",
+        "B": "1,044.",
+        "C": "1,200."
+      },
+      "answer": "B",
+      "explanation": "B is correct. FCFF = CFO + Interest paid (1 - Tax rate) – CapEx (“FCInv”). In addition FCFE = CFO - FCInv + Net debt repayment. Rearranging FCFF: CFO - FCInv = FCFF - Interest paid (1 - Tax rate). Rearranging FCFE: CFO - FCInv = FCFE + Net debt repayment. Therefore: FCFF - Interest paid (1 - Tax rate) = FCFE + Net debt repayment → 2,500 - (260 × (1 - 40%)) = 1300 + Net debt repayment Hence, Net debt repayment = 2,344 - 1,300 = 1,044. A is incorrect because it subtracts the entire interest payment instead of the net-of-tax interest amount. Therefore, FCFF - Interest paid - FCFE does not equal net debt repayment. The calculation results in 2,500 - 260 - 1,300 = 940, which is not the correct net debt repayment. C is incorrect because it assumes interest paid is classified as a cash flow from financing activities and doesn't need to be added back to CFO. Consequently, the calculations made are not in line with the correct net debt repayment.",
+      "answer_source": "red"
+    }
+  ]
+}

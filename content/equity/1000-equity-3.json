@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 45–67)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "Q.Management is more likely to focus on short-term results instead of long-term earnings growth if a company raises equity through:",
+      "options": {
+        "A": "venture capital.",
+        "B": "a leveraged buyout.",
+        "C": "an initial public offering."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In operating a publicly traded company, management often feels pressured to focus on short-term results (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-term price performance) instead of operating the company to obtain long-term sustainable revenue and earnings growth. A is incorrect because By going private, management can adopt a more long-term focus and can eliminate certain costs that are necessary to operate a publicly traded company. Whereas in operating a publicly traded company, management often feels pressured to focus on short-term results (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-term price performance) instead of operating the company to obtain long-term sustainable revenue and earnings growth. There are three primary types of private equity investments: venture capital, leveraged buyouts, and private investment in public equity (or PIPE). B is incorrect because By going private, management can adopt a more long-term focus and can eliminate certain costs that are necessary to operate a publicly traded company. Whereas in operating a publicly traded company, management often feels pressured to focus on short-term results (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-term price performance) instead of operating the company to obtain long-term sustainable revenue and earnings growth. There are three primary types of private equity investments: venture capital, leveraged buyouts, and private investment in public equity (or PIPE).",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast public and private equity securities"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Q. If the index's value is 100 at the beginning of Period 1, the index's value at the end of Period 3 is closest to:",
+      "options": {
+        "A": "103.",
+        "B": "105.",
+        "C": "106."
+      },
+      "answer": "B",
+      "explanation": "B is correct. It is the value of the index at the end of period 3 = Beginning value x (1+Period 1 return) x (1 + Period 2 return) x (1 + Period 3 return) = 100 ×(100+12%)×(100-8%)×(1+2%) ~ 105.10, which is closest to 105. A is incorrect because The value of the index at the end of period 2, not Period 3 = Beginning value x (1 + Period 1 return) x (1 + Period 2 return) = 100 ×(100+12%)×(100-8%) = 103.04, which is closest to 103. C is incorrect because Returns for the three periods are added, not compounded: Beginning value + (100 x Period 1 return) + (100 x Period 2 return) + (100 x Period 3 return) = 100+ (100×12%)+(100×8%) + (100×2%) = 100+128+2=106.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the value, price return, and total return of an index"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "Q. If the cost to fill trades increases, the market's informational efficiency most likely:",
+      "options": {
+        "A": "decreases.",
+        "B": "remains the same.",
+        "C": "increases."
+      },
+      "answer": "A",
+      "explanation": "A is correct. How accurately prices reflect fundamental information depends on the costs of obtaining fundamental information and on the liquidity available to well-informed traders. If filling orders is very costly, informed trading may not be profitable. In that case, information-motivated traders will not commit resources to collect and analyze data and they will not trade. Without their research and their associated trading, prices would be less informative. B is incorrect because Trading costs do impact informational efficiency: higher costs result in less informed trading and thereby a decrease in efficiency. C is incorrect because Higher trading costs result in less informed trading and thereby a decrease in efficiency.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of a well-functioning financial system"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "Q. The best estimate of the company's dividend growth rate is:",
+      "options": {
+        "A": "5.8%.",
+        "B": "6.7%.",
+        "C": "7.4%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Justified forward P/E = p/ (r-g), where p = payout ratio = (1 - retention rate) and r = required rate of return = nominal risk-free rate + risk premium. 22=(1-0.60)/((0.025 +0.06) - g). 220.40/(0.085g) and g = 0.0668~6.7%. A is incorrect because It uses the retention rate instead of the payout ratio; 220=60/(0.085-g) and g = 0.0577 or 5.8%. C is incorrect because It uses the current stock price instead of the P/E ratio to solve for g: 36 = 0.40 / (0.085-g) and g = 0.0739~7.4%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the intrinsic value of an equity security based on the Gordon (constant) growth dividend discount model or a two-stage dividend discount model as appropriate"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "Q.Financial intermediaries that help their clients arrange seasoned securities offerings are best known as:",
+      "options": {
+        "A": "investment banks.",
+        "B": "commercial banks.",
+        "C": "multi-lateral trading facilities."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Investment banks provide advice to their mostly corporate clients and help them arrange transactions such as initial and seasoned securities offerings. Additionally, a seasoned security is a security that an issuer has already issued. If the issuer wants to sell additional units of a previously issued security, it makes a seasoned offering (sometimes called a secondary offering). B is incorrect because Depository institutions include commercial banks, savings and loan banks, credit unions, and similar institutions that raise funds from depositors and other investors and lend it to borrowers. The banks give their depositors interest and transaction services, such as check writing and check cashing, in exchange for using their money. C is incorrect because Multilateral trading facilities (MTFs) are trading venues that function like exchanges but that do not exercise regulatory authority over their subscribers except with respect to the conduct of their trading in their trading systems.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "Q.. Over the long run, if a market is semi-strong-form efficient, which of the following investment strategies should result in the highest return to investors? A(n):",
+      "options": {
+        "A": "passive investment strategy",
+        "B": "active trading strategy seeking to exploit price patterns",
+        "C": "active trading strategy seeking to exploit public information"
+      },
+      "answer": "A",
+      "explanation": "A is correct. If securities markets are weak-form and semi-strong-form efficient, the implication is that active trading, whether attempting to exploit price patterns or public information, is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management. B is incorrect because If securities markets are semi-strong-form efficient, the implication is that active trading attempting to exploit price patterns is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management. C is incorrect because If securities markets are semi-strong-form efficient, the implication is that active trading attempting to exploit public information is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management.",
+      "answer_source": "red",
+      "tags": [
+        "explain the implications of each form of market efficiency for fundamental analysis, technical analysis, and the choice between active and passive portfolio management"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "Q. A multi-market index is most appropriately used as a benchmark:",
+      "options": {
+        "A": "for a single country ETF.",
+        "B": "for a small-capitalization growth stock manager.",
+        "C": "to calculate beta for the portfolio of a global stock manager."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Indexes also serve as market proxies when measuring risk-adjusted performance. The beta of an actively managed portfolio allows investors to form a passive alternative with the same level of systematic risk. In this case, multi-market indexes usually comprise indexes from different countries would serve as benchmarks to calculate beta for the portfolios of global stock managers. A is incorrect because Multi-market indexes usually comprise indexes from different countries and are designed to represent multiple security markets. Multi-market indexes may represent multiple national markets, geographic regions, economic development groups, and, in some cases, the entire world. A multi-market index would not be used as a benchmark for a single country ETF. B is incorrect because A small cap growth index is a style index, not a multi-market index.",
+      "answer_source": "red",
+      "tags": [
+        "describe uses of security market indexes"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "Q. Industry classification systems are developed and used by:",
+      "options": {
+        "A": "commercial entities only.",
+        "B": "governmental agencies only.",
+        "C": "both commercial entities and governmental agencies."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Industry classification systems are developed and used by both commercial entities and various governmental agencies. A is incorrect because Industry classification systems are developed and used by both commercial entities and various governmental agencies. B is incorrect because Industry classification systems are developed and used by both commercial entities and various governmental agencies.",
+      "answer_source": "red",
+      "tags": [
+        "describe industry classification methods and compare methods by which companies can be grouped"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "Q. If the required rate of return is 10%, using the Gordon growth model, the intrinsic value per share of the stock is closest to:",
+      "options": {
+        "A": "$14.56.",
+        "B": "$19.23.",
+        "C": "$20.15."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Intrinsic value = V D₁l(r-g). Therefore, Vo $1.048/(0.10-0.048) = $1.048/0.052- $20.15, where:. A is incorrect because Because, if ROE is used instead of the required rate of return, the intrinsic value = $1.048/(0.12- 0.048) = $1.048/0.072 ~ $14.56. B is incorrect because Because, if Do is used instead of D₁, the intrinsic value = $1.00/(0.10-0.048) = $1.00/0.052 ~$19.23.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "Q. According to the efficient market hypothesis, if market prices reflect private information, the market is most likely:",
+      "options": {
+        "A": "strong-form efficient.",
+        "B": "weak-form efficient only.",
+        "C": "semi-strong-form efficient, but not strong-form efficient."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading on the basis of private information. Market prices reflect private information under strong form market efficiency. B is incorrect because It is possible to earn abnormal profits from trading on private information when the market is weak-form efficient only. Market prices do not reflect private information under weak form market efficiency. C is incorrect because It is possible to earn abnormal profits from trading on private information when the market is semi-strong-form efficient only. Market prices do not reflect private information under semi-strong form market efficiency.",
+      "answer_source": "red",
+      "tags": [
+        "contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "Q. The Global Industry Classification Standard's broadest level of classification is a(n):",
+      "options": {
+        "A": "sector.",
+        "B": "industry.",
+        "C": "industry group."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In the GICS each company is assigned to a sub-industry according to its principal business activity. Each sub-industry belongs to a particular industry; each industry belongs to an industry group; and each group belongs to a sector. In June 2009, the GICS classification structure comprised four levels of detail consisting of 154 sub-industries, 68 industries, 24 industry groups, and 10 sectors. Therefore, a sector is the broadest level of classification. B is incorrect because A sector is the broadest level of classification. Each industry belongs to an industry group; and each group belongs to a sector. C is incorrect because A sector is the broadest level of classification. Each industry belongs to an industry group; and each group belongs to a sector.",
+      "answer_source": "red",
+      "tags": [
+        "describe industry classification methods and compare methods by which companies can be grouped"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "Q. In which of the following forms of market efficiency are investors able to consistently outperform the market using fundamental analysis?",
+      "options": {
+        "A": "Weak-form market efficiency",
+        "B": "Semi-strong-form market efficiency",
+        "C": "Strong-form market efficiency"
+      },
+      "answer": "A",
+      "explanation": "A is correct. In the weak form of market efficiency, market prices reflect all past market data; however, it does not incorporate all public information. Therefore, investors may use fundamental analysis to outperform the market. B is incorrect because In a semi-strong market, all public information - past and present - is available making fundamental analysis less effective. C is incorrect because In a strong-form efficient market, security prices fully reflect both public and private information. In the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading (even) on the basis of private information. Therefore, they cannot outperform the market using fundamental analysis.",
+      "answer_source": "red",
+      "tags": [
+        "contrast weak-form, semi-strong-form, and strong-form market efficiency"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "Q. Which of the following indexes are regularly rebalanced by the index provider?",
+      "options": {
+        "A": "Price-weighted indexes only",
+        "B": "Equal-weighted indexes only",
+        "C": "Both price-weighted indexes and equal-weighted indexes"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Rebalancing is necessary because the weights of the constituent securities change as their market prices change. The weights of the securities in the equal-weighted index at the end of the period are no longer equal. Therefore equal-weighted indexes are regularly rebalanced. A is incorrect because Price-weighted indexes are not rebalanced because the weight of each constituent security is determined by its price. C is incorrect because Price-weighted indexes are not rebalanced because the weight of each constituent security is determined by its price.",
+      "answer_source": "red",
+      "tags": [
+        "describe rebalancing and reconstitution of an index"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Q. Which of the following best describes an industry-level force in a thorough industry analysis?",
+      "options": {
+        "A": "Threat of new entrants",
+        "B": "Demographic influences",
+        "C": "Technological influences"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Industry-level forces driving industry competition include: threat of new entrants, substitution threats, customer and supplier bargaining forces, the competitive forces in the industry (rivalry), life-cycle issues, and business-cycle considerations. B is incorrect because Macro forces (rather than industry forces) include macroeconomic, demographic, environmental, governmental, social, and technological influences affecting the industry. C is incorrect because Macro forces (rather than industry forces) include macroeconomic, demographic, environmental, governmental, social, and technological influences affecting the industry.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "Q. Commercial industry classification systems are most likely updated:",
+      "options": {
+        "A": "less frequently than government classification systems.",
+        "B": "as frequently as government classification systems.",
+        "C": "more frequently than government classification systems."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so. A is incorrect because Most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so. B is incorrect because Most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "Q. A company's net income available to ordinary shareholders divided by the average total book value of equity is best described the:",
+      "options": {
+        "A": "company's intrinsic value.",
+        "B": "company's return on equity.",
+        "C": "minimum required rate of return of investors in the company's equity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Return on equity (ROE) is computed as net income available to ordinary shareholders (i.e., after preferred dividends have been deducted) divided by the average total book value of equity (BVE). A is incorrect because Intrinsic value refers to the true value of an asset. And a primary means to estimate a company's true or intrinsic value is the present value of its future projected cash flows. C is incorrect because Companies try to raise capital at the lowest possible cost, [and] the company's cost of equity is often used as a proxy for the investors' minimum required rate of return.",
+      "answer_source": "red",
+      "tags": [
+        "compare a company's cost of equity, its (accounting) return on equity, and investors' required rates of return"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "Q. A world equity index is most likely considered a:",
+      "options": {
+        "A": "style index.",
+        "B": "sector index.",
+        "C": "multi-market index."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Multi-market indexes usually comprise indexes from different countries and regions and are designed to represent multiple security markets. Multi-market indexes may represent multiple national markets, geographic regions, economic development groups, and, in some cases, the entire world. World indexes are of importance to investors who take a global approach to equity investing without any particular bias toward a particular country or region. A is incorrect because Style indexes represent groups of securities classified according to market capitalization, value, growth, or a combination of these characteristics. They are intended to reflect the investing styles of certain investors, such as the growth investor, value investor, and small-cap investor. B is incorrect because Sector indexes represent and track different economic sectors-such as consumer goods, energy, finance, health care, and technology-on either a national, regional, or global basis. A world equity index most likely does not represent a specific economic sector.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of equity indexes"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "Q. All else being equal, which of the following preference share characteristics may contain provisions that entitle shareholders to an additional distribution of the company's assets upon liquidation, above the par value?",
+      "options": {
+        "A": "Callable",
+        "B": "Cumulative",
+        "C": "Participating"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Of the three characteristics, only the participating characteristic is most directly affected by liquidation of the company. Participating preference shares can also contain provisions that entitle shareholders to an additional distribution of the company's assets upon liquidation, above the par (or face) value of the preference shares. A is incorrect because The callable feature is not relevant in liquidation because it gives the company the right but not the obligation to buy back shares from investors. A buyback is not likely in liquidation. B is incorrect because The cumulative feature only requires dividends to be paid for preference shares before common dividends are paid. The payment of common dividends is not likely in liquidation and thus the cumulative characteristic is not likely to be exercised.",
+      "answer_source": "red",
+      "tags": [
+        "describe differences in voting rights and other ownership characteristics among different equity classes"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "Q. A three-stage dividend discount model is most appropriate for valuing a company that is:",
+      "options": {
+        "A": "mature.",
+        "B": "transitioning to maturity.",
+        "C": "young and entering the growth phase."
+      },
+      "answer": "C",
+      "explanation": "C is correct. One can make the case that a three-stage DDM would be most appropriate for a fairly young company, one that is just entering the growth phase. A is incorrect because One can make the case that a three-stage DDM would be most appropriate for a fairly young company, one that is just entering the growth phase, which would not be characteristic of a mature company. B is incorrect because One can make the case that a three-stage DDM would be most appropriate for a fairly young company, one that is just entering the growth phase, which would not be characteristic of a company that was transitioning to maturity.",
+      "answer_source": "red",
+      "tags": [
+        "identify characteristics of companies for which the constant growth or a multistage dividend discount model is appropriate"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "Q. A company's management is most likely able to directly influence the company's:",
+      "options": {
+        "A": "book value.",
+        "B": "market value.",
+        "C": "intrinsic value."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Management's decisions directly influence a company's net income, they also directly influence its book value of equity. B is incorrect because Management actions can only indirectly affect the market value of its equity. The market value of the company's equity reflects the collective and differing expectations of investors concerning the amount, timing, and uncertainty of the company's future cash flows. C is incorrect because A company's intrinsic value can only be estimated because it is impossible to predict the amount and timing of its future cash flows. As such, this is not a value that management has direct control over.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the market value and book value of equity securities"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "Q. In contrast to the market value of an equity security, intrinsic value is most likely:",
+      "options": {
+        "A": "not known with certainty.",
+        "B": "constant throughout the life of the security.",
+        "C": "determined by the intersection of supply and demand."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Market value is the price at which an asset can currently be bought or sold. Intrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would be placed on it by investors if they had a complete understanding of the asset's investment characteristics. Intrinsic value can be estimated but is not known for certain. B is incorrect because Information relevant to valuation flows continually to investors, estimates of intrinsic value change, and hence, market values change. Neither market value or intrinsic value are constant. C is incorrect because The market value of an asset represents the intersection of supply and demand-the point that is low enough to induce at least one investor to buy while being high enough to induce at least one investor to sell. Intrinsic value is the present value of future cash flows as opposed to the intersection of supply and demand.",
+      "answer_source": "red",
+      "tags": [
+        "contrast market value and intrinsic value"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "Q. Short sellers are most likely exposed to:",
+      "options": {
+        "A": "unlimited gains and limited losses.",
+        "B": "limited gains and unlimited losses.",
+        "C": "unlimited gains and unlimited losses."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Short sellers create short positions in securities by borrowing securities from security lenders who are long holders. The short sellers then sell the borrowed securities to other traders. The potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded. A is incorrect because The potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded. C is incorrect because The potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded.",
+      "answer_source": "red",
+      "tags": [
+        "compare positions an investor can take in an asset"
+      ]
+    }
+  ]
+}

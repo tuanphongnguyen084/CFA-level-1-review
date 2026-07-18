@@ -1,0 +1,349 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–22)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following companies would most likely be considered to have the lowest financial reporting quality other things equal?",
+      "options": {
+        "A": "A company that provides high quality, decision useful information under GAAP but delays its reports.",
+        "B": "A company that reports significant profits due to a favorable exchange rate movement",
+        "C": "A company that reports the results from two different segments as a combined entity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Combining the results from two segments is an example of biased reporting, which fails in the middle of the quality spectrum It is difficult to interpret the profitability of each segment when their results are combined. A is incorrect because The company's reports are high quarry, but the delay in reporting impairs their usefulness somewhat. The reporting is still better than biased reporting. B is incorrect because This is an example of decision useful information about a result that may not be sustainable. Reporting is not of the highest quality, but is better than biased reporting.",
+      "answer_source": "red",
+      "tags": [
+        "describe a spectrum for assessing financial reporting quality"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Which of the following is lowest quality on the spectrum of GAAP conforming financial reports?",
+      "options": {
+        "A": "Aggressive accounting choices",
+        "B": "Earnings management",
+        "C": "Conservative accounting choices"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Earnings management represents deliberate actions to influence reported earnings and their interpretation. The distinction between earnings management and biased choices is subtle and, primarily, a matter of intent. A is incorrect because aggressive accounting is a biased choice. Biased accounting choices are higher in quality than earnings management on the spectrum of GAAP conforming financial reports. C is incorrect because conservative accounting í a biased choice. Biased accounting choices are higher in quality than earnings management on the spectrum of GAAP conforming financial reports.",
+      "answer_source": "red",
+      "tags": [
+        "describe a spectrum for assessing financial reporting quality"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Analyst would most likely conduct additional analysis i en laced will which of the following financial presentations?",
+      "options": {
+        "A": "A non-GAAP financial measure that excludes an expense that is likely to recur",
+        "B": "Reporting a non-GAAP financial measure in an SEC filing",
+        "C": "A change from LIFO inventory accounting to FIFO"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The exclusion of recurring items from non-GAAP financial measures is strictly prohibited by the SEC and should raise concerns that should raise concerns that additional analysis is needed. B is incorrect because If a company uses non-GAAP measures in is SEC filings, it must display the comparative GAAP measure with equal prominence and provide a reconciliation between the two. C is incorrect because LIFO reporting provides sufficient information in the Notes to convert from LIFO to FIFO so a formal change should not alter an analyst’s opinion about the company. Financial Statement Analysis: Describe presentation choices, including non-GAAP measures, el could be used to influence an analyst's.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Under International Financial Reporting Standards (IFRS) reported operating cash flows are most likely to be increased by the classification choice made for",
+      "options": {
+        "A": "impairment losses on fixed assets",
+        "B": "dividends paid",
+        "C": "Interest expense"
+      },
+      "answer": "C",
+      "explanation": "C is correct. IFRS allows the classification of interest expense as either an operating or a financing cash flow. When interest expense is shown as a financing cash flow, reported operating cash flows are higher. A is incorrect because IFRS does not allow classification of impairment losses as anything other than an operating cash flow. B is incorrect because , IFRS allows classification of dividends paid as either an operating or a financing cash flow However, when dividends paid is shown as an operating cash flow, reported operating cash flows are lower.",
+      "answer_source": "red",
+      "tags": [
+        "describe accounting methods (choices and estimates) could be used to manage earnings, cash flow, and balance sheet items"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "In the Porter's five forces framework a company is most likely to have the greatest profitability if",
+      "options": {
+        "A": "the threat of substitutes is low and the bargaining power of buyers is low",
+        "B": "the threat of substitutes is low and the bargaining power of buyers is high.",
+        "C": "The threat of substitutes is high and the bargaining power of buyers is low."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Both a low availability of substitutes and low bargaining power of buyers would improve a company's pricing power. B is incorrect because a high degree of rivalry would offset the positive effect of a low threat of substitutes. C is incorrect because a high availability of substitutes would act to offset the positive affect of low bargaining power of buyers.",
+      "answer_source": "red",
+      "tags": [
+        "explain how the competitive position of a company based on a Porter's five forces analysis affects prices and costs"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following conditions conducive to issuing low-quality financial reports is most likely a result of poor internal controls",
+      "options": {
+        "A": "Rationalization",
+        "B": "Opportunity",
+        "C": "Motivation"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Poor internal controls provide opportunities for errors or fraud to be incorporated in financial reporting without being deleted. A is incorrect because Rationalization takes place after the low-quality reporting act has taken place and is a psychological by individuals to justify their actions. Poor internal controls are not a psychological process. C is incorrect because Motivation results from personal pressures or corporate pressures to report on a low-quality basis. Poor internal controls provide the vehicle through which low-quality reporting can be concealed, not the motivation for it.",
+      "answer_source": "red",
+      "tags": [
+        "describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Maintaining prior views or forecasts by inadequately incorporating new information best describes",
+      "options": {
+        "A": "conservatism bias",
+        "B": "overconfidence bias",
+        "C": "representativeness bias"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Conservatism in which people maintain their prior views or forecasts by inadequately incorporating new information. B is incorrect because overconfidence bias occurs when people demonstrate unwarranted faith in their own abilities. C is incorrect because representative bias refers to the tendency to classify information based on past experiences and known classifications.",
+      "answer_source": "red",
+      "tags": [
+        "explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "For a company in a cyclical industry, normalized earnings are best described as",
+      "options": {
+        "A": "current earnings that include the impact of acquisitions",
+        "B": "mid-cycle earnings in the absence of temporary factors.",
+        "C": "earnings from the peak years excluding temporary factors"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Normalized earings are the expected level of mid-cycle earnings for a company in the absence of any unusual or temporary factors that affect profitability. A is incorrect because normalized earnings remove the impact of temporary factors and unusual events such as acquisitions. C is incorrect because normalized earning are based on mid-cycle earnings, not peak-year earnings.",
+      "answer_source": "red",
+      "tags": [
+        "explain considerations in the choice of an explicit forecast Horizon and an analyst's choices in developing projections beyond the short-term forecast horizon"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Porter's five forces analysis is used to estimate a company's future profit margin relate to.",
+      "options": {
+        "A": "only its competitors",
+        "B": "only its historic margins.",
+        "C": "both its competitors and its historic margins"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Porter's five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping them understand the company’s industry and its position within the industry. Understanding the industry and competitive contexts of a company helps analysts estimate whether, for example, sales growth is likely to be relatively high or low(relative to history, relative to the overall growth in the economy or a sector and/ or relative to competing companies) and whether the profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies). A is incorrect because Porter's five forces framework and analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies). B is incorrect because Porter's five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping analysts estimate whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies).",
+      "answer_source": "red",
+      "tags": [
+        "explain bow the competitive position of a company base on a Porter's five forces says affects prices and costs"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "An analyst uses the following information to forecast a company's gross profit margin: Current Amount (in $ millions) Forecasted Growth Sales 1200 8% Cost of sales 300 4% The analysts forecasted gross profit margin should be closest to a(n)",
+      "options": {
+        "A": "decrease of 1%.",
+        "B": "increase of 1%",
+        "C": "increase of 4%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The gross profit for the current year is 900 (=1,200-300) therefore the current gross profit margin is 75% If sales Increase by 8% (to 1,296) and cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (=1.295-312) and the forecasted gross profit margin is 75.9%. This is an increase of approximately 1% (=75.9% -75%). A is incorrect because it computes the gross profit margin as cost of sales/ sales. Current gross profit margin is 25% (300/1,200) and the forecasted gross profit margin is 24,1% (312 / 1.296) a decrease of approximately 1%. C is incorrect because it assumes the starting values have the same base and takes the difference in the growth rates, 4% = sales growth - cost of sales growth.",
+      "answer_source": "red",
+      "tags": [
+        "demonstrate the development of a sales-based pro forma company model"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "The price elasticity of demand for a product is 0.5 and its cost remains constant, a 10% increase is selling price will most likely result in.",
+      "options": {
+        "A": "no change in cost of sales",
+        "B": "a decrease in volume of 5%",
+        "C": "an increase in revenue of 5%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The impact of higher prices on volume depends on the price elasticity of demand (ie, how the quantity demanded varies with price). Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases. Furthermore, Analyst A expects price elasticity of 0.5 indicating that volume will fall by 5 percent given the 10 percent retail price increase. A is incorrect because the impact of higher prices on volume depends on the price elasticity of demand (Le., how the quantity demanded varies with price). Since volumes will decline, cost of goods sold will also decline. C is incorrect because the impact of higher prices on volume depends on the price elasticity of demand (le, how the quantity demanded varies with price). Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases.",
+      "answer_source": "red",
+      "tags": [
+        "explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "All else being equal, forecasting an increase in which of the following will most likely increase forecasted EPS for a company?",
+      "options": {
+        "A": "Share repurchases",
+        "B": "Secondary stock issuances",
+        "C": "Equity based compensation of employees"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Share repurchases decrease the number of shares outstanding. A decrease in the number of shares outstanding will raise the EPS all things being equal. B is incorrect because a secondary stock issuance increases the number of shares outstanding. An increase in the number of shares outstanding will decrease the EPS all things being equal. C is incorrect because an increase in equity-based compensation increases the number of shares outstanding. An increase in the number of shares outstanding will decrease the.",
+      "answer_source": "red",
+      "tags": [
+        "demonstrate the development of a sales-based pro forma company model"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Analyst gathers the following information (in € millions) relating to a company's merchandise inventory as of 31 December of Year 1. Cost 65 Net realizable value 60 Current placement cost 58 On 31 December of Year 2, the nel realizable value of the inventory is € 7 higher than iít carrying value. Under US GAAP, the amount (in millions) of the reversal of the prior write down is",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "7"
+      },
+      "answer": "A",
+      "explanation": "A is correct. As U.S GAAP prohibit the reversal of write-downs. B is incorrect because this is the reversal under IFRS. Inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. The reversal of any write-down of inventories is recognized as a reduction in cost of sales (reduction in the amount of inventories recognized as expense). The write-down in Year 1 is equal to 5 million (€55 cost - €60 net realizable value). The reversal is limited to the original 5 million write-down. Under U.S. CAAP, reversal of a write-down is prohibited. C is incorrect because and is the amount of the reversal allowed if the candidate incorrectly calculated the initial write-down as 7 million (65 cost – 58 current replacement cost) under IFRS. This is also the correct initial write-down under U.S GAAP, assuming inventories are measured using LIFO or retail inventory methods. Also, it is the amount by which the net realizable value exceeds carrying value at 31 December Year 2. However, under US GAAP reversal of a write down is prohibited.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "An analyst gathers the following year-end information from a company's financial statements Year 1 Year 2 Accounts receivable €3 million €1 million Accounts payable €2 million €5 million Based only on this information, if Year 2 net income is €3 million and the Year 1 ending cash balance is €10 million the Year 2 ending cash balance is:",
+      "options": {
+        "A": "€8 million",
+        "B": "€12 million",
+        "C": "€15 million"
+      },
+      "answer": "A",
+      "explanation": "A is correct. €3,000,000 net income would need to be adjusted for accrued income/expense derived from the change in accounts receivable and accounts payable. The increase in accounts receivables subtracted from net income and the decrease in accounts payable is also subtracted from net income. Change in cash = Net Income - increase in Accounts Receivable - decrease in Accounts Payable = €2,000,000 Change in cash = €3,000,000 - €2,000,000 - €3,000,000 = - €2,000,000 Ending cash balance = 2011 ending cash balance + change in cash = €10,000,000 - €2,000,000 = €8,000,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "A company Incurred the following expenditures (in € millions) to internally develop Intangible asset: Costs incurred during the research phase 900 Costs incurred during the development phase 600 If the recognition criteria for an intangible asset have been met, the maximum amount of capitalized costs (in millions) is",
+      "options": {
+        "A": "600",
+        "B": "900.",
+        "C": "1,500"
+      },
+      "answer": "A",
+      "explanation": "A is correct. €500 million represents the costs incurred during the development phase which should be capitalized. Costs incurred in the development stage can be capitalized as intangible assets if certain criteria are met, including technological feasibility, the ability to use or sell the resulting asset and the ability to complete the project. B is incorrect because €900 million represents the costs need during the research phase. IFRS requires that expenditures on research or during the research phase of an internal project be expensed rather than capitalized. C is incorrect because €1,500 million is the total costs incurred in the research and the development phases. It includes the €900 million costs incurred in the research phase which should be expensed. Only the €600 million capitalized as an intangible asset incurred during the development phase should be capitalized. Financial Statement Analysis: compare the financial reporting of the following types of intangible assets: purchases, Intermally developed, and acquired in a business combination.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Compared to the industry average, which of the following financial ratio most likely indicates a company has a highly efficient credit and collection process? A relatively low.",
+      "options": {
+        "A": "receivables turnover ratio",
+        "B": "number of days sales outstanding",
+        "C": "number of days of inventory on hand"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection. A is incorrect because a relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection. C is incorrect because a low DOH may suggest a firm is efficient at selling its inventory, but it does not measure how long it takes it to collect from its sales. The number of DSO represents the elapsed time between a sale and cash collection, reflecting how fast the company collects cash from customers to whom it offers credit. A relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret activity, liquidity, solvency, and profitability ratios"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Under the indirect method of reporting cash flow from operating actives, a decrease deferred income tax liabilities is",
+      "options": {
+        "A": "ignored",
+        "B": "added back to net income",
+        "C": "subtracted from net income."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A decrease in deferred tax liability would be subtracted from net income under the indirect method of reporting cash flow from operations. A is incorrect because regardless of the originating source of the deferred tax liability, all changes in deferred tax liabilities will either be added back or subtracted from net income under the indirect method of reporting cash flow from operations. B is incorrect because an increase in deferred tax liability would be an addition to net come under the indirect method of reporting cash flow from operations.",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using Income statement and balance sheet data"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "With respect to company analysis, measures of inventory management are best described at.",
+      "options": {
+        "A": "activity ratios",
+        "B": "solvency ratios.",
+        "C": "profitability ratios."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Activity ratios measure how efficiently a company performs day-to-day tasks, such as collection of receivables and management of inventory. B is incorrect because solvency ratios measure a company’s ability to meet long term obligations. Subsets of these ratios are also known as “leverage” and “long-term debt” ratios. C is incorrect because profitability ratios measure the company's ability to generate profits from its resources (assets).",
+      "answer_source": "manual",
+      "tags": [
+        "calculate and interpret activity, liquidity, solvency, and profitability ratios"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A disclaimer of opinion is issued when an auditor",
+      "options": {
+        "A": "is unable to issue an opinion",
+        "B": "notes an exception to accounting standards.",
+        "C": "finds a material departure from accounting standards."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A disclaimer of opinion occurs when auditors are unable to issue an opinion. B is incorrect because a qualified opinion (rather than a disclaimer of opinion) would be appropriate in the case of some scope Limitation or an exception to accounting stances. C is incorrect because an adverse opinion (rather than a disclaimer of opinion) would be appropriate if the auditor determines that financial statements materially depart from accounting standards and are not fairly presented.",
+      "answer_source": "red",
+      "tags": [
+        "describe the importance of regulatory filings, financial statement rules and supplementary information, management's commentary, and audit reports"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following most likely indicates improved efficiency of a company’s credit, and collection policy? An increase in",
+      "options": {
+        "A": "receivables turnover ratio",
+        "B": "days of sales outstanding",
+        "C": "number of days of payables"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A relatively high receivables turnover (and commensurately low DSO) might indicate highly efficient credit and collection. B is incorrect because a relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection. C is incorrect because the number of days of payables reflects the average number of days the company takes to pay its suppliers and is not related to account receivables or the efficiency of the company's credit or collections.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret activity, liquidity, solvency, and profitability ratios"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "An analyst gathers the following information (in € millions) about a manufacturing company Cost of sales 150 Gross profit: 100 Selling, general, and administrative expenses 30 Based only on this information, applying vertical common size analysis to the income statement, selling, general and administrative expenses are:",
+      "options": {
+        "A": "12%.",
+        "B": "20%",
+        "C": "30%"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A vertical common-size income statement divides each income statement tem by revenue. Gross profit is the amount of revenue available after subtracting the costs of delivery goods or services. Accordingly, based only on this information, under vertical common size analysis, Selling, general, and administrative expenses can be expressed as = Selling, general, and administrative expenses / Revenue = Selling, general and administrative expenses / (Gross profit + Cost of sales) – = 30/(100 + 150) ; or = 30/250 ~ 12%. B is incorrect because it expresses Selling, general, and administrative expenses as a percentage of Cost of sales. Consequently, Selling general, and administrative expenses/Cost of sales = 30/150 = 20%. C is incorrect because it expresses selling, general, and administrative expenses as a percentage of Gross profit: Consequently, Selling general, and administrative expenses/Gross profit = 30/100 = 30%.",
+      "answer_source": "red",
+      "tags": [
+        "a company's financial performance using common-size income statements and financial ratios based on the income statement"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following is most likely added back to net income when preparing a cash flow statement under the Indirect method?",
+      "options": {
+        "A": "Gains on sale of assets",
+        "B": "Amortization of bond discount",
+        "C": "Decrease in deferred tax liability"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Amortization of a discount (premium) a non-cash item and thus, apart from its effect on taxable income, has no effect on cash flow in the section of the statement of cash flows that reconciles net income to operating cash flow, amortization of a discount (premium) is added back to (subtracted from) net income. A is incorrect because gain on sale of assets is a non-operating item that is included in net income calculation. Therefore, gains on sale of assets must be subtracted from, not added back to nel income when preparing a cash flow statement under the indirect method. C is incorrect because a decrease in deferred tax liability occurs when accounting tax expense is lower than the amount of cash paid the income taxes. Therefore, the amount of decrease must be subtracted from net income when preparing the cash flow statement under the indirect method.",
+      "answer_source": "red",
+      "tags": [
+        "describe the steps in the preparation of direct and indirect cash flow statements including how cash flows can be computed using income statement and balance sheet cats"
+      ]
+    }
+  ]
+}

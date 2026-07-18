@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "id": "alternatives-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 43–61)",
+  "group": "1000 Question Bank — Alternative Investments",
+  "source": "1000 Practice Questions — Alternative Investments",
+  "questions": [
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Which of the following statements about real estate assets is most accurate?",
+      "options": {
+        "A": "Real estate assets are heterogeneous",
+        "B": "Commercial property represents the majority of real estate assets by value",
+        "C": "Private real estate has historically had high correlations with other asset classes"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Real estate property has some unique features, including heterogeneity (no two properties are identical) and fixed location. B is incorrect because real estate includes two major sectors: residential and commercial. Residential [not commercial] real estate is the largest sector, totaling 75% of the global market. C is incorrect because the key reasons for investing in real estate include the following potential benefits:... Historically low [not high] correlations with other asset classes.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of real estate"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "Which of the following hedge funds most likely have a beta close to zero?",
+      "options": {
+        "A": "Short-biased funds",
+        "B": "Market-neutral funds",
+        "C": "Fundamental long/short growth funds"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The hedge fund takes long positions in securities identified as undervalued and short positions in overvalued securities. The hedge fund tries to maintain a net position that is neutral with respect to market risk and other risk factors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall beta of approximately zero. A is incorrect because the beta in these types of funds is most often negative given the short bias. These strategies use quantitative (technical) and fundamental analysis to focus the bulk of their portfolio on shorting overvalued equity securities (against limited or no long-side exposures). C is incorrect because although these funds do hedge long positions with short positions, market neutrality is not necessarily a goal. The hedge fund takes long positions in these companies while shorting companies with business models being disintermediated or under downward pressure-where continued revenue growth is deemed unlikely. Portfolios tend to end up long biased.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "A hedge fund has the following characteristics: • Assets under management, beginning of year: $100 million • Assets under management, end of year: $120 million • Management fee: 1% of year-end assets under management • Performance fee: 15% of the annual return above a 3% hurdle rate If the performance fee is calculated net of the management fee and there were no capital contributions or withdrawals, the net annual return to the investor is closest to:",
+      "options": {
+        "A": "16.3%.",
+        "B": "16.4%.",
+        "C": "16.5%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - ($100 million × 3%) - $1.200 million)] × 15% = $2.370 million. Total fee = $1.200 million + $2.370 million = $3.570 million. Investor return = ($20-$3.570)/$100 = 16.430% 16.4%. A is incorrect because the performance fee is not calculated net of the management fee: Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - ($100 million × 3%)] × 15% = $2.550 million. Total fee = $1.200 million + $2.550 million = $3.750 million. Investor return = ($20-$3.750)/$100 = 16.250% 16.3%. C is incorrect because the hurdle rate is deducted from the performance fee rate rather than the rate of return: Management fee = $100 million × 120% × 1% = $1.200 million. Performance fee = [($100 million × 20%) - $1.200 million)] x (15%-3%) = $2.256 million. Total fee = $1.200 million + $2.256 million = $3.456 million. Investor return = ($20-$3.456) / $100 = 16.544% ~~ 16.5%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "• Assets under management $1.5 billion, beginning of year • Annual return 20% • Management fee 2%, based on year-end valuation • Incentive fee 20%, calculated net of management fees If the incentive fee is calculated on returns in excess of a 6% hurdle rate, total annual fees earned by the fund manager are closest to:",
+      "options": {
+        "A": "$34,800,000.",
+        "B": "$70,800,000.",
+        "C": "$78,000,000."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded The management fee is calculated as $1,500,000,000 x (1+20%) × 2% = $36,000,000 and the incentive fee is calculated as ($1,800,000,000 - $1,500,000,000 - ($1,500,000,000 × 6%) - $36,000,000] x 20% = $34,800,000. Therefore, the total fees earned by the manager are $36,000,000 + $34,800,000 = $70,800,000. A is incorrect because it fails to add the management fee to the incentive fee. The incentive fee is calculated as [$1,800,000,000 - $1,500,000,000 - ($1,500,000,000 × 6%) - $36,000,000] x 20% = $34,800,000. C is incorrect because it fails to net the management fee from the incentive fee. The incentive fee is calculated as [$1,800,000,000 - $1,500,000,000 - ($1,500,000,000 × 6%)] x 20% = $42,000,000. Therefore, the total fees earned by the manager are $36,000,000 + $42,000,000 = $78,000,000.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "What is the most likely effect of a redemption fee on the returns of the remaining investors in a hedge fund? A redemption fee:",
+      "options": {
+        "A": "reduces investor returns.",
+        "B": "has no effect on investor returns.",
+        "C": "enhances investor returns."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The fee increases the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period. This characteristic is called a soft lockup, and it offers a path (albeit an expensive one) to redeem early. A is incorrect because the fee increases [not decreases] the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period. B is incorrect because the fee increases the value of the hedge fund by the fee amount. A redemption fee may be charged, typically payable to the fund itself (rather than the manager). This is to protect remaining investors in the fund, particularly in circumstances where the redemption takes place during the lockup period.",
+      "answer_source": "red",
+      "tags": [
+        "explain investment features of hedge funds and contrast them with other asset classes"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "If a commodity's storage cost is equal to its convenience yield, its futures prices will be greater than its spot price if the risk-free rate is:",
+      "options": {
+        "A": "negative.",
+        "B": "zero.",
+        "C": "positive."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The futures price can be formalized in the following form: Futures price Spot price(1 + r) + Storage costs - Convenience yield, where is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price(1+r), from which Futures price > Spot price if r > 0. A is incorrect because the futures price can be formalized in the following form: Futures price Spot price(1+r) + Storage costs - Convenience yield, where is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price (1+r). If r < 0, then Futures price < Spot price, not Futures price > Spot price. B is incorrect because the futures price can be formalized in the following form: Futures price Spot price(1 + r) + Storage costs - Convenience yield, where r is the period's short-term risk-free interest rate. Thus, if Storage costs = Convenience yield, then Futures price Spot price(1+r). If r = 0, then Futures price Spot price, not Futures price > Spot price.",
+      "answer_source": "red",
+      "tags": [
+        "describe features of commodities and their investment characteristics"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) €200 million Management fee, based on end-of-year AUM before fees 1.5% Incentive fee 20% Hard hurdle rate 5% Annual return before fees 15%. If the incentive fee is based on returns net of management fees, total fees for the year are closest to",
+      "options": {
+        "A": "€6.8 million.",
+        "B": "€7.5 million.",
+        "C": "€8.8 million."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. B is incorrect because it calculates incentive fees gross of management fees. That is: AUM at year-end = €200 million x 115% = €230 million. Management fee = €230 million x 1.5% = €3.45 million. Incentive fee = (€230 million €200 million - €10 million) x 20% = €20 million x 20% = €4.00 million, where hard hurdle = €200 million x 5% = €10 million. Thus, total fees = €3.45 million + €4.00 million = €7.45 million €7.5 million. C is incorrect because it excludes the hard hurdle rate in the calculation of incentive fees. That is: AUM at year-end = €200 million x 115% = €230 million. Management fee = €230 million x 1.5% = €3.45 million. Incentive fee = (€230 million - €200 million - €3.45 million) x 20% = €26.55 million x 20% = €5.31 million. Thus, total fees = €3.45 million + €5.31 million = €8.76 million €8.8 million.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "In the private debt market, venture debt:",
+      "options": {
+        "A": "entails buying the debt of mature companies in financial difficulty.",
+        "B": "provides capital to early-stage companies that may be generating little cash flow.",
+        "C": "entails buying the debt of mature companies in financial difficulty and provides capital to early-stage companies that may be generating little cash flow."
+      },
+      "answer": "B",
+      "explanation": "B is correct. This is the definition of venture debt. Venture debt is private debt funding that provides capital backing to start-up or early-stage companies that may be generating little or negative cash flow. A is incorrect because this refers to distressed debt. Involvement in distressed debt typically entails buying the debt of mature companies in financial difficulty. C is incorrect because the first part of the answer is not correct, as indicated in the correct response, venture debt provides funding to start-up or early-stage companies not mature companies.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private debt and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "Timberland investments offer:",
+      "options": {
+        "A": "an income stream only.",
+        "B": "the potential for capital gain only.",
+        "C": "both an income stream and the potential for capital gain."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain. A is incorrect because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain. B is incorrect because timberland investment involves ownership of raw land and the harvesting of its trees for lumber, thus generating an income stream and the potential for capital gain.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of raw land, timberland, and farmland and their investment characteristics"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "Which of the following real estate investing strategies is most likely to focus on modest redevelopment or upgrades, the leasing of vacant space, and the repositioning of underlying properties to earn a higher return?",
+      "options": {
+        "A": "Core-plus",
+        "B": "Value-add",
+        "C": "Opportunistic"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Value-add investments may require modest redevelopment or upgrades, the leasing of vacant space, or repositioning the underlying properties to earn a higher return than core properties. A is incorrect because core-plus strategies will also accept slightly higher risks derived from non-core markets and sectors or properties with slightly more leasing risk. Non-core properties include large sectors with different risk profiles, such as hotels and nursing homes. Assets in secondary and tertiary markets and such niches as student housing, self-storage, and data centers are also considered non-core. C is incorrect because opportunistic investing accepts the much higher risks of development, major redevelopment, repurposing of assets, taking on large vacancies, and speculating on significant improvement in market conditions.",
+      "answer_source": "text",
+      "tags": [
+        "explain features and characteristics of real estate"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "All else being equal, when a commodity futures market is in contango, the forward curve is most likely:",
+      "options": {
+        "A": "downward sloping.",
+        "B": "flat.",
+        "C": "upward sloping."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango. A is incorrect because when the futures market is trading in backwardation, the futures prices are lower than the spot price, [and] the commodity forward curve is downward sloping. A market in contango assumes futures prices are higher than the spot price. B is incorrect because when futures prices are higher than the spot price, the commodity forward curve is upward sloping, and the prices are referred to as being in contango. A flat forward curve can't be associated with a market in contango because a flat curve implies that all future prices are equal to the spot price while a market in contango assumes futures prices are higher than the spot price.",
+      "answer_source": "red",
+      "tags": [
+        "describe features of commodities and their investment characteristics"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "With respect to infrastructure investments, a take-or-pay arrangement is most likely used to mitigate:",
+      "options": {
+        "A": "demand risk.",
+        "B": "operational risk.",
+        "C": "construction risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Take-or-pay arrangements, where payments are based upon the availability rather than the use of an asset, are used to mitigate demand/volume risk. B is incorrect because take-or-pay arrangements, where payments are based upon the availability rather than the use of an asset, are used to mitigate demand/volume risk, not operational risk. C is incorrect because take-or-pay arrangements, where payments are based upon the availability rather than the use of an asset, are used to mitigate demand/volume risk, not construction risk.",
+      "answer_source": "red",
+      "tags": [
+        "explain the investment characteristics of infrastructure investments"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "Which of the following is most appropriately categorized as a traditional investment?",
+      "options": {
+        "A": "Gold",
+        "B": "Cash",
+        "C": "Real estate"
+      },
+      "answer": "B",
+      "explanation": "B is correct. 'Alternative investments' is a label for a disparate group of investments that are distinguished from long-only, publicly traded investments in stocks, bonds, and cash (often referred to as traditional investments). A is incorrect because alternative investments include such assets as real estate and commodities (including gold), which are arguably two of the oldest types of investments. C is incorrect because alternative investments include such assets as real estate and commodities, which are arguably two of the oldest types of investments.",
+      "answer_source": "text",
+      "tags": [
+        "describe features and categories of alternative investments"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "Which of the following is most likely a characteristic of private real estate markets?",
+      "options": {
+        "A": "Transaction costs are high",
+        "B": "Private market indexes are investable",
+        "C": "It is easy for small investors to establish a diversified portfolio of wholly owned properties"
+      },
+      "answer": "A",
+      "explanation": "A is correct. For private real estate markets, transaction costs are high. B is incorrect because private market indexes are not investable, and property typically requires professional operational management. C is incorrect because it may be difficult for small investors to establish a diversified portfolio of wholly owned properties.",
+      "answer_source": "red",
+      "tags": [
+        "explain features and characteristics of real estate"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "Alternative investments:",
+      "options": {
+        "A": "include tangible assets only.",
+        "B": "include intangible assets only.",
+        "C": "may include both tangible and intangible assets."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other \"real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions. A is incorrect because alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other 'real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions . B is incorrect because alternative Investments into three categories and several subcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other \"real asset\" investments may include tangible assets, such as fine wine, art, antique furniture and automobiles, stamps, coins, and other collectibles, and intangible assets, such as patents and litigation actions.",
+      "answer_source": "red",
+      "tags": [
+        "describe features and categories of alternative investments"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "In alternative investments, a clawback provision represents the right of.",
+      "options": {
+        "A": "limited partners to reclaim performance losses.",
+        "B": "the general partner to reclaim part of limited partners' distributions.",
+        "C": "limited partners to reclaim part of the general partner's performance fee."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, a limited partner (LP) may claw back prior incentive fee payments. A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee. A is incorrect because a clawback provision refers to reclaiming performance fees, not performance losses themselves. If a general partner (GP) accrues an incentive fee on gains not yet fully realized and then subsequently gives back those gains, limited partner (LPs) may claw back prior incentive fee payments. A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee. B is incorrect because a clawback provision confers rights on the limited partners (LPs), not the general partner (GP). A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee.",
+      "answer_source": "red",
+      "tags": [
+        "describe investment ownership and compensation structures commonly used in alternative investments"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "Which of the following is the most conservative approach to valuing a hedge fund's underlying positions?",
+      "options": {
+        "A": "Using bid prices for long positions and ask prices for short positions.",
+        "B": "Using bid prices for short positions and ask prices for long positions",
+        "C": "Using the average of the bid and ask prices for both long and short positions"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask, this approach is not as accurate and could be misleading. B is incorrect because when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading. C is incorrect because when market prices or quotes are used for valuation, funds may differ in which price or quote they use (bid price, ask price, average quote, or median quote). A more conservative and accurate approach is to use bid prices for long positions and ask prices for short positions because these are more realistic prices at which the positions could be closed. However, some managers use a simplifying approach whereby they take the average of the bid and the ask; this approach is not as accurate and could be misleading.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private debt and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "All else being equal, which of the following types of private debt is most likely to have the lowest level of risk?",
+      "options": {
+        "A": "Mezzanine debt",
+        "B": "Unitranche debt",
+        "C": "Infrastructure debt"
+      },
+      "answer": "C",
+      "explanation": "C is correct. As a junior form of subordinated debt, mezzanine private debt offers higher growth potential, equity upside, and higher risk, with the comparatively highest returns. Infrastructure debt is senior and poses the lowest risk, as compared to unitranche debt and mezzanine debt. A is incorrect because private debt investments vary in risk and return, with senior private debt providing a steadier yield and moderate risk and mezzanine private debt carrying higher growth potential, equity upside, and higher risk. B is incorrect because unitranche debt is a blend of secured and unsecured debt. The unitranche loan will usually be structured between senior and subordinated debt in priority ranking. As mezzanine debt refers to private credit subordinated to senior secured debt but senior to equity in the borrower's capital structure, mezzanine debt has more risk than unitranched debt.",
+      "answer_source": "red",
+      "tags": [
+        "explain features of private debt and its investment characteristics"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "An analyst gathers the following information about a hedge fund: • Beginning-of-year assets under management (AUM) $50 million • Annual return before fees 20% • Management fee (based on end-of-year AUM before fees) 2% • Incentive fee (based on return net of management fees) 20% An investor's net return is:",
+      "options": {
+        "A": "13.60%.",
+        "B": "14.08%.",
+        "C": "14.40%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. $60 Million x 2% = $1.2 million management fee. ($60-$50-$1.2) million x 20% = $1.76 million incentive fee. Total fees = $2.96 million. Investor return = ($60-$50- $2.96)/$50 million = 14.08%. A is incorrect because it fails to adjust the incentive fee for the management fee: $60 million x 2% = $1.2 million management fee. ($60-$50) million x 20% = $2.0 million incentive fee. Total fees = $3.2 million. Investor return = ($60-$50-$3.2)/$50 million = 13.60%. C is incorrect because it calculates the management fee based on beginning-of-year AUM as opposed to end-of-year AUM: $50 million x 2% = $1.0 million management fee. ($60-$50-$1) million x 20% = $1.8 million incentive fee. Total fees = $2.8 million. Investor return = ($60-$50- $2.8)/$50 million = 14.40%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret alternative investment returns both before and after fees"
+      ]
+    }
+  ]
+}

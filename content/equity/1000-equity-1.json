@@ -1,0 +1,337 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–22)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Q. All else being equal, a reverse stock split results in:",
+      "options": {
+        "A": "a decrease in the number of shares and an increase in the share price.",
+        "B": "an increase in the number of shares and a decrease in the share price.",
+        "C": "an increase in the number of shares and an increase in the share price."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A reverse stock split involves a reduction in the number of shares outstanding with a corresponding increase in share price. B is incorrect because This describes a stock split, not a reverse stock split. A stock split involves an increase in the number of shares outstanding with a consequent decrease in share price. A reverse stock split involves a reduction in the number of shares outstanding with a corresponding increase in share price. C is incorrect because A reverse stock split involves a reduction in the number of shares outstanding with a corresponding increase in share price.",
+      "answer_source": "red",
+      "tags": [
+        "describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse stock splits, and share"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Q. All else being equal, which of the following has the same effect on shareholders' wealth as a cash dividend?",
+      "options": {
+        "A": "A stock split",
+        "B": "A stock dividend",
+        "C": "A share repurchase"
+      },
+      "answer": "C",
+      "explanation": "C is correct. A share repurchase is viewed as equivalent to the payment of cash dividends of equal value in terms of the effect on shareholders' wealth, all other things being equal. A is incorrect because In contrast to stock dividends and stock splits, share repurchases are an alternative to cash dividend payments. B is incorrect because In contrast to stock dividends and stock splits, share repurchases are an alternative to cash dividend payments.",
+      "answer_source": "red",
+      "tags": [
+        "describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse stock splits, and share repurchases"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Q. Sponsored depository receipts most likely differ from unsponsored ones in terms of whether:",
+      "options": {
+        "A": "investors have voting rights.",
+        "B": "they are traded on exchanges.",
+        "C": "their prices are affected by exchange rate movements."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A sponsored DR is when the foreign company whose shares are held by the depository has a direct involvement in the issuance of the receipts. Investors in sponsored DRs have the same rights as the direct owners of the common shares (e.g., the right to vote and the right to receive dividends). In contrast, with an unsponsored DR, the underlying foreign company has no involvement with the issuance of the receipts. Instead, the depository purchases the foreign company's shares in its domestic market and then issues the receipts through brokerage firms in the depository's local market. In this case, the depository bank, not the investors in the DR, retains the voting rights. B is incorrect because A depository receipt (DR) (sponsored or unsponsored) is a security that trades like an ordinary share on a local exchange and represents an economic interest in a foreign company. C is incorrect because A depository receipt (DR) (sponsored or unsponsored) is a security that trades like an ordinary share on a local exchange and represents an economic interest in a foreign company. The price of each DR will be affected by factors that affect the price of the underlying shares, such as company fundamentals, market conditions, analysts' recommendations, and exchange rate movements.",
+      "answer_source": "red",
+      "tags": [
+        "describe methods for investing in non-domestic equity securities"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Q. All else being equal, which of the following are equivalent to stock dividends in terms of the economic effect on the company and shareholders?",
+      "options": {
+        "A": "Stock splits",
+        "B": "Cash dividends",
+        "C": "Share repurchases"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A stock dividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without affecting the value of the pie or any shareholder's proportional ownership in the company. Thus, stock dividends are not relevant for valuation. Stock splits and reverse stock splits are similar to stock dividends in that they have no economic effect on the company or shareholders. B is incorrect because A cash dividend is a cash distribution made to a company's shareholders. No cash flow from the company to the shareholders happen in case of a stock dividend. A stock dividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without affecting the value of the pie or any shareholder's proportional ownership in the company. Thus, stock dividends are not relevant for valuation. C is incorrect because A share repurchase (or buyback) is a transaction in which a company uses cash to buy back its own shares. A share repurchase is viewed as equivalent to the payment of cash dividends of equal value in terms of the effect on shareholders' wealth, all other things being equal.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Q. Asset-based valuation most likely uses estimates of the company's:",
+      "options": {
+        "A": "assets only.",
+        "B": "assets and liabilities only.",
+        "C": "assets, liabilities and projected cash flow."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An asset-based valuation of a company uses estimates of the market or fair value of the company's assets and liabilities. A is incorrect because An asset-based valuation of a company uses estimates of the market or fair value of the company's assets and liabilities. C is incorrect because An asset-based valuation of a company uses estimates of the market or fair value of the company's assets and liabilities.",
+      "answer_source": "red",
+      "tags": [
+        "describe asset-based valuation models and their use in estimating equity value"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Q. The dividend discount model assumes that dividends are paid:",
+      "options": {
+        "A": "quarterly.",
+        "B": "half yearly.",
+        "C": "at the end of each year."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the dividend discount model, each year's dividend D, is the expected dividend in year t, assumed to be paid at the end of the year. A is incorrect because According to the dividend discount model, each year's dividend D, is the expected dividend in year t, assumed to be paid at the end of the year, not at the beginning of each year. B is incorrect because According to the dividend discount model, each year's dividend D, is the expected dividend in year t, assumed to be paid at the end of the year, not at the midpoint of each year.",
+      "answer_source": "red",
+      "tags": [
+        "explain the rationale for using present value models to value equity and describe the dividend discount and free-cash-flow-to-equity models"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "An analyst gathers the following information about a company and its common stock: Forward P/E 8 Required rate of return 12% Dividend growth rate 4% Q. Using the Gordon growth model, the company's dividend payout ratio is closest to:",
+      "options": {
+        "A": "8%.",
+        "B": "33%.",
+        "C": "64%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the Gordon growth model equations. A is incorrect because It confuses the dividend payout ratio with the dividend yield in the Gordon growth model equation resulting in: D₁/P₀ = r - g = 0.12 - 0.04 = 0.08 = 8%. B is incorrect because It confuses the dividend payout ratio as the dividend growth rate divided by the required rate of return, resulting in p = 0.04/0.12 = 0.33333 = 33%. This is also closest to the product of the forward P/E and the dividend growth rate: 8.0 x 0.04 = 0.32 = 32%.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Q. Asset-based valuation models are most appropriate for companies with a high proportion of:",
+      "options": {
+        "A": "illiquid assets.",
+        "B": "current assets.",
+        "C": "intangible assets."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Asset-based valuations work well for companies that do have a high proportion of current assets and current liabilities. A is incorrect because Illiquid assets would not have easily determinable market (fair) values and would be very difficult to analyze using asset valuation methods. C is incorrect because Asset-based valuations work well for companies that do not have a high proportion of intangible or 'off the books' assets.",
+      "answer_source": "red",
+      "tags": [
+        "describe asset-based valuation models and their use in estimating equity value"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Q. Both equity and fixed income indexes can be categorized according to the:",
+      "options": {
+        "A": "currency of payments.",
+        "B": "issuer's economic sector.",
+        "C": "degree of inflation protection."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Both equity and fixed income indexes can be constructed according to sector. Similar to equities, fixed-income securities can be categorized according to the issuer's economic sector, the issuer's geographic region, or the economic development of the issuer's geographic region. A is incorrect because This feature is specific to fixed income indexes. C is incorrect because This feature is specific to fixed income indexes.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of fixed-income indexes"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Q. Trading by arbitrageurs most likely:",
+      "options": {
+        "A": "reduces liquidity.",
+        "B": "increases pricing discrepancies.",
+        "C": "contributes to market efficiency."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. The presence of these arbitrageurs helps pricing discrepancies disappear quickly. A is incorrect because Arbitrageurs provide liquidity to buyers and sellers who arrive at different markets at the same time. They move liquidity across markets. Arbitrageurs provide liquidity to the markets because they make it easier for buyers and sellers to trade when and where they want to trade. B is incorrect because The presence of arbitrageurs helps pricing discrepancies disappear quickly.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors that affect a market's efficiency"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Q. A feature of an efficient market is that:",
+      "options": {
+        "A": "the market reflects all past and present information.",
+        "B": "asset prices react to information that is fully anticipated.",
+        "C": "an investor can earn consistent, superior, risk-adjusted returns."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An efficient market is thus a market in which asset prices reflect all past and present information. B is incorrect because In an efficient market, prices should be expected to react only to the elements of information releases that are not anticipated fully by investors-that is, to the \"unexpected\" or \"surprise\" element of such releases. C is incorrect because Consistent, superior, risk-adjusted returns (net of all expenses) are not achievable in an efficient market.",
+      "answer_source": "red",
+      "tags": [
+        "describe market efficiency and related concepts, including their importance to investment practitioners"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Q. Decreased market efficiency is most likely associated with an increase in:",
+      "options": {
+        "A": "transaction costs.",
+        "B": "financial disclosure.",
+        "C": "the number of market participants."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An increase in transaction costs will increase the price discrepancy between market price and efficient price. Higher transaction costs make it more expensive for traders to exploit market inefficiencies, thereby decreasing market efficiency. Inefficiencies may also be unexploitable if the amount of the transaction cost offsets the amount of the price discrepancy. A price discrepancy must be sufficiently large to leave the investor with a profit (adjusted for risk) after taking account of the transaction costs and information-acquisition costs to reach the conclusion that the discrepancy may represent a market inefficiency. B is incorrect because Rules and regulations that promote fairness and efficiency in a market include those pertaining to the disclosure of information and illegal insider trading. C is incorrect because An increase in the number of market participants increases efficiency. If a large number of investors (individual and institutional) follow the major financial markets closely on a daily basis, and if mispricings exist in these markets, investors will act so that these mispricings disappear quickly.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Q. Which of the following is most likely a demographic influence on industry growth?",
+      "options": {
+        "A": "Lifestyle",
+        "B": "Distribution of age",
+        "C": "Spending behavior"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Changes in distribution of age happen due to demographic influence. Changes in population size, in the distributions of age and gender, and in other demographic characteristics may have significant effects on economic growth and on the amounts and types of goods and services consumed. A is incorrect because Changes in the lifestyle of people happen due to societal influences. Societal changes involving how people work, spend their money, enjoy their leisure time, and conduct other aspects of their lives can have significant effects on the sales of various industries. C is incorrect because Changes in spending behavior of the customers happen due to societal influences. Societal changes involving how people work, spend their money, enjoy their leisure time, and conduct other aspects of their lives can have significant effects on the sales of various industries.",
+      "answer_source": "red",
+      "tags": [
+        "analyze an industry's structure and external influences using Porter's Five Forces and PESTLE frameworks"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Q. Fixed-income indexes most likely:",
+      "options": {
+        "A": "are more easily replicated than equity indexes.",
+        "B": "require the provider to estimate the prices of some constituent securities.",
+        "C": "are created from a smaller universe of possible constituent securities than the universe of equity securities."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Compared to equity indexes, fixed-income index providers must contact dealers to obtain current prices on constituent securities to update the index or they must estimate the prices of constituent securities using the prices of traded fixed-income securities with similar characteristics. A is incorrect because It is difficult, compared with equity indexes, for investors to replicate fixed-income indexes and duplicate their performance. C is incorrect because The number of fixed-income securities is many times larger than the number of equity securities.",
+      "answer_source": "red",
+      "tags": [
+        "compare types of security market indexes"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Q. As time passes after inception, the value of the price version of an index is:",
+      "options": {
+        "A": "less than the value of the total return version.",
+        "B": "equal to the value of the total return version.",
+        "C": "greater than the value of the total return version."
+      },
+      "answer": "A",
+      "explanation": "A is correct. At inception, the values of the price and total return versions of an index are equal. As time passes, however, the value of the total return index will exceed the value of the price return index. B is incorrect because At inception, the values of the price and total return versions of an index are equal. As time passes, however, the value of the total return index will exceed the value of the price return index. C is incorrect because At inception, the values of the price and total return versions of an index are equal. As time passes, however, the value of the total return index will exceed the value of the price return index.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the value, price return, and total return of an index"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Q. With respect to behavioral finance, which of the following is least likely a behavioral bias used to explain pricing anomalies?",
+      "options": {
+        "A": "Risk aversion",
+        "B": "Loss aversion",
+        "C": "Overconfidence"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Behavioral finance allows for the possibility that the dislike for risk is not symmetrical, in contrast to the more general models where researchers assume that investors do not like risk (risk aversion), whether the risk is that returns are higher than expected or lower than expected. B is incorrect because Behavioral finance research supports the phenomenon that investors are loss averse. Behavioral finance allows for the possibility that the dissatisfaction resulting from a loss exceeds the satisfaction resulting from a gain of the same magnitude. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets. C is incorrect because Behavioral finance research supports the phenomenon that investors are overconfident. Evidence has suggested that overconfidence results in mispricing for US, UK, German, French, and Japanese markets.",
+      "answer_source": "red",
+      "tags": [
+        "describe behavioral finance and its potential relevance to understanding market anomalies"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Q. The voting method that allows shareholders to cast all their votes for a single candidate is best described as:",
+      "options": {
+        "A": "proxy voting.",
+        "B": "statutory voting.",
+        "C": "cumulative voting."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Cumulative voting allows shareholders to direct their total voting rights to specific candidates, as opposed to [statutory voting] having to allocate their voting rights evenly among all candidates. A is incorrect because Proxy voting is defined as shareholders may vote by proxy, which allows a designated party-such as another shareholder, a shareholder representative, or management to vote on the shareholders' behalf. B is incorrect because Cumulative voting allows shareholders to direct their total voting rights to specific candidates, as opposed to [statutory voting] having to allocate their voting rights evenly among all candidates.",
+      "answer_source": "red",
+      "tags": [
+        "describe differences in voting rights and other ownership characteristics among different equity classes"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Q. Convertible preference shares most likely:",
+      "options": {
+        "A": "are riskier than the underlying common shares for investors.",
+        "B": "allow investors to benefit from a rise in the price of the common shares.",
+        "C": "are issued primarily by companies of lower risk and used as a financing option."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Convertible preference shares allow investors to benefit from a rise in the price of the common shares through the conversion option. A is incorrect because Preference shares (or preferred stock) rank above common shares with respect to the payment of dividends and the distribution of the company's net assets upon liquidation. Their [convertible preference shares'] price is less volatile than the underlying common shares because the dividend payments are known and more stable. C is incorrect because The use of convertible preference shares is a popular financing option in venture capital and private equity transactions in which the issuing companies are considered to be of higher risk and when it may be years before the issuing company 'goes public' (i.e., issues common shares to the public).",
+      "answer_source": "red",
+      "tags": [
+        "compare the risk and return characteristics of different types of equity securities"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Q. Industries whose revenues and profits are least affected by fluctuations in the overall economy are most likely:",
+      "options": {
+        "A": "growth industries.",
+        "B": "cyclical industries.",
+        "C": "defensive industries."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Defensive industries and companies are those whose revenues and profits are least affected by fluctuations in overall economic activity. These industries/companies tend to produce staple consumer goods (e.g., bread), to provide basic services (grocery stores, drug stores, fast food outlets). A is incorrect because Growth industries would include industries with specific demand dynamics that are so strong that they override the significance of broad economic or other external factors and generate growth regardless of overall economic conditions, although their rates of growth may slow during an economic downturn. B is incorrect because A cyclical industry is one whose profits are strongly correlated with the strength of the overall economy. Such companies experience wider-than-average fluctuations in demand-high demand during periods of economic expansion and low demand during periods of economic contraction-and/or are subject to greater-than-average profit variability related to high operating leverage (i.e., high fixed costs).",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Q. If it is difficult to find a buyer or a seller for an asset, the asset most likely trades on:",
+      "options": {
+        "A": "brokered markets.",
+        "B": "order-driven markets.",
+        "C": "quote-driven markets."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Brokered markets are markets in which brokers arrange trades among their clients. Brokers organize markets for instruments for which finding a buyer or seller willing to trade is difficult because the instruments are unique. B is incorrect because Organizing order-driven markets for these instruments (assets for which finding a buyer or seller is difficult) is not sensible because too few traders would submit orders for them. C is incorrect because Dealers generally are unable or unwilling to hold these assets in their inventories, they will not make markets in them.",
+      "answer_source": "red",
+      "tags": [
+        "describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Q. A disadvantage of using price multiples to value stocks is that:",
+      "options": {
+        "A": "multiples are not easily calculated.",
+        "B": "cross-sectional comparisons are not possible.",
+        "C": "accounting methods produce different results that are not easily comparable across companies."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Differences in reporting rules among different markets and in chosen accounting methods can result in revenues, earnings, book values, and cash flows that are not easily comparable. A is incorrect because Price multiples are popular with investors because the multiples can be calculated easily. B is incorrect because The major advantage of using price multiples is that they allow for relative comparisons, both cross-sectional (versus the market or another comparable) and in time series.",
+      "answer_source": "red",
+      "tags": [
+        "explain advantages and disadvantages of each category of valuation model"
+      ]
+    }
+  ]
+}

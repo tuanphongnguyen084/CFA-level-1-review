@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "fi-1000-3",
+  "name": "1000 Câu Hỏi — Đề 3 (câu 43–63)",
+  "group": "1000 Question Bank — Fixed Income",
+  "source": "1000 Practice Questions — Fixed Income",
+  "questions": [
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "In a repurchase agreement:",
+      "options": {
+        "A": "only the lender of funds is exposed to credit risk.",
+        "B": "credit risk is eliminated by using highly rated sovereign bonds as collateral.",
+        "C": "the initial margin offers partial protection against changes in the market value of the collateral."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin. A is incorrect because each repo contract participant is exposed to the risk that the other party is unable to meet its obligations. B is incorrect because each repo contract participant is exposed to the risk that the other party is unable to meet its obligations, regardless of the quality of the collateral used in the repo transaction. The collateral should have little or no correlation with the credit risk of the repo counterparty in order to diversify credit exposure.",
+      "answer_source": "red",
+      "tags": [
+        "describe repurchase agreements (repos), their uses, and their benefits and risks"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "With respect to a bond with an embedded option, for parallel shifts in the benchmark yield curve, effective duration most likely indicates the same interest rate sensitivity as:",
+      "options": {
+        "A": "key rate durations.",
+        "B": "modified duration.",
+        "C": "Macaulay duration."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For parallel shifts in the benchmark yield curve, key rate durations will indicate the same interest rate sensitivity as effective duration. B is incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a >yield duration statistic in that it measures interest rate risk in terms of a change in the band's own yield-to-maturity (AYield). This question refers to changes in the benchmark yield curve, not the bond's own yield to maturity, therefore, modified duration is an incorrect measure. C is incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the band's own yield-to-maturity (AYield) Additionally, The calculation of the modified duration (ModDur) statistic of a bond requires a simple adjustment to Macaulay duration. It is the Macaulay duration statistic divided by one plus the yield per period. Thus, the Macaulay duration, as a mathematical derivative of modified duration, is also a measure of risk in terms of the change in a bond's own yield-to-maturity. This question refers to changes in the benchmark yield curve, not the bond's own yield-to-maturity, therefore, modified duration is an incorrect measure.",
+      "answer_source": "red",
+      "tags": [
+        "define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "In a securitization, a senior/subordinated structure is most likely a form of",
+      "options": {
+        "A": "time tranching",
+        "B": "credit tranching.",
+        "C": "prepayment risk management."
+      },
+      "answer": "B",
+      "explanation": "B is correct. It is common for securitizations to include a form of internal credit enhancement called Subordination is subordination, also referred to as credit tranching. In such a structure, there is more than one bond class or tranche, and the bond classes differ as to how they will share any losses resulting from defaults of the borrowers whose loans are in the collateral. The bond classes are classified as senior bond classes or subordinated bond classes hence, the reason this structure is also referred to as a senior/subordinated structure. A is incorrect because the creation of bond classes that possess different expected maturities is referred to as time a form of credit tranching, not time tranching. C is incorrect because prepayment risk is the uncertainty that the cash flows will be different from the scheduled cash flows as set forth in the loan agreement because of the borrowers' ability to alter payments. This risk is related to time tranching, not credit tranching.",
+      "answer_source": "red",
+      "tags": [
+        "describe typical credit enhancement structures used in securitizations"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Modified duration is the most appropriate measure of interest rate risk for which of the following securities?",
+      "options": {
+        "A": "Callable bond",
+        "B": "US Treasury bond",
+        "C": "Mortgage-backed bond"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modified duration can be used to measure the interest rate risk of a non-complex bond such as a US Treasury bond, while effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. A is incorrect because a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply effective duration is the appropriate duration measure. C is incorrect because another fixed-income security for which yield duration statistics, such as modified and Macaulay durations, are not relevant is a mortgage-backed bond.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "The percentage price change for a bond, given a change in its yield to maturity, is best estimated by:",
+      "options": {
+        "A": "effective duration.",
+        "B": "modified duration.",
+        "C": "Macaulay duration."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A is incorrect because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve, not to a change in the bond's yield to maturity. C is incorrect because Macaulay duration is a weighted average of the time to receipt of the bond's promised payments, where the weights are the shares of the full price that correspond to each of the bond's promised future payments.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "An analyst gathers the following information about an annual-pay bond: Coupon rate 6.0% Yield to maturity 4.5% Macaulay duration 10.0 If the yield to maturity decreases by 100 basis points, the expected percentage change in the bond's price is closest to:",
+      "options": {
+        "A": "9.43%.",
+        "B": "9.57%.",
+        "C": "10.00%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity [YTM] Modified duration = Macaulay Duration / (1+r) = 10.0 / 1.045 = 9.5694 %*SYMBOL*PV ≈ - AnnModDur x 𝛥Yield = - 9.5694 x -1% = 9.5694% ≈ 9.57%. A is incorrect because it calculates modified duration using the coupon rather than YTM. MacDur / (1 + coupon) = 10/1.06 = 9.43. C is incorrect because this is Macaulay duration. Macaulay duration must be adjusted by the yield-to-maturity to calculate the modified duration, and afterwards, modified duration is the used to calculate the percentage price change for a change in bond's yield to maturity.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "Which of the following is most likely a negative covenant?",
+      "options": {
+        "A": "The issuer must comply with all laws and regulations.",
+        "B": "The issuance of new debt must be junior to existing bondholder debt.",
+        "C": "New debt obligations are treated the same as the borrower's other senior debt instruments."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Negative pledges prevent the issuance of debt that would be senior to or rank in priority ahead of the existing bondholders ' debt. This is a negative covenant. A is incorrect because affirmative covenants are typically administrative in nature. For example, frequently used affirmative covenants include what the issuer will do with the proceeds from the bond issue and the promise of making the contractual payments. The issuer may also promise to comply with all laws and regulations. C is incorrect because affirmative covenants are typically administrative in nature. For example, a pari passu (or\"equal footing\") clause, which ensures that a debt obligation is treated the same as the borrower's other senior debt instruments.",
+      "answer_source": "red",
+      "tags": [
+        "describe the contents of a bond indenture and contrast affirmative and negative covenants"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "An analyst gathers the following information about a 4% annual-payment bond with a current yield-to-maturity of 4.0%: Annualized Yield to Maturity Bond Price 3.9% 100.45 4.0% 100.00 4.1% 99.56 The bond's annualized Macaulay duration is closest to:",
+      "options": {
+        "A": "4.28.",
+        "B": "4.45.",
+        "C": "4.63."
+      },
+      "answer": "C",
+      "explanation": "C is correct. It adjusts the Approximate Modified Duration by 1+ yield to maturity to determine the Macaulay duration. AppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45-99.56)/(2 x 0.001 x 100) = 4.45. Macaulay duration = modified duration x (1 + YTM) = 4.45 x (1 + 0.04) = 4.628 ≈ 4.63. A is incorrect because it determines ApproxModDur but then adjusts the calculated duration measure by dividing it by (1 + r), instead of multiplying. AppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45-99.56)/(2 x 0.001 x 100) = 4.45. ApproxMacDur ≠ ApproxModDur / (1+r) = 4.45/(1+0.04) = 4.279 ≈ 4.28. B is incorrect because it does not further adjust the modified duration to determine the Macaulay duration. AppxModDur = [(𝑃𝑉−) −(𝑃𝑉+)]/[2 × ( 𝛥𝑌𝑖𝑒𝑙𝑑) × (𝑃𝑉0)] = (100.45- 99.56)/(2 x 0.001 x 100) = 4.45.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret Macaulay duration"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "An analyst gathers the following information about a company (in $ millions): • Operating income 120 • Net income 85 • Interest expense 15 • Depreciation and amortization 15 Interest coverage using EBIT is closest to:",
+      "options": {
+        "A": "7x.",
+        "B": "8x.",
+        "C": "9x."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Operating income is defined as operating revenues minus operating expenses and is commonly referred to as 'earnings before interest and taxes' (EBIT). Interest coverage using EBIT is operating income/interest expense. = $120/15 = 8. A is incorrect because this is net income plus depreciation & amortization divided by interest expense. Interest coverage ≠ (85 + 15) / 15= $100 / 15 = 6.7, rounded to 7. C is incorrect because this is interest coverage using EBIT plus depreciation & amortization (EBITDA. not EBIT) divided by interest expense. Interest coverage ≠ ($120 + $15) / 15 = 9.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret financial ratios used in credit analysis"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "Which of the following duration statistics best measures the sensitivity of a bond's price to a flattening of the yield curve?",
+      "options": {
+        "A": "Key rate duration",
+        "B": "Effective duration",
+        "C": "Macaulay duration"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk for a bond-that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter). B is incorrect because effective duration indicates the bond's sensitivity to the benchmark yield curve assuming that all yields change by the same amount. In contrast to effective duration, key rate durations help identify shaping risk' for a band that is, a band's sensitivity to changes in the shape of the benchmark yield curve (e g., the yield curve becoming steeper or flatter). C is incorrect because yield duration statistics measuring the sensitivity of a bond's full price to the bond's own yield-to-maturity include the Macaulay duration, modified duration, money duration, and price value of a basis point. The Macaulay duration measures the sensitivity of a bond's full price to a change in its yield to maturity, not to changes in the shape of the benchmark yield curve.",
+      "answer_source": "red",
+      "tags": [
+        "define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "All else being equal, an investment-grade bond issuer most likely has:",
+      "options": {
+        "A": "less market liquidity risk than a below-investment-grade issuer.",
+        "B": "the same market liquidity risk as a below-investment-grade issuer.",
+        "C": "greater market liquidity risk than a below-investment-grade issuer."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Market liquidity risk is the risk that the price at which investors can actually transact-buying or selling-may differ from the price indicated in the market. The lower the quality of the issuer, the higher the market liquidity risk. B is incorrect because the lower the quality of the issuer, the higher the market liquidity risk. In this case the investment grade borrower has less market liquidity risk, not the same. C is incorrect because the lower the quality of the issuer, the higher the market liquidity risk. In this case the investment grade borrower has less market liquidity risk, not more.",
+      "answer_source": "red",
+      "tags": [
+        "describe credit risk and its components, probability of default and loss given default"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "An analyst gathers the following information about an option-free bond: Par value $1,000,000 Current market value $912,575 Duration 2.4 If yields are expected to decrease by 50 basis points, the expected price change for the bond is closest to:",
+      "options": {
+        "A": "$11,000.",
+        "B": "$22,000.",
+        "C": "$24,000."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A modified duration of 2.4 tranlates to a 2.4% percentage price change given a 100 basis points change in the bond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the bond's price will change by (2.4)(0.0050)($912,575) = $10.951 ≈ $11,000. B is incorrect because it uses an incorrect calculation ( 0.024)($912,575) = $21,902 ≈ $22,000. C is incorrect because it uses an incorrect calculation (0.024)($1,000,000) = $24,000.",
+      "answer_source": "red",
+      "tags": [
+        "calculate the percentage price change of a bond for a specified change in yield, given the bond's duration and convexity"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "The price value of a basis point (PVBP) for a bond with a full price of 103.50 and a modified duration of 6.2 is closest to:",
+      "options": {
+        "A": "0.0642.",
+        "B": "0.6420.",
+        "C": "6.4200."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Modified duration provides anestimate of the percentage price change for a bond given a change in its yield-to-maturity: %𝛥𝑃𝑉𝐹𝑢𝑙𝑙 ≈ -AnnModDur x 𝛥Yield. Also, another version of money duration is the price value of a basis point (PVBP) for the bond. The PVBP is an estimate of the change in the full price given a 1 bp change in the yield-to-maturity Here: -6.2 x 0.0001 0.00062 and PVBP = 0.00062 x 103.50 = 0.06417, rounded to 0.0642. B is incorrect because it represents a 10 bp change in rates, not 1 bp: -6.2 x 0.001 = 0.0062 and PVBP ≠ 0.0062 × 103.50 = 0.6417, rounded to 0.642. C is incorrect because it represents a 1 percent change in rates (100 bp), not 1 bp: -6.2 x 0.01 = 0.062 and PVBP ≠ 0.062 × 103.50 = 6.417, rounded to 6.42.",
+      "answer_source": "red",
+      "tags": [
+        "define, calculate, and interpret modified duration, money duration, and the price value of a basis point (PVBP)"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "An analyst gathers the following details about a bond portfolio: Bond Market Price (per 100 of par value) Money Duration (per 100 of par value) 1 95 730 2 120 515 If each bond has a par value of £25 million, the modified duration of this bond portfolio is closest to:",
+      "options": {
+        "A": "5.8.",
+        "B": "6.1.",
+        "C": "6.2."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Money duration (Money Dur) is calculated as the annual modified duration times the full price (𝑃𝑉𝐹𝑢𝑙𝑙) of the bond, including accrued interest. Thus the modified durations of the bands are 730/95 = 7.6842 and 515/120 = 4.29167, respectively. The modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. Here, the market values of the bonds are £25 million * 95/100 = £23,750,000 and £25 million* 120/100 = £30,000,000. Thus the weight of the first bond in the portfolio is £23,750,000/(£23,750,000+ £30,000,000) = 44.186% and the weight of the second bond in the portfolio is £30,000,000/(£23,750,000+ £30,000,000) = 55.814%. The modified duration of the portfolio is therefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 +2.3953 = 5.7907, rounded to 5.8. B is incorrect because the modified duration of the portfolio is not equal to the weighted average of the money durations of the bonds divided by 100. Portfolio modified duration <> 44.186% * 730/100 + 55.814% 5.15/100 = 6.1. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. C is incorrect because the modified duration of the portfolio is not equal to the simple average of the money durations of the bonds divided by 100. Portfolio modified duration <> 50% * 730/100 + 50% * 5.15/100 = 6.225, rounded to 6.2. Instead, the modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. Candidates may choose this option because the par values of the bonds are the same.",
+      "answer_source": "red",
+      "tags": [
+        "calculate portfolio duration and convexity and explain the limitations of these measures"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "With respect to the credit rating agencies' practice of notching, the size of a notching adjustment:",
+      "options": {
+        "A": "is larger for higher-rated credits.",
+        "B": "is standardized between rating agencies.",
+        "C": "depends on the rating of the issuer's senior unsecured debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Recognizing different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior orisecured rating, the smaller fne notching adjustment. The reason behind this is that the higher the rating, the lower the perceived risk of default so, the need to 'notch' the rating to capture the potential difference in loss seventy is greatly reduced. For lower rated credits, however, the risk of default is greater and thus be potensa diterence in foss from a lower (or higher angray ranking is a bager consideration in assessing an issue'. A is incorrect because as a general rule , the higher the senior unsecured rating, the smaller the notching adjustment. B is incorrect because notching is applied according to each credit rating agency's notching guidelines.",
+      "answer_source": "red",
+      "tags": [
+        "describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Which of the following is most likely a key factor in the credit analysis of revenue-backed non-sovereign government bonds?",
+      "options": {
+        "A": "Per capita income",
+        "B": "Breadth of the tax base",
+        "C": "Debt-service-coverage ratio of the project"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Revenue bonds are issued for specific project financing (eg, financing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). Revenue bonds, which are issued to finance a specific project, have a higher degree of risk than GO bonds because they are dependent on a single source of revenue. A key credit measure for revenue-backed non-sovereign government bonds is the debt-service-coverage (DSC) ratio, which measures how much revenue is available to cover debt payments (principal and interest) after operating expenses. A is incorrect because per capita income is a concern for sovereign bonds or general obligation bonds, not non-sovereign govemment revenue bonds. Income per capita: More prosperous countries generally have a broader and deeper tax base with which to support debt. The economic analysis of non-sovereign government GO bonds, including US municipal bonds, focuses on employment, per capita income (and changes in it over time), per capita debt (and changes in it over time), the tax base (depth, breadth, diversification, stability, etc.). B is incorrect because the tax base is a concern for sovereign bonds or general obligation bonds. Income per capita: More prosperous countries generally have a broader and deeper tax base with which to support debt. The economic analysis of non-sovereign government GO bonds, including US municipal bonds, focuses on employment, per capita income (and changes in it over time), per capita debt (and changes in it over time), the tax base (depth, breadth, diversification, stability, etc.).",
+      "answer_source": "red",
+      "tags": [
+        "explain special considerations when evaluating the credit of sovereign and non-sovereign government debt issuers and issues"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "An analyst observes the following yields to maturity on zero-coupon government bonds: Maturity Yield to Maturity 1 year 1.5% 2 years 2.5% 3 years 3.5% The 2y1y implied forward rate is closest to:",
+      "options": {
+        "A": "4.5%.",
+        "B": "5.5%.",
+        "C": "6.6%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The 2y1y yield is the implied one-year forward yield two years from now. The 2y1y implied yield can be found using (1+ z1)(1+ z2) x (1+ IFR2,1)=(1+z3)^3= (1+0.015) x (1+0.025) x (1+ IFR1,2) = (1+1.035)³. (1 + IFR1, 2)² = (1 +1.040)^3/[(1+0.015) x (1.025)] - 1 = 1.1087/1.0404 = 1.0656 - 1 = 0.0656 or 6.6%. A is incorrect because it is the 1y2y implied forward yield. The yield can be found using (1 + z)^1 x (1+ IFR1,2)²= (1 + Z3)³; (1+0.015)¹× (1+IFR1,2)²= (1+0.035)³× (1+ IFR1,2)² = (1 + 0.035)/(1+0.015) - 1 = 1.1087/1.0150 = 1.0923. IFR1,2 = 1.0923 -1 = 0.0451 or 4.51%. C is incorrect because it is the compounded three year to maturity bond divided by the product of the first two yields to maturity. The yield is found as (1 + z₁) × (1+ z₂) ×(1 + IFR1,2) = (1+z3)^3 = (1 + 0.015) × (1 + 0.025) × (1+ IFR₁,₂) = (1 +1.035)^3. (1 + IFR1, 2)²= (1 + 1.040)^3/[(1+0.015) x (1.025)] - 1 = 1.1087/1.0404 = 1.0656 - 1 = 0.0656 or 6.6%.",
+      "answer_source": "red",
+      "tags": [
+        "define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "An analyst gathers the following information: Time to Maturity Yield to Maturity Bond 1 Three years 3.4% Bond 2 Eight years 5.4% Based only on this information, the estimated market discount rate for a 5-year bond with similar credit quality is:",
+      "options": {
+        "A": "4.2%.",
+        "B": "4.4%.",
+        "C": "4.6%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar fimes-to-maturity coupon rates, and credit quality. This estimation process is called matrix pricing The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation between the two given bonds, we have: 0.034+ (5 - 3) / (8 - 3) x (0064 - 0034) = 0.034+ 2/5 x 0.02=0.042 = 4.2%. B is incorrect because the simple average is used instead of linear interpolation in matrix pricing. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using the simple average of the two given bonds, we have (0.034 +0.054)/2=0.088/2= 0.044=4.4%. C is incorrect because the finear interpolation dar matrix pricing is implemented from the wrong end of the interval. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of retum required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar tires-to-isafunty cannon cales and credit quality. This estimation amoess is called eratrix pricing. The es bmete fatkebdisonart inte can be cofeined with linear intereation. Usitig meat inlatbotolica firm the wraite end between the two given bonds, we have: 0.034+ (8-5)/(8-3) * (0.054 -0.034) = 0.034 +3/5x0.02 = 0.046 = 4.6%.",
+      "answer_source": "red",
+      "tags": [
+        "describe matrix pricing"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "Compared to an otherwise similar option-free bond, investors require a higher yield for a corporate bond with a:",
+      "options": {
+        "A": "put provision.",
+        "B": "call provision.",
+        "C": "conversion provision."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The call provision is a valuable option for the issuer. Thus, other things equal, investors require a higher yield (and thus pay a lower price) for a callable bond than for an otherwise similar non-callable bond. A is incorrect because the put provision is a valuable option for the bondholders, therefore putable bonds offer a lower yield (and thus have a higher price) than otherwise similar non-putable bonds. C is incorrect because a convertible bond gives the bondholder the right to convert the bond into common shares of the issuing company. Because this option favors the bondholder, convertible bonds offer a lower yield and sell at a higher price than otherwise similar non-convertible bonds.",
+      "answer_source": "red",
+      "tags": [
+        "describe common cash flow structures of fixed-income instruments and contrast cash flow contingency provisions that benefit issuers and investors"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "The price of a bond issued in the United Kingdom by a US-based company and denominated in British pounds most likely changes when:",
+      "options": {
+        "A": "US interest rates change only.",
+        "B": "British interest rates change only.",
+        "C": "both US and British interest rates change"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates. A is incorrect because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates. C is incorrect because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates.",
+      "answer_source": "red",
+      "tags": [
+        "describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "A floating-rate note makes semiannual interest payments and has a coupon rate equal to the six-month market reference rate plus 45 basis points. The interest payments are made in June and December. If the six-month market reference rate was 1.95% in June and 2.25% in December of the same year, the coupon rate paid in December of that year was closest to",
+      "options": {
+        "A": "2.40%.",
+        "B": "2.55%.",
+        "C": "2.70%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The applicable interest rate in December is the six-month market reference rate in June plus the 45 basis point margin = 1.95% +0.45% = 2.40%. B is incorrect because the 45 bps margin is added to the average of the June and December six-month market reference rates = (2.25% + 1.95% )/2+0.45% = 2.55%. C is incorrect because the 45 bps margin is added to the market reference rate in December = 2.25% +0.45% = 2.70%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret yield spread measures for floating-rate instruments"
+      ]
+    }
+  ]
+}

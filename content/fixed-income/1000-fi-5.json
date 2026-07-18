@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "id": "fi-1000-5",
+  "name": "1000 Câu Hỏi — Đề 5 (câu 85–106)",
+  "group": "1000 Question Bank — Fixed Income",
+  "source": "1000 Practice Questions — Fixed Income",
+  "questions": [
+    {
+      "id": "Q85",
+      "num": 85,
+      "question": "Effective duration is:",
+      "options": {
+        "A": "a useful interest rate risk measure only for bonds with embedded options.",
+        "B": "an accurate estimate of interest rate risk only when the assumed benchmark rate change is small.",
+        "C": "the same as the modified duration of an option-free bond only when the yield curve is perfectly flat."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The modified duration and effective duration on an option-free bond are identical only in the rare circumstance of an absolutely flat yield curve. A is incorrect because although effective duration is the most appropriate interest rate risk measure for bonds with embedded options, it also is useful with traditional bonds to supplement the information provided by the Macaulay and modified yield durations. B is incorrect because a practical consideration in using effective duration is in setting the change in the benchmark yield curve. With approximate modified duration, accuracy is improved by choosing a smaller yield-to-maturity change. But the pricing models for more-complex securities, such as callable and mortgage-backed bonds, include assumptions about the behavior of the corporate issuers, businesses, or homeowners. Rates typically need to change by a minimum amount to affect the decision to call a bond or refinance a mortgage loan because issuing new debt involves transaction costs. Therefore, estimates of interest rate risk using effective duration are not necessarily improved by choosing a smaller change in benchmark rates.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q86",
+      "num": 86,
+      "question": "An investor gathers the following information about a bond portfolio comprised of two option-free bonds: Bond Par Value Market Value Duration 1 $100,000 $120,000 5 2 $200,000 $180,000 4 The duration of the portfolio is closest to:",
+      "options": {
+        "A": "4.33.",
+        "B": "4.40.",
+        "C": "455."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio's duration is the weighted average (by market value) of the duration of the bonds in the portfolio. Duration of portfolio = [(120,000 ÷ 300,000) x 5] + [(180,000 ÷ 300,000) × 4] = (0.4 x 5)+(0.6 × 4) = 2.00 +2.40 = 4.40. C is incorrect because it weights the bonds by their duration. DP= [(5÷9) x 5] + [(4÷9) x 4)] = 2.777 +1.777 = 4.5544.55.",
+      "answer_source": "red",
+      "tags": [
+        "calculate portfolio duration and convexity and explain the limitations of these measures"
+      ]
+    },
+    {
+      "id": "Q87",
+      "num": 87,
+      "question": "An analyst gathers the following information about a bond that pays interest annually: Coupon rate 4% Time-to-maturity 3 years Par value $100,000 If the market discount rate is 5%, the market value of this bond is closest to:",
+      "options": {
+        "A": "$89,839.",
+        "B": "$97,277.",
+        "C": "$102,775."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The price of the bond is the present value of the promised cash flows and is calculated as follows: Price of bond = 4,000/ (1 +5%)^1 + 4,000 / (1+5% )² + 104,000 / (1+5%)^3 = 3,809.5238 + 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, I = 10.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277. A is incorrect because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at by ignoring the coupon payments for year 1 & 2: Price of bond ≠ 104,000/(1+5% )^3 = 89,839.11025 ≈ 89,839. C is incorrect because as per the justification for the correct answer, the price of the bond is closest to $97,277. This incorrect answer is arrived at by switching the coupon rate and the market discount rate. Price of bond ≠ 5,000/(1+4%)^1 +5,000/(1+4% )² + 105,000/(1+4%)^3 = 4,807.6923 + 4,622.7811 + 93,344.6177 = 102,775.0910 ≈ 102,775. Calculator inputs: FV = 100,000, I= 0.04, N=3, PMT = 5,000, PV = 102,775.09 ≈ 102,775.",
+      "answer_source": "red",
+      "tags": [
+        "calculate a bond's price given a yield-to-maturity on or between coupon dates"
+      ]
+    },
+    {
+      "id": "Q88",
+      "num": 88,
+      "question": "Which of the following mortgage features most likely benefits the lender?",
+      "options": {
+        "A": "Non-recourse loan",
+        "B": "Prepayment option",
+        "C": "Prepayment penalty"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The purpose of the prepayment penalty is to compensate the lender for the difference between the contract rate and the prevailing mortgage rate if the borrower prepays when interest rates decline. A is incorrect because in a recourse loan, the lender has a claim against the borrower for the shortfall between the amount of the outstanding mortgage balance and the proceeds received from the sale of the property. In a non-recourse loan, the lender does not have such a claim and thus can look only to the property to recover the outstanding mortgage balance. B is incorrect because a mortgage may entitle the borrower to prepay all or part of the outstanding mortgage principal prior to the scheduled due date when the principal must be repaid. This contractual provision is referred to as a prepayment option or an early repayment option. From the lender's or investor's viewpoint, the effect of a prepayment option is that the amount and timing of the cash flows from a mortgage cannot be known with certainty. The prepayment option benefits the borrower rather than the lender.",
+      "answer_source": "red",
+      "tags": [
+        "describe fundamental features of residential mortgage loans that are securitized"
+      ]
+    },
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "With respect to the notching process adopted by credit rating agencies, a corporate's subordinated debt is most likely.",
+      "options": {
+        "A": "notched up from the corporate's junior subordinated debt.",
+        "B": "subject to a smaller notching adjustment the higher the corporate's issuer rating.",
+        "C": "notched down from the corporate's issuer rating due to higher probability of default."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment. A is incorrect because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. Issue ratings are thus notched up or down from the issuer rating, and not from more junior ratings such as junior subordinated ratings. C is incorrect because recognizing these different payment priorities, and thus the potential for higher (or lower) loss severity in the event of default, the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating and also cross-default provisions, whereby events of default (such as non-payment of interest) on one bond trigger default on all outstanding debt, imply the same default probability for all issues, specific issues may be assigned different credit ratings-higher or lower-due to a rating adjustment methodology known as notching. It is the higher loss severity, and not higher probability of default, that is driving the notching process.",
+      "answer_source": "red",
+      "tags": [
+        "describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings"
+      ]
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "Money market yields are:",
+      "options": {
+        "A": "annualized and compounded.",
+        "B": "stated for a common periodicity.",
+        "C": "stated on a simple interest basis."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The rate of return on a money market instrument is stated on a simple interest basis. A is incorrect because bond yields-to-maturity are annualized and compounded. Yield measures in the money market are annualized but not compounded. B is incorrect because money market instruments having different times-to-maturity have different periodicities for the annual rate.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret yield measures for money market instruments"
+      ]
+    },
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "A portfolio manager gathers the following information about an option-free bond that was held to maturity: • Realized horizon yield 4.2% • Reinvestment rate 4.1% The yield to maturity at purchase was most likely.",
+      "options": {
+        "A": "less than 4.2%.",
+        "B": "equal to 4.2%.",
+        "C": "greater than 4.2%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The realized horizon yield matches the original yield-to-maturity if (1) coupon payments are reinvested at the same interest rate as the original yield-to-maturity, and (2) the bond is sold at a price on the constant-yield price trajectory, which implies that the investor does not have any capital gains or losses when the bond is sold. Since the reinvestment rate is less than the horizon yield and the bond is held to maturity, the yield to maturity is greater than the horizon yield. A is incorrect because , since the reinvestment rate is less than the horizon yield, the yield-to-maturity is greater than the horizon yield of 4.2%. B is incorrect because , since the reinvestment rate is less than the horizon yield, the yield-to-maturity is greater than the horizon yield of 4.2%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the sources of return from investing in a fixed-rate bond"
+      ]
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "A three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is purchased for $108. One year later , if the yield to maturity has decreased by 100 basis points, the change in the value of this bond is closest to:",
+      "options": {
+        "A": "$0.57.",
+        "B": "$1.52.",
+        "C": "$3.08."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The value of a bond is calculated as: PV= [PMT = (1+r)¹] + [PMT +(1+r)²] +...+ [(PMT + FV) + (1+r)N) where: PV= present value, or the price of the bond PMT coupon payment per period FV = future value paid at maturity, or the par value of the bond r = market discount rate, or required rate of return per period N= number of evenly spaced periods to maturity Using calculator inputs, N = (3 x 2)=6, PMT = (5% ÷ 2) 100 = $2.5, FV = $100, PV = $108, Solve for I, is equal to 1.114% semi-annually, or 2.228% on an annual basis. If the yield to maturity decreases by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = $100, 1= [(2.228% -1% ) ÷ 2] = 0.614%, Solve PV, is equal to $107.43. Therefore, the change in value of the bond = $108.00 - $107.43 = $0.57. B is incorrect because fails to annualize the interest rate before computing the change in value Using calculator inputs, the yield of the bond: N=6, PMT = $2.5, FV = $100, Solve I is equal to 1.114%. If the yield declines by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = 100, I = (1.114% -1% ) = 0.114%, Solve for PV = $109.52. Therefore, the change in value = $108-109.52-$1.52, or a change in value of $1.52. C is incorrect because incorrectly uses the same time to maturity when calculating the new value rather than adjusting the term for the passage of one year in value Using calculator inputs, the yield of the bond: N = 6, PMT = $2.5, FV = 100, I = (2.228% - 1%)/2=0.614%, Solve for PV is equal to $111.08. Therefore, the change in value = $108-111.08 = - $3.08, or a change in value of $3.08.",
+      "answer_source": "red",
+      "tags": [
+        "calculate a bond's price given a yield-to-maturity on or between coupon dates"
+      ]
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "The yield spread of a specific bond over the standard swap rate in that currency of the same tenor best describes the",
+      "options": {
+        "A": "I-spread.",
+        "B": "Z-spread.",
+        "C": "option-adjusted spread."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I-spread or interpolated spread to the swap curve. B is incorrect because another approach is to calculate a constant yield spread over a government (or interest rate swap) spot curve instead. This spread is known as the zero volatility spread (Z-spread) of a bond over the benchmark rate. Sometimes, the Z-spread is called the static spread because it is constant (and has zero volatility). C is incorrect because the Z-spread is also used to calculate the option-adjusted spread (OAS) on a callable bond. The OAS, like the option-adjusted yield, is based on an option-pricing model and an assumption about future interest rate volatility.",
+      "answer_source": "red",
+      "tags": [
+        "compare, calculate, and interpret yield and yield spread measures for fixed-rate bonds"
+      ]
+    },
+    {
+      "id": "Q94",
+      "num": 94,
+      "question": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments most likely.",
+      "options": {
+        "A": "122.20.",
+        "B": "122.41.",
+        "C": "122.53."
+      },
+      "answer": "A",
+      "explanation": "A is correct. There are two offsetting types of interest rate risk that affect the bond investor coupon reinvestment risk and market price risk. The future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up and decreases when rates go down. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up and increases when rates go down. B is incorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on boods that mature before the horizon date) increases when interest rates go up. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up. C is incorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up. The sale price on a band that matures after the horizon date (and thus needs to be sold) decreases when interest rates go pp.",
+      "answer_source": "red",
+      "tags": [
+        "describe the relationships among a band's holding period return, its Macaulay duration, and the investment horizon"
+      ]
+    },
+    {
+      "id": "Q96",
+      "num": 96,
+      "question": "Which of the following debt categories has the highest ranking in terms of priority of payment?",
+      "options": {
+        "A": "Second lien debt",
+        "B": "Subordinated debt",
+        "C": "Senior unsecured debt"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond. A is incorrect because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I- spread. C is incorrect because the yield spread over a specific benchmark is referred to as the benchmark spread. A constant yield spread over a government (or interest rate swap) spot curve is known as the zero-volatility spread (Z- spread) of a bond over the benchmark rate.",
+      "answer_source": "red",
+      "tags": [
+        "compare, calculate, and interpret yield and yield spread measures for fixed-rate bonds"
+      ]
+    },
+    {
+      "id": "Q97",
+      "num": 97,
+      "question": "In a securitization, time tranching most likely refers to differences in:",
+      "options": {
+        "A": "default risk.",
+        "B": "expected maturities.",
+        "C": "underlying collateral."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The creation of bond classes that possess different expected maturities is referred to as time tranching. A is incorrect because this relates to credit tranching, not time tranching. In credit tranching, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral. C is incorrect because tranching does not change underlying collateral, rather it only changes how losses or prepayments will be shared. In such a structure, there is more than one bond class or tranche, and the share classes differ as to how they will share losses resulting from defaults of the borrowers whose loans are in the collateral.",
+      "answer_source": "red",
+      "tags": [
+        "define prepayment risk and describe time tranching structures in securitizations and their purpose"
+      ]
+    },
+    {
+      "id": "Q98",
+      "num": 98,
+      "question": "For a floating-rate note, the specified yield spread over the reference rate best defines the:",
+      "options": {
+        "A": "coupon.",
+        "B": "quoted margin.",
+        "C": "required margin."
+      },
+      "answer": "B",
+      "explanation": "B is correct. This specified yield spread over the reference rate is called the quoted margin on the FRN. The role of the quoted margin is to compensate the investor for the difference in the credit risk of the issuer and that implied by the reference rate. A is incorrect because a specified yield spread is added to, or subtracted from, the reference rate which results in the coupon. For example, the floater might reset its interest rate quarterly at three-month Libor plus 0.50%. This is not the quoted margin, it is the reference rate plus the quoted margin. C is incorrect because the required margin is the yield spread over, or under, the reference rate such that the FRN is priced at par value on a rate reset date. Changes in the required margin usually come from changes in the issuer's credit risk. The required margin is not specified but changes based on market forces.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret yield spread measures for floating-rate instruments"
+      ]
+    },
+    {
+      "id": "Q99",
+      "num": 99,
+      "question": "An investor holds a bond with the following characteristics: • Yield to maturity 9% • Modified duration 7.4 If the duration gap is zero, the investment horizon is closest to:",
+      "options": {
+        "A": "6.8 years.",
+        "B": "7.4 years.",
+        "C": "8.1 years."
+      },
+      "answer": "C",
+      "explanation": "C is correct. We use the fact that ModDur = MacDur /(1+r) to calculate the Macaulay duration of the bond: MacDur = 7.4 × (1+9%) = 8.07. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is closest to 8.1 years. A is incorrect because the candidate calculates the Macaulay duration incorrectly: MacDur ≠ 7.4/(1+9%) = 6.8. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is incorrectly stated as 6.8 years. B is incorrect because the candidate confuses the Macaulay duration with the modified duration, thus incorrectly determining the investment horizon as 7.4 years.",
+      "answer_source": "red",
+      "tags": [
+        "describe the relationships among a bond's holding period return, its Macaulay duration, and the investment horizon"
+      ]
+    },
+    {
+      "id": "Q100",
+      "num": 100,
+      "question": "All else being equal, when the market interest rate falls below a bond's coupon rate, potential price appreciation is most limited for a:",
+      "options": {
+        "A": "putable bond.",
+        "B": "callable bond.",
+        "C": "option-free bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When interest rates are low, the effective duration of the callable bond is lower than that of the otherwise comparable non-callable bond because the callable bond price does not increase as much when benchmark yields fall. The presence of the call option limits price appreciation especially when interest rates are falling and the bond is more likely to be called. A is incorrect because if interest rates are low compared with the coupon rate, the value of the put option is low and the impact of a change in the benchmark yield on the [putable] bond's price is very similar to the impact on the price of a non-putable bond, e.g., not limited. Furthermore, a rational investor would not exercise the put option when the market interest rate is lower than the coupon rate of the bond. C is incorrect because the presence of an embedded option reduces the sensitivity of the bond price to changes in the benchmark yield curve, assuming no change in credit risk. An option-free bond serves as the base case, whereas with a call, price appreciation is limited when market rates go below the coupon rate [and with a put, price depreciation is limited when market rates go above the coupon rate].",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q101",
+      "num": 101,
+      "question": "Callable bonds exhibit:",
+      "options": {
+        "A": "positive convexity only.",
+        "B": "negative convexity only.",
+        "C": "either positive or negative convexity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised. A is incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity But as the benchmark yield is reduced the curves diverge At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised. B is incorrect because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised.",
+      "answer_source": "red",
+      "tags": [
+        "explain why effective duration and effective convexity are the most appropriate measures of interest rate risk for bonds with embedded options"
+      ]
+    },
+    {
+      "id": "Q102",
+      "num": 102,
+      "question": "An investor sells a fixed-rate bond originally purchased at a discount. The resulting capital gain or loss should be measured by comparing the bond's selling price with its:",
+      "options": {
+        "A": "par value.",
+        "B": "carrying value.",
+        "C": "purchase price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Capital gains arise if a bond is sold at a price above its constant-yield price trajectory and capital losses occur if a bond is sold at a price below its constant-yield price trajectory. Also, capital gains and losses are measured from the carrying value of the bond and not from the purchase price. The carrying value includes the amortization of the discount or premium if the bond is purchased at a price below or above par value. The carrying value is any point on the constant-yield price trajectory. A is incorrect because capital gains and losses are measured from the carrying value of the bond and not from the purchase price or par value. C is incorrect because capital gains and losses are measured from the carrying value of the bond and not from the purchase price.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the sources of return from investing in a fixed-rate bond"
+      ]
+    },
+    {
+      "id": "Q103",
+      "num": 103,
+      "question": "An investor gathers the following information about an investment in a bond with a 10- year tenor: Purchase price 95.27 Sale price 102.06 Sum of reinvested coupon payments 24.28 If the holding period was seven years, the horizon yield is closest to:",
+      "options": {
+        "A": "2.29%.",
+        "B": "2.86%.",
+        "C": "4.11%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A horizon yield is the internal rate of return between the total return (the sum of reinvested coupon payments and the sale price or redemption amount) and the purchase price of the bond. The horizon yield on a bond investment is the annualized holding-period rate of return. 95.27 = (102.06+24.28)/ (1+r)^7 => r = 0.041147 ≈ 4.11%. Calculator solution: N = 7; PV= -95.27; FV = 102.06 + 24.28; CPT I/Y = 4.11%. A is incorrect because the sale and purchase price are accidentally swapped in the formula: 102.06 = (95.27 +24.28)/(1+r)^7 => r = 0.022853 ≈ 2.29%. Calculator solution: N = 7; PV = -102.06; FV = 95.27+ 24.28; CPT I/Y = 2.29%. B is incorrect because holding period and tenor of bond are accidentally swapped in the formula: 95.27 (102.06+24 28)/(1+r)^10=> r = 0.028628 ≈ 2.86%. Calculator solution: N = 10, PV= -95 27, FV = 102.06 + 24.28; CPT I/Y= 2.86%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the sources of return from investing in a fixed-rate bond"
+      ]
+    },
+    {
+      "id": "Q104",
+      "num": 104,
+      "question": "A commercial paper has the following characteristics: Redemption value $5,000,000 Interest earned $140,500 Days to maturity 160 For a 365-day year, the discount rate is closest to:",
+      "options": {
+        "A": "6.2%.",
+        "B": "6.4%.",
+        "C": "6.6%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The discount rate, DR = (Year/Days) x ((FV - PV)/FV), where Year = number of days in the year, Days = number of days between settlement and maturity, FV = future value paid at maturity/face value of the money market instrument, PV = present value/price of the money market instrument, and FV - PV, is the interest earned. DR = (365/160) x (140,500/5,000,000) = 0.0641 ≈ 6.4%. A is incorrect because candidates confuse the redemption value with the present value and thereby add the interest earned to the redemption value as part of the calculation. DR ≠ (365/160) x (140,500/(5,000,000 + 140,500)) = 0.0624 ≈ 6.2%. C is incorrect because this is the add-on rate. AOR = Year/Days x ((FV-PV)/PV) AOR = (365/160) x (140,500/(5,000,000-140,500)) = 0.0660 ≈ 6.6%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret yield measures for money market instruments"
+      ]
+    },
+    {
+      "id": "Q105",
+      "num": 105,
+      "question": "Two par bonds have the same duration but different convexity. All else being equal, if yields to maturity increase by 10 basis points, it is most likely that:",
+      "options": {
+        "A": "the more convex bond underperforms the less convex bond.",
+        "B": "both bond prices decrease by the same amount.",
+        "C": "the more convex bond outperforms the less convex bond."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to-maturity change. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price [than the less convex bond]. A is incorrect because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex bond in both bull (rising price) and bear (falling price) markets. The more convex bond always outperforms the less convex bond. B is incorrect because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to-maturity change. For the same decrease in yield-to-maturity, the more convex bond appreciates more in price. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price. The conclusion is that the more convex bond outperforms the less convex outperforms bond in both bull (rising price) and bear (falling price) markets. The more convex bond always the less convex bond.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret convexity and describe the convexity adjustment"
+      ]
+    },
+    {
+      "id": "Q106",
+      "num": 106,
+      "question": "A bond has the following characteristics: Time to maturity 3 years Coupon rate 12% Payment period Semiannual For a yield to maturity of 4%, the price of the bond per 100 of par value is closest to:",
+      "options": {
+        "A": "122.20.",
+        "B": "122.41.",
+        "C": "122.53."
+      },
+      "answer": "B",
+      "explanation": "B is correct. PV= 6 (1 + 0.02)^1 + 6 (1 + 0.02)^2 + 6 (1 + 0.02)^3 + 6 (1 + 0.02)^4 + 6 (1 + 0.02)^5 + 6 (1 + 0.02)^6 =122.4057~122.41. A is incorrect because both the coupon payment and discount rate used are annual: PV= 12 (1 + 0.04)^1 + 12 (1 + 0.04)^2 + 12 (1 + 0.04)^3 =122.2007~122.20. C is incorrect because the the coupon payment and discount rate are annual, similar to the other distractor. The difference between this and other distractor is that payment is made at the beginning of the period, not at the end. = 122.53.",
+      "answer_source": "red",
+      "tags": [
+        "calculate a bond's price given a yield-to-maturity on or between coupon dates"
+      ]
+    }
+  ]
+}

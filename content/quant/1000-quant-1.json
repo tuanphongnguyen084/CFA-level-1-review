@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "id": "quant-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–23)",
+  "group": "1000 Question Bank — Quantitative Methods",
+  "source": "1000 Practice Questions — Quantitative Methods",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following factors is not used in the calculation of a confidence interval?",
+      "options": {
+        "A": "Point estimate",
+        "B": "Sampling error",
+        "C": "Reliability factor"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A confidence interval for a parameter is calculated as: Point estimate ± Reliability factor x Standard error, where standard error is the standard error of the sample statistic providing the point estimate. Thus, sampling error is not part of the calculation. Sampling error is the difference between the observed value of a statistic and the quantity it is intended to estimate. It is because of sampling error that confidence intervals are used. A is incorrect because a point estimate is used to calculate a confidence interval; Point estimate ± Reliability factor x Standard error = confidence interval. C is incorrect because a reliability factor is used to calculate a confidence interval, Point estimate ± Reliability factor x Standard error = confidence interval.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast simple random, stratified random, cluster, convenience, and judgmental sampling and their implications for sampling error in an investment problem"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "An analyst performs a simple linear regression of a stock's monthly return on the monthly return of a market index (both in %) and gathers the following information: • Estimated slope 1.0 • Estimated intercept 1.2% • Standard error of the forecast 1.4% • Critical t-values at a 5% significance level 2.032 The 95% prediction interval for the stock's monthly return, given that the forecasted monthly return on the index is 3.5%, is closest to:",
+      "options": {
+        "A": "0.7% to 6.3%.",
+        "B": "1.9% to 7.5%.",
+        "C": "3.3% to 6.1%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A forecasted value of the dependent variable, 𝑌𝑓, is determined using the estimated intercept and slope, as well as the expected or forecasted independent variable, 𝑋𝑓: 𝑌𝑓= 𝑏0 + 𝐵𝑓𝑋𝑓 \" where 𝑏0 and 𝑏1, are the estimated intercept and slope coefficients, respectively. Hence, 𝑌𝑓= 1.2% + 1.0 x 3.5% = 4.7%. Next, the prediction interval is 𝑋𝑓± 𝑡𝑐𝑟𝑖𝑡𝑖𝑐𝑎𝑙 𝑓𝑜𝑟 𝑎/2 𝑆𝑡\" where 𝑆𝑓, denotes the standard error of the forecast. Hence, the prediction interval is given by: 4.7% ± 1.4% x 2.032 ≈ (1.9%, 7.5%). A is incorrect because it uses the forecasted value of the independent variable to construct the prediction interval rather than the predicted value of the dependent variable. In other words, it assumes that the interval is given by 𝑋𝑓± 𝑡𝑐𝑟𝑖𝑡𝑖𝑐𝑎𝑙 𝑓𝑜𝑟 𝑎/2 𝑆𝑡: 3.5 % × 1.4% ≈ (0.7%, 6.3%). C is incorrect because it neglects the critical t - values when constructing the prediction interval. In other words, it assumes that the interval is given by 𝑌𝑓± 𝑠𝑓; 4.7% ± 1.4% (3.3%, 6.1%).",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the predicted value for the dependent variable, and a prediction interval for it, given an estimated linear regression model and a value for the independent variable"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "An investor purchases a stock for $100. Immediately after receiving a dividend of $7, the investor sells the stock for $107. The holding period return of the investment is closest to",
+      "options": {
+        "A": "0%",
+        "B": "7%",
+        "C": "14%,"
+      },
+      "answer": "C",
+      "explanation": "C is correct. A holding period return is the return earned from holding an asset for a single specified period of time. This return can be generalized and shown as a mathematical expression in which P is the price and I is the income: R = (P₁ - P₀ + D₁)/P₀. Thus, R = ($107 - $100 + $7)/$100 = $14/$100 = 14%. A is incorrect because it incorrectly subtracts the dividend instead of adding it, and thus calculates HPR = ($107 - $100 - $7)/$100= $0/$100 = 0%. The same result is obtained if the holding period return is calculated as R = ($100 - $107 + $7)/$107= $0/S107 = 0%. B is incorrect because it omits the dividend and calculates R = ($107 - $100)/$100 = $7/$100 = 7%. It is also the ratio of the dividend received over the initial investment, $7/$100 = 7%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "For a sample of 50 observations, in which of the following situations is a nonparametric test least likely to be appropriate? The data",
+      "options": {
+        "A": "contain outliers.",
+        "B": "are given in ranks.",
+        "C": "come from a population with a lognormal distribution."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A nonparametric test would be less appropriate compared to other answers as in this case a parametric test can be used. We may want to test a hypothesis concerning the mean of a population but believe that neither t - nor z - distributed tests are appropriate because the sample is small and may come from a markedly non - normally distributed population. In that case, we may use a nonparametric test. In our case, the data sample is large, thus a parametric test can be used instead. A is incorrect because we primarily use nonparametric procedures in four situations: (1) when the data we use do not meet distributional assumptions, (2) when there are outliers, (3) when the data are given in ranks or use an ordinal scale, or (4) when the hypotheses we are addressing do not concern a parameter. This is one of the situations (situation 2) in which a nonparametric test would be appropriate. B is incorrect because we primarily use nonparametric procedures in four situations: (1) when the data we use do not meet distributional assumptions, (2) when there are outliers, (3) when the data are given in ranks or use an ordinal scale, or (4) when the hypotheses we are addressing do not concern a parameter. This is one of the situations (situation 3) in which a nonparametric test would be appropriate.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast parametric and nonparametric tests, and describe situations where each is the more appropriate type of test"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following test statistics is most appropriate for a hypothesis test concerning the mean difference between two normally distributed populations?",
+      "options": {
+        "A": "t-statistic",
+        "B": "F-statistic",
+        "C": "Chi-square statistic"
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a Test of Mean Differences (Normally Distributed Populations, Unknown Population Variances)... when we have data consisting of paired observations from samples generated by normally distributed populations with unknown variances, a t - test is based on t = (d - d0)/s, with n - 1 degrees of freedom, where n is the number of paired observations, d is the sample mean difference.... and s, is the standard error of d. B is incorrect because for a Test of Mean Differences (Normally Distributed Populations, Unknown Population Variances)... when we have data consisting of paired observations from samples generated by normally distributed populations with unknown variances, a t - test is based on t = (d - do)/s with n - 1 degrees of freedom, where n is the number of paired observations, d is the sample mean difference..., and s, is the standard error of d. An F - test can be appropriate for Tests Concerning Differences between the Variances of Two Populations. C is incorrect because for a Test of Mean Differences (Normally Distributed Populations, Unknown Population Variances)... when we have data consisting of paired observations from samples generated by normally distributed populations with unknown variances, a t - test is based on t = (d - Hdo)/s, with n - 1 degrees of freedom, where n is the number of paired observations, d is the sample mean difference.... and s, is the standard error of d. In tests concerning the variance of a single normally distributed population [not the mean difference between two populations], we make use of a chi - square test statistic.",
+      "answer_source": "red",
+      "tags": [
+        "construct hypothesis tests and determine their statistical significance, the associated Type I and Type II errors, and power of the test given a significance level"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "An asset earns 13.1% over a 16-month period. The asset's annualized compound rate of return is closest to:",
+      "options": {
+        "A": "9.3%.",
+        "B": "9.7%",
+        "C": "9.8%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A general equation to annualize returns is given, where c is the number of periods in a year. For a quarter, c = 4 and for a month, c = 12: rannual = (1 + rperiod)c - 1. That is, for 16 months, c = 12/16 = 0.75 and the annualized return is (1 + 0.13100)^0.75 - 1 = 1.09672 - 1=0.09672 ~ 9.7%. A is incorrect because it is the compound rate of return per month times 12; [(1 + 0.13100)(1/16) - 1] × 12 =0.0077236 x 12 = 0.09268~ 9.3%. This is also the geometric mean return per month times 12. C is incorrect because it is the arithmetic mean return per month times 12; (0.13100/16) x 12 = 0.0081875 x 12 = 0.09825~9.8%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following statements is most accurate? Cryptocurrencies:",
+      "options": {
+        "A": "exhibit low volatility",
+        "B": "have no limits on the total amount of currency that may be issued.",
+        "C": "allow transactions between parties without the need for an intermediary."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A cryptocurrency, also known as a digital currency, operates as electronic currency and allows near - real - time transactions between parties without the need for an intermediary, such as a bank. A is incorrect because it is important to note that many cryptocurrencies have experienced high levels of price volatility. A lack of clear fundamentals underlying these currencies has contributed to their volatility. B is incorrect because many cryptocurrencies have a self - imposed limit on the total amount of currency they may issue.",
+      "answer_source": "red",
+      "tags": [
+        "describe financial applications of distributed ledger technology"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "A company estimates its revenue will be 50% higher than today in four years' time. The compound annual growth rate is closest to:",
+      "options": {
+        "A": "10.7%.",
+        "B": "11.8%.",
+        "C": "12.5%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A growth rate (g) is calculated as g = (FV/PV)/N - 1, where FV is the future value, PV is the present value and N is the number of periods. Here, g = (1.5/1)^(1/4) - 1 = 0.10668~ 10.7%. B is incorrect because it is calculated as In(1 + 0.5/4) - 1= In(1.125) - 1=0.11778 ~11.8%. C is incorrect because it is calculated as: 50%/4 = 12.5%.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret annualized return measures and continuously compounded returns, and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "An investor considers the following certificates of deposit (CDs) available for purchase at face value: CD Interest Rate • 1 2.2% • 2 3.3% • 3 4.4% If each CD has the same maturity and default risk, the opportunity cost of investing in CD 1 is closest to",
+      "options": {
+        "A": "0.0%.",
+        "B": "1.1%.",
+        "C": "2.26."
+      },
+      "answer": "C",
+      "explanation": "C is correct. All three securities have the same maturity and default risk so the investor is forgoing 2.2% (4.4% - 2.2%) by investing in CD 1 rather than investing in CD 3. A is incorrect because the investor is foregoing higher rates of return by investing in the security with the lowest return. B is incorrect because 1.1% is not the most the investor is foregoing; however, it is the difference if incorrectly using the average return of the three securities.",
+      "answer_source": "red",
+      "tags": [
+        "interpret interest rates as required rates of return, discount rates, or opportunity costs and explain an interest rate as the sum of a real risk - free rate and premiums that compensate investors for bearing distinct types of risk"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Which of the following statements is most accurate with respect to the widespread adoption of algorithmic trading in financial markets?",
+      "options": {
+        "A": "The need for low-latency networks has grown.",
+        "B": "Markets have become less fragmented in terms of trading venues.",
+        "C": "Average trade size has increased as algorithmic trading is used to execute large institutional orders"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Algorithmic trading requires access to low - latency networks, and with the wide - spread adoption of algorithmic trading, the need for low - latency networks has grown Low - latency systems - systems that operate on networks that communicate high volumes of data with minimal delay (latency) - are essential for automated trading applications that make decisions based on real - time prices and market events. In contrast, high - latency systems do not require access to real - time data and calculations. High - frequency trading is a form of algorithmic trading that makes use of vast quantities of granular financial data (tick data, for example) to automatically place trades when certain conditions are met. Trades are executed on ultra - high - speed, low - latency networks in fractions of a second. B is incorrect because global financial markets have undergone substantial change as markets have fragmented into multiple trading destinations consisting of electronic exchanges, alternative trading systems, and so - called dark pools, and average trade sizes have fallen. C is incorrect because because, although algorithmic trading is increasingly used to execute large institutional orders, it is slicing orders into smaller pieces and executing across different exchanges and trading venues. Global financial markets have undergone substantial change as markets have fragmented into multiple trading destinations consisting of electronic exchanges, alternative trading systems, and so - called dark pools, and average trade sizes have fallen.",
+      "answer_source": "red",
+      "tags": [
+        "describe applications of Big Data and Data Science to investment management"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "The failure of machine learning models to accurately predict outcomes can be the result of",
+      "options": {
+        "A": "overfitting, but not underfitting.",
+        "B": "underfitting, but not overfitting.",
+        "C": "either overfitting or underfitting."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex. Also, underfitted models will typically fail to fully discover patterns that underlie the data and thus may not be able to accurately predict outcomes. A is incorrect because underfitting also results in this problem. Underfitted models will typically fail to fully discover patterns that underlie the data\" and thus may not be able to accurately predict outcomes. ML involves splitting the dataset into three distinct subsets: a training dataset, a validation dataset, and a test dataset. Once an algorithm has been trained, validated, and tested, the ML model can be used to predict outcomes based on other datasets. ML models also require sufficiently large amounts of data and may not perform well where there may not be enough available data to train and validate the model. B is incorrect because overfitting also results in this problem. An ML model that has been overfitted is not able to accurately predict outcomes using a different dataset and may be too complex.",
+      "answer_source": "red",
+      "tags": [
+        "describe Big Data, artificial intelligence, and machine learning"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "An investment pays $1,000 annually for five years, with the first payment occurring three years from today. If the discount rate is 6% compounded annually, the present value of the investment today is closest to",
+      "options": {
+        "A": "$3,537.",
+        "B": "$3,749.",
+        "C": "$4,212"
+      },
+      "answer": "B",
+      "explanation": "B is correct. By drawing a time line, the investment is recognized as a delayed annuity with the first payment starting at t=3. The first step is to compute the present value of an ordinary annuity at t = 2 because the first annuity payment is then one period away, as PV2 =A[1 - 1/(1 + r)N] / r = $1,000 x [1 - 1/(1 + 0.06)^5/0.06 = $4,212.36. Using the present value formula for a lump sum to bring the single cash flow from t = 2 to t=0, PV=FVM(1 + r) - N = $4,212.36 (1 + 0.06) - 2= $3,748.99 ~ $3,749. Calculator solution: (1) END mode; N=5; 1= 6%; PMT= - 1,000; FV = 0; solve for PV = 4,212.36. (2) END mode; N = 2; 1= 6%; PMT = 0; FV = 4,212.36, solve for PV = 3,748.99 - 3,749. A second method to compute the present value of the investment is to recognize it as an annuity due with first payment at f = 3, and then discount back three periods using the present value formula for a lump sum. PV3= {A[1 − 1/(1 + r)N]/r}(1 + r) = $1,000 × ([1 - 1/(1 + 0.06)^5/0.06) × (1 + 0.06) = $4,465.11. Using the present value formula for a lump sum to bring the single cash flow from t=3 to t=0, PV=FVN(1 + r) - N = $4,465.11 (1 + 0.06) - 3= $3,748.99 ~ $3,749. Calculator Solution: (1) BGN mode; N = 5; 1= 6%; PMT= - 1,000; FV = 0; solve for PV = 4,465.11. (2) END mode; N = 3; 1= 6%; PMT = 0; FV = 4,465.11; solve for PV=3,748.99 - 3,749. Another method to compute the Correct answer is to calculate the present value of a series of equal cash flows, with the first cash flow in the third year. Using a calculator with CF0=0, CF1,=0, CF2=0, CF3=1000, CF4=1000, CF5=1000, CF6=1000, CF7=1000; I=6%; solve for NPV= 3,748.99 ~ 3,749. A is incorrect because it recognizes the investment as a delayed annuity, but it wrongly assumes that the first annuity payment for an ordinary annuity starts immediately instead of one period away. Thus, it computes the present value of an ordinary annuity at t = 3 as PV2 =A[1 - 1/(1 + r)N]/r= $1,000 × [1 - 1/(1 + 0.06)^5/0.06 = $4,212.36. Using the present value formula for a lump sum to bring the single cash flow from t = 3 to 1= 0, PV2 = FVN(1 + r) N = $4,212.36 (1 + 0.06) - 3= $3,536.78 ~ $3,537. Calculator Solution: (1) END mode: N = 5; 1= 6%, PMT= - 1,000; FV = 0; solve for PV = 4,212.36. (1) END mode; N = 3; 1= 6%; PMT = 0; FV = 4,212.36; solve for PV = 3,536.78 ~3,537. C is incorrect because it is the present value of the investment as t = 2 instead of t = 0, and it is an intermediate step in the correct calculation. It computes present value of an ordinary annuity at f = 3 as PV,= A[1 - 1/(1 + r)N]/r= $1,000 × [1 - 1/(1 + 0.06)^5/0.06 = $4,212.36. Calculator solution: END mode; N = 5; 1=6%; PMT = - 1,000; FV = 0; solve for PV = 4,212.36 - 4,212.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the present value (PV) of fixed - income and equity instruments based on expected future cash flows"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Which of the following is most likely an advantage of traditional financial advisers over fully automated digital wealth managers?",
+      "options": {
+        "A": "Lower account minimums",
+        "B": "Dividend reinvestment options",
+        "C": "Solutions that better address the needs of complex portfolios"
+      },
+      "answer": "C",
+      "explanation": "C is correct. As the complexity and size of an investor's portfolio grows, robo - advisers may not be able to sufficiently address the particular preferences and needs of the investor. In the case of extremely affluent investors who may own a greater number of asset types including Alternative Investments (e.g., venture capital, private equity, hedge funds, and real estate) in addition to global stocks and bonds and have greater demands for customization, the need for a team of human advisers, each with particular areas of investment or wealth - management expertise, is likely to endure. A is incorrect because robo - advisers typically have low fees and low account minimums, implementing their recommendations with low - cost, diversified index mutual funds or exchange - traded funds (ETFs). Fully automated digital wealth managers are one type of service in the robo - advice sector. The fully automated model does not rely on assistance from a human financial adviser. These services seek to offer a low - cost solution to investing and recommend an investment portfolio, which is often composed of ETFS. B is incorrect because [t]he service package [offered by fully automated digital wealth managers] may include direct deposits, periodic rebalancing, and dividend reinvestment options.",
+      "answer_source": "red",
+      "tags": [
+        "describe Big Data, artificial intelligence, and machine learning"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "To test whether a population's mean, μ, is greater than zero, the alternative hypothesis should be formulated as:",
+      "options": {
+        "A": "μ ≤ 0.",
+        "B": "μ ≥ 0.",
+        "C": "μ > 0."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Despite the different ways to formulate hypotheses, we always conduct a test of the null hypothesis at the point of equality, = 0. We may have a 'suspected' or 'hoped for condition for which we want to find supportive evidence. In that case, we can formulate the alternative hypothesis as the statement that this condition is true; the null hypothesis that we test is the statement that this condition is not true. Here, the \"suspected\" condition is that the population's mean is greater than zero (μ > 0). A is incorrect because p ≤ 0 is the null and not the alternative hypothesis in this test. We state the null and alternative hypotheses such that they account for all possible values of the parameter. Since the alternative hypothesis is formulated using the \"suspected\" condition p > 0, the null hypothesis should be formulated using the condition μ ≤ 0. B is incorrect because the \"suspected \" condition in this test is p > 0, not μ ≥ 0. The best formulation of the alternative hypothesis uses the 'suspected' or 'hoped for condition.",
+      "answer_source": "red",
+      "tags": [
+        "explain hypothesis testing and its components , including statistical significance, Type I and Type II errors, and the power of a test."
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "A test of independence is based on the data in a contingency table with 5 rows and 4 columns. Using a nonparametric test statistic that is chi-square distributed, the number of degrees of freedom is:",
+      "options": {
+        "A": "7.",
+        "B": "12",
+        "C": "20."
+      },
+      "answer": "B",
+      "explanation": "B is correct. For a contingency table we can perform a test of independence using a nonparametric test statistic that is chi - square distributed this test statistic has (r - 1)(c - 1) degrees of freedom, where r is the number of rows and c is the number of columns. Here, r = 5 and c = 4, so degrees of freedom = (5 - 1)(4 - 1)=4x3=12. A is incorrect because this is the result if the candidate uses r + c - 2=5 + 4 - 2=7, instead of the correct (r - 1)(c - 1). The incorrect formula is similar to the degrees of freedom for a test of the difference in means, which is n, + n₂ - 2. C is incorrect because this is the result if the candidate omits ' - 1' in both factors, i.e. rc = 5 x 4 = 20, instead of the correct (r - 1)(c - 1).",
+      "answer_source": "red",
+      "tags": [
+        "explain tests of independence based on contingency table data"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "In a parametric test of the correlation between two variables with a sample size of 51 and sample correlation of 0.6. the t-statistic is closest to",
+      "options": {
+        "A": "0.07.",
+        "B": "5.25.",
+        "C": "6.64."
+      },
+      "answer": "B",
+      "explanation": "B is correct. For a Parametric Test of a Correlation if the two variables are normally distributed, we can test to determine whether the null hypothesis (Ho: p = 0) should be rejected using the sample correlation, r. The formula for the t - test is N√(n - 2)/√(1 - 2)\" = (0.6)√(51 - 2)/ √(1 - 0.36) = (0.6)(7)/0.8 = 5.25. A is incorrect because this is the result if the positions of √(1 - 2) and √(n - 2) are swapped, i.e. the formula used is N(1 - r2)/ √(n - 2) = (0.6)√(1 - 0.36)/ √ (51 - 2) = (0.6) (0.8)/7 = 0.06857 ~ 0.07. C is incorrect because this is the result if the r in the denominator is not squared, i.e. (n - 2)/(1 - r) = (0.6)√(51 - 2)/(1 - 0.6)=(0.6)(7)/0.63246 = 6.6408 ~ 6.64.",
+      "answer_source": "red",
+      "tags": [
+        "explain parametric and nonparametric tests of the hypothesis that the population correlation coefficient equals zero, and determine whether the hypothesis is rejected at a given level of significance"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "If a unimodal return distribution is negatively skewed, which of the following most likely has the highest value?",
+      "options": {
+        "A": "Mean",
+        "B": "Mode",
+        "C": "Median"
+      },
+      "answer": "B",
+      "explanation": "B is correct. For the continuous negatively skewed unimodal distribution, the mean is less than the median, which is less than the mode. Therefore, the mode has the highest value. A is incorrect because the mode, not the mean, is the measure with the highest value for a continuous negatively skewed unimodal distribution. C is incorrect because the mode, not the median, is the measure with the highest value for a continuous negatively skewed unimodal distribution.",
+      "answer_source": "red",
+      "tags": [
+        "interpret and evaluate measures of skewness and kurtosis to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A portfolio manager will invest €100,000 and is presented with the following information about three portfolios with normally distributed returns: Expected Annual Return Standard Deviation of Returns • Portfolio 1 23% 15% • Portfolio 2 12% 6% • Portfolio 3 15% 8% If the manager wants to withdraw €5,000 in one year without invading initial capital, the safety-first optimal portfolio Is",
+      "options": {
+        "A": "Portfolio 1.",
+        "B": "Portfolio 2.",
+        "C": "Portfolio 3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If returns are normally distributed, the safety - first optimal portfolio maximizes the safety - first ratio. SFRatio = [E(Rp) - R]/op. Where E(Rp) is the expected portfolio return, R, is the investor's minimum acceptable return, and a, is the standard deviation of portfolio returns. The minimum acceptable return is 5% (= €5,000/€100,000) as the investor needs to withdraw €5,000 without invading initial capital SFP1, = (23% - 5%)/ 15% = 1.20: SFP2 = (12% - 5%) / 6% ~ 1.17; SFP3 (15% - 5%) / 8% = 1.25. Therefore, Portfolio 3 is the safety - first optimal portfolio. \"The portfolio for which E(R) - Rl , is largest relative to standard deviation minimizes P(Rp< R₁). A is incorrect because portfolio 1 has the highest expected return and the highest difference between expected return and standard deviation, but not the highest safety - first ratio. B is incorrect because portfolio 2 has the lowest standard deviation of returns, but not the highest safety - first ratio. Portfolio 2 also has the highest ratio of expected return to standard deviation (ie., when the return threshold is omitted); Portfolio 1: 23%/15% ~ 1.53: Portfolio 2: 12%/6% = 2.00; Portfolio 3: 15%/8% ~ 1.88.",
+      "answer_source": "red",
+      "tags": [
+        "define shortfall risk, calculate the safety - first ratio, and identify an optimal portfolio using Roy's safety - first criterion"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following best describes when a transformation of the data may be needed to enable the use of a simple linear regression model? When the",
+      "options": {
+        "A": "dependent variable is non-normally distributed",
+        "B": "pairs of the dependent and independent variables are uncorrelated with one another",
+        "C": "relationship between the independent variable and the dependent variable is non-linear"
+      },
+      "answer": "C",
+      "explanation": "C is correct. If the relationship between the independent variable and the dependent variable is not linear, we can often transform one or both of these variables to convert this relation to a linear form, which then allows the use of simple linear regression. A is incorrect because the assumption of normality requires that the residuals be normally distributed. This does not mean that the dependent and independent variables must be normally distributed. B is incorrect because for simple linear regression we assume that the observations (Y and X pairs) are uncorrelated with one another, meaning they are independent. If there is correlation between observations (that is, autocorrelation), they are not independent and the residuals will be correlated. As the pairs are uncorrelated, a transformation is not needed because independence (uncorrelated pairs of observations) is an assumption of simple linear regression.",
+      "answer_source": "red",
+      "tags": [
+        "describe different functional forms of simple linear regressions"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "For a continuous positively skewed unimodal distribution:",
+      "options": {
+        "A": "both the mode and the median are less than the mean.",
+        "B": "both the mode and the median are greater than the mean.",
+        "C": "the mode is less than the mean and the median is greater than the mean."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean. B is incorrect because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean. For the continuous negatively skewed unimodal distribution, the mean is less than the median, which is less than the mode. C is incorrect because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean.",
+      "answer_source": "red",
+      "tags": [
+        "interpret and evaluate measures of skewness and kurtosis to address an investment problem"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "In its broadest sense, fintech is best described as",
+      "options": {
+        "A": "the vast amount of data being generated by the financial services industry.",
+        "B": "the execution of investment strategies through computer-generated algorithms.",
+        "C": "technological innovation in the design and delivery of financial services and products."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In its broadest sense, the term 'fintech' generally refers to technology - driven innovation occurring in the financial services industry. For the purposes of this reading, fintech refers to technological innovation in the design and delivery of financial services and products. Note, however, that in common usage, fintech can also refer to companies (often new, startup companies) involved in developing the new technologies and their applications, as well as the business sector that comprises such companies. A is incorrect because the term Big Data has been in use since the late 1990s and refers to the vast amount of data being generated by industry, governments, individuals, and electronic devices. The term fintech is much broader. B is incorrect because automated trading, not fintech, refers to executing investment decisions through computer algorithms or automated trading applications. The term fintech is much broader.",
+      "answer_source": "red",
+      "tags": [
+        "describe aspects of \"fintech\" that are directly relevant for the gathering and analyzing of financial data."
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "An analyst estimates the following information from a simple linear regression: • Sum of squares error 280 • Sum of squares regression 25 • Number of paired observations 30 The standard error of the estimate is closest to:",
+      "options": {
+        "A": "2.5.",
+        "B": "3.2.",
+        "C": "10.0."
+      },
+      "answer": "B",
+      "explanation": "B is correct. It is the standard error of the estimate calculated as the square root of the mean square error, (10)^0.5=3.2. The mean square error (MSE) is calculated as SSE/(n - 2): 280/(30 - 2)= 10.0, where SSE is the sum of squares error. A is incorrect because it is the F - statistic calculated as MSR/MSE, 25/10 = 2.5. For a simple linear regression, the F - Statistic is MSR divided by MSE, where the mean square regression (MSR) is the same as the sum of squares regression [SSR] and the mean square error (MSE) is calculated as the sum of squares error (SSE) adjusted by its degrees of freedom, SSE / (n - 2); 280/(30 - 2)= 10. C is incorrect because it is the mean square error (MSE) calculated as SSE / (n - 2), where SSE is the sum of squares error, 280/(30 - 2)=10.0.",
+      "answer_source": "red",
+      "tags": [
+        "describe the use of analysis of variance (ANOVA) in regression analysis, interpret ANOVA results, and calculate and interpret the standard error of estimate in a simple linear regression"
+      ]
+    }
+  ]
+}

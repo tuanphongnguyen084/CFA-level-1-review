@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "id": "derivatives-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–22)",
+  "group": "1000 Question Bank — Derivatives",
+  "source": "1000 Practice Questions — Derivatives",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "All else held equal, the value of a European call option is best characterized as having a:",
+      "options": {
+        "A": "negative relationship with the price of the underlying.",
+        "B": "negative relationship with the volatility of the underlying.",
+        "C": "positive relationship with the time to expiration."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The value of a European call option is directly related to time to expiration. That is, all else held equal, the value of a European call option is higher the longer the time to expiration. A is incorrect because the value of a European call option is directly related to the price of the underlying. B is incorrect because the value of a European call option is directly related to the volatility of the underlying.",
+      "answer_source": "red",
+      "tags": [
+        "identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "All else being equal, which of the following European put options on the same underlying most likely has the highest value? Time to Expiration Exercise Price Option 1 2 months $52 Option 2 4 months $52 Option 3 4 months $58",
+      "options": {
+        "A": "Option 1",
+        "B": "Option 2",
+        "C": "Option 3"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The value of a European put option is directly related to the exercise price. Also, The value of a put option can be either directly or inversely related to the time to expiration. The direct effect is more Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to, but Option 3 has a higher exercise price. So. Option 3 is most likely to have a higher value than Option 2. A is incorrect because the value of a European put option is directly related to the exercise price. Also, the value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common. Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So. Option 3 is most likely to have a higher value than Option 2. B is incorrect because the value of a European put option is directly related to the exercise price. Also, The value of a European put option can be either directly or inversely related to the time to expiration. The direct effect is more common. Option 1 and Option 2 have the same exercise price, but Option 2 has a longer time to expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 and Option 3 have the same time to expiration, but Option 3 has a higher exercise price. So, Option 3 is most likely to have a higher value than Option 2.",
+      "answer_source": "red",
+      "tags": [
+        "identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "The value of a European put is directly related to the:",
+      "options": {
+        "A": "risk-free rate.",
+        "B": "exercise price.",
+        "C": "value of the underlying."
+      },
+      "answer": "B",
+      "explanation": "B is correct. \"The value of a European put option is directly related to the exercise price.\" A is incorrect because \"the value of a European put is inversely related to the risk-free interest rate.\" C is incorrect because \"the value of a European put option is inversely related to the value of the underlying.\"",
+      "answer_source": "red",
+      "tags": [
+        "identify the factors that determine the value of an option and describe how each factor affects the value of an option"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "An investor gathers the following information about a call option: Option premium $5 Exercise price $25 Price of the underlying at initiation $15 At expiration, if the price of the underlying is $30, the value of the call option to the call seller is:",
+      "options": {
+        "A": "-$5.",
+        "B": "$0.",
+        "C": "$10."
+      },
+      "answer": "A",
+      "explanation": "A is correct. -CT=-Max(0.ST-X) (payoff to the call seller), where -cT is the call value at expiration for the call seller, ST is the price of the underlying at expiration, and X is the strike price. Therefore, the Correct calculation yields: -$5=-Max(0,$30 - $25). B is incorrect because the call value at expiration for a call seller (-cT) is not-Max(0, ST-X) + Co. where ST, is the price of the underlying at expiration, X is the strike price, and co is the option premium. Therefore, the incorrect calculation yields: $0=-Max(0, $30-$25) + $5, which is the profit for the call option seller. C is incorrect because the call value at expiration for a call seller (-cT) is not Max(0,ST-X) + Co. where S, is the price of the underlying at expiration, X is the strike price, and co, is the option premium. Therefore, the incorrect calculation yields: $10 Max(0, $30 - $25) + $5. Instead, the correct formula is –cT= -Max(0.ST-X) (payoff [value] to the call seller), which yields: -$5=- Max(0,$30-$25).",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "An analyst gathers the following information: Call price $10 Stock price $40 Exercise price $60 Interest rate 3% Time to expiry 1 year According to put-call parity, the price of the put is closest to:",
+      "options": {
+        "A": "$28.25.",
+        "B": "$30.00.",
+        "C": "$108.25."
+      },
+      "answer": "A",
+      "explanation": "A is correct. S0+p0=c0 + X/(1+r)^T. This relationship is known as put-call parity. Here S0, is the spot price, Po is the put premium, X is the strike price and ris the interest rate. S0 + p0 = c0+X/(1+r)^T 40+ p0= 10+ 60/1.03 p0= 10+60/1.03-40 =28.25242718 = 28.25. B is incorrect because s0+p0=c0 + X/(1+r)^T .This relationship is known as put-call parity. In this response, X was not divided by (1+r)^T. Here S, is the spot price, p0 is the put premium, X is the strike price and r is the interest rate. S0 + p0=c0+X/(1+r) 40+ po= 10 +60 p0= 10+60-40=30.00. C is incorrect because s0+p0=c0 + X/(1+r)^T. This relationship is known as put-call parity. In this response, S0 was incorrectly added instead of subtracted from c0 + X/(1+r)^T to arrive at P0. Here S0 is the spot price. P0 is the put premium, X is the strike price and r is the interest rate. S0 + p0 = c0+X/(1+r)^T 40+ p0= 10 +60 / 1.03 p0= 10+60/1.03 +40 = 108.252427 = 108.25.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call parity for European options"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Two-year and three-year government benchmark zero-coupon bonds are priced at 96 and 93 (per 100 face value), respectively. The implied one-year forward rate in two years' time is closest to:",
+      "options": {
+        "A": "3.00%.",
+        "B": "3.23%.",
+        "C": "3.36%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A discount factor may also be interpreted as the price of a zero-coupon cash flow or bond. The price equivalent of a zero rate is the present value of a currency unit on a future date, known as a discount factor. The discount factor for period i (DFi) is: DFi= 1/(1+zi). Accordingly, the equivalent zero rate is: DF2=0.96=1/(1+z2)²; and z₂ = 2.0621% DF3 = 0.93=1/(1+z3)³; and z3 = 2.4485% The implied forward rate between period A and period B is denoted as IFRA,B-A It is a forward rate on a bond that starts in period A and ends in period B a general formula for the relationship between the two spot rates (ZA, ZB) and the implied forward rate (IFRA,B-A): (1+ZA)^A × (1+ IFRA,B-A)^B-A = (1 + ZB)^B (1.020621)² x (1 + IFR2,3-2)^3-2= (1.024485)³ (1+IFR2,1)= (1.024485)^3/(1.020621)^2 (1+IFR2,1) = (1.075269/1.041667) 1+IFR2,1 = 1.032258 IFR2,1 = 1.032258-13.2258% ≈3.23%. A is incorrect because it calculates the equivalent zero rate as: Z₂ = (100-DF2)/2; or (100-96)/2 = 2.0000% Z3=(100-DF3)/3; or = (100-93)/3 = 2.3333% Accordingly, (1.020000)² x (1 + IFR₂,1)^1 = (1.023333)^3 (1 + IFR2,1) = (1.023333)^3/(1.020000)² (1+IFR2,1)= (1.071646/1.04040) 1+IFR₂+= 1.030033 IFR2,1= 1.030033-1=3.0033%≈ 3.00%. C is incorrect because the implied forward rate is calculated as follows: DF2=0.96=1/(1+z2)², and z₂ = 2.0621% DF3 = 0.93=1/(1+ z3)^3; and z3 = 2.4485% Accordingly, IFR2,1= (1.024485)³- (1.020621)^2 IFR2,1= (1.075269 - 1.041667) IFR2,1 = 0.033602 = 3.3602% ~~ 3.36%.",
+      "answer_source": "red",
+      "tags": [
+        "Explain how forward rates are determined for interest rate forward contracts and describe the uses of these forward rates."
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "According to put-call parity, the payoff of a European put option is equivalent to a payoff of a portfolio consisting of.",
+      "options": {
+        "A": "a long asset, a short call and a long risk-free bond.",
+        "B": "a short asset, a long call and a long risk-free bond.",
+        "C": "a short asset, a short call and a short risk-free bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to put-call parity. P0=c0 – S0+X/(1+r)^T , long put = long call, short asset, long bond. Therefore, the payoff of a European put option is equal to a payoff of a portfolio consisting of a short asset, a long call and a long risk-free bond. A is incorrect because according to put-call parity. P0=c0 – S0+X/(1+r)^T, long put = long call, short asset, long bond. Therefore, the payoff of a European put option is not equal to a payoff of a portfolio consisting of a long asset, a short call and a long risk-free bond. C is incorrect because according to put-call parity. P0=c0 – S0+X/(1+r)^T long put = long call, short asset, long bond. Therefore, the payoff of a European put option is not equal to a payoff of a portfolio consisting of a short asset, a short call and a short risk-free bond.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call parity for European options"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "An investor takes a long position in a risk-free bond and in a forward contract on a non-dividend-paying stock. The forward contract is priced at £50. The annual risk-free rate is 10%. A nine-month put option on the stock with an exercise price of £47 trades at £4. The price of a nine-month call option on the stock with an exercise price of £47 is closest to:",
+      "options": {
+        "A": "£6.79.",
+        "B": "£7.22.",
+        "C": "£7.30."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A long put and a short call are equivalent to a long risk-free bond and short forward position: p0 –c0=[X-F0(T)](1+r)^-T as calculated below: p0 –c0=[X-F0(T)](1+r)^-T (4) Rearranging for c0 p0 –c0=[X-F0(T)](1+r)^-T p0 = put = £4 X = exercise price = £47 F0(T) = forward = £50 r = risk-free rate = 10% p0 –c0=[X-F0(T)](1+r)^-T = c0 Thus, c0 = £4-[£47-£50](1.10)^-075 = £6.79. B is incorrect because as calculated the exponent of * is mistakenly used without a negative sign. p0 –c0=[X-F0(T)](1+r)^+T p0 –c0=[X-F0(T)](1+r)^-T =c0 p0= put = £4 X = exercise price = £47 F0(T) = forward = £50 r = risk-free rate = 10% £4-[£47-£50] (1.10)+0.75 = £7.22 The correct answer should be: p0 –c0=[X-F0(T)](1+r)^-T (4) p0 =[X-F0(T)](1+r)^-T –c0 c0=£4-[£47-£501](1.10)^-0.75 = £6.79. C is incorrect because as calculated the exponent of * is missed entirely. p0 –c0=[X-F0(T)](1+r) p0 –[X-F0(T)](1+r)^+T = c0 p0 = put = £4 X = exercise price = £47 F0(T) = forward = £50 r = risk-free rate = 10% £4-[£47-£50](1.10) = £7.30 The correct answer should be: p0 –c0=[X-F0(T)](1+r)^-T (4) p0 –[X-F0(T)](1+r)^+T = c0 c0=£4-[£47-£50](1.10)^-0.75= £6.79.",
+      "answer_source": "red",
+      "tags": [
+        "explain put-call forward parity for European options"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Which of the following is most accurate?",
+      "options": {
+        "A": "A forward contract is traded on an organized exchange.",
+        "B": "Forward contracts are more transparent than futures contracts.",
+        "C": "The buyer of a forward contract agrees to buy the underlying asset at a fixed price on a future date."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A forward contracts is an over-the-counter derivative contract in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date at a fixed price they agree on when the contract is signed. opposite and futures contracts are transparent than forward markets contract is signed. A is incorrect because this is a characteristic of a futures contract and not a forward contract. A futures contract is a standardized derivative contract created and traded on a futures exchange in which two parties agree that one party, the buyer, will purchase an underlying asset from the other party, the seller, at a later date and at a price agreed on by the two parties when the contract is initiated and in which there is a daily settling of gains and losses and a credit guarantee by the futures exchange through its clearinghouse. B is incorrect because it is actually the opposite and futures contracts are more transparent than forward contracts. Futures markets are far more transparent than forward markets.",
+      "answer_source": "red",
+      "tags": [
+        "define forward contracts, futures contracts, swap, options (calls and puts), and credit derivatives and compare their basic characteristics"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A commodities producer selling its inventory forward in anticipation of lower prices in the future is an example of a:",
+      "options": {
+        "A": "fair value hedge.",
+        "B": "cash flow hedge.",
+        "C": "net investment hedge."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A fair value hedge designation applies when a derivative is deemed to offset the fluctuation in fair value of an asset or liability. A commodities producer might sell its inventory forward in anticipation of lower future prices. B is incorrect because derivatives designated as absorbing the variable cash flow of a floating-rate asset or liability such as foreign exchange, interest rates, or commodities are referred to as cash flow hedges. A swap to a fixed rate for a floating-rate debt liability is another example of a cash flow hedge. C is incorrect because net investment hedges occur when either a foreign currency bond or a derivative such as an FX swap or forward is used to offset the exchange rate risk of the equity of a foreign operation.",
+      "answer_source": "red",
+      "tags": [
+        "compare the use of derivatives among issuers and investors"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Which of the following is equal to the greater of zero or the present value of the exercise price minus the spot price?",
+      "options": {
+        "A": "The lower bound of a put option",
+        "B": "The lower bound of a call option",
+        "C": "The upper bound of a put option"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A put option buyer will exercise only if the spot price, ST is below X at maturity. The exercise price, X, therefore represents the upper bound on the put value. The lower bound is the present value of the exercise price minus the spot price or zero, whichever is greater. B is incorrect because this is the description of the lower bound of a put option. A call option buyer will exercise only if the spot price, ST exceeds the exercise price (X) at maturity. The lower bound of a call price is therefore the underlying's price minus the present value of its exercise price or zero, whichever is greater. C is incorrect because this is the description of the at maturity. The exercise price, X, therefore represents the upper bound on the put the spot price, ST is below X.",
+      "answer_source": "red",
+      "tags": [
+        "contrast the use of arbitrage and replication concepts in pricing forward commitments and contingent claims"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following most likely has an embedded derivative in its structure?",
+      "options": {
+        "A": "A put option",
+        "B": "A callable bond",
+        "C": "A futures contract"
+      },
+      "answer": "B",
+      "explanation": "B is correct. An embedded derivative is a derivative within an underlying, such as a callable, puttable, or convertible bond. A is incorrect because a stand-alone derivative, is a distinct derivative contract, such as a derivative on a stock or bond. A put option is therefore a stand-alone derivative not an embedded derivative. C is incorrect because a stand-alone derivative, is a distinct derivative contract, such as a derivative on a stock or bond. A futures contract is also a distinct derivative contract as it is not embedded in the underlying asset.",
+      "answer_source": "red",
+      "tags": [
+        "define a derivative and describe basic features of a derivative instrument"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Which of the following derivatives most likely requires a payment to be made at the initiation of the contract? A(n):",
+      "options": {
+        "A": "swap",
+        "B": "option",
+        "C": "forward"
+      },
+      "answer": "B",
+      "explanation": "B is correct. An option is a derivative contract in which one party, the buyer, pays a sum of money to the other party, the seller or writer, and receives the right to either buy or sell an underlying asset at a fixed price either on a specific expiration date or at any time prior to the expiration date. A is incorrect because as with futures and forwards, no money changes hands at the start, thus, the value of a swap when initiated must be zero. C is incorrect because as with futures and forwards, no money changes hands at the start, thus, the value of a swap when initiated must be zero.",
+      "answer_source": "red",
+      "tags": [
+        "define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Basis risk is best described as a(n):",
+      "options": {
+        "A": "investor's inability to meet a margin call due to a lack of funds.",
+        "B": "potential divergence between the expected value of a derivative and its underlying.",
+        "C": "divergence in the cash flow timing of a derivative versus that of an underlying transaction."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction. A is incorrect because a related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction. The daily settlement of gains and losses in the futures market can give rise to liquidity risk. If an investor or issuer using a futures contract to hedge an underlying transaction is unable to meet a margin call due to a lack of funds, the counterparty's position is closed out and the investor or issuer must cover any losses on the derivative trade. C is incorrect because a related risk that can arise for both hedgers and risk takers is liquidity risk, or a divergence in the cash flow timing of a derivative versus that of an underlying transaction.",
+      "answer_source": "red",
+      "tags": [
+        "describe benefits and risks of derivative instruments"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Which of the following derivative contracts is best described as a contingent claim?",
+      "options": {
+        "A": "A swap contract",
+        "B": "A forward contract",
+        "C": "An option contract"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Another type of derivative is a contingent claim, in which one of the counterparties determines whether and when the trade will settle. An option is the primary contingent claim. A is incorrect because derivative contracts can be classified as either firm commitments or contingent claims. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows and an option is the primary contingent claim. B is incorrect because derivative contracts can be classified as either firm commitments or contingent claims. Firm commitments include forward contracts, futures contracts, and swaps involving a periodic exchange of cash flows\" and an option is the primary contingent claim.",
+      "answer_source": "red",
+      "tags": [
+        "define a derivative and describe basic features of a derivative instrument"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "An investor buys a call option for $4 that has an exercise price of $27. At expiration, if the stock price is $22, the call option payoff is:",
+      "options": {
+        "A": "negative.",
+        "B": "zero.",
+        "C": "positive."
+      },
+      "answer": "B",
+      "explanation": "B is correct. CT = Max(0,ST -X), where cT is the value of the call option, or the payoff to the call buyer, X is the strike (or exercise) price, and ST is the stock price at expiration. In this case, cT = Max(0.$22 - $27) = 0. A is incorrect because it is the call buyer's profit, not the payoff. That is, Π = Max(0, ST -X)-c0. where c0 is the premium, ST is the stock price at expiration, and X is the strike (or exercise) price. In this case, Π= Max(0,$22 - $27) - $4= -$4, and thus negative. C is incorrect because it is the payoff to the put option buyer. That is, pT Max(0,X- ST), where X is the strike (or exercise) price, and ST is the stock price at expiration. In this case, pT= Max(0,$27 - $22) = $5.",
+      "answer_source": "red",
+      "tags": [
+        "determine the value at expiration and profit from a long or a short position in a call or put option"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Which of the following derivatives have a non-linear payoff?",
+      "options": {
+        "A": "Contingent claims only",
+        "B": "Forward commitments only",
+        "C": "Both contingent claims and forward commitments"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Asymmetric payoff profile is a common feature of contingent claims, which are sometimes referred to as non-linear derivatives. B is incorrect because since the derivative price is a linear function of the underlying, firm [forward] commitments are also referred to as linear derivatives. C is incorrect because since the derivative price is a linear function of the underlying, firm [forward] commitments are also referred to as linear derivatives.",
+      "answer_source": "red",
+      "tags": [
+        "contrast forward commitments with contingent claims"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "The potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction best describes:",
+      "options": {
+        "A": "basis risk.",
+        "B": "liquidity risk.",
+        "C": "systemic risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Basis risk is the potential divergence between the expected value of a derivative instrument versus an underlying or hedged transaction. B is incorrect because liquidity risk is the potential divergence between the cash flow timing of a derivative instrument versus an underlying or hedged transaction. C is incorrect because systemic risk relates to excessive risk taking and use of leverage in derivative markets.",
+      "answer_source": "red",
+      "tags": [
+        "Describe benefits and risks of derivative instruments"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "With respect to hedge accounting designation types, a:",
+      "options": {
+        "A": "foreign exchange forward to hedge forecasted sales is an example of a fair value hedge.",
+        "B": "commodity futures contract used to hedge inventory is an example of a cash flow hedge.",
+        "C": "currency forward to offset the foreign exchange risk of equity of a foreign operation is an example of a net investment hedge."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Currency forward designated as offsetting the FX risk of the equity of a foreign operation is an example of a net investment hedge. A is incorrect because fX forward to hedge forecasted sales absorbs variable cash flow of floating-rate asset or liability (forecasted transaction) and is an example of a cash flow hedge. B is incorrect because commodity futures used to hedge inventory offsets fluctuation in fair value of an asset or liability and is an example of a fair value hedge.",
+      "answer_source": "red",
+      "tags": [
+        "compare the use of derivatives among issuers and investors"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following statements about derivatives is most accurate?",
+      "options": {
+        "A": "Derivatives reduce the efficiency of price discovery for the underlying.",
+        "B": "Transaction cost of derivatives are greater than the transaction cost of the underlying",
+        "C": "Excessive risk taking and use of leverage in derivative markets may contribute to market stress"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Excessive risk taking and use of leverage in derivative markets may contribute to market stress, as in the 2008 financial crisis. A is incorrect because derivative instrument prices serve a price discovery function beyond the underlying cash or spot market. For example, futures prices are often seen as revealing information about the direction of cash markets in the future, although they cannot be strictly considered an unbiased forecast of future spot prices. Therefore, derivatives improve. not reduce, the efficiency of price discovery for the underlying. B is incorrect because when prices deviate from fundamental values, derivative markets offer less costly ways to exploit the mispricing. As noted earlier, less capital is required, transaction costs are lower, and short selling is easier. Also, derivatives offer the following Operational Advantages: Reduced cash outlay, lower transaction costs versus the underlying, increased liquidity and ability to 'short'",
+      "answer_source": "red",
+      "tags": [
+        "describe benefits and risks of derivative instruments"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Which of the following asset classes is most likely to have a convenience yield?",
+      "options": {
+        "A": "Commodities",
+        "B": "Interest rates",
+        "C": "Foreign exchange"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a convenience yield. B is incorrect because a convenience yield is a non-cash benefit associated with physical assets in contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a convenience yield. C is incorrect because a convenience yield is a non-cash benefit associated with physical assets. In contrast to securities or cash stored electronically, commodities usually involve known costs associated with the storage, insurance, transportation, and potential spoilage (in the case of soft commodities) of these physical assets. A non-cash benefit of holding a physical commodity versus a derivative is known as a convenience yield.",
+      "answer_source": "red",
+      "tags": [
+        "explain the difference between the spot and expected future price of an underlying and the cost of carry associated with holding the underlying asset"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Counterparty default risk is most likely lowest for which of the following types of derivatives?",
+      "options": {
+        "A": "Swaps",
+        "B": "Futures",
+        "C": "Forwards"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Exchange-traded derivatives (ETD) are standardized contracts traded on an organized exchange which requires collateral on deposit to protect against counterparty default and a futures contract is an exchange-traded derivative (ETD) with standardized terms set by the exchange. Therefore, futures has lowest counterparty default risk. A is incorrect because swap credit terms are privately negotiated between counterparties in an over-the-counter agreement and may range from uncollateralized exposure, where each counterparty bears the full default risk of the other. Therefore, swaps do not have the lowest counterparty default risk. C is incorrect because a forward contract is an over-the-counter (OTC) derivative and OTC instruments have less transparency, usually involve more counterparty risk. Therefore, forwards do not have the lowest counterparty risk.",
+      "answer_source": "red",
+      "tags": [
+        "define forward contracts, futures contracts, swaps, options (calls and puts), and credit derivatives and compare their basic characteristics"
+      ]
+    }
+  ]
+}

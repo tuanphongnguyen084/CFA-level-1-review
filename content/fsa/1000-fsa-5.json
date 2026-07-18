@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "id": "fsa-1000-5",
+  "name": "1000 Câu Hỏi — Đề 5 (câu 89–110)",
+  "group": "1000 Question Bank — Financial Statement Analysis",
+  "source": "1000 Practice Questions — Financial Statement Analysis",
+  "questions": [
+    {
+      "id": "Q89",
+      "num": 89,
+      "question": "All else being equal, a company with older assets has a fixed asset turnover ratio that is",
+      "options": {
+        "A": "lower compared to a company with new assets",
+        "B": "the same compared to a company with newer assets",
+        "C": "higher compared to a company with newer assets"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value). A is incorrect because the fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value). B is incorrect because the fixed asset turnover ratio would be higher for a company with newer assets (which are less depreciated and thus reflected in the financial statements at a higher carrying value) compared to a company with older assets (which are more depreciated and thus reflected at a lower carrying value).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q90",
+      "num": 90,
+      "question": "An analyst gathers the following Information (in thousands) about a manufacturing company. Year 2 Year 1 Average total assets 500 450 Average total liabilities 400 330 Average total shareholders’ equity 100 120 EBIT 35 40 Interest payments 6 8 Based only on this information, which of the following ratios(s) may indicate improved solvency from Year 1 to Year 2?",
+      "options": {
+        "A": "Interest coverage ratio only",
+        "B": "Financial leverage ratio only",
+        "C": "Both interest coverage ratio and financial leverage ratio"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The interest coverage ratio measures the number of times a company's EBIT could cover its interest payments. A higher interest coverage ratio indicates stronger solvency, offering greater assurance that the company can service its debt from operating earnings. Accordingly, the Interest Coverage Ratio for Year 1 is 40/8 = 5 and for Year 2 is 35/6 = 5.83, which shows an increase in the interest coverage ratio from Year 1 to Year 2, indicating improved solvency. B is incorrect because the financial leverage ratio, which measures the proportion of total assets financed by equity, has increased from Year 1 (Financial Leverage Ratio: 450/120 = 3.75) to Year 2 (Financial Leverage Ratio: 500/100 = 5), implying higher leverage and weaker solvency. C is incorrect because while the interest coverage ratio has improved (indicating better solvency), the financial leverage ratio has increased, signaling higher leverage and weaker solvency. Therefore, both ratios do not indicate improved solvency from Year 1 to Year 2.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q91",
+      "num": 91,
+      "question": "If a company sell PP&E with a carrying amount of €75,000 and reported a gain of €2,000 cash flow from investing activities",
+      "options": {
+        "A": "€0",
+        "B": "€73,000",
+        "C": "€77.000"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value e The historical cost minus accumulated depreciation), unless the assets carrying amount has been changed to reflect imparentador revaluation, as previously discussed Ignoring taxes, the cash flow from the sale would appear as a cash inflow from investing Thus gain on sale of long lived asset sales proceeds - carrying amount. Rearranging, sales proceeds = gain on sale of long-lived asset + carrying amount -2+75-77. A is incorrect because it assumes the cash proceeds from the sale of PP&E went towards either cash flow from operating or cash flow from financing, and not cash flow from investing. B is incorrect because it incorrectly subtracts the gain from the carrying amount to calculate the sales proceeds. Thus, sales proceeds = carrying amount-gain on sale = 75-2 = 73.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q92",
+      "num": 92,
+      "question": "A company acquires a 5-year t license for product it plans to continue selling for the foreseeable future. The license can be renewed at minimal cost. The license should be.",
+      "options": {
+        "A": "carried on the balance sheet at historical cost.",
+        "B": "amortised using the straight-line method over its estimated useful life",
+        "C": "amortised using the units of production method over its estimated useful life"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The license has an indefinite life and is not amortised Only those intangible assets assumed to have finite useful lives are amortised over their useful lives, following the pattern in which the benefits are used up. Examples of Intangible assets with indefinite useful lives include an acquired license that, although it has a specific expiration date, can be renewed at little or no cost and an acquired trademark that, although it has a specific expiration, can be renewed at a minimal cost and relates to a product that a company plans to continue selling for the foreseeable future Intangible assets with indefinite lives are not amortised Instead, they are carried on the balance sheet at historical cost but are tested at least annually for impairment. B is incorrect because the license has an indefinite life and is therefore not amortised. Intangible assets with indefinite lives are not amortised; instead, they are carried on the balance sheet at historical cost but are tested at least annually for impairment. C is incorrect because the license has an indefinite life and is therefore not amortised. Intangible assets with indefinite lives are not amortised. Instead, they are carried on the balance sheet at historical cost but are tested at least annually for impairment.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q93",
+      "num": 93,
+      "question": "An analyst gathers the following information (in € thousands) about a company's sale of equipment. Selling price 58 Historical cost 50 Accumulated depreciation 5 The gain on the sale (in € thousands) is",
+      "options": {
+        "A": "3.",
+        "B": "8.",
+        "C": "13."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The gain or loss on the sale of long lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value (Le.. the historical cost minus accumulated depreciation). The carrying amount of the equipment - historical cost-accumulated depreciation-50-5-65, and the gain on the sale-selling prion-carrying amount-58-45-13. A is incorrect because it calculates the carrying amount of the equipment-historical cost+ accumulated depreciation -50+5-55. Consequently, the gain on the sale selling price-carrying amount-55-55-3. B is incorrect because il calculates the gain on the sale selling price-historical cost-56-50-0.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q94",
+      "num": 94,
+      "question": "An analyst gathers the following information (in € thousands) about a manufacturing company's inventory. Cost of ending Inventory 750 Estimated selling price in the ordinary course of business: 1,100 Estimated costs necessary to sell the inventory 50 Estimated costs to get the inventory in condition for sale 50 The net realizable value of the inventory (in € thousands) is",
+      "options": {
+        "A": "750",
+        "B": "850",
+        "C": "1,000."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The net realizable value is the estimated Selling price in the ordinary course of business less the estimated costs necessary to make the sale and estimated costs to get the inventory in condition for sale Accordingly, the net realizable value 1,100-50-50=1200. A is incorrect because it is the carrying amount of the inventory, being Mingos Net realizable value) Min(750 1100-50-501-0 (which is also equal to the cost of the inventory) IFRS state that inventories shall be measured (and carried on the balance sheet) at the lower of cost and nes realizable value. While the net realizable value is the estimated selling price in the ordinary course of business less the estimated costs necessary to make the sale and estimated costs to get the inventory in condition for sale. B is incorrect because if calculates Net realizable value = Cost of inventory + Estimated costs necessary to make the sale + Estimated costs to get the inventory in condition for sale; or 760-60- 50-650.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q95",
+      "num": 95,
+      "question": "Which of the following is most likely a measure of a company's ability to meet its short-term obligations?",
+      "options": {
+        "A": "Quick ratio",
+        "B": "Operating profit margin",
+        "C": "Days of payables outstanding"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The quick ratio is a liquidity ratio which measures a company's ability to meet its short-term obligations. B is incorrect because the operating profit margin is a profitably ratio which measures a company's ability to generate profits from its resources (assets). C is incorrect because days of payables outstanding is an activity ratio which measures how efficiently a company performs day-to-day tasks, such as the collection of receivables and management of inventory.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q96",
+      "num": 96,
+      "question": "An analyst gathers the following information (in thousands) about a company's current assets and liabilities: Cash and equivalents 800 Short-term marketable securities 500 Inventory 700 Accounts receivable 2.000 Current liabilities 10.000 The company's quick ratio is",
+      "options": {
+        "A": "0.13.",
+        "B": "0.33.",
+        "C": "0.40."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Quick ratio (Cash and equivalents Short term marketable securities Receivables)/ Current liabilities. The calculation is (800+500 2,000)/10,000 = 3,300/10.000 = 0 33, or 33%. A is incorrect because it is the Cash ratio. The Cash ratio (Cash and equivalents + Short-term marketable securities)/current liabilities. The calculation is (000+ 5000/10.000-1,300/10,000 -0.13 or 13%. C is incorrect because it is the Current ratio. The Current ratio-Current assets/Current liabilities, the calculation is (800 + 500+ 700 + 2000) 10,000-01, nr 40%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q97",
+      "num": 97,
+      "question": "An analyst gathers the following Information (in millions) about a company! Total assets 400 Total liabilities 200 Total debt 100 Total equity 200 The total debt ratio is:",
+      "options": {
+        "A": "0.25",
+        "B": "0.50.",
+        "C": "2.00."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The total debt ratio = total debt/total assets = 100/400 = 0.25. B is incorrect because it calculates the debt-to-equity ratio = total debt / total equity = 100 / 200 = 0.50. This ratio may also be incorrectly calculated by dividing total liabilities by total assets (200 / 400 = 0.50). C is incorrect because it calculates the financial leverage ratio = total assets / total equity = 400 / 200 = 2.00.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q98",
+      "num": 98,
+      "question": "For a mature company. The primary source of cash flows is most likely from",
+      "options": {
+        "A": "operating activities",
+        "B": "investing activities",
+        "C": "financing activities"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The major sources of cash for a company can vary with its stage of growth. For a mature company, it is expected and desirable that operating activities are the primary source of cashflow. Over the long term, a company must generate cash from its operating activities. If operating cash flow were consistently negative, a company would need to borrow money or issue stock (financing activities) to fund the shortfall. Eventually, these providers of capital need to be repaid from operations, or they will no longer be willing to provide capital. B is incorrect because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in other investing or financing opportunities or other business ventures if the company has good opportunities to invest. C is incorrect because for a mature company, it is expected and desirable that operating activities are the primary source of cash flows. Cash generated from operating activities can be used in either investing or financing activities if the company does not have profitable investment opportunities. Alternatively, the cash should be returned to shareholders or debt providers as part of financing activities.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q99",
+      "num": 99,
+      "question": "A company entered into a 5 year construction contract with a total sales price of €3.000.000. The estimated total costs are €2,000,000 and the company incurred €500,000 actual costs in the first year. The company has extensive experience with similar types of contracts. Costs incurred provide an appropriate measure of progress toward completing the contract. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized under the contract in Year 1 is most likely",
+      "options": {
+        "A": "€500,000.",
+        "B": "€600,000.",
+        "C": "€750,000"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The standard states that for performance obligations satisfied over time (e.g., where there is a long-term contract), revenue is recognized over time by measuring progress toward satisfying the obligation. The standard refers to performance obligations satisfied over time and requires that progress toward complete satisfaction of the performance obligation be measured based on an input method, such as the one illustrated here (recognizing revenue based on the proportion of total costs that have been incurred in the period) or an output method (recognizing revenue based on units produced or milestones achieved). Accordingly, the company has incurred 25% of the total expected costs (€500,000 / €2,000,000) and will thus recognize 25% of €3,000,000 (€750,000) as revenue in Year 1. A is incorrect because it assumes only the incurred actual costs as being recognized as revenue - €0.5 million. The standard states that for performance obligations satisfied over time (e.g., where there is a long-term contract), revenue is recognized over time by measuring progress toward satisfying the obligation. B is incorrect because it assumes that revenue is only recognized according to the same elapsed time. However, the standard refers to performance obligations satisfied over time and requires that progress toward complete satisfaction of the performance obligation be measured based on an input method, such as the one illustrated here (recognizing revenue based on the proportion of total costs that have been incurred in the period) or an output method (recognizing revenue based on units produced or milestones achieved). Accordingly, the calculation becomes €500,000 (costs incurred in Year 1) / €2,000,000 (total estimated costs) * €3,000,000 (total contract value) = €750,000.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q100",
+      "num": 100,
+      "question": "Which of the following could motivate a lessee to lease a high-value, long-lived asset rather than to purchase Lease contracts",
+      "options": {
+        "A": "usually require little, if any, down payment",
+        "B": "are reported as off-balance sheet financing structures",
+        "C": "do not require the recognition of a liability on the balance sheet."
+      },
+      "answer": "A",
+      "explanation": "A is correct. There are several advantages to leasing an asset compared with purchasing. Leases typically require little or no down payment upfront. B is incorrect because under IFRS, there is a single accounting model for both finance and operating leases. At lease inception, the lessee records a lease liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments. For lessees, there are lease accounting exemptions for certain lease contracts if the term is 12 months or less (IFRS and US GAAP) or if it is for a low-value asset, up to $5,000 in sales price (IFRS only), whereas lessees can elect to recognize the lease payments as expenses on a straight-line basis. C is incorrect because under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease liability and a right-of-use (ROU) asset on its balance sheet, both equal to the present value of future lease payments.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q101",
+      "num": 101,
+      "question": "An analyst gathers the following information (in millions) about a company: Other operating exposes 4,500 Decrease in prepaid expenses 200 Increase in other accrued liabilities 300 Cash paid for other operating expenses (in € millions) is:",
+      "options": {
+        "A": "4,000.",
+        "B": "4,400.",
+        "C": "4,600"
+      },
+      "answer": "A",
+      "explanation": "A is correct. To determine the cash paid for other operating expenses, it is necessary to adjust the other operating expenses amount on the income statement by the net changes in prepaid expenses and accrued expense liabilities for the year. Accordingly, Cash paid for other operating expenses = Other operating expenses - Decrease in prepaid expenses - Increase in other accrued liabilities = 4,500 - 200 - 300 = 4,000. B is incorrect because it added the decrease in prepaid expenses instead of subtracting it. 4,500 + 200 - 300 = 4,400. C is incorrect because it added the increase in accrued liabilities instead of subtracting it. 4,500 - 200 + 300 = 4,600.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q102",
+      "num": 102,
+      "question": "An analyst gathers the following information (in thousands) about a company's equipment Purchase price of the equipment 1,000 Accumulated depreciation 250 Gain on sale of the equipment 400 Ignoring taxes, proceeds from sale of the equipment (in € thousands) is",
+      "options": {
+        "A": "750",
+        "B": "1,150",
+        "C": "1,400."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. The calculation should be Cash flow from the sale of the equipment = Sale proceeds - Carrying amount of the equipment + Gain on sale of the equipment = (1,000 - 250) + 400 = 1,150. A is incorrect because it calculated the carrying amount of the equipment (purchase price of the equipment - accumulated depreciation) = 1,000 - 250 = 750. C is incorrect because it calculated the cash flow from the sale of equipment (purchase price of the equipment + gain on sale of the equipment) = 1,000 + 400 = 1,400.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q103",
+      "num": 103,
+      "question": "For a company reporting on a calendar year basis. The receipt of a payment from a client in Year 1 for the delivery of services in Year 2 most likely increases",
+      "options": {
+        "A": "net income for Year 1",
+        "B": "liabilities as of 31 December of Year 1.",
+        "C": "cash flow from operating activities for Year 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A payment received in advance is recorded as a liability for unearned revenue when the cash is initially received, and revenue will be recognized over time as products and services are delivered. A is incorrect because the transaction will not increase net income for the current year since delivery of services does not happen in the current year. No revenue is recognized in the current year for services to be delivered in the following year. C is incorrect because the cash flow will be recognized in the current year even though the revenue will not be recognized until the following year. The receipt of cash in the current year will increase cash flow from operating activities in the current year rather than the following year.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q104",
+      "num": 104,
+      "question": "An analyst gathers the following Information (in € millions) about a manufacturing company's land reported under the revaluation model Purchase price and fair value on 1 January Year 23 Fair value at initial revaluation on 31 December Year 1 25 All else being equal and ignoring taxes, the revaluation at 31 December Year 1 leads in a",
+      "options": {
+        "A": "higher quick ratio",
+        "B": "higher total asset turnover",
+        "C": "lower debt-to-assets ratio"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The upward revaluation increases the fixed asset value causing an increased total asset value. Total assets in the denominator increase while the numerator (net sales) remains the same. This results in a higher total asset turnover. A is incorrect because an upward asset revaluation only affects the fixed assets on the asset side and the surplus account in equity; the numerator remains unchanged. It leads to an increased total asset value and therefore has a direct relationship only with the PP&E on the asset side and the surplus account in equity; the numerator is unaffected, and only the denominator increased. This leads to a decreased total asset turnover. C is incorrect because the upward revaluation increases the fixed asset value, therefore increasing the denominator (total assets) but the total debt remains unchanged in the numerator. This leads to a decrease in the debt-to-assets ratio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q105",
+      "num": 105,
+      "question": "On the statement of cash flows cash dividends paid may be classified as an operating activity under",
+      "options": {
+        "A": "IFRS only",
+        "B": "US GAAP only.",
+        "C": "Both IFRS and US GAAP"
+      },
+      "answer": "A",
+      "explanation": "A is correct. US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity. B is incorrect because US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity. C is incorrect because US GAAP classifies dividends paid to stockholders as a financing activity, whereas IFRS allows companies to classify dividends paid as either an operating activity or a financing activity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q106",
+      "num": 106,
+      "question": "According to the converged accounting standards for reverse recognition, which of the following is the first of five steps in recognizing revenue?",
+      "options": {
+        "A": "Determine the transaction price",
+        "B": "Identify the contract with the customer",
+        "C": "Identify the distinct performance obligations in the contract"
+      },
+      "answer": "B",
+      "explanation": "B is correct. This is the first of five steps in recognizing revenue according to the converged accounting standard for revenue recognition. The [converged accounting standard for revenue recognition] describes the application of five steps in recognizing revenue: 1. Identify the contract(s) with a customer 2. Identify the separate or distinct performance obligations in the contract 3. Determine the transaction price 4. Allocate the transaction price to the performance obligations in the contract 5. Recognize revenue when (or as) the entity satisfies a performance obligation. A is incorrect because this is the third of five steps in recognizing revenue according to the converged accounting standard for revenue recognition. C is incorrect because this is the second of five steps in recognizing revenue according to the converged accounting standard for revenue recognition.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q107",
+      "num": 107,
+      "question": "The financial leverage ratio may be calculated as:",
+      "options": {
+        "A": "EBIT divided by interest payments.",
+        "B": "total debt divided by total shareholders equity.",
+        "C": "average total assets divided by average shareholders' equity"
+      },
+      "answer": "C",
+      "explanation": "C is correct. This defines the financial leverage ratio. The financial leverage ratio (also known as the leverage ratio or equity multiplier) measures the financial support provided by one money unit of equity. The higher the financial leverage ratio, the more leveraged the company is in the sense of using debt and other liabilities to finance assets. This ratio is often calculated using average total assets and average total equity and plays an important role in the DuPont decomposition of return on equity. A is incorrect because this metric indicates the number of times company EBIT can cover the interest payments. Higher coverage ratios provide assurance that the company can service debt from operating earnings. B is incorrect because this defines the debt-to-equity ratio (instead of the financial leverage ratio). The debt-to-equity ratio measures the amount of debt financing relative to equity financing. Higher debt-to-capital or debt-to-equity ratios imply weaker solvency.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q108",
+      "num": 108,
+      "question": "Which of the following is defined as how long a company can continue to pay as daily cash expenditures from its existing liquid assets without receiving additional cash inflow?",
+      "options": {
+        "A": "Cash conversion cycle",
+        "B": "Defensive interval ratio",
+        "C": "Fixed charge coverage"
+      },
+      "answer": "B",
+      "explanation": "B is correct. This ratio measures how long the company can continue to pay its expenses from its existing liquid assets without receiving any additional cash inflow. A is incorrect because this metric indicates the amount of time that elapses from the point when a company invests in working capital until the point at which the company collects cash. Consequently, the cash conversion cycle does not indicate the degree to which a company's liquid assets can cover daily cash expenditures. C is incorrect because this measure focuses on the degree to which the company's earnings can cover its fixed charges. This ratio relates fixed charges or obligations to the cash flow generated by the company. It measures the number of times a company's earnings (before interest, taxes, and lease payments) can cover the company's interest and lease payments.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q109",
+      "num": 109,
+      "question": "Accounting goodwill arising from acquisitions is",
+      "options": {
+        "A": "expensed in the period it arises",
+        "B": "capitalized and amortized over a finite period.",
+        "C": "capitalized and tested for impairment annually"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortized but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period. A is incorrect because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. B is incorrect because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortized but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q110",
+      "num": 110,
+      "question": "An analyst gathers the following Information (in millions) about a company: Net cash flow from operating activities (750) Total cash inflows 1,500 Total cash outflows 2,500 Net increase (decrease) in cash (1.000) On a common-sze statement of cash flows presented using the indirect method, net operating cash flow is:",
+      "options": {
+        "A": "30%",
+        "B": "50%",
+        "C": "75%"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%. B is incorrect because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%. The incorrect answer is obtained by dividing net cash used in operations by total cash inflows: 750/1500=50%. C is incorrect because when a cash flow statement has been presented using the indirect method, operating cash inflows and outflows are not separately presented; therefore, the common-size cash flow statement shows only the net operating cash flow (net cash provided by or used in operating activities) as a percentage of total inflows or outflows, depending on whether the net amount was a cash inflow or outflow. Because the net amount is an outflow, it should be calculated as a percentage of total cash outflows as follows: 750/2500=30%. The incorrect answer is obtained by dividing net cash used in operations by the net decrease in cash: 750/1000=75%.",
+      "answer_source": "red"
+    }
+  ]
+}

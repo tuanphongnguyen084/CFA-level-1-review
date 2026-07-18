@@ -1,0 +1,329 @@
+{
+  "schema_version": 1,
+  "id": "portfolio-1000-4",
+  "name": "1000 Câu Hỏi — Đề 4 (câu 63–82)",
+  "group": "1000 Question Bank — Portfolio Management",
+  "source": "1000 Practice Questions — Portfolio Management",
+  "questions": [
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "Which of the following best describes a characteristic of defined contribution pension plans?",
+      "options": {
+        "A": "The employee accepts the investment and inflation risk.",
+        "B": "The employer is responsible for adequately funding the plan.",
+        "C": "Defined contribution plans typically have a higher cost to the company than defined benefit plans."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The key to a (DC defined contribution) plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement. B is incorrect because this applies for defined benefit (DB) plans, as generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees. C is incorrect because DC (defined contribution) plans typically have lower costs/risk to the company.",
+      "answer_source": "red",
+      "tags": [
+        "describe defined contribution and defined benefit pension plans"
+      ]
+    },
+    {
+      "id": "Q64",
+      "num": 64,
+      "question": "The market model is most likely used to predict:",
+      "options": {
+        "A": "market returns in a future period.",
+        "B": "economic growth in a future period.",
+        "C": "company-specific returns in a future period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The intercept, 𝛼𝑗, and slope coefficient, 𝛽𝑗, of the market model can be estimated by using historical security and market returns. These parameter estimates are then used to predict company-specific returns that a security may earn in a future period. A is incorrect because the intercept, 𝛼𝑗, and slope coefficient, 𝛽𝑗 , of the market model can be estimated by using historical security and market returns. These parameter estimates are then used to predict company-specific returns that a security may earn in a future period. B is incorrect because the market model is a return generating model which can be used to predict company-specific returns based on market returns. Macroeconomic factor models (not the market model) use economic factors that are correlated with security returns. These factors may include economic growth.",
+      "answer_source": "red",
+      "tags": [
+        "explain return generating models (including the market model) and their uses"
+      ]
+    },
+    {
+      "id": "Q65",
+      "num": 65,
+      "question": "Open-end mutual funds typically:",
+      "options": {
+        "A": "are priced intraday.",
+        "B": "have a fixed number of shares outstanding.",
+        "C": "have a larger required minimum investment than ETFs."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The minimum required investment in ETFS is usually smaller than that of mutual funds. A is incorrect because it is an ETF that is priced intraday, not a mutual fund. The value of a mutual fund is referred to as the 'net asset value'. It is computed daily based on the closing price of the securities in the portfolio. Because they are traded on exchanges. ETFs can be transacted (and are priced) intraday. In contrast, mutual funds typically can be purchased or sold only once a day. B is incorrect because closed-end, not open-end, mutual funds have a fixed number of shares outstanding. An alternative to setting the fund up as an open-end fund would be to create a closed-end fund in which no new investment money is accepted into the fund. New investors invest by buying existing shares, and investors in the fund liquidate by selling their shares to other investors. Hence, the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares.",
+      "answer_source": "red",
+      "tags": [
+        "describe mutual funds and compare them with other pooled investment products"
+      ]
+    },
+    {
+      "id": "Q66",
+      "num": 66,
+      "question": "A portfolio consists of two securities with the following characteristics: Expected Return Standard Deviation of Returns Security 1 17% 24% Security 2 6% 12% If the portfolio has an expected return of 12.6% and the returns of the two securities are uncorrelated, the portfolio's standard deviation is closest to:",
+      "options": {
+        "A": "13.4%.",
+        "B": "15.2%.",
+        "C": "19.2%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio's weights are calculated by setting the portfolio return equal to 12.6%. The portfolio return of a two-security portfolio is: 𝑅𝜌= 𝑤1𝑅1 + 𝑤2𝑅2 𝑅𝜌= 𝑤1𝑅1 + (1 −𝑤1)𝑅2 12.6% = 𝑤1 ∗17% + (1 −𝑤1) ∗6% 𝑤1 = 0.6 and 𝑤2 = 1 −0.6 = 0.4 Since the two securities' returns are uncorrelated, it follows that CovR,, R) = 0, such that: 𝜎𝜌 2 = (0,62 ∗0,242 + 0,42 ∗0,122) 𝜎𝜌 2 = (0.0207 + 0.0023) => 𝜎𝜌= √0.023 = 0.1518 ≈15.2%. A is incorrect because it uses an equally weighted portfolio of securities instead of deriving the securities' weights from the portfolio's expected return. Given that the two securities' returns are uncorrelated, it follows that the correlation between the two securities' returns is 0. Thus, portfolio standard deviation is calculated as: 𝜎𝜌 2 = 0,52 ∗0,242 + 0,52 ∗0,122 <=> 𝜎𝜌 2 = 0.0144 + 0.0036 = 0.018 => 𝜎𝜌= √0.018 = 0.1342 ≈13.4%. C is incorrect because it assumes that, since the securities' returns are uncorrelated, the portfolio standard deviation is the weighted mean of the individual securities' standard deviations. The portfolio's weights are calculated by setting the portfolio return equal to 12.6%. The portfolio return of a two-security portfolio is: 𝑅𝜌= 𝑤1𝑅1 + (1 −𝑤1)𝑅2 12.6% = 𝑤1 x 17% + (1 - W₁) x 6% 𝑤1 = 0.6 and 𝑤2 = 1 −0.6 = 0.4 Then, 𝜎𝜌, is incorrectly calculated as: 𝜎𝜌=0.6 * 24 + 0.4 × 0.12 𝜎𝜌= 0.192=19.2%. This would be the correct portfolio standard deviation if the correlation was equal to 1.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret portfolio standard deviation"
+      ]
+    },
+    {
+      "id": "Q67",
+      "num": 67,
+      "question": "An equally weighted portfolio is composed of two risky assets. If the correlation of asset returns is equal to zero, the portfolio standard deviation is:",
+      "options": {
+        "A": "equal to zero,",
+        "B": "equal to the weighted average of the assets' standard deviations.",
+        "C": "less than the weighted average of the assets' standard deviations."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The portfolio risk is less than the weighted average of risks when the correlation of asset returns is less than one. A is incorrect because the portfolio risk is less than the weighted average of risks when the correlation of asset returns is less than one. For an equally weighted portfolio, the standard deviation can only be equal to zero when the two assets are perfectly negatively correlated (p = -1) and the two assets have the same standard deviation. For an extreme case in which P₁₂ =-1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free. B is incorrect because the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets when the correlation of asset returns is equal to one.",
+      "answer_source": "red",
+      "tags": [
+        "describe the effect on a portfolio's risk of investing in assets that are less than perfectly correlated"
+      ]
+    },
+    {
+      "id": "Q68",
+      "num": 68,
+      "question": "If all investors have homogeneous expectations, the total risk and expected return of portfolios consisting of the risk-free asset and the optimal risky portfolio are plotted on the:",
+      "options": {
+        "A": "capital market line.",
+        "B": "security market line.",
+        "C": "security characteristic line."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The risk-free asset could be combined with a risky portfolio to create a capital allocation line [CAL] A specific CAL that uses the market portfolio as the optimal risky portfolio is known as the capital market line. When assuming homogeneous expectations, only one optimal portfolio exists. The capital market line is shown in Exhibit 3, where the standard deviation (𝜎𝑝), or total risk is on the x-axis and expected portfolio return. E(Rp), is on the y-axis. B is incorrect because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm-Rf. C is incorrect because a security characteristic line (SCL) for a security is a plot of the excess return of the security on the excess return of the market.",
+      "answer_source": "red",
+      "tags": [
+        "explain the capital allocation line (CAL) and the capital market line (CML)"
+      ]
+    },
+    {
+      "id": "Q69",
+      "num": 69,
+      "question": "The risk-return profile of a portfolio's strategic asset allocation is most likely determined by the expected returns and risks of the individual asset classes and the:",
+      "options": {
+        "A": "correlations between those asset classes.",
+        "B": "use of security selection for each of those asset classes.",
+        "C": "allowable deviation of portfolio weights from policy weights for those asset classes."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. B is incorrect because the risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes Deciding to deviate from policy weights or to select securities aiming to beat the benchmark creates additional uncertainty about returns. This risk is over and above the risk inherent in the policy portfolio. Hence, an investment policy should set risk limits and desired payoffs for each of these activities Risk budgeting implies that the portfolio manager has to choose. for every asset class, whether to deploy security selection as a return generator. Although security selection could impact the returns of a portfolio, the risk-return profile of a portfolio's strategic asset allocation is based on expected returns for the asset classes and the correlation between those asset classes rather than the additional risk associated with the use of security selection. C is incorrect because the risk-return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes. As the portfolio is constructed and its value changes with the returns of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift. Periodically, or when a certain threshold deviation from the policy weight (the bandwidth) has been breached, the portfolio should be rebalanced back to the policy weights. The set of rules that guide the process of restoring the portfolio's original exposures to systematic risk factors is known as the rebalancing policy. Deciding to deviate from policy weights or to select securities aiming to beat the benchmark creates additional uncertainty about returns. This risk is over and above the risk inherent in the policy portfolio. Although the weights of asset classes will deviate over time, the risk-return profile of a portfolio's strategic asset allocation is not determined by the rebalancing policy.",
+      "answer_source": "red",
+      "tags": [
+        "explain the specification of asset classes in relation to asset allocation"
+      ]
+    },
+    {
+      "id": "Q70",
+      "num": 70,
+      "question": "A portfolio has an annual return of 15.2% and a standard deviation of returns of 11.7%. If the risk-free rate is 3.1%, the portfolio's Sharpe ratio is closest to:",
+      "options": {
+        "A": "1.03.",
+        "B": "1.30.",
+        "C": "1.56."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Sharpe ratio is defined as the portfolio's risk premium divided by its risk. Hence, the Sharpe ratio= (Rp -Rf)/ 𝜎𝑝= (15.2% - 3.1%) / 11.7% = 12.1% / 11.7% = 1.0342 ≈ 1.03. B is incorrect because it omits the risk-free rate when determining the portfolio's risk premium. Hence, the Sharpe ratio= Mean Annual Return/Standard Deviation of Return = 15.2% / 11.7% = 1.2991 ≈ 1.30. C is incorrect because the risk-free rate is added to (not subtracted from) the portfolio's return to determine the risk premium. Hence, the Sharpe ratio = (Rp -Rf)/ 𝜎𝑝 = (15.2% +3.1%) / 11.7% = 18.3% / 11.7% = 1.5641 ≈ 1.56.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q71",
+      "num": 71,
+      "question": "Which of the following is best classified as a financial risk?",
+      "options": {
+        "A": "Tax risk",
+        "B": "Credit risk",
+        "C": "Accounting risk"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The risk management industry has come to classify three types of risks as primarily financial in nature and the second primary financial risk is credit risk. A is incorrect because tax risk is a non-financial risk as the following three non-financial risks are related: regulatory risk, accounting risk, and tax risk. C is incorrect because accounting risk is a non-financial risk as the following three non-financial risks are related: regulatory risk, accounting risk, and tax risk.",
+      "answer_source": "red",
+      "tags": [
+        "identify financial and non-financial sources of risk and describe how they may interact"
+      ]
+    },
+    {
+      "id": "Q72",
+      "num": 72,
+      "question": "The risk management measure that captures the sensitivity of a derivative's delta to a change in the value of the underlying best describes:",
+      "options": {
+        "A": "rho.",
+        "B": "vega.",
+        "C": "gamma."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The sensitivity of the derivative price to a small change in the value of the underlying asset is called the delta. Large changes are captured by the concept of gamma. Whereas delta is a first-order risk, gamma is considered a second-order risk because it reflects the risk of changes in delta. Gamma is a numerical measure of how sensitive an option's delta is to a change in the value of the underlying. A is incorrect because derivatives are also sensitive to changes in interest rates, which are reflected in a measure called rho. B is incorrect because vega is a first-order measure of the change in the derivative price for a change in the volatility of the underlying.",
+      "answer_source": "red",
+      "tags": [
+        "describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+      ]
+    },
+    {
+      "id": "Q73",
+      "num": 73,
+      "question": "The intercept on the y-axis of the security characteristic line is:",
+      "options": {
+        "A": "beta.",
+        "B": "Jensen's alpha.",
+        "C": "the risk-free rate of return."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The SCL is a plot of the excess return of the security on the excess return of the market. Jensen's alpha is the intercept and the beta is the slope. A is incorrect because beta is the slope of the security characteristic line (SCL), not the intercept. C is incorrect because the risk-free rate of return is the intercept on the y-axis of the security market line, whereas Jensen's alpha is the intercept on the y-axis of the security characteristic line.",
+      "answer_source": "red",
+      "tags": [
+        "describe and demonstrate applications of the CAPM and the SML"
+      ]
+    },
+    {
+      "id": "Q74",
+      "num": 74,
+      "question": "With respect to an investment policy statement, which of the following is most closely linked to the client's distinctive needs?",
+      "options": {
+        "A": "The evaluation and review section",
+        "B": "The objectives and constraints sections",
+        "C": "The statement of duties and responsibilities"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The sections that are most closely linked to the client's distinctive needs, and probably the most important from a planning perspective, are those dealing with investment objectives and constraints. An IPS [investment policy statement] focusing on these two elements has been called an IPS in an 'objectives and constraints' format. A is incorrect because the Evaluation and Review section provides guidance on obtaining feedback on investment results. C is incorrect because the Statement of Duties and Responsibilities details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers.",
+      "answer_source": "red",
+      "tags": [
+        "describe the major components of an IPS"
+      ]
+    },
+    {
+      "id": "Q75",
+      "num": 75,
+      "question": "The slope of the security market line is most likely the:",
+      "options": {
+        "A": "security's beta.",
+        "B": "market risk premium.",
+        "C": "market risk premium divided by the market standard deviation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. The slope of this line is the market risk premium, Rm-Rf. A is incorrect because the security's beta is the slope of the security characteristic line (SCL), not the security market line. The SCL is a plot of the excess return of the security on the excess return of the market. The beta is the slope. C is incorrect because it is the slope of the capital market line (CML). E(Rm)- Rf/𝜎𝑚 not the security market line. Since the market standard deviation is unlikely to be 1, the slope of the CML is most likely not the slope of the SML.",
+      "answer_source": "red",
+      "tags": [
+        "explain the capital asset pricing model (CAPM), including its assumptions, and the security market line (SML)"
+      ]
+    },
+    {
+      "id": "Q76",
+      "num": 76,
+      "question": "Which of the following performance measures is equal to the slope of the capital allocation line?",
+      "options": {
+        "A": "M²",
+        "B": "Sharpe ratio",
+        "C": "Treynor ratio"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Sharpe ratio, also called the reward-to-variability ratio, is simply the slope of the capital allocation line. A is incorrect because M² provides a measure of portfolio return that is adjusted for the total risk of the portfolio relative to that of some benchmark. While M² is related to the Sharpe ratio, it is calculated in a different way and is measured in different units, therefore it does not represent the slope of the capital allocation line. C is incorrect because the Treynor ratio corresponds to the slope of the security market line, not the capital allocation line. The Treynor ratio is a simple extension of the Sharpe ratio and resolves the Sharpe ratio's first limitation by substituting beta (systematic risk) for total risk.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q77",
+      "num": 77,
+      "question": "Which of the following sections of an investment policy statement for a pension plan most likely specifies the discretion that portfolio managers have with respect to executing the investment strategy?",
+      "options": {
+        "A": "Procedures",
+        "B": "Investment Constraints",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Statement of Duties and Responsibilities section details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. In the case of an institution, such as a pension plan or university endowment, the IPS may set out the governance arrangements that apply to the investment funds. For example, this information could cover the investment committee's approach to appointing and reviewing investment managers for the portfolio, and the discretion that those managers have. A is incorrect because the Procedures section explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. B is incorrect because the Investment Constraints section presents the factors that constrain the client in seeking to achieve the investment objectives. The constraints section covers factors that need to be taken into account when constructing a portfolio for the client that meets the objectives. The typical categories are liquidity requirements, time horizon, regulatory requirements, tax status, and unique needs. The constraints may be internal (l.e., set by the client), or external (i.e., set by law or regulation).",
+      "answer_source": "red",
+      "tags": [
+        "describe the major components of an IPS"
+      ]
+    },
+    {
+      "id": "Q78",
+      "num": 78,
+      "question": "Which of the following measures is most appropriate to evaluate the performance of a portfolio that is not fully diversified?",
+      "options": {
+        "A": "Sharpe ratio",
+        "B": "Treynor ratio",
+        "C": "Jensen's alpha"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Total risk is relevant for an investor when he or she holds a portfolio that is not fully diversified, which is not a desirable portfolio. In such cases, the Sharpe ratio and M² are appropriate performance measures. The Sharpe ratio uses total risk as a measure of risk. B is incorrect because performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk. C is incorrect because performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk.",
+      "answer_source": "red",
+      "tags": [
+        "calculate and interpret the Sharpe ratio, Treynor ratio, M 2, and Jensen's alpha"
+      ]
+    },
+    {
+      "id": "Q79",
+      "num": 79,
+      "question": "An analyst gathers the following information about three stocks: Beta Standard Deviation of Returns Stock 1 0.9 17% Stock 2 1.1 18% Stock 3 1.2 16% If the standard deviation of market returns is equal to 10%, the stock with the highest nonsystematic risk is:",
+      "options": {
+        "A": "Stock 1.",
+        "B": "Stock 2.",
+        "C": "Stock 3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Total variance = Systematic variance + Nonsystematic variance, which can be written as 𝜎𝑖² = 𝛽𝑖² 𝜎𝑚² + 𝜎𝑒² . Thus, 𝜎𝑒² = 𝜎𝑖² -𝛽𝑖² 𝜎𝑚² . Thus, nonsystematic variance for Stock 1 is equal to (0.17)2 - (0.9)2(0.1)² = 0.0208. For Stock 2, this is equal to (0.18)2- (1.1)2(0.1)² = 0.0203. For Stock 3, this is equal to (0.16)² - (1.2)2(0.1)²= 0.0112. Therefore, Stock 1 has the highest nonsystematic variance and the highest idiosyncratic risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk. B is incorrect because Stock 2 has the highest total risk, not the highest nonsystematic risk. Total risk is calculated as the square root of total variance. C is incorrect because Stock 3 has the highest beta and thus highest systematic risk, not the highest nonsystematic risk. Systematic risk is calculated as 𝛽𝑖𝜎𝑚.",
+      "answer_source": "red",
+      "tags": [
+        "explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk"
+      ]
+    },
+    {
+      "id": "Q80",
+      "num": 80,
+      "question": "Which of the following metrics is most appropriate to estimate a bond's average extreme loss?",
+      "options": {
+        "A": "VaR of loss",
+        "B": "Standard deviation of loss",
+        "C": "Expected loss given default"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The statistics used to estimate VaR can be used to gauge average extreme losses. Conditional standard deviation VaR or CVaR is a common tail loss measure, defined as the weighted average of all loss outcomes in the statistical distribution that exceed the VaR loss. Another tail risk metric in the credit risk space that is analogous to CVAR is expected loss given default, which answers the question for a debt security, If the underlying company or asset defaults, how much do we lose on average?. A is incorrect because in a VaR measure, there is no ultimate maximum that one can state. VaR is thus a minimum extreme loss metric. Thus, the average loss cannot be provided by the VaR. B is incorrect because a standard deviation may not exist for return distributions with fat tails. Thus, the use of is not appropriate when estimating extreme losses.",
+      "answer_source": "red",
+      "tags": [
+        "describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods"
+      ]
+    },
+    {
+      "id": "Q81",
+      "num": 81,
+      "question": "An analyst gathers the following information about the security market line (SML) and a stock: Intercept of the SML 2% Slope of the SML 5% Stock's beta 1.3 According to capital market theory, if the analyst believes the stock will have a return of 7%, the stock is:",
+      "options": {
+        "A": "undervalued.",
+        "B": "properly valued.",
+        "C": "overvalued."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm - Rf. Potential investors can plot a security's expected return and beta against the SML and use this relationship to decide whether the security is overvalued or undervalued in the market. All securities that reflect the consensus market view are points directly on the SML (Le properly valued). If a point representing the estimated return of an asset is above the SML, the asset has a low level of risk relative to the amount of expected return and would be a good choice for investment In contrast, if the point representing a particular asset is below the SML the stock is considered overvalued. The asset will be on the SML if the forecasted return equals the expected return of 0.02 + 1.3 x 0.05 = 0.085 = 8.5%. Since the analyst forecasts the return of the asset to be 7%, which is lower than the expected return according to the CAPM, the security plots below the SML and should be considered overvalued. A is incorrect because the analyst forecasts the return of the asset to be 7%, which is lower than the expected return of 8.5% according to the CAPM. Thus, the security plots below the SML and should be considered overvalued. This response would be chosen if the expected return of the asset was wrongly computed as 0.02 + 1.3 x (0.05 - 0.02) = 0.059 = 5.9%, which would imply that the asset plots above the SML. B is incorrect because the analyst forecasts the return of the asset to be 7%, which is lower than the expected return of 8.5% according to the CAPM. Thus, the security does not plot on the SML and it is not properly valued according to the CAPM. This response would be chosen if beta was omitted in the CAPM equation and the expected return of the asset was wrongly computed as 0.02 + 𝛽𝑖² 𝜎𝑚² 0.05 = 0.07 = 7.0%, which would imply that the asset plots on the SML.",
+      "answer_source": "red",
+      "tags": [
+        "describe and demonstrate applications of the CAPM and the SML"
+      ]
+    },
+    {
+      "id": "Q82",
+      "num": 82,
+      "question": "Relative to passive market-cap-weighted strategies, smart beta strategies typically have:",
+      "options": {
+        "A": "lower management fees and higher portfolio turnover.",
+        "B": "higher management fees and lower portfolio turnover.",
+        "C": "higher management fees and higher portfolio turnover."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Typically, smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive market-cap weighted strategies. A is incorrect because typically, smart beta strategies feature somewhat higher [not lower] management fees and higher portfolio turnover relative to passive market-cap weighted strategies. B is incorrect because typically, smart beta strategies feature somewhat higher management fees and higher [not lower] portfolio turnover relative to passive market-cap weighted strategies.",
+      "answer_source": "red",
+      "tags": [
+        "describe aspects of the asset management industry"
+      ]
+    }
+  ]
+}

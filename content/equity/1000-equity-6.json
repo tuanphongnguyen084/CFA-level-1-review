@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "id": "equity-1000-6",
+  "name": "1000 Câu Hỏi — Đề 6 (câu 113–125)",
+  "group": "1000 Question Bank — Equity",
+  "source": "1000 Practice Questions — Equity",
+  "questions": [
+    {
+      "id": "Q113",
+      "num": 113,
+      "question": "An analyst gathers the following information about a company's non-callable, non-convertible preferred stock: Par value per share €100 Required rate of return 7.2% Maturity 5 years Q. If the stock's intrinsic value is €125, the company's semi-annual dividend on the preferred stock is closest to:",
+      "options": {
+        "A": "€6.62.",
+        "B": "€7.20.",
+        "C": "€9.00."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Using the formula: V=Stock's intrinsic value; F = par value per share; r = required rate of return; n = maturity. Where: V₁ = €125; F= €100: r = 7.2% divided by 2 to arrive at semi-annual rate of 3.6%; n=5 = 5 years multiplied by 2 to arrive at 10. B is incorrect. (No explanation was provided in the source material.) C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q114",
+      "num": 114,
+      "question": "Q. In contrast to a public company, a company that has gone private most likely.",
+      "options": {
+        "A": "faces greater regulatory costs.",
+        "B": "focuses more on short-term results.",
+        "C": "lacks an active secondary market for its equity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. There is no active secondary market for equity of private companies and the shares require negotiations between investors in order to be traded. This is in contrast to public companies, which have secondary markets for trading their equity. A is incorrect because Private companies have lower regulatory costs: by 'going private, management can adopt a more long-term focus and can eliminate certain costs that are necessary to operate a publicly traded company - such as the cost of meeting regulatory and stock exchange requirements. B is incorrect because Private companies focus more on long-term results: the move to longer holding periods has given private equity investors the opportunity to more effectively and patiently address any underlying operational issues facing the company and to better manage it for long-term value creation.",
+      "answer_source": "red",
+      "tags": [
+        "compare and contrast public and private equity securities"
+      ]
+    },
+    {
+      "id": "Q115",
+      "num": 115,
+      "question": "An analyst gathers the following information about an equal-weighted index composed of three stocks: Stock Beginning of Period Price End of Period Price 1 $10 8$ 2 $20 $24 3 $30 30$ Q. If there is a 2% return from dividends for each of the three stocks, the total return of the index is:",
+      "options": {
+        "A": "0%.",
+        "B": "2%.",
+        "C": "6%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Total return measures price appreciation plus interest, dividends, and other distributions. Thus, the total return of an index is the price appreciation, or change in the value of the price return index, plus income (dividends and/or interest) over the period, expressed as a percentage of the beginning value of the price return index. Price return for Stock 1 = ($8-$10)/$10=-0.20=-20%. Total return price return + dividends = -20% +2%=-18%. Price return for Stock 2 = ($24-$20)/$20=0.20 = 20%. Total return 20%+2% = 22%. Price return for Stock 3 = ($30-$30)/$300.00 0%. Total return = 0%+2% 2%. The total return of the index = (- = 18% +22%+2%) / 36% / 32%. A is incorrect because Dividends are not accounted for. It is simply the price return of the index. Price return for Stock 1= ($8-$10)/$10=-0.20-20%. Price return for Stock 2 = ($24-$20)/$20 = 0.20 = 20%. Price return for Stock 3 = ($30-$30)/$300.00 0%. The price return of the index = -20% +20% +0% 0% / 3 = 0%. C is incorrect. (No explanation was provided in the source material.)",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q116",
+      "num": 116,
+      "question": "Q. Which of the following factors would most likely increase market efficiency? Limits on:",
+      "options": {
+        "A": "short selling",
+        "B": "transaction costs",
+        "C": "trading by foreign investors"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Transaction costs are incurred in trading to exploit any perceived market inefficiency. If there are limits on transaction costs, more investors would be encouraged to trade. This brings about increased number of market participants which in turn contributes to market efficiency. One of the most critical factors contributing to the degree of efficiency in a market is the number of market participants. A is incorrect because Restrictions on short selling limit arbitrage trading, which impedes market efficiency. C is incorrect because A lack of trading activity can cause or accentuate other market imperfections that impede market efficiency. In fact, in many of these markets, such as China, trading in many of the listed stocks is restricted for foreigners. By nature, this limitation reduces the number of market participants, restricts the potential for trading activity, and hence reduces market efficiency.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors that affect a market's efficiency"
+      ]
+    },
+    {
+      "id": "Q117",
+      "num": 117,
+      "question": "Q. Which of the following index weighting schemes most likely causes a bias in the index when high-priced stocks split?",
+      "options": {
+        "A": "Price weighted",
+        "B": "Equal weighted",
+        "C": "Value weighted"
+      },
+      "answer": "A",
+      "explanation": "A is correct. When a company's shares split, their price declines and their weight in a price-weighted index is reduced, regardless of the importance of the stock. B is incorrect because Each stock's percentage price change has equal weight in an equal-weighted index, and a split has no influence on the result. C is incorrect because There is an automatic adjustment for stock splits and other capital changes in a value-weighted index.",
+      "answer_source": "red",
+      "tags": [
+        "compare the different weighting methods used in index construction"
+      ]
+    },
+    {
+      "id": "Q118",
+      "num": 118,
+      "question": "Q. In the secondary market, funds flow from:",
+      "options": {
+        "A": "traders to traders.",
+        "B": "issuers to investors.",
+        "C": "investors to issuers."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When investors sell securities to others, they trade in the secondary market. In the secondary market, funds flow between traders. B is incorrect because In the secondary market, funds flow between traders, while in the primary market, funds flow to the issuer of the security from the purchaser (not vice versa). C is incorrect because In the primary (not secondary) market, funds flow to the issuer of the security from the purchaser (investors).",
+      "answer_source": "red",
+      "tags": [
+        "define primary and secondary markets and explain how secondary markets support primary markets"
+      ]
+    },
+    {
+      "id": "Q119",
+      "num": 119,
+      "question": "Q. When issuers sell securities to investors:",
+      "options": {
+        "A": "they trade in the primary market.",
+        "B": "they trade in the secondary market.",
+        "C": "funds flow between the primary and the secondary market."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When issuers sell securities to investors, practitioners say that they trade in the primary market. B is incorrect because When issuers sell securities to investors, practitioners say that they trade in the primary market. When investors sell those securities to others, they trade in the secondary market. C is incorrect because When issuers sell securities to investors, practitioners say that they trade in the primary market. When investors sell those securities to others, they trade in the secondary market. In the primary market, funds flow to the issuer of the security from the purchaser. In the secondary market, funds flow between traders.",
+      "answer_source": "red",
+      "tags": [
+        "describe classifications of assets and markets"
+      ]
+    },
+    {
+      "id": "Q120",
+      "num": 120,
+      "question": "Q. In a well-functioning financial system, changes in asset prices primarily reflect changes in:",
+      "options": {
+        "A": "execution costs.",
+        "B": "the demand for liquidity.",
+        "C": "fundamental asset values."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Well functioning financial systems are characterized by prices that reflect fundamental values so that prices vary primarily in response to changes in fundamental values and not to demands for liquidity made by uninformed traders (informationally efficient markets). A is incorrect because Well functioning financial systems are characterized by liquid markets in which the costs of trading are low (operationally efficient markets) and therefore execution costs would not impact asset prices. B is incorrect because Well functioning financial systems are characterized by prices that reflect fundamental values so that prices vary primarily in response to changes in fundamental values and not to demands for liquidity made by uninformed traders (informationally efficient markets).",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of a well-functioning financial system"
+      ]
+    },
+    {
+      "id": "Q121",
+      "num": 121,
+      "question": "Q. When a company raises common equity capital in the public market, the company most likely:",
+      "options": {
+        "A": "moves money from the present to the future.",
+        "B": "agrees to make scheduled distributions in the future.",
+        "C": "is required to meet regulatory reporting requirements."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When a company sells common stock to raise capital, regulatory reporting requirements and accounting standards attempt to ensure the production of meaningful financial disclosures. A is incorrect because Companies often raise money for projects by selling (issuing) ownership interests (e.g... corporate common stock or partnership interests). Although these equity instruments legally represent ownership in companies rather than loans to the companies, selling equity to raise capital is simply another mechanism for moving money from the future to the present. B is incorrect because When shareholders or partners contribute capital to a company, the company obtains money in the present in exchange for equity instruments that will be entitled to distributions in the future. The repayment of the money is not scheduled as it would be for loans.",
+      "answer_source": "red",
+      "tags": [
+        "explain the main functions of the financial system"
+      ]
+    },
+    {
+      "id": "Q122",
+      "num": 122,
+      "question": "Q. Preference shares are less risky than common shares because preference shares have:",
+      "options": {
+        "A": "fixed dividends.",
+        "B": "a guaranteed return if a company is liquidated.",
+        "C": "a larger portion of total return based on future price return."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Dividends on preference shares are known and fixed, and they account for a large portion of the preference shares total return. Therefore, there is less uncertainty about future cash flows. B is incorrect because The amount preference shareholders will receive if the company is liquidated is known and fixed as the par (or face) value of their shares. However, there is no guarantee that investors will receive that amount if the company experiences financial difficulty. C is incorrect because Dividends account for a large portion of the preference shares' total return. With common shares, however, a larger portion of shareholders' total return (or all of their total return for non-dividend shares) is based on future price appreciation.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of types of equity securities"
+      ]
+    },
+    {
+      "id": "Q123",
+      "num": 123,
+      "question": "Q. The Gordon growth model assumes a dividend growth rate:",
+      "options": {
+        "A": "less than the required rate of return.",
+        "B": "equal to the required rate of return.",
+        "C": "greater than the required rate of return."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Gordon growth model assumes that the growth rate cannot be greater than the required rate of return. Also, the dividend growth rate is strictly less than the required rate of return. B is incorrect because The Gordon growth model assumes that the growth rate cannot be greater than the required rate of return. C is incorrect because The Gordon growth model assumes that the growth rate cannot be greater than the required rate of return.",
+      "answer_source": "red",
+      "tags": [
+        "identify characteristics of companies for which the constant growth or a multistage dividend discount model is appropriate"
+      ]
+    },
+    {
+      "id": "Q124",
+      "num": 124,
+      "question": "Q. Private equity securities most likely",
+      "options": {
+        "A": "are listed on public exchanges.",
+        "B": "are illiquid and difficult to trade.",
+        "C": "have easily available financial information."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Private equity securities do not have \"market determined\" quoted prices, are highly illiquid, and require negotiations between investors in order to be traded. A is incorrect because Private equity securities are issued primarily to institutional investors via non-public offerings, such as private placements. Because they are not listed on public exchanges, there is no active secondary market for these securities. C is incorrect because Financial statements and other important information needed to determine the fair value of private equity securities may be difficult to obtain because the issuing companies are typically not required by regulatory authorities to publish this information.",
+      "answer_source": "red",
+      "tags": [
+        "describe characteristics of types of equity securities"
+      ]
+    },
+    {
+      "id": "Q125",
+      "num": 125,
+      "question": "/Q. The Gordon growth model is most appropriate for valuing the equity of a dividend-paying:",
+      "options": {
+        "A": "electric utility firm.",
+        "B": "technology company.",
+        "C": "automobile manufacturer."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because-of its assumption of a constant growth rate, the Gordon growth model is particularly appropriate for valuing the equity of dividend-paying companies that are relatively insensitive to the business cycle and in a mature growth phase. Examples might include an electric utility. B is incorrect because A technology firm is a cyclical company whose earnings are sensitive to the business cycle. Examples of cyclical industries are autos, housing, basic materials, industrials, and technology. Because of its assumption of a constant growth rate, the Gordon growth model is particularly appropriate for valuing the equity of dividend-paying companies that are relatively insensitive to the business cycle and in a mature growth phase. C is incorrect because An automobile manufacturer is a cyclical company whose earnings are sensitive to the business cycle. Examples of cyclical industries are autos, housing, basic materials, industrials, and technology. Because of its assumption of a constant growth rate, the Gordon growth model is particularly appropriate for valuing the equity of dividend-paying companies that are relatively insensitive to the business cycle and in a mature growth phase.",
+      "answer_source": "red",
+      "tags": []
+    }
+  ]
+}

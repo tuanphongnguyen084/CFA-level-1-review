@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "id": "corporate-1000-1",
+  "name": "1000 Câu Hỏi — Đề 1 (câu 1–22)",
+  "group": "1000 Question Bank — Corporate Issuers",
+  "source": "1000 Practice Questions — Corporate Issuers",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "If a corporation is financed with both debt and equity, which of the following must the corporation pay?",
+      "options": {
+        "A": "Interest only",
+        "B": "Dividends only",
+        "C": "Both interest and dividends"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Debt must be repaid on a pre-specified date in the future with interest. B is incorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as dividends. However, while shareholder have the right to receive dividends, the corporation is not required to pay dividends. C is incorrect because equity investors (shareholders) have a right to receive any distributions of profits, known as dividends. However, while shareholder have the right to receive dividends, they corporation is not required to pay dividends.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "A company that produces goods to be marketed by other firms is best described as having a:",
+      "options": {
+        "A": "value added reseller business model.",
+        "B": "licensing arrangement business model.",
+        "C": "contract manufacturer business model."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Contract manufacturers produce goods to be marketed by others. A is incorrect because value added resellers not only distribute a product but also handle more complex aspects of product installation, customization or support. B is incorrect because licensing arrangements are business models in which a company will produce a product using someone else's brand name in return for a royalty.",
+      "answer_source": "red",
+      "tags": [
+        "describe various types of business models"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "\"Economic\" profit is best described as the return to a firm's owners:",
+      "options": {
+        "A": "in the form of retained earnings and distributions to the owners.",
+        "B": "after corporate taxes and taxes on distributions have been paid.",
+        "C": "in excess of what they could have earned elsewhere on different investments."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity. A is incorrect because an issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic' profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity. B is incorrect because an issuer's income statement distinguishes between its financial income or net income once fixed obligations have been met and its 'economic profit, or return to a firm's owners in excess of what they could have earned elsewhere on different investments, known as their required rate of return on equity.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "The purchase of which of the following shares most likely requires investors to be accredited?",
+      "options": {
+        "A": "Public company shares only",
+        "B": "Private company shares only",
+        "C": "Both public company shares and private company shares"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering. A is incorrect because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering. C is incorrect because private company investors may be limited to qualified or so-called accredited investors or sophisticated investors, or those deemed to be able and willing by regulatory authorities to assume the greater risk of a non-public offering.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which best describes business growth that attracts more customers and merchants, contributing to further growth in the business?",
+      "options": {
+        "A": "Crowdsourcing",
+        "B": "A one-sided network",
+        "C": "A multi-sided network"
+      },
+      "answer": "C",
+      "explanation": "C is correct. As multi-sided [two-sided] networks grow-more users join the service, which attracts more merchants, which in turn attracts more users these businesses can grow exponentially. A is incorrect because crowdsourcing is where users contribute directly to a product or service. These businesses facilitate \"user communities that enable voluntary collaboration between users of a product with a small amount of moderation and oversight by the company. B is incorrect because a one-sided network is one where it is only one type of user that is valuable to other users.",
+      "answer_source": "red",
+      "tags": [
+        "describe various types of business models"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Private companies most likely have:",
+      "options": {
+        "A": "less share price transparency compared to public companies.",
+        "B": "similar share price transparency as public companies.",
+        "C": "greater share price transparency compared to public companies."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In contrast [to public companies] the shares of a private company are not listed (do not trade valuation or share price transparency exists. on an exchange), so. B is incorrect because private companies typically have less no visible company typically have less share price transparency than public companies share price transparency than public companies. C is incorrect because private companies.",
+      "answer_source": "red",
+      "tags": [
+        "compare publicly and privately owned Corporate Issuers"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "The business model of a knowledge aggregation company that allows its users to contribute directly to online content is best referred to as a:",
+      "options": {
+        "A": "platform business model.",
+        "B": "marketplace business model.",
+        "C": "crowdsourcing business model."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Crowdsourcing business models enable users to contribute directly to a product, service, or online content. Examples include: contests and competitions; online gaming, product development, such as open source software, knowledge aggregation, such as Wikipedia and Waze/Google Maps; fan or hobbyist clubs, and networks of tradespersons or professionals. A is incorrect because a platform business is based on a network and can be distinguished from a traditional or \"linear\" business that adds value to something that is sold to customers in a linear supply chain. Platform business models are not developed specifically to allow users to contribute directly to product, service, or online content. B is incorrect because marketplace businesses create networks of buyers and sellers without taking ownership of the goods during the process. Examples include Alibaba, eBay, Mercado Libre, and Etsy. Marketplace business models are not developed specifically to allow users to contribute directly to product, service, or online content.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Which of the following would most likely be included on a company's \"financial\" balance sheet?",
+      "options": {
+        "A": "Short-term debt obligations",
+        "B": "Relationships with customers",
+        "C": "Relationships with key suppliers"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Short-term debt is included in a company's financial balance sheet. B is incorrect because contracts with customers and other intangible assets balance sheet but are included on the issuer's broader are excluded from a company's financial \"economic\" balance sheet. C is incorrect because agreements with suppliers and other intangible assets are excluded from a company's financial balance sheet but are included on the issuer's broader \"economic\" balance sheet.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following is a pull on a company's liquidity?",
+      "options": {
+        "A": "Obsolete inventory",
+        "B": "Reduced credit limits",
+        "C": "Uncollected receivables"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A pull on liquidity is when disbursements (outflows) are paid too quickly by the company or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Also, major pulls on payments include Reduced credit limits. >If a company has a history of making late payments. suppliers might cut the amount of credit they will allow to be outstanding at any time.\" So, reduced credit limits are a pull on a company's liquidity. A is incorrect because major drags on receipts involve pressures from credit management and deterioration in other assets and include Obsolete inventory. If inventory stands unused for long periods, it might be an indication that it is no longer usable. So, obsolete inventory is a drag (not a pull) on a company's liquidity. C is incorrect because major drags on receipts involve pressures from credit management and deterioration in other assets and include Uncollected receivables. The longer these are outstanding, the greater the risk that they will not be collected at all. They are indicated by the large number of days of receivables and high levels of bad debt expenses. So, uncollected receivables are a drag (not a pull) on a company's liquidity.",
+      "answer_source": "red",
+      "tags": [
+        "explain liquidity and compare issuers' liquidity levels"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Which of the following pricing models is most likely used when a firm willingly sacrifices margins to build market share?",
+      "options": {
+        "A": "Dynamic pricing",
+        "B": "Freemium pricing",
+        "C": "Penetration pricing"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Penetration pricing is an example of discount pricing and is used when a firm willingly sacrifices margins in order to build scale and market share. A is incorrect because penetration pricing, rather than dynamic pricing, is used. Dynamic pricing charges different prices at different times. Specific examples include off-peak pricing (e.g., for hotel rooms, advertising, airline tickets, electricity, or matinee movie tickets), 'surge' pricing, and 'congestion' pricing (e.g., for ride sharing and toll roads). B is incorrect because penetration pricing, rather than freemium pricing, is used. Freemium pricing allows customers a certain level of usage or functionality at no charge-for example, with news content, a software application, or a game. This model is widely used in digital content and services, such as periodicals, video games, software/apps, and cloud storage, where the provider stands to benefit from wide adoption (often via network effects).",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "A company manufacturing and selling a product using someone else's brand name in return for a royalty most likely operates:",
+      "options": {
+        "A": "under a franchise model",
+        "B": "as a contract manufacturer.",
+        "C": "under a licensing arrangement."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A company will produce a product using someone else's brand name in return for a royalty under a licensing arrangement. A is incorrect because under a franchise model distributers or retailers have a tightly defined and often exclusive relationship with the parent company. B is incorrect because private label or contract manufacturers produce goods to be marketed by others.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "When analyzing a company, analysts should:",
+      "options": {
+        "A": "ignore the company's business model.",
+        "B": "develop their own understanding of the company's business model.",
+        "C": "rely on management's description of the company's business model."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A clearly described business model helps the analyst understand a business: how it operates, its strategy, target customers, key partners, prospects, risks, and financial profile. Rather than rely on management's description of its business model, analysts should develop their own understanding. A is incorrect because a its strategy, target clearly described business model helps the analyst understand a business: how it operates. customers, key partners, prospects, risks, and financial profile. C is incorrect because rather than rely on management's description of its business model, analysts should develop their own understanding.",
+      "answer_source": "red",
+      "tags": [
+        "describe key features of business models"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Which of the following is best categorized as a drag on liquidity?",
+      "options": {
+        "A": "Insufficient credit lines",
+        "B": "Uncollected receivables",
+        "C": "Early payments to vendors"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A drag on liquidity is when receipts lag, creating pressure from the decreased available funds. Major drags on receipts involve pressures from credit management and deterioration in other assets and include; Uncollected receivables. The longer these are outstanding, the greater the risk that they will not be collected at all. A is incorrect because a pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability. Major pulls on payments include: Reduced credit limits. If a company has a history of making late payments. suppliers may cut the amount of credit they will allow to be outstanding at any time, which can squeeze the company's liquidity. C is incorrect because a pull on liquidity is when disbursements are paid too quickly or trade credit availability is limited, requiring companies to expend funds before they receive funds from sales that could cover the liability.",
+      "answer_source": "red",
+      "tags": []
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Which of the following combination of factors most likely increases a company's ability to support debt in its capital structure?",
+      "options": {
+        "A": "High revenue, low cash flow volatility, and a low level of fungible assets",
+        "B": "High revenue, low operating leverage, and a high level of fungible assets",
+        "C": "Low cash flow volatility, low operating leverage, and a low level of fungible assets"
+      },
+      "answer": "B",
+      "explanation": "B is correct. An increased ability to support debt is indicated by high revenue, low operating leverage,. A is incorrect because an increased ability to support debt is indicated by high revenue, low cash flow volatility, and greater (not lower) fungible assets. C is incorrect because an increased ability to support debt is indicated by low cash flow volatility, low operating leverage, and greater (not lower) fungible.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors affecting capital structure and the weighted average cost of capital"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "According to the Modigliani-Miller propositions, if a company's debt-to-equity ratio increases, which of the following costs is most likely to exhibit the largest increase?",
+      "options": {
+        "A": "WACC",
+        "B": "Cost of debt",
+        "C": "Cost of equity"
+      },
+      "answer": "C",
+      "explanation": "C is correct. As the debt-to-equity ratio increases and the company uses more debt. Its risk goes up and the cost of equity must increase MM Proposition II holds that the increase in the cost of equity must exactly offset the greater use of lower cost debt. A is incorrect because according to the Modigliani-Miller propositions, an increase in the debt to equity ratio either has no effect on the WACC (Proposition 1) or (all else being equal) decreases the WACC (Proposition II). According to MM Proposition I, the value of the company remains unchanged or constant as the capital structure changes Therefore the weighted average cost of capital must also remain constant as the capital structure changes According to MM Proposition the cost of equity rises as the company increases the amount of debt in its capital structure, but it rises at a slower rate than in the no-tax case. As debt increases the WACC decreases and the company's value increases. B is incorrect because an assumption of the Modigliani-Miller Proposition I without taxes is that investors can borrow and lend at the risk-free rate. This means a change in the cost of debt will have no effect on the cost of debt in this case, Further, according to Modigliani-Miller Proposition II with taxes, for a leveraged company the cost of equity will increase by more than the cost of debt if the debt-to-equity ratio increases… 𝑟𝑒= 𝑟0 + (𝑟𝑜−𝑟𝑑)(1 −𝑡)𝐷/𝐸 …where 𝑟𝑒= Cost of equity for a leveraged company, 𝑟0 = Cost of capital for a company financed only with equity. 𝑟𝑑 = Cost of debt for a leveraged company, t = Company tax rate and D/E = Debt-to-equity ratio. Since 𝑟𝑜> 𝑟𝑑 the cost of equity (𝑟𝑒) will increase by more than the cost of debt (𝑟𝑑) if the debt-to-equity ratio (D/E) increases, even if 𝑟𝑑 also increases which is not directly contemplated by the text.",
+      "answer_source": "red",
+      "tags": [
+        "explain the Modigliani-Miller propositions regarding capital structure"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "At which stage in its life cycle would a typical company most likely have more debt than equity in its capital structure?",
+      "options": {
+        "A": "Start-up stage",
+        "B": "Growth stage",
+        "C": "Mature stage"
+      },
+      "answer": "C",
+      "explanation": "C is correct. At the mature stage, the company becomes able to support low-cost debt, often on an unsecured basis. From the company's perspective, debt financing is likely to be more attractive than higher-cost equity financing. Also, as companies mature, business risk typically declines, and their cash flows turn positive and become increasingly predictable, allowing for greater use of leverage on more attractive (less costly) financing terms. Debt then becomes a larger component of their capital structures. A is incorrect because at this early stage, debt capital is typically not available or available only at a high cost. From the perspective of an early-stage issuer, debt may be an attractive way to reduce or avoid the dilution associated with equity issuance. However, with cash flows that are negative and unpredictable, a typical start-up would have difficulty making regular debt payments, or 'servicing the debt.' Even if debt is available, the cost, inflexibility, and risk associated with borrowing are often unattractive to a start-up. As a result, debt is a negligible component of capital structures of most start-up companies. B is incorrect because as a company exits the growth stage and progresses through the growth stage, debt financing might become more accessible, but the company might want to use debt conservatively and continue relying primarily on equity financing. Both the availability and the terms of debt financing improve for the company during this stage. Many growth companies use debt conservatively in order to preserve operational and financial flexibility and minimize the risk of financial distress. Equity remains the predominant source of capital.",
+      "answer_source": "red",
+      "tags": [
+        "explain factors affecting capital structure and the weighted-average cost of capital"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "With respect to a publicly listed company, a conflict of interest due to information asymmetry is most likely to occur between shareholders and:",
+      "options": {
+        "A": "creditors.",
+        "B": "managers.",
+        "C": "customers."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Compared with shareholders, managers typically have greater access to information about the business and are more knowledgeable about its operations. Such information asymmetry (that is, unequal access to information) makes it easier for managers to make strategic decisions that are not necessarily in the best interest of shareholders and weakens the ability of shareholders to exercise control. A is incorrect because information asymmetry applies between managers and shareholders. Conflicts of interest between shareholders and creditors arise typically due to a divergence in risk tolerance regarding the company's investments that exists between shareholders and creditors. C is incorrect because information asymmetry applies between managers and shareholders Typical conflicts of interest between shareholders and customers arise when, for example, a company decides to charge a high price for its products or reduces product safety features to reduce costs.",
+      "answer_source": "red",
+      "tags": [
+        "describe the principal-agent relationship and conflicts that may arise between stakeholder groups"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Compared to going concern projects, expansion projects most likely involve:",
+      "options": {
+        "A": "greater uncertainty only.",
+        "B": "greater amounts of capital only.",
+        "C": "both greater uncertainty and greater amounts of capital."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects. A is incorrect because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects. B is incorrect because expansion projects typically involve greater uncertainty, time, and amounts of capital than going concern projects.",
+      "answer_source": "red",
+      "tags": [
+        "describe types of capital investments"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "From the perspective of a corporate issuer, which of the following is a benefit of issuing debt rather than equity as a source of capital? Debt is most likely",
+      "options": {
+        "A": "cheaper.",
+        "B": "less risky.",
+        "C": "more permanent."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Debt represents a cheaper financing source for companies and a lower risk for investors. Because the returns to lenders are capped and because the cost of debt is lower than the cost of equity, corporations with predictable cash flows may prefer to borrow money rather than sell an ownership stake to raise the capital they need to finance their investments. This is because issuing more equity dilutes upside return for existing equity owners given that residual value must be shared across more owners. B is incorrect because from the issuer's perspective, bonds are riskier than stocks for the same reason bonds are safer than stocks for investors. Bonds increase risk to the corporation by increasing leverage. If the company is struggling and cannot meet its promised obligations to bondholders, bondholders have the legal standing to force certain actions upon the corporation, such as bankruptcy and liquidation. C is incorrect because equityholders represent a more permanent source of capital and have voting rights to elect the board of directors, which oversees the management of the company. Debt has a stated, finite term with generally no voting rights, while equity has no finite term and includes voting rights.",
+      "answer_source": "red",
+      "tags": [
+        "compare the financial claims and motivations of lenders and shareholders"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "An improvement in corporate governance structure most likely results in:",
+      "options": {
+        "A": "lower cost of debt borrowing.",
+        "B": "less control by management.",
+        "C": "reduced operational efficiency."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Default risks are also mitigated by properly functioning audit systems, transparent and better reporting of earnings, and controlling information asymmetries between the company and its capital providers. Lower default risks are associated with better credit ratings for the company and lower costs of debt borrowing, given that creditors typically require a lower return when their funds are better secured and their rights protected. Thus, an effective corporate governance structure will result in lower cost of debt borrowing for the company. B is incorrect because strong governance practices institute more efficient procedures for scrutiny and control at all corporate levels, starting at the level of shareholders and moving up to management and the board of directors. These mechanisms allow for the mitigation of risk factors as well as fraudulent activities or for their identification and control at early stages, thus preventing them from hindering corporate performance and reputation. C is incorrect because the adequate internal control mechanisms are an equally important pillar of the organizational and governance structures as they aim at ensuring that decisions and activities are properly monitored and controlled to prevent risks from arising and to circumvent misconduct or abusive behaviors. These mechanisms improve [not reduce] the operational efficiency of the company.",
+      "answer_source": "red",
+      "tags": [
+        "describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management"
+      ]
+    }
+  ]
+}

@@ -50,11 +50,27 @@ def start(library, subject_id, exam_id, mode):
 
 
 def resume(library, subject_id, exam_id):
-    # Questions reshuffle every attempt, so "Continue" = re-run the exam in the
-    # same mode (full / wrong-only) it was paused in.
     e = progress.entry(subject_id, exam_id) or {}
-    mode = e.get("in_progress", {}).get("mode", "full")
-    start(library, subject_id, exam_id, mode)
+    ip = e.get("in_progress") or {}
+    order = ip.get("order")
+    if not order or ip["idx"] >= len(order):
+        # No resumable snapshot (e.g. saved before "order"/"answers" were
+        # tracked, or now out of range) — start a fresh round in the same mode
+        # rather than crashing.
+        start(library, subject_id, exam_id, ip.get("mode", "full"))
+        return
+    answers = dict(ip.get("answers", {}))
+    st.session_state.quiz = {
+        "subject_id": subject_id,
+        "exam_id": exam_id,
+        "mode": ip["mode"],
+        "order": order,
+        "idx": ip["idx"],
+        "answers": answers,
+        "checked": order[ip["idx"]] in answers,
+    }
+    st.session_state.view = "quiz"
+    st.rerun()
 
 
 def current_questions(library):
@@ -68,7 +84,13 @@ def persist_in_progress():
     q = st.session_state.quiz
     e = progress.get_or_create(q["subject_id"], q["exam_id"])
     if q["idx"] < len(q["order"]) and not q.get("done"):
-        e["in_progress"] = {"idx": q["idx"], "n": len(q["order"]), "mode": q["mode"]}
+        e["in_progress"] = {
+            "idx": q["idx"],
+            "n": len(q["order"]),
+            "mode": q["mode"],
+            "order": q["order"],
+            "answers": q["answers"],
+        }
     progress.save()
 
 

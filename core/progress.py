@@ -27,7 +27,11 @@ Progress shape (keyed by ``"<subject_id>/<exam_id>"``)::
       "finished": bool,
       "last_mode": "full" | "wrong",
       "wrong_ids": [question_id, ...],
-      "in_progress": {"idx": int, "n": int, "mode": str}   # optional
+      "in_progress": {                              # optional
+        "idx": int, "n": int, "mode": str,
+        "order": [question_id, ...],                # shuffled snapshot
+        "answers": {question_id: chosen_letter},
+      }
     }
 """
 import json

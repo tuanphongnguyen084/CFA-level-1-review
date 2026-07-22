@@ -1,0 +1,1334 @@
+{
+  "schema_version": 1,
+  "name": "Mock 3 — Session 1",
+  "group": "Mock 3",
+  "source": "MOCK 3 SESSION 1",
+  "timed_minutes": 135,
+  "questions": [
+    {
+      "id": "S1Q1",
+      "num": 1,
+      "question": "Joyce La Valle, CFA, is a portfolio manager at a global bank. La Valle has been told she should use a specific vender for equity investment research that has been approved by the bank's headquarters. Because La Valle is located in a country different from the bank's headquarters, she is uncomfortable with the validity of the research provided by this vendor when it applies to her country and would like to use a local vendor on whom she has already conducted due diligence. Which research vendor(s) should La Vale use to avoid violating the Standards?",
+      "options": {
+        "A": "The local research vendor",
+        "B": "The bank-approved research vendor",
+        "C": "Both the local and the bank-approved research vendors."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When a member has reason to suspect that either secondary or third-party research or information comes from a source that lacks a sound basis, the member must not rely on that information as required by Standard V(A), Diligence and Reasonable Basis. B is incorrect because when a member has reason to suspect that either secondary or third-party research or information comes from a source that lacks a sound basis (such as the bank-approved research vendor), the member must refrain from relying on that information. C is incorrect because when a member has reason to suspect that either secondary or third-party research or information comes from a source that lacks a sound basis (such as the bank-approved research vendor), the member must refrain from relying on that information.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q2",
+      "num": 2,
+      "question": "Which of the following is consistent with the Standards? Statement 1: \"An IPS should address the client’s return requirements.\" Statement 2: \"Personal data such as age and occupation are required to provide investment advice.\" Statement 3: \"Clients are primarily responsible for determining if investments are suitable for them if they are in an advisory relationship with members.\"",
+      "options": {
+        "A": "Statement 1 only",
+        "B": "Statement 1 and Statement 2 only",
+        "C": "Statement 1, Statement 2, and Statement 3"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Statement 1 and Statement 2 are consistent with the Standards. Statement 1 is consistent because according to Standard III(C), Suitability, this information should be incorporated into a written investment policy statement (IPS) that addresses the client's return requirements. Statement 2 is consistent because according to Standard III(C), Suitability, when an advisory relationship exists, members and candidates must gather client information at the inception of the relationship. Such information incudes the client's financial circumstances, personal data (such as age and occupation) that are relevant to investment decisions, attitudes toward risk, and objectives in investing. A is incorrect because statement 2 is also consistent with the Standards. Statement 1 is consistent because according to Standard III(C), Suitability, this information should be incorporated into a written investment policy statement (IPS) that addresses the client's return requirements. Statement 2 is consistent because according to Standard III(C), Suitability, when an advisory relationship exists, members and candidates must gather client information at the inception of the relationship. Such information includes the client's financial circumstances, personal data (such as age and occupation) that are relevant to investment decisions, attitudes toward risk, and objectives in investing. C is incorrect because statement 3 is not consistent with the Standards. According to Standard III(C), Suitability, the investment advisor must determine if an investment is suitable, not the client. When Members and Candidates are in an advisory relationship with a client, they must determine that an investment is suitable to the client's financial situation and judge the suitability of investments in the context of the client's total portfolio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q3",
+      "num": 3,
+      "question": "Asset owners most likely benefit from a firm being GIPS compliant because it:",
+      "options": {
+        "A": "eliminates the need for in-depth due diligence only.",
+        "B": "facilitates the understanding of the sources of risk and excess return only.",
+        "C": "both eliminates the need for in-depth due diligence and facilitates the understanding of the sources of risk and excess return"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Where asset owners require their external managers to comply with the GIPS standards. reporting to the oversight body using the same principles facilitates the understanding of the sources of risk and excess return in the funds under supervision. Asset owners provide performance information to their oversight bodies that allows them to make investment decisions and evaluate the performance of the funds under their supervision. A is incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility. C is incorrect because the GIPS standards certainly do not eliminate the need for in-depth due diligence on the part of the investor, but compliance with the Standards enhances the credibility of investment management firms that have chosen to undertake this responsibility.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to the Global Investment Performance Standards (GIPS) — explain why the GIPS standards were created, who can claim compliance, and who benefits from compliance"
+      ]
+    },
+    {
+      "id": "S1Q4",
+      "num": 4,
+      "question": "Which of the following is not a requirement of the GIPS standards? Firms are required to:",
+      "options": {
+        "A": "have their performance records verified by an independent third party",
+        "B": "include all discretionary, fee-paying portfolios in at least one composite",
+        "C": "present a minimum of five years of annual investment performance compliant with GIPS standards"
+      },
+      "answer": "A",
+      "explanation": "A is correct. It is a recommendation but not a requirement that firms obtain independent third-party verification to claim GIPS compliance. B is incorrect because it is a requirement to include all discretionary, fee-paying portfolios in at least one composite. C is incorrect because it is a requirement to present a minimum of five years of annual investment performance compliant with GIPS standards.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to the Global Investment Performance Standards (GIPS) — describe the key concepts of the GIPS Standards for Firms"
+      ]
+    },
+    {
+      "id": "S1Q5",
+      "num": 5,
+      "question": "Immediately after taking the CFA Level II exam, Tim Riley posts on social media broad topic areas that were not tested on the exam. He also posts an article on social media questioning the relevance of CFA Program for professional practice. Has Riley violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by posting broad topic areas not tested on the exam",
+        "C": "Yes, by questioning the relevance of CFA Program for professional practice"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard VII (A), Conduct as Participants in CFA Institute Programs, examples of information that cannot be disclosed by candidates sitting for an exam include but are not limited to broad topical areas and formulas tested or not tested on the exam. Riley violates this Standard by posting on social media broad topical areas not tested on the exam. A is incorrect because according to Standard VII (A), Conduct as Participants in CFA Institute Programs, examples of information that cannot be disclosed by candidates sitting for an exam include but are not limited to broad topical areas and formulas tested or not tested on the exam. Riley violates this Standard by posting on social media broad topical areas not tested on the exam. C is incorrect because standard VII (A), Conduct as Participants in CFA Institute Programs, states that members and candidates must not engage in any conduct that compromises the reputation or integrity of CFA Institute or the CFA designation or the integrity, validity, or security of CFA Institute programs. However, this Standard does not prohibit candidates from voicing their opinion about CFA Program, in general.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q6",
+      "num": 6,
+      "question": "Ming Mei Xu, CFA, who is a well-known analyst issues a buy recommendation on a small-cap stock. Xu shares her recommendation with the public two days after communicating the recommendation with her clients. The public dissemination leads to a significant increase in the stock price. Trevor Thomas, CFA, one of Xu's clients, buys a large position in the stock. Thomas sells the entire position for a profit a month later. His action leads to a significant decline in the stock price. Has the Standard relating to market manipulation been violated?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by Xu",
+        "C": "Yes, by Thomas"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Market manipulation includes (1) the dissemination of false or misleading information and (2) transactions that deceive or would be likely to mislead market participants by distorting the price-setting mechanism of financial instruments. The intent of the action is critical to determining whether it is a violation of this standard. In this case, Xu did not have the intent to mislead anyone by publishing the buy recommendation and Thomas undertook a legitimate transaction resulting in a profit but that transaction did also not intend to distort the price-setting mechanism. Therefore, both members have complied with the Standard relating to market manipulation. B is incorrect because market manipulation includes (1) the dissemination of false or misleading information and (2) transactions that deceive or would be likely to mislead market participants by distorting the price-setting mechanism of financial instruments. The intent of the action is critical to determining whether it is a violation of this standard. In this case, Xu did not have the intent to mislead anyone by publishing the buy recommendation and therefore has not violated the Standard relating to market manipulation. C is incorrect because market manipulation includes (1) the dissemination of false or misleading information and (2) transactions that deceive or would be likely to mislead market participants by distorting the price-setting mechanism of financial instruments. The intent of the action is critical to determining whether it is a violation of this standard. In this case, Thomas undertook a legitimate transaction resulting in a profit but that transaction did not intend to distort the price-setting mechanism. Therefore, he has not violated the Standard relating to market manipulation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q7",
+      "num": 7,
+      "question": "Max Ohn, CFA, works as a client advisor for a small firm. He has established a referral program with a real estate agency. Ohn refers clients to the real estate agency and the real estate agency refers clients to Ohn. Because the real estate agency does not compete with Ohn's employer and because the arrangement benefits Ohn's firm, he omits disclosure of the arrangement to his firm. Ohn diligently discloses the referral arrangement to all referred clients after they become firm clients. Has Ohn most likely violated the Standard relating to referral fees?",
+      "options": {
+        "A": "No",
+        "B": "Yes, only by omitting disclosure of the arrangement to his firm",
+        "C": "Yes, by omitting disclosure of the arrangement to his firm and by disclosing the referral arrangement to referred clients after they become firm clients"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard VI (C), Referral Fees, states that members and candidates must disclose to their employer, clients, and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Members and candidates must disclose when they pay a fee or provide compensation to others who have referred prospective clients to the member or candidate. Therefore, Ohn is required to disclose the arrangement to his employer. Further, he is required to disclose the arrangement before, not after, a referral becomes a client: Appropriate disclosure means that members and candidates must advise the client or prospective client, before entry into any formal agreement for services, of any benefit given or received for the recommendation of any services provided by the member or candidate. A is incorrect because standard VI (C), Referral Fees, states that members and candidates must disclose to their employer, clients, and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Members and candidates must disclose when they pay a fee or provide compensation to others who have referred prospective clients to the member or candidate. Therefore, Ohn is required to disclose the arrangement to his employer. Further, he is required to disclose the arrangement before, not after, a referral becomes a client. B is incorrect because standard VI (C), Referral Fees, states that members and candidates must disclose to their employer, clients, and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Members and candidates must disclose when they pay a fee or provide compensation to others who have referred prospective clients to the member or candidate. Therefore, Ohn is required to disclose the arrangement to his employer. Further, he is required to disclose the arrangement before, not after, a referral becomes a client.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q8",
+      "num": 8,
+      "question": "In a client presentation regarding a potential equity investment, a member makes the following statements: Statement 1 \"This investment will outperform the S&P 500 over a ten-year period.\" Statement 2 \"This investment is likely to outperform the market over a one-year period.\" Statement 3 \"With this product's 100% principal protection, our firm guarantees you will not lose money.\" The member has most likely violated the Standards by making:",
+      "options": {
+        "A": "Statement 1 only",
+        "B": "Statement 1 and Statement 3 only",
+        "C": "Statement 1, Statement 2, and Statement 3"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard I (C), Misrepresentation, members and candidates are prohibited from guaranteeing clients any specific return on volatile investments. So Statement 1 is a violation of the Standard. Statement 3 does not violate the Standards because Standard I(C) does not prohibit members and candidates from providing clients with information on investment products that have guarantees built into the structure of the products themselves or for which an institution has agreed to cover any losses. Statement 2 does not violate the Standards because Standard I(C) prohibits members and candidates from guaranteeing clients any specific return on volatile investments. It does not prohibit statements regarding probable returns. B is incorrect because statement 3 does not violate the Standards because Standard I(C) does not prohibit members and candidates from providing clients with information on investment products that have guarantees built into the structure of the products themselves or for which an institution has agreed to cover any losses. C is incorrect because statement 2 and Statement 3 do not violate the Standards. Statement 3 does not violate them because Standard I(C) does not prohibit members and candidates from providing clients with information on investment products that have guarantees built into the structure of the products themselves or for which an institution has agreed to cover any losses. Statement 2 does not violate the Standards because Standard I(C) prohibits members and candidates from guaranteeing clients any specific return on volatile investments. It does not prohibit statements regarding probable returns.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — demonstrate the application of the Code of Ethics and Standards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "S1Q9",
+      "num": 9,
+      "question": "According to the Standard relating to loyalty, members must:",
+      "options": {
+        "A": "subordinate any personal obligations to their work.",
+        "B": "place the interests of their employer below the interests of clients.",
+        "C": "refrain from entering into an independent business while still employed."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard IV (A), Loyalty, members and candidates must always place the interests of clients above the interests of their employer. A is incorrect because according to Standard IV (A), Loyalty, the standard does not require members and candidates to subordinate important personal and family obligations to their work. C is incorrect because standard IV(A), Loyalty, does not preclude members or candidates from entering into an independent business while still employed.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — demonstrate the application of the Code of Ethics and Standards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "S1Q10",
+      "num": 10,
+      "question": "Tharushi Ranasinghe, CFA, is president of a small investment firm. Most of her clients are longtime associates or family members whose investment portfolios she has managed for many years Ranasinghe is familiar with her clients Investment profiles and is in regular contact with them. Ranasinghe makes appropriate adjustment in her clients' portfolios following significant events in their lives. She rarely updates her clients' records given her familiarity with their Investment requirements. Ranasinghe has most likely violated the Standard(s) relating to:",
+      "options": {
+        "A": "fair dealing only.",
+        "B": "record retention only.",
+        "C": "both fair dealing and record retention."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard V(C), Record Retention states, Members and Candidates must develop and maintain appropriate records to support their investment analyses, recommendations, actions, and other investment-related communications with clients and prospective clients. In this case, Ranasinghe has a responsibility as her clients' adviser and as the president of her company to maintain appropriate records when client circumstances change. Without necessary, relevant, and up-to-date know-your-client information, Ranasinghe would have difficulty establishing and proving that her firm has identified the needs and circumstances of its clients and has taken them into account in recommending investments. So, Ranasinghe has violated this Standard. A is incorrect because standard III(B), Fair Dealing states that, Members and Candidates must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities. There is nothing here to suggest that Ranasinghe has violated this Standard. C is incorrect because standard III(B), Fair Dealing states that, Members and Candidates must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities. There is nothing here to suggest that Ranasinghe has violated this Standard. Also, Standard V(C), Record Retention states, Members and Candida as must develop and maintain appropriate records to support their investment analyses, recommendations, actions, and other investment-related communications with clients and prospective clients. In this case, Ranasinghe has a responsibility as her clients' adviser and as the president of her company to maintain appropriate records when client circumstances change. Without necessary, relevant, and up-to-date know-your-client information, Ranasinghe would have difficulty establishing and proving that her firm has identified the needs and circumstances of its clients and has taken them into account in recommending investments. So, Ranasinghe has only violated the Standard relating to record retention.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q11",
+      "num": 11,
+      "question": "To comply with the Standard relating to knowledge of the law, members are required to take which of the following actions? Action 1 Acquire detailed knowledge u all the laws relating to their activities Action 2 Dissociate from activities of others that they believe are unethical",
+      "options": {
+        "A": "Action 1 only",
+        "B": "Action 2 only",
+        "C": "Both Action 1 and Action 2"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard I(A), Knowledge of the Law, if a member or candidate has reasonable grounds to believe that imminent or ongoing client or employer activities are illegal or unethical, the member or candidate must dissociate, or separate, from the activity. So, members are required to take Action 2. A is incorrect because according to Standard I(A), Knowledge of the Law, members and candidates must understand the applicable laws and regulations of the countries and jurisdictions where they engage in professional activities. However, members and candidates are not required to have detailed knowledge of or be experts on all the laws that could potentially govern their activities. So, members are not required to take Action 1. C is incorrect because according to Standard I(A), Knowledge of the Law, members and candidates must understand the applicable laws and regulations of the countries and jurisdictions where they engage in professional activities. However, members and candidates are not required to have detailed knowledge of or be experts on all the laws that could potentially govern their activities. So, members are not required to take Action 1. Also, if a member or candidate has reasonable grounds to believe that imminent or ongoing client or employer activities are illegal or unethical, the member or candidate must dissociate, or separate, from the activity. So, members are required to take only Action 2.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q12",
+      "num": 12,
+      "question": "A member who pays a higher brokerage commission on behalf of all of his clients than he would normally pay, without any corresponding benefit to the client, violates the Standard reating to:",
+      "options": {
+        "A": "suitability.",
+        "B": "fair dealing.",
+        "C": "loyalty, prudence, and care."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard III(A). Loyalty, Prudence, and Care, a member or candidate who pays a higher brokerage commission than he or she would normally pay to allow for the purchase of goods or services. without corresponding benefit to the client, violates the duty of loyalty to the client. A is incorrect because standard III (C), Suitability, requires that members and candidates who are in an investment advisory relationship with clients consider carefully the needs, circumstances, and objectives of the clients when determining the appropriateness and suitability of a given investment or course of investment action. This scenario does not involve investment recommendation. The member violated Standard III(A), Loyalty, Prudence, and Care,. B is incorrect because according to Standard III (B), Far Dealing, Members and Candidates must dead fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities. All clients are treated in the same way, so the Standard relating to fair dealing is not violated. The member violated, Standard III(A), Loyalty, Prudence and Care.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — demonstrate the application of the Code of Ethics and Standards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "S1Q13",
+      "num": 13,
+      "question": "Kathy Lau, CFA, is a portfolio manager. After a comprehensive analysis, Lau buys Top Technology Company (TTC) IPO for all her clients for whom the investment is appropriate, including her brother's fee-paying account. Lau does not have beneficial ownership in her brother's account. Has Lau violated the Standards by buying shares for her brother's account?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to disclosure of conflicts",
+        "C": "Yes, the Standard relating to priority of transactions"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard VI(B), Priority of Transactions, family accounts that are client accounts should be treated like any other firm account and should neither be given special treatment nor be disadvantaged because of the family relationship. In addition, according to Standard VI(A), Disclosure of Conflicts, members and candidates must make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer. Members and candidates must ensure that such disclosures are prominent, are delivered in plain language, and communicate the relevant information effectively. Lau should treat her brother's account fee-paying like any other firm account. Therefore, Lau has not violated to Standard VI(B) and Standard VI(A). B is incorrect because according to Standard VI(A), Disclosure of Conflicts, members and Candidates must make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer. Members and Candidates must ensure that such disclosures are prominent, are delivered in plain language, and communicate the relevant information effectively. Lau should treat her brother's fee-paying account like any other firm account. Therefore, Lau has not violated to Standard VI(A). C is incorrect because according to Standard VI(B), Priority of Transactions, family accounts that are client accounts should be treated like any other firm account and should neither be given special treatment nor be disadvantaged because of the family relationship. Lau should treat her brother's fee-paying account like any other firm account.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q14",
+      "num": 14,
+      "question": "All clients of John Chapman, CFA, are standard fee-paying clients. Chapman believes that half of his clients would benefit from premium service in exchange for higher fees. He offers the premium service only to these clients. Later that day, Chapman distributes an investment recommendation only to those clients for whom he deems it suitable. Has Chapman violated the Standard relating to fair dealing?",
+      "options": {
+        "A": "No",
+        "B": "Yes, by offering the premium service only to clients he believes would benefit from it",
+        "C": "Yes, by distributing an investment recommendation only to those clients for whom he deems it suitable"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard III(B), Fair Dealing, the different service levels should be disclosed to clients and prospective clients and should be available to everyone (Le., different service levels should not be offered selectively). By offering the premium service only to those clients he believes may want them, rather than to all clients, Chapman violates the Standard. A is incorrect because according to Standard III(B), Fair Dealing, Chapman should have made the premium service available to all clients as described in the correct response rationale. C is incorrect because according to Standard III (B), Fair Dealing, members are not required to distribute investment recommendations to all clients. As it relates to this Standard, the term 'fairly' implies that the member or candidate must take care not to discriminate against any clients when disseminating investment recommendations or taking investment action. Each client has unique needs, investment criteria, and investment objectives, so not all Investment opportunities are suitable for all clients.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — demonstrate the application of the Code of Ethics and Standards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "S1Q15",
+      "num": 15,
+      "question": "According to the GIPS standards, a firm must:",
+      "options": {
+        "A": "provide a GIPS composite report to all prospective clients.",
+        "B": "include terminated composites on the firm's list of composite descriptions for at least seven years after the composite termination date.",
+        "C": "attain compliance for a minimum of three years or since firm inception if the firm has been in existence for less than three years to initially claim compliance."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the GIPS standards, firms must make every reasonable effort to provide a GIPS composite report to all prospective clients when they initially become prospective clients. Firms must not choose to which prospective clients it presents a GIPS composite report. B is incorrect because according to the GIPS standards, firms must include terminated composites on this list for at least five [not seven) years after the composite termination date. C is incorrect because according to the GIPS standards, to initially claim compliance with the GIPS standards, firms must attain compliance for a minimum of five [not three] years or for the period since the firm inception if the firm has been in existence for less than five years.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to the Global Investment Performance Standards (GIPS) — describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm's definition of discretion"
+      ]
+    },
+    {
+      "id": "S1Q16",
+      "num": 16,
+      "question": "Which of the following parties can perform verification of a firm's claim of compliance with the GIPS standards?",
+      "options": {
+        "A": "CFA Institute",
+        "B": "An internal auditor of the firm",
+        "C": "An independent third-party consultant"
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to GIPS standards, once a firm claims compliance with the Standards, they may voluntarily hire an independent third party to perform a verification in order to increase confidence in the firm's claim of compliance. Therefore, only an independent third-party consultant can perform verification of a firm's claim of compliance with the GIPS standards. A is incorrect because only an independent third-party consultant, not CFA Institute, can perform verification of a firm's claim of compliance with the GIPS standards. B is incorrect because only an independent third-party consultant, not an internal auditor of the firm, can perform verification of a firm's claim of compliance with the GIPS standards.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to the Global Investment Performance Standards (GIPS) — describe the concept of independent verification"
+      ]
+    },
+    {
+      "id": "S1Q17",
+      "num": 17,
+      "question": "Which of the following is a violation of the Standards when local laws require firms to maintain client confidentiality? A member:",
+      "options": {
+        "A": "discloses information relating to illegal activities of a client to local authorities",
+        "B": "refuses to share details of a prospective client with his firm's marketing department",
+        "C": "refuses to disclose information about a client during an investigation by the CFA Institute Professional Conduct Program"
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard III(E), Preservation of Confidentiality, if applicable law requires members and candidates to maintain confidentiality, even if the information concerns illegal activities on the part of the client, members and candidates should not disclose such information. Therefore, the member has violated Standard III(E) by disclosing information relating to illegal activities of a client to local authorities. B is incorrect because standard III(E), Preservation of Confidentiality, requires that members and candidates preserve the confidentiality of information communicated to them by their clients, prospective clients, and former clients. Therefore, the member is correct in refusing to share details of a prospective client with his firm's marketing department. C is incorrect because according to Standard III(E), Preservation of Confidentiality, when permissible under applicable law, members and candidates shall consider the PCP an extension of themselves when requested to provide information about a client in support of a PCP investigation into their own conduct (ie., the member is correct in refusing to disclose because of the local law). Therefore, the member is correct in refusing to disclose information about a client to the PCP, as local law requires firms to maintain client confidentiality.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q18",
+      "num": 18,
+      "question": "The Standards are most likely designed to foster and reinforce a culture of:",
+      "options": {
+        "A": "service to the firm.",
+        "B": "regulatory compliance.",
+        "C": "responsibility and professionalism."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Standards are designed to foster and reinforce a culture of responsibility and professionalism. They apply to all members and candidates regardless of title, position, occupation, geographic location, or specific situation, and they apply to all professional activities of investment professionals. A is incorrect because the Standards are not designed to foster and reinforce a culture of service to the firm. B is incorrect because the Standards are not designed to foster and reinforce a culture of regulatory compliance.",
+      "answer_source": "red",
+      "tags": [
+        "Ethics and Trust in the Investment Profession — describe the role of a code of ethics in defining a profession"
+      ]
+    },
+    {
+      "id": "S1Q19",
+      "num": 19,
+      "question": "Which of the following policy recommendations is consistent with the Standards? Recommendation 1 Investment banking personnel should approve any changes in investment from the research side. Recommendation 2 Firewalls should separate reporting structures for personnel on the research side and personnel on the investment banking side. Recommendation 3 Compensation arrangements should link research analyst remuneration directly to investment banking assignments in which analysts may participate as team members.",
+      "options": {
+        "A": "Recommendation 1",
+        "B": "Recommendation 2",
+        "C": "Recommendation 3"
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard I (B), Independence and Objectivity, members, candidates, and their firms must adopt and follow perceived best practices in maintaining independence and objectivity in the corporate culture and protecting analysts from undue pressure by their investment banking colleagues. The firewalls traditionally built between these two functions must be managed to minimize conflicts of interest; indeed, enhanced firewall policies may go as far as prohibiting all communications between these groups. A key element of an enhanced firewall is separate reporting structures for personnel on the research side and personnel on the investment banking side. A is incorrect because according to Standard I (B), Independence and Objectivity, a key element of an enhanced firewall is separate reporting structures for personnel on the research side and personnel on the investment banking side. For example, investment banking personnel should not have any authority to approve, disapprove, or make changes to research reports or recommendations. C is incorrect because according to Standard I (B), Independence and Objectivity, compensation arrangements should not link analyst remuneration directly to investment banking assignments in which the analyst may participate as a team member.",
+      "answer_source": "red",
+      "tags": [
+        "Ethics Application — evaluate practices, policies, and conduct relative to the CFA Institute Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "S1Q20",
+      "num": 20,
+      "question": "Nidhi Mehta, CFA, is a fund manager at XYZ Investments. Mehta's fund delivers excellent returns for the year. A large investor in the fund offers Mehta cash compensation along with free tickets to the opening night of a sold-out opera as a reward for the fund's performance. Firm policy requires employees to inform supervisors about monetary compensation received from clients. Mehta does not inform her supervisor as she only accepts the tickets and not the cash compensation. Has Mehta violated the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to fair dealing",
+        "C": "Yes, the Standard relating to additional compensation arrangements"
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard IV(B), Additional Compensation Arrangements, members and Candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved. Mehta needs written consent prior from all parties to accepting the tickets. A is incorrect because according to Standard IV(B), Additional Compensation Arrangements, members and Candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved. Mehta needs written consent prior from all parties to accepting the tickets. B is incorrect because according to Standard III(B), Fair Dealing, members and candidates must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities. Mehta has not given any preferential treatment to the client and hence this Standard is not violated.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — demonstrate the application of the Code of Ethics and Standards of Professional Conduct to situations involving issues of professional integrity"
+      ]
+    },
+    {
+      "id": "S1Q21",
+      "num": 21,
+      "question": "Frank Schneider, CFA, a securities analyst, applies for a new position. In his application, he makes two statements: Statement 1 I passed all three CFA examinations in three consecutive attempts. Statement 2 Based on my success in the CFA Program, I have a superior ability to analyze stocks compared to my 2 peers. Schneider has most likely violated the Standards by making:",
+      "options": {
+        "A": "Statement 1 only",
+        "B": "Statement 2 only",
+        "C": "Both Statement 1 and Statement 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Statement 2 links passing the three examinations on the first try with superior ability, which is a violation of Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program. Members may state that they passed the three examinations on their first try as long as this statement is true, but it must not be linked to performance or imply superior ability. A is incorrect because this is not a violation of Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program. Members may state that they passed the three examinations on their first try as long as this statement is true. C is incorrect because statement 1 is not a violation of Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program. Members may state that they passed the three examinations on their first try as long as this statement is true.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q22",
+      "num": 22,
+      "question": "Colin Gifford, CFA, is finalizing a monthly newsletter to his clients, who are primarily individual investors. Many of the clients' accounts hold the common stock of Capricom Technologies. In the newsletter, Gifford writes, \"Based upon the next six month's earnings of $1.50 per share and a 10% increase in the dividend, the price of Capricorn's stock will be $22 per share by the end of the year.\" Regarding his stock analysis, the least appropriate action Gifford should take to avoid violating the Standards would be to:",
+      "options": {
+        "A": "separate fact from opinion.",
+        "B": "include earnings estimates.",
+        "C": "identify limitations of the analysis."
+      },
+      "answer": "B",
+      "explanation": "B is correct. While pro forma analysis may be standard industry practice, it is not required by the Standards. Earnings estimates are opinions and must be clearly identified as such. A is incorrect because facts should be separated from opinion in investment analysis. C is incorrect because known limitations should be identified.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — recommend practices and procedures designed to prevent violations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "S1Q23",
+      "num": 23,
+      "question": "Which of the following are among the recommended procedures that enable members to meet their obligations under the Standard relating to performance presentation? Procedure 1 Members should include terminated accounts while presenting performance history. Procedure 2 Members should use a single representative account to present the performance of each investment strategy",
+      "options": {
+        "A": "Procedure 1 only",
+        "B": "Procedure 2 only",
+        "C": "Both Procedure 1 and Procedure 2"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Members and candidates can also meet their obligations under Standard III(D), Performance Presentation, by including terminated accounts as part of performance history with a clear indication of when the accounts were terminated. Terminated accounts should be included in the performance presentation. B is incorrect because members and candidates can also meet their obligations under Standard III(D), Performance Presentation, presenting the performance of the weighted composite of similar portfolios rather than using a single representative account. A single representative account should not be used. C is incorrect because members and candidates can also meet their obligations under Standard III(D), Performance Presentation, by presenting the performance of the weighted composite of similar portfolios rather than using a single representative account.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q24",
+      "num": 24,
+      "question": "Jacques Lagarde, CFA, is a sell-side analyst at Springhill Financial, a small investment bank. Springhill is the lead manager for the equity offering of Chorale Music. Lagarde is not part of the IPO team for this offering. While finalizing a research report on Chorale, Lagarde discovers inconsistencies that makes him believe the company may have concealed losses in its leasing division last quarter that would significantly reduce its earnings. Lagarde suspects that Springhill's investment banking team is aware of these unreported losses. The prospectus for Chorale's equity offering has already been approved by regulators and distributed to potential investors. According to the Standards, Lagarde should most likely:",
+      "options": {
+        "A": "report the issue to his supervisor.",
+        "B": "issue a report showing the leasing division losses.",
+        "C": "issue the report using data as reported in the prospectus."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Lagarde has potentially uncovered material omissions that would impact Chorale's IPO, and, according to Standard I(A), Knowledge of the Law, the most appropriate first step would be to report this issue to his supervisor. This issue should be investigated more fully. If the losses are confirmed, Lagarde should insist that these losses be made public. B is incorrect because given the sensitive (and potentially criminal) nature involving a company concealing losses from an earnings report, it would be inappropriate for Lagarde to issue a report showing the losses when his opinion may not be correct. C is incorrect because it would be inappropriate for Lagarde to issue a report using the data from the prospectus when he has reason to believe this information is factually inaccurate.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q25",
+      "num": 25,
+      "question": "According to the recommended procedures for compliance with the Standard relating to responsibilities of supervisors, a member in a supervisory position should:",
+      "options": {
+        "A": "incorporate a professional conduct evaluation as part of an employee's performance review.",
+        "B": "rely on an employee's statement about the extent of a violation of the law if the employee gives written assurance that the wrongdoing will not reoccur.",
+        "C": "implement the CFA Institute Code and Standards in her department if she cannot discharge supervisory responsibilities because of inadequate compliance system."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the recommended procedures for compliance with Standard IV(C), Responsibilities of Supervisors, once a compliance program is in place, a supervisor should incorporate a professional conduct evaluation as part of an employee's performance review. B is incorrect because according to Standard IV(C), Responsibilities of Supervisors, once a supervisor learns that an employee has violated or may have violated the law or the Code and Standards, the supervisor must promptly initiate an assessment to determine the extent of the wrongdoing. Relying on an employee's statements about the extent of the violation or assurances that the wrongdoing will not reoccur is not enough. Therefore, a member in a supervisory position is not permitted to rely on an employee's statement about the extent of the violation of the law even if the employee gives written assurance that the wrongdoing will not reoccur. C is incorrect.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q26",
+      "num": 26,
+      "question": "Abdul Naib, CFA, was recently asked by his employer to submit an updated document providing the history of his employment and qualifications. The existing document on file was submitted when he was hired five years ago. His employer notices that the updated version shows that Naib obtained his Masters of Business Administration (MBA) two years ago, while the earlier version indicated he had already obtained his MBA. As the position Naib was hired for required a minimum qualification of an MBA, Naib is asked to explain the discrepancy. He justifies his actions by stating. \"I knew you wouldn't hire me if I didn't have an MBA degree but I already had my CFA designation. Knowing you required an MBA, I went back to school on a part-time basis after I was hired to obtain it. I graduated at the top of my class, but this shouldn't come as any surprise, as you have seen evidence I passed all of my CFA exams on the first attempt.\" Did Naib most likely violate the Standards?",
+      "options": {
+        "A": "No",
+        "B": "Yes, the Standard relating to misconduct",
+        "C": "Yes, the Standard relating to reference to CFA Institute, the CFA Designation, and the CFA Program"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Naib knowingly misrepresented his qualifications by stating he had obtained an MBA degree at the time of his hire when in fact he had not. This reflects adversely on his professional integrity, violating Standard I(D), Misconduct. Stating that he passed his CFA exams in three consecutive years is not a violation of Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, if it is factual. There is no evidence given to indicate he did not pass as claimed. A is incorrect because naib knowingly misrepresented himself by stating he had obtained an MBA degree when in fact he had not. This reflects adversely on his professional integrity, violating Standard I(D)-Misconduct. C is incorrect because stating he passed his CFA exams consecutively is not a violation of Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program. There is no evidence given to indicate he did not pass as claimed.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — recommend practices and procedures designed to prevent violations of the Code of Ethics and Standards of Professional Conduct"
+      ]
+    },
+    {
+      "id": "S1Q27",
+      "num": 27,
+      "question": "Suni Kioshi, CFA, is an analyst at Pacific Asset Management, where she covers small capitalization companies. On her own time, Kioshi often speculates in low price thinly traded stocks for her own account. Over the last three months, Kioshi has purchased 50,000 shares of Basic Biofuels Company giving her a 5% ownership stake. A week after this purchase, Kioshi is asked to write a report on stocks in the biofuels industry with a request to complete the report within two days. Kioshi wants to rate Basic as a \"buy\" in this report but is uncertain how to proceed. Concerning the research report, what action should Kioshi most likely take to prevent violating any of the Standards?",
+      "options": {
+        "A": "Sell her shares",
+        "B": "Don't recommend a buy",
+        "C": "Disclose her stock ownership"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The manager's ownership stake is a potential conflict of interest, whic required by Standard VI(A), Disclosure of Conflicts. A is incorrect because the manager's ownership stake is a potential conflict of interest, whic required by Standard VI(A), Disclosure of Conflicts, but there is no requirement to sell t. B is incorrect because as long as the analyst has completed a well-informed investment rec with Standard (V), Diligence and Reasonable Basis, and disclosed her ownership posit buy recommendation in her report.",
+      "answer_source": "red",
+      "tags": [
+        "Guidance for Standards I-VII — recommend practices and procedures designed to prevent violations of the Code of Eth Professional Conduct"
+      ]
+    },
+    {
+      "id": "S1Q28",
+      "num": 28,
+      "question": "Which of the following tools is available to implement monetary policy?",
+      "options": {
+        "A": "Indirect tax rates",
+        "B": "Corporate tax rates",
+        "C": "Open market operations"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Central banks have three primary tools available to them: open market operations, the refinancing rate, and reserve requirements. A is incorrect because this is a tool of fiscal policy. We can consider a number of ways that fiscal policy can influence aggregate demand. Expansionary policies include cuts in sales (indirect) taxes to lower prices, which raises real incomes with the objective of raising consumer demand. B is incorrect because this is a fiscal measure. We can consider a number of ways that fiscal policy can influence aggregate demand including cuts in corporation (company) taxes to boost business profits, which may raise capital spending.",
+      "answer_source": "red",
+      "tags": [
+        "Monetary Policy — describe tools used to implement monetary policy tools and the monetary transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates"
+      ]
+    },
+    {
+      "id": "S1Q29",
+      "num": 29,
+      "question": "Compared to shareholders in public companies, shareholders in private companies typically:",
+      "options": {
+        "A": "have longer holding periods.",
+        "B": "can sell their shares more easily.",
+        "C": "have less control over management."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Corporate issuers may issue additional equity shares in the capital markets from time to time. For a public issuer, these shares can be traded in the secondary market once they're issued. In contrast, private companies finance smaller amounts in the primary market (private debt or equity) from fewer investors who typically have longer holding periods. B is incorrect because a public (listed) company has some or all of its shares listed and traded on an exchange. These shares may be widely held or involve a majority or controlling owner. In contrast, the shares of a private company are not listed (do not trade on an exchange), so no visible company valuation or share price transparency exists. This makes ownership transfer between investors far more difficult than for a public company. Thus, private company shares cannot be sold more easily when compared to public company shares. C is incorrect because private companies typically have fewer shareholders, meaning that controlling owners and management are accountable to fewer stakeholders. Further, going private puts these investors in control and takes the company out of public view, which may be beneficial. These actions undertaken with greater private control might include management changes, selling assets, restructuring, or realizing cost savings that are expected to exceed the premium paid and financing costs. Thus, private company shareholders have more, not less control. over management.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q30",
+      "num": 30,
+      "question": "When analyzing differences between the variances of two normally distributed populations, the most appropriate test is a(n):",
+      "options": {
+        "A": "F-test.",
+        "B": "chi-square test.",
+        "C": "paired comparisons test."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An F-test is the appropriate test statistic concerning differences between the variances of the populations under these conditions. B is incorrect because the chi-square test is the appropriate test statistic for testing the variance of a single, normally distributed population. C is incorrect because a paired comparison test is used to compare the means, not variances, of two populations.",
+      "answer_source": "red",
+      "tags": [
+        "Hypothesis Testing — construct hypothesis tests and determine their statistical significance, the associated Type I and Type II errors, and power of the test given a significance level"
+      ]
+    },
+    {
+      "id": "S1Q31",
+      "num": 31,
+      "question": "The following table represents the history of an investment in a company: Time Activity Price per Share Dividends Paid per Share Beginning of Year 1 Purchase 10 shares €160 ….. End of Year 1 Purchase 5 shares €168 €3.00 End of Year 2 …. €175 €4.00 End of Year 3 Sell 15 shares €166 €0.00 The investor does not reinvest: the dividends received. Ignoring taxes, the time-weighted rate of return on this investment is closest to:",
+      "options": {
+        "A": "1.93%.",
+        "B": "2.40%.",
+        "C": "2.57%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio value at the beginning and end of each period and the dividends received over the three years are calculated as follows: Year 1 Year 2 Year 3 Beginning value 10 x €160 €1,600 15× €168 €2,520 15× €175 = €2,625 Ending value 10 x €168=€1,680 15 x €175 = €2,625 15 x €165 = €2,475 Dividend received 10x €3.00 =€30 15× €4.00 =€60 15 x €0.00 = €0 The holding period return (HPR) for the three years is calculated as follows: HPR= (Pt+1 - Pt + Dt+1)/Pt HPRyear 1= (€1,680-€1,600 + €30)/€1,600 = 6.88% HPRyear2 = (€2,625 - €2,520 + €60)/€2,520 = 6.55% HPRyear3 = (€2,475 - €2,625)/€2,625 =-5.71% The time-weighted return (TWR) is found by taking the geometric mean of the three holding period returns TWR = [(1 + HPRyear1)×(1+HPRyear 2) ×(1+HFRyear3)]1/3-1 TWR = [(1+6.88%)×(1+655%)×(1-5.71%)]1/3-1 =1.07381/3-1 = 2.40% Alternatively: TWR = (€168+€3)/€160] × [(€175+€4)/€168] (€165/€175)]1/3-1 = (1.0688×1.0655 × 0.9429)^(1/3) -1=2.40%. A is incorrect because it is the money-weighted rate of return (MWR). Using the cash flow (CF) function of a financial calculator: CF0 =-1,600, CF1= -5x16830=-810, CF2 = 60, and CF3 =2,475. The computed IRR is: 1.93%. C is incorrect because i is the simple average of the three holding period returns: (6.88%+6.55%-5.71%)/3=2.57%.",
+      "answer_source": "red",
+      "tags": [
+        "Rates and Returns — compare the money-weighted and time-weighted rates of return and evaluate the performance of portfolios based on these measures"
+      ]
+    },
+    {
+      "id": "S1Q32",
+      "num": 32,
+      "question": "Substantial government borrowing is less likely to be of concern when:",
+      "options": {
+        "A": "the private sector decreases savings to offset the debt.",
+        "B": "most of the borrowing is owed internally to local citizens.",
+        "C": "the private sector is crowded out to make room for the debt."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The issue of significant debt may be overstated because the debt is owed internally to fellow citizens. A is incorrect because deficits may have no net impact because the private sector may act to offset fiscal deficits by increasing (not decreasing) saving in anticipation of future increased taxes. C is incorrect because government borrowing may divert private sector investment from taking place (an effect known as crowding out); it there is a limited amount of savings to he spent on investment, then larger government demands will lead to higher interest rates and lower private sector investing.",
+      "answer_source": "red",
+      "tags": [
+        "Fiscal Policy — describe roles and objectives of fiscal policy as well as arguments as to whether the size of a national debt relative to GDP matters"
+      ]
+    },
+    {
+      "id": "S1Q33",
+      "num": 33,
+      "question": "Ensuring that the composition of a board of directors is aligned with a company's governance principles is most likely a responsibility of the:",
+      "options": {
+        "A": "risk committee.",
+        "B": "audit committee.",
+        "C": "nominating committee."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The nomination committee can help ensure that the board's composition is well balanced and aligned with the company's governance principles. A is incorrect because the risk committee assists the board in determining the risk policy, profile, and appetite of the company. The risk committee does not directly deliberate on the composition of the board. B is incorrect because the audit committee plays a key role in overseeing the audit and control systems at the company and ensuring their effectiveness. The audit committee does not directly deliberate on the composition of the board nor the company's governance principles.",
+      "answer_source": "red",
+      "tags": [
+        "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits — describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks"
+      ]
+    },
+    {
+      "id": "S1Q34",
+      "num": 34,
+      "question": "Which of the following most accurately describes a distribution that is more peaked than",
+      "options": {
+        "A": "Leptokurtic",
+        "B": "Mesokurtic",
+        "C": "Platykurtic"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A distribution that is more peaked than normal is called leptokurtic. B is incorrect because a distribution that is neither more peaked nor less peaked than normal is called mesokurtic. C is incorrect because a distribution that is less peaked than normal is called platykurtic.",
+      "answer_source": "red",
+      "tags": [
+        "Statistical Measures of Asset Returns — interpret and evaluate measures of skewness and kurtosis to address an investment problem"
+      ]
+    },
+    {
+      "id": "S1Q36",
+      "num": 36,
+      "question": "Which pricing model combines multiple products so that customers are incentivized to buy them together?",
+      "options": {
+        "A": "Bundling",
+        "B": "Tiered pricing",
+        "C": "Value-based pricing"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Bundling refers to combining multiple products or services so that customers are incentivized or required to buy them together. Bundling can be effective, particularly for products that are complementary and that have high incremental profit margins and high marketing costs relative to the cost of the product itself. B is incorrect because tiered pricing involves charging different prices to different buyers, often based on volume purchased but also based on product features (e.g. base versus premium trims of vehicles). C is incorrect because value-based pricing means selling prices based on the value received by the customer, which often involves estimating opportunity cost.",
+      "answer_source": "red",
+      "tags": [
+        "Business Models — describe various types of business models"
+      ]
+    },
+    {
+      "id": "S1Q37",
+      "num": 37,
+      "question": "The correction of a material error for a prior period is handled by:",
+      "options": {
+        "A": "adding a note disclosure regarding the error in the current financial statements only.",
+        "B": "restating the financial statements for the prior periods presented in the current financial statements only.",
+        "C": "both adding a note disclosure regarding the error in the current financial statements and restating the financial statements for the prior periods presented in the current financial statements."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Another possible adjustment is a correction of an error for a prior period (e.g., in financial statements issued for an earlier year). This cannot be handled by simply adjusting the current period income statement. Correction of an error for a prior period is handled by restating the financial statements (including the balance steel, statement of owners' equity, and cash flow statement) for the prior periods presented in the current financial statements. (IAS No. 8. Accounting Policies. Changes in Accounting Estimates and Errors, and FASB ASC Topic 250 (Accounting Changes and Error Corrections]) Note disclosures are required regarding the error. A is incorrect because the company is also required to restate the financial statements for the prior periods in the current financial statements. B is incorrect because the company is also required to add a note disclosure regarding the error.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Income Statements — describe the financial reporting treatment and analysis of non-recurring items (including discontinued operations, unusual or infrequent items) and changes in accounting policies"
+      ]
+    },
+    {
+      "id": "S1Q38",
+      "num": 38,
+      "question": "Which of the following is not generally considered one of the three key characteristics of Big Data?",
+      "options": {
+        "A": "Variety",
+        "B": "Volume",
+        "C": "Visibility"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The term Big Data typically refers to datasets that have the following characteristics Volume. Velocity Variety, i.e., visibility is not one of the three characteristics. A is incorrect because the term Big Data typically refers to datasets having the following characteristics: Volume. Velocity Variety, I.e., variety is one of the three characteristics. B is incorrect because the term Big Data typically refers to datasets having the following characteristics: Volume, Velocity Variety, i.e., volume is one of the three characteristics.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to Big Data Techniques — describe Big Data, artificial intelligence, and machine learning"
+      ]
+    },
+    {
+      "id": "S1Q39",
+      "num": 39,
+      "question": "Based on the information in the table, which of the following is closest to the geometric mean annual return for the full period of 5 years? Annual Return Year 1 -8.0% Year 2 -5.5% Year 3 -7.2% Year 4 20,8% Year 5 4.4%",
+      "options": {
+        "A": "0.35%",
+        "B": "0.90%",
+        "C": "1.75%"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The geometric mean annual return is computed multiplicatively as the nth root of the holding period. √[(1-8.0%)×(1-55%)×(1-7.2%)×(1+20.8%)×(1+4.4%)] - 1=0.35%. B is incorrect because it reflects the arithmetic mean annual return. (-8.0%-5.5%-7.2% + 20.8% +4.4%)/5=0.90%. C is incorrect because it reflects the holding period return. (1-8.0%) x (1-5.5%)×(1-7.2%)×(1+20.8%)×(1+4.4%)-1=1,75%.",
+      "answer_source": "red",
+      "tags": [
+        "Rates and Returns — calculate and interpret major return measures and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "S1Q40",
+      "num": 40,
+      "question": "When constructing a forecast, an analyst with a conservatism bias is most likely to:",
+      "options": {
+        "A": "deemphasize new information when updating their forecast",
+        "B": "seek opinions and information that agrees with their forecast.",
+        "C": "build complex models using a wide breadth of data to create a forecast"
+      },
+      "answer": "A",
+      "explanation": "A is correct. People with conservatism bias maintain their prior views or forecasts by inadequately incorporating new information. This often happens in forecasting when an analyst does not update their forecasting after receiving conflicting information, such as disappointing earnings results or a competitor action. B is incorrect because confirmation bias is the tendency to look for and notice what confirms prior beliefs and to ignore or undervalue whatever contradicts them. C is incorrect because illusion of control manifests in analysts' beliefs that forecasts can be rendered more accurate in two ways: by acquiring more information and opinions from experts and by creating more granular and complex models.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to Financial Statement Modeling — explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases"
+      ]
+    },
+    {
+      "id": "S1Q41",
+      "num": 41,
+      "question": "An investment pays $1,000 at the end of each year in perpetuity, with the first payment occurring six years from today. If the discount rate is 9% per year, the present value of the investment today is closest to:",
+      "options": {
+        "A": "$4,486.",
+        "B": "$6,625.",
+        "C": "$7,221."
+      },
+      "answer": "C",
+      "explanation": "C is correct. It is the present value of the perpetuity that starts in six years: PV of investment today = (PV of perpetuity in 5 years)/(1+r)^5, where PV of perpetuity in 5 years A/r= $1,000/0.09 = $11,111.11. Thus, PV of investment today = $11,111.11/(1+0.09)^5= $7,221.46~$7,221. Calculator solution: N = 5; I = 9%; FV = - 11,111.11; compute PV = 7,221.46. A is incorrect because it is the present value of a six-year ordinary annuity that pays $1,000 each year: $1.00 - [1 - 1/(1 +0.09)^6]/0.09 = $4,485.92 ~ $4,486. Calculator solution: N= 6; I=9%; PMT=-1,000; compute PV = 4,485.92. B is incorrect because it is the present value of the perpetuity that is wrongly discounted back by six, instead of five, years: PV of investment today = (PV of perpetuity in 5 years)/(1+r)^6, where PV of perpetuity in 5 years = A/r = $1,000/0.09= $11,111.11. Thus, PV of investment today = $11.111.11/(1+0.09)^6 = 6,625.19 ~$6,625. Calculator solution: N= 6; I=9%; FV=11,111.11; compute PV 6,625.19.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q42",
+      "num": 42,
+      "question": "A liquidity trap is most closely associated with:",
+      "options": {
+        "A": "deflation.",
+        "B": "an inelastic demand for money.",
+        "C": "a positive nominal central bank policy rate."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A liquidity trap arises when the demand for money is infinitely elastic because individuals elect to hold additional money balances rather than respond to stimulative rate cuts by spending. As a result, weakening consumption leads to deflation. B is incorrect because a liquidity trap is associated with an infinitely elastic (rather than inelastic) demand for money. C is incorrect because a liquidity trap arises in the extreme instance under which the monetary authority has cut nominal interest rates to zero to stimulate the economy and cannot cut rates any further.",
+      "answer_source": "red",
+      "tags": [
+        "Monetary Policy — describe qualities of effective central banks; contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy"
+      ]
+    },
+    {
+      "id": "S1Q43",
+      "num": 43,
+      "question": "An analyst gathered the following information about a stock index: Mean net income for all companies in the index $2.4 million Standard deviation of net income for all companies in the index $3.2 million If the analyst takes a sample of 36 companies from the index, the standard error of the sample mean is closest to:",
+      "options": {
+        "A": "$88,889.",
+        "B": "$400,000.",
+        "C": "$533,333."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The standard error of the sample mean is equal to the population standard deviation (σ) divided by the square root of the number of observations in the sample (n): σX̅ = σ/√n=$3,200,000/√36=$533,333. A is incorrect because it uses the following formula: $3,200,000/36 $88,889. B is incorrect because it uses the following formula: $2,400,000/36 = $400,000.",
+      "answer_source": "red",
+      "tags": [
+        "Estimation and Inference — explain the central limit theorem and its importance for the distribution and standard error of the sample mean"
+      ]
+    },
+    {
+      "id": "S1Q44",
+      "num": 44,
+      "question": "Using long-term debt or equity to finance working capital needs most likely:",
+      "options": {
+        "A": "reduces the cost of financing working capital.",
+        "B": "provides the opportunity to borrow only as needed.",
+        "C": "reduces the need to access capital markets in times of stress."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A conservative approach to working capital management involve greater reliance on long-term funding sources, including long-term debt and equity. Further, a conservative working capital strategy reduces the need to access capital during times of market stress. A is incorrect because a conservative approach to working capital management involves more cash, receivables, and inventory relative to sales, with a greater reliance on long-term funding sources, including long-term debt and equity. Among the cons of the conservative approach are long-term debt typically involves a higher interest rate and higher cost of equity, which means the cost of financing working capital increase, not decrease using this approach. B is incorrect because one of the cons to a conservative financing (long-term debt or equity) approach is permanent financing eliminates the opportunity to borrow only as needed.",
+      "answer_source": "red",
+      "tags": [
+        "Working Capital and Liquidity — Describe issuers' objectives and compare methods for managing working capital and liquidity"
+      ]
+    },
+    {
+      "id": "S1Q45",
+      "num": 45,
+      "question": "A company plans to do an upward revaluation of an asset under the revaluation model. All else being equal, the company's debt-to-assets ratio will:",
+      "options": {
+        "A": "decrease.",
+        "B": "remain unchanged,",
+        "C": "increase."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An upward revaluation will increase the value of assets, which is the denominator of the debt-to-assets ratio. Debt is not affected by the upward revaluation. The ratio will decrease. B is incorrect because an upward revaluation will increase the value of assets, which is the denominator of the debt-to-assets ratio. Debt is not affected by the upward revaluation. The ratio will decrease, not remain unchanged. C is incorrect because an upward revaluation will increase the value of assets, which is the denominator of the debt-to-assets ratio. Debt is not affected by the upward revaluation. The ratio will decrease, not increase.",
+      "answer_source": "red",
+      "tags": [
+        "Analysis of Long-Term Assets — explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios"
+      ]
+    },
+    {
+      "id": "S1Q46",
+      "num": 46,
+      "question": "When estimating the average return of an investment over multiple consecutive periods, it is most appropriate to use the:",
+      "options": {
+        "A": "harmonic mean.",
+        "B": "arithmetic mean.",
+        "C": "geometric mean."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If we want to estimate the average returns over more than one period, we geometric mean of returns because the geometric mean captures how the total returns are li. A is incorrect because if we want to estimate the average returns over more than one period, we geometric mean of returns because the geometric mean captures how the total returns are li harmonic mean is a relatively specialized concept of the mean that is appropriate for averagi unit') when the ratios are repeatedly applied to a fixed quantity to yield a variable number of. B is incorrect because if we want to estimate the average return over a one-period horizon, we si arithmetic mean because the arithmetic mean is the average of one-period returns. If we wan average returns over more than one period, however, we should use the geometric mean of geometric mean captures how the total returns are linked over time.",
+      "answer_source": "red",
+      "tags": [
+        "Statistical Measures of Asset Returns — calculate, interpret, and evaluate measures of central tendency and location to address an investment problem"
+      ]
+    },
+    {
+      "id": "S1Q47",
+      "num": 47,
+      "question": "A well-defined supply function is most likely available to:",
+      "options": {
+        "A": "a monopolist.",
+        "B": "a firm operating in perfect competition.",
+        "C": "a firm operating in monopolistic competition."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In perfect competition, the firm's supply schedule is represented by the marginal cost schedule. A is incorrect because as in the market structures of monopolistic competition and oligopoly, the monopolist does not have a well-defined supply function that determines the optimal output level and the price to charge. C is incorrect because in perfect competition, the firm's supply schedule is represented by the marginal cost schedule. In monopolistic competition, there is no well-defined supply function.",
+      "answer_source": "red",
+      "tags": [
+        "The Firm and Market Structures — explain supply and demand relationships under monopolistic competition, including the optimal price and output for firms as well as pricing strategy"
+      ]
+    },
+    {
+      "id": "S1Q48",
+      "num": 48,
+      "question": "An analyst gathers the following information about a company: Book value of debt $80 million Market value of debt $150 million Share price $60 Shares outstanding 10 million Cos: of equity 7% Cos: of debt 1% Tax rate 30% Based on this information, the company's WACC is closest to:",
+      "options": {
+        "A": "6.16%.",
+        "B": "6.40%.",
+        "C": "6.51%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. One method to approximate the company's target capital structure is to assume the company's current capital structure, at market value weights for the components, represents the company's target capital structure. Market value of debt = $150 million Market value of equity = $60x10 million = $600 million Weight of debt, wd = $150 million/($150 million+$600 million) = 0.20 Weight of equity, we = $600 million/($150 million+$600 million) = 0.80 WACC = Wdrd(1-t)+ Wprp+Were=(0.2)(4%)(1-30%)+0+(0.8)(7%) = 6.160% =6.16% where wd= the target proportion of debt in the capital structure when the company raises new funds rd= the before-tax marginal cost of debt t = the company's marginal tax rate Wp= the target proportion of preferred stock in the capital structure when the company raises new funds Rp =the marginal cost of preferred stock We= the target proportion of common stock in the capital structure when the company raises new funds Re = the marginal cost of common stock. B is incorrect because the tax shield was not applied to the weighted cost of debt in the WACC formula. Market value of debt = $150 million Market value of equity = $60×10 million $600 million Weight of debt, wd = $150 million/($150 million+$600 million) = 0.20 Weight of equity, we = $600 million/($150 million+$600 million) = 0.80 WACC = (0.2)(4%)+(0.8)(7%) = 6.400% = 6.40%. C is incorrect because book value of debt (not market value) was used. The method to approximate the company's target capital structure is to assume the company's current capital structure, at market value weights for the components. Book value of debt = $80 million Market value of equity = $60×10 million = $600 million Weight of debt, wd= $80 million/($80 million+$600 million) = 0.1176 Weight of equity, we= $600 million/($80 million+$600 million) = 0.8824 WACC = (0.1176)(4%)(1-30%)+(0.8824)(7%) = 6.506% ~6.51%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q49",
+      "num": 49,
+      "question": "An option in a capital project to alter production when demand exceeds supply s a type of",
+      "options": {
+        "A": "sizing option.",
+        "B": "timing option.",
+        "C": "flexibility option."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A production-flexibility option is a type of flexibility option. Production-flexibility options offer the operational flexibility to alter production when demand varies from what is forecast. A is incorrect because a production-flexibility option is a type of flexibility option, not a sizing option. If after investing the company can abandon the investment if the financial results are disappointing, it has an abandonment option. Conversely, if the company can make additional investments when future financial results are strong, the company has a growth option or an expansion option. B is incorrect because a production-flexibility option is a type of flexibility option, not a timing option. Instead of investing now, the company can delay investing. Delaying an investment and basing the decision on hopefully improved information that you might have in, say, a year could help improve the NPV of the projects selected.",
+      "answer_source": "red",
+      "tags": [
+        "Capital Investments and Capital Allocation — describe types of real options relevant to capital investments"
+      ]
+    },
+    {
+      "id": "S1Q50",
+      "num": 50,
+      "question": "Which of the following statements is most accurate? Statement 1 The IRR assumes reinvestment of cash flows at the required rate of return. Statement 2 IRR is strongly preferred when NPV and IRR rank two mutually exclusive projects differently. Statement 3 NPV is zero when IRR equals the hurdle rate.",
+      "options": {
+        "A": "Statement 1",
+        "B": "Statement 2",
+        "C": "Statement 3"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The required rate of return is often called the hurdle rate, the rate that a project's IRR must exceed for the project to be accepted by the company. In the unlikely event that the IRR is equal to r, the project is theoretically acceptable because it meets the required return. In fact, NPV equals zero when IRR equals r. A is incorrect because the NPV assumes reinvestment of cash flows at the required rate of return, while the IRR assumes reinvestment at the IRR. B is incorrect because when the choice is between two mutually exclusive projects and the NPV and IRR rank the two projects differently, the NPV criterion is strongly preferred.",
+      "answer_source": "red",
+      "tags": [
+        "Capital Investments and Capital Allocation — describe the capital allocation process, calculate net present value (NPV), internal rate of return (IRR), and return on invested capital (BOIC) and contrast their use in capital allocation"
+      ]
+    },
+    {
+      "id": "S1Q51",
+      "num": 51,
+      "question": "Which of the following statements is most accurate? According to Modigliani-Miller Proposition I without taxes:",
+      "options": {
+        "A": "firm value can be created by changing a company's capital structure.",
+        "B": "any increase in the cost of equity must exactly offset the greater use of lower cost debt.",
+        "C": "equity holders demand a higher return as leverage increases in order to offset increased risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. MM Proposition I without taxes states: The market value of a company is not affected by the capital structure of the company. It demonstrates that managers cannot create firm value simply by changing the company's capital structure. In other words, the value of a company is determined solely by its cash flows, not by its relative reliance on debt and equity capital. Adding leverage increases the risk to equity holders because greater debt increases the probability of bankruptcy. As a result, equity holders will demand a higher return as leverage increases in order to offset the increase in risk. However, overall cost of capital does not change, so there is no change in the value of the company. A is incorrect because mM Proposition I without taxes states: The market value of a company is not affected by the capital structure of the company. It demonstrates that managers cannot create firm value simply by changing the company's capital structure. B is incorrect because it is related to the Modigliani-Miller Proposition II without taxes (not Proposition I), MM Proposition II without taxes states: The cost of equity is a linear function of the company's debt-to-equity ratio. It holds that the increase in the cost of equity must exactly offset the greater use of lower cost debt.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q52",
+      "num": 52,
+      "question": "An analyst gathers the following information: CHF/USD spot exchange rate 1.0072 270-day CHF risk-free interest rate (annualized) 0.63% 270-day USD risk-free interest rate (annualized) 0.75% CHF/USD is the amount of CHF per 1 USD. The number of forward points for the 270-day CHF/USD forward rate is closest to:",
+      "options": {
+        "A": "-12.0.",
+        "B": "-9.0.",
+        "C": "0.5."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The forward rate is calculated as CHF/USD forward rate = CHF/USD spot rate x [1 + (CHF rate x 270/360)]/[1+ (USD rate x 270/360)] = 1.0072×1.004725/1.0056251.0072×0.999105=1.0063. The forward points are calculated as 1.0063-1.0072=-0.00090 or -9.0 points (multiply by 10,000). A is incorrect because it incorporates the fractional period incorrectly in the forward rate calculation: CHF/USD forward rate = CHF/USD spot rate x [(1 + CHF rate) x 270/360]/[(1 + USD rate) x 270/360]= 1.0072 × 0.754725/ 0.755625=1.0072×0.998809=1.0060. The forward points are calculated as 1.0060-1.0072= -0.00120 or- 12.0 points (multiply by 10.000). This response is also obtained if the time period is not adjusted at all: CHF/USD spot rate x (1 + CHF rate)/(1+ USD rate) = 1.0072 × 1.0063/1.0075 1.0072×0.998809=1,0060. The forward points are calculated as 1.0060- 1.0072=-0.00120 or -12.0 points (multiply by 10,000). C is incorrect because it is the 270-day CHF risk-free rate multiplied by the 270-day USD risk-free rate multiplied by 10,000: 0.0063 × 0.0075 × 10,000 = 0.00004725 × 10,000= 0.4725~0.5.",
+      "answer_source": "red",
+      "tags": [
+        "Exchange Rate Calculations — explain the arbitrage relationship between spot and forward exchange rates and interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium"
+      ]
+    },
+    {
+      "id": "S1Q53",
+      "num": 53,
+      "question": "Which of the following functional forms of a simple linear regression is most appropriate to test the linear relationship between relative changes in the dependent variable and relative changes in the independent variable?",
+      "options": {
+        "A": "The lin-log model",
+        "B": "The log-lin model",
+        "C": "The log-log model"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The log-log model, in which both the dependent variable and the independent variable are linear in their logarithmic forms, is also referred to as the double-log model. This model is useful in calculating elasticities because the slope coefficient is the relative change in the dependent variable for a relative change in the independent variable. A is incorrect because the slope coefficient in the lin-log regression model provides the absolute change in the dependent variable for a relative change in the independent variable, while elasticities transform both variables into their relative changes. Thus, the log-log, and not the lin-log, model is useful in calculating elasticities because the slope coefficient is the relative change in the dependent variable for a relative change in the independent variable. B is incorrect because the slope coefficient in the log-lin model is the relative change in the dependent variable for an absolute change in the independent variable., while elasticities transform both variables into their relative changes. Thus, the log-log, and not the log-lin, model is useful in calculating elasticities because the slope coefficient is the relative change in the dependent variable for a relative change in the independent variable.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q54",
+      "num": 54,
+      "question": "A write-down of inventory to its net realizable value by a manufacturing company most likely results in a lower:",
+      "options": {
+        "A": "cost of sales than if the write-down had not occurred.",
+        "B": "current ratio than if the write-down had not occurred.",
+        "C": "inventory turnover than if the write-down had not occurred."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet and thus has a negative effect on profitability, liquidity, and solvency ratios. Major liquidity ratios include the current ratio. The Current ratio, being Current assets + Current liabilities is lower because the numerator (Current assets) is lower due to lower carrying amount of inventories as a result of the write-down while the denominator (Current liabilities) remains unchanged. A is incorrect because the cost of sales may be higher as a result of the inventory write-down as any write-down to market value or net realisable value reduces the value of the inventory, and the loss in value (expense) is generally reflected in the income statement in cost of [sales]. Note that this expense may be included as part of cost of sales or reported separately. However, an inventory write-down would not result in a lower cost of sales despite being reported separately. C is incorrect because activity ratios (for example, inventory turnover and total asset turnover) will be positively affected by a write-down because the asset base (denominator) is reduced. Also, the inventory turnover ratio is [higher) with inventory write-downs because inventory write-downs decrease the average inventory (denominator).",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q55",
+      "num": 55,
+      "question": "Which of the following best describes a principal-agent conflict? A company's management puts their own interests above those of:",
+      "options": {
+        "A": "regulators.",
+        "B": "customers.",
+        "C": "shareholders."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A principal-agent relationship (also known as an agency relationship) is created when a principal hires an agent to perform a particular task or service. The principal-agent relationship involves obligations, trust, and expectations of loyalty; the agent is expected to act in the best interests of the principal. In a company, agency theory stipulates that principal-agent relationships often lead to conflicts-for example, when managers do not act in the best interests of shareholders. Managers must act in the best interest of shareholders. While there may be a duty to multiple stakeholders, this specifically describes the principal-agency conflict. A is incorrect because a principal-agent relationship (also known as an agency relationship) is created when a principal hires an agent to perform a particular task or service. The principal-agent relationship involves obligations, trust, and expectations of loyalty; the agent is expected to act in the best interests of the principal. In a company, agency theory stipulates that principal-agent relationships often lead to conflicts-for example, when managers do not act in the best interests of shareholders. Although multiple conflicts can exist in a corporate relationship, even with regulatory agencies, the principal-agent conflict occurs when managers place the needs of other stakeholders above those of shareholders. B is incorrect because a principal-agent relationship (also known as an agency relationship) is created when a principal hires an agent to perform a particular task or service. The principal-agent relationship involves obligations, trust, and expectations of loyalty; the agent is expected to act in the best interests of the principal. In a company, agency theory stipulates that principal-agent relationships often lead to conflicts-for example, when managers do not act in the best interests of shareholders. Managers must act in the best interest of shareholders. While there may be a duty to all stakeholders, including customers, the principal-agent conflict occurs when managers place the needs of other stakeholders above those of the shareholders.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q56",
+      "num": 56,
+      "question": "An analyst gathers the following information about a currency pair: Currency Pair Spot Rate Expected Spot Rate in One Year USD/EUR 1.1800 1.1650 USD/EUR is the amount of USD per one EUR The expected change in value of the dollar relative to the euro over the next year is closest to a(n):",
+      "options": {
+        "A": "depreciation of 1.27%.",
+        "B": "appreciation of 1.27%.",
+        "C": "appreciation of 1.29%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. To convert the dollar to the base currency, the calculation is (1/1.1650)/(1/1.1800)-1= (1.18/1.165) = 1.2876~1.29% which is an appreciation. A is incorrect because 1.27% is the depreciation of the euro against USD which is calculated as 1.1650/1.1800 - 1 ~ -1.27%. B is incorrect because while the dollar is expected to appreciate against the euro, the appreciation of the dollar is n equal to the depreciation of the euro. The euro depreciation is 1.1650/1.1800-1=-1.2712%~-1.27% but the dollar appreciation is (1/1.1650)/(1/1.1800)-1=(1.18/1.165)= 1.2876~1.29%.",
+      "answer_source": "red",
+      "tags": [
+        "Exchange Rate Calculations — calculate and interpret currency cross-rates"
+      ]
+    },
+    {
+      "id": "S1Q57",
+      "num": 57,
+      "question": "An analyst gathers the following information about a company: Debt-to-equity ratio based on market value 43% Debt-to-equity ratio based on book value 52% The weight of debt the analyst should use when determining the company's target capital structure is closest to:",
+      "options": {
+        "A": "30%,",
+        "B": "43%.",
+        "C": "52%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Individuals outside the company, however, such as analysts, typically do not know the target capital structure and must estimate it using one of several methods. Assume the company's current capital structure, at market value weights for the components, represents the company's target capital structure. A simple way of transforming a debt-to-equity ratio (D/E) into a weight that is, D/(DE) is to divide D/E by 1 + D/E. Thus the analyst should use 0.43/(1+0.43)=30.07%-30% as the weight of debt in any estimate of the company's target capital structure. B is incorrect because this is the debt-to-equity ratio based on market value, not the weight of debt based on market value. C is incorrect because this is the debt-to-equity ratio based on book value, not the weight of debt based on market value.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q58",
+      "num": 58,
+      "question": "In contrast to the Herfindahl-Hirschman index (HHI), the concentration ratio:",
+      "options": {
+        "A": "considers the elasticity of demand.",
+        "B": "accounts for the possibility of new entrants.",
+        "C": "is less affected by mergers among the top market incumbents."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Another disadvantage of the concentration ratio is that it tends to be unaffected by mergers among the top market incumbents. For example, if the largest and second-largest incumbents merge, the pricing power of the combined entity is likely to be larger than that of the two pre-existing companies. But the concentration ratio may not change much. To avoid the known issues with concentration ratios, economists O.C. Herfindahl and A.O. Hirschman suggested an index where the market shares of the top N companies are first squared and then added. The HHI for the top three companies in the example in the box above would be 0.35² + 0.25² + 0.20² = 0.225 before the merger, while after the merger, it would be 0.60² + 0.20² + 0.10² = 0.410, which is substantially higher than the initial 0.225. The HHI is widely used by competition regulators. A is incorrect because just like the concentration ratio, the HHI does not take the possibility of entry into account, nor does it consider the elasticity of demand. Therefore, the HHI has limited use for a financial analyst trying to estimate the potential profitability of a company or group of companies. B is incorrect because just like the concentration ratio, the HHI does not take the possibility of entry into account, nor does it consider the elasticity of demand. Therefore, the HHI has limited use for a financial analyst trying to estimate the potential profitability of a company or group of companies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q59",
+      "num": 59,
+      "question": "Assuming interest deductibility is allowed, an increase in the tax rate will cause a company's cost of capital to:",
+      "options": {
+        "A": "decrease.",
+        "B": "remain the same.",
+        "C": "increase."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt. Consequently, the cost of capital will decrease. B is incorrect because interest is tax deductible for this company. For there to be no change in the marginal cost of debt financing and, hence, the cost of capital following an increase in the tax rate, then the company must not be able to deduct interest expense. In other words, if the limit on tax deductibility is reached, the marginal cost of debt is the cost of debt without any adjustment for a tax shield. C is incorrect because if interest can be deducted in full, the tax deductibility of debt reduces the effective marginal cost of debt to reflect the income shielded from taxation (often referred to as the tax shield) and the marginal cost of debt is rd(1-t).",
+      "answer_source": "red",
+      "tags": [
+        "Capital Structure — calculate and interpret the weighted-average cost of capital for a company"
+      ]
+    },
+    {
+      "id": "S1Q60",
+      "num": 60,
+      "question": "Under US GAAP, for a long-term operating lease, the lessee reports:",
+      "options": {
+        "A": "after inception, the lease payment split between financing and operating outflows on the statement of cash flows.",
+        "B": "at inception, a right-of use asset and a lease liability calculated as the undiscounted value of its fixed lease payments.",
+        "C": "after inception, a single lease expense each year, which is a straight-line allocation of the cost of the lease over its term."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under US GAAP, there are two accounting models for lessees: one for finance leases and another for operating leases. The finance lease accounting model is identical to the lessee accounting model for IFRS. The operating lease accounting model is different. The key difference between an operating lease and a finance lease is how the amortization of the ROU asset is calculated. For an operating lease, the lessee's ROU asset amortization expense is the lease payment minus the interest expense. The implication is that the total expense reported on the Income statement (interest plus amortization) will equal the lease payment. A is incorrect because under US GAAP, there are two accounting models for lessees: one for finance leases and another for operating leases. The finance lease accounting model is identical to the lessee accounting model for IFRS. The operating lease accounting model is different. Under US GAAP, the entire lease payment is reported as a cash outflow under operating activities on the statement of cash flows. B is incorrect because under US GAAP, there are two accounting models for lessees: one for finance leases and another for operating leases. The finance lease accounting model is identical to the lessee accounting model for IFRS. The operating lease accounting model is different. At operating lease inception, the lessee records a lease payable liability and a corresponding right-of-use asset on its balance sheet that are subsequently reduced by the principal repayment component of the lease payment and amortization, respectively, in the same manner that an IFRS lessee would. Under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease payable liability and a \"right-of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments.",
+      "answer_source": "red",
+      "tags": [
+        "Topics in Long-Term Liabilities and Equity — explain the financial reporting of leases from the perspectives of lessors and lessees"
+      ]
+    },
+    {
+      "id": "S1Q61",
+      "num": 61,
+      "question": "An analyst gathers the following information (in £ millions) from a company's year-end balance sheet: Year 2 Year 1 Accounts receivable 65 55 Inventory 120 140 PP&E 1,400 1,400 Accumulated depreciation 120 80 Accounts payable 25 40 During Year 2, net income was £860 million. There were no acquisitions or sales of property, plant, and equipment and no write-downs. Cash flow from operating activities (in £ millions) for Year 2 is:",
+      "options": {
+        "A": "855,",
+        "B": "895.",
+        "C": "925."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using the indirect method, operating cash flow is calculated as net income + depreciation expense increase in current operating asset accounts (accounts receivable) + decrease in current operating asset account (inventory)-decrease in current operating liability accounts (accounts payable) 860+40-10+20-15=895. A is incorrect because the decrease in inventory is incorrectly subtracted rather than added: 860 + 40-10-20-15= 855. This is also equal to the amount which ignores the depreciation expense: 860-10+20-15=855. C is incorrect because the decrease in accounts payable is incorrectly added rather than subtracted: 860+40-10+20 +15=925.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Statements of Cash Flows I — describe the steps in the preparation of direct and indirect cash flow statements, including how cash flows can be computed using income statement and balance sheet data"
+      ]
+    },
+    {
+      "id": "S1Q62",
+      "num": 62,
+      "question": "Which of the following is most likely a benefit of globalization?",
+      "options": {
+        "A": "Increased profits",
+        "B": "Interdependence",
+        "C": "Stronger environmental, social, and governance standards"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The opportunity to generate higher profits may motivate companies to globalize. The first way to generate profit is to increase sales. Companies may choose to engage in globalization in order to access new customers for their goods and services. Another way to increase profits is to reduce costs. Globalization allows companies to access lower tax-operating environments, reduce labor costs, or seek other supply chain efficiency gains. B is incorrect because through the process of greater economic and financial cooperation, companies may become dependent on other countries' resources for their supply chains. On aggregate, this can result in the nation itself becoming dependent on other nations for certain resources. If there is a disruption to the supply chain, including via a moment of political non-cooperation, then firms may not be able to produce the good themselves. C is incorrect because companies operating in lower-cost countries often operate in the local standards of those countries. If standards on environmental protection, social benefits, or corporate governance are lower in one country compared to another and companies ultimately reduce their standards of production in that context, then globalization can create a drain on human, administrative, and environmental resources.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to Geopolitics — describe geopolitics and its relationship with globalization"
+      ]
+    },
+    {
+      "id": "S1Q63",
+      "num": 63,
+      "question": "An analyst gathers the following information (in € thousands) about an electronics manufacturing company: Year 2 Year 1 Cost of sales 1,250 1,000 Cost of inventory 225 375 Net realizable value of inventory 300 325 Changes to the allowance for inventory obsolescence have already been reflected in cost of sales. The inventory turnover (based on average inventory) for Year 2 is closest to:",
+      "options": {
+        "A": "4.0.",
+        "B": "4.2.",
+        "C": "4.5."
+      },
+      "answer": "C",
+      "explanation": "C is correct. IFRS state that inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value and Inventory turnover ratio Cost of sales Average inventory. Accordingly, Inventory turnover ratio = 1,250/[(225+325)]/2=1,250/275=4.545~4.5. A is incorrect because inventories in both years were measured at net realizable value. Hence, Inventory turnover ratio 1,250/[(300+325)/2]=1,250/312.5 = 4.0. B is incorrect because inventories in both years were measured at cost. Hence, Inventory turnover ratio=1.250/[(225 +375)/2]=1,250/3004.167=4.2.",
+      "answer_source": "red",
+      "tags": [
+        "Analysis of Inventories — describe the measurement of inventory at the lower of cost and net realisable value and its implications for financial statements and ratios"
+      ]
+    },
+    {
+      "id": "S1Q64",
+      "num": 64,
+      "question": "The continuously compounded return:",
+      "options": {
+        "A": "is higher than the holding period return for a given time period.",
+        "B": "for multiple time periods is the sum of the one-period continuously compounded returns.",
+        "C": "cannot be calculated for negative holding period returns because the natural logarithm of a negative number is not real number."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The continuously compounded return to time T is the sum of the one-period continuously compounded returns. A is incorrect because the continuously compounded return from t to t + 1 is ln(St+1/St) = ln(1+Rt,t+1) < Rt,t+1.,i.e the continuously compounded return is less than the holding period return, or Rt,t+1 = exp(rt,t+1)-1>rt,t+1,i.e the holding period return is greater than the continuously compounded return. Alternatively, a simple counterexample can be calculated to disprove this, e.g. for a price increase from 100 to 110, the holding period return R = 110/100-1=0.1, and the continuously compounded return r = ln(110/100) = 0.0953 < R. Hence the statement cannot be correct. C is incorrect because the continuously compounded return from t to t + 1 is rt,t+1 = ln(St+1/St). St+1/St is always positive because both St+1 and St are positive, even if St+1< St. The negative return is the resultant of the logarithm function and not the argument.",
+      "answer_source": "red",
+      "tags": [
+        "Rates and Returns — calculate and interpret annualized return measures and continuously compounded returns, and describe their appropriate uses"
+      ]
+    },
+    {
+      "id": "S1Q65",
+      "num": 65,
+      "question": "A characteristic of a dollarized exchange regime is:",
+      "options": {
+        "A": "imposed fiscal discipline.",
+        "B": "the ability to earn significant profits.",
+        "C": "that monetary policy can be used as a source of economic stabilization."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Dollarization imposes fiscal discipline by eliminating the possibility that the central bank will be induced to monetize government debt (i.e., to persistently purchase government debt with newly created local currency). B is incorrect because one of the advantages of a CBS (Currency Board System) as opposed to dollarization is that the monetary authority can earn a profit by paying little or no interest on its liability, the monetary base, and can earn a market rate on its asset the foreign currency reserves. This profit is called seigniorage. C is incorrect because for countries with a history of fiscal excess or lack of monetary discipline, dollarizing the economy can facilitate growth of international trade and capital flows if it creates an expectation of economic and financial stability. In the process, however, it removes another potential source of stabilization-domestic monetary policy. Thus, as a potential source of stabilization is removed, flexibility decreases and does not increase.",
+      "answer_source": "red",
+      "tags": [
+        "The Foreign Exchange Market and Capital Flows — describe exchange rate regimes and explain the effects of exchange rates on countries international trade and capital flows"
+      ]
+    },
+    {
+      "id": "S1Q66",
+      "num": 66,
+      "question": "Companies most likely have the largest proportion of equity in their capital",
+      "options": {
+        "A": "start-up stage.",
+        "B": "growth stage.",
+        "C": "maturity stage."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Companies in the growth stage have a \"Rising\" \"Debt Availability\", while mature companies have a \"High\" \"Debt Availability.\" By contrast, startup companies have a \"Little or None\" \"Debt Availability”. Thus, a startup company has most the smallest amount of debt (if any) in its capital structure compared to a company. This means that the equity portion in the capital structure for startups is higher than companies. B is incorrect because companies in the growth stage have a \"Rising\" \"Debt Availability\", while mature companies have a \"High\" \"Debt Availability.\" By contrast, startup companies have a \"Little or None\" \"Debt Availability”. Thus, a startup company has most the smallest amount of debt (if any) in its capital structure compared to a growth or mature company. This means that the equity portion in the capital structure for startups is higher than for growth or mature companies. C is incorrect because companies in the growth stage have a \"Rising\" \"Debt Availability\", while mature companies have a \"High\" \"Debt Availability.\" By contrast, startup companies have a \"Little or None\" \"Debt Availability”. Thus, a startup company has most the smallest amount of debt (if any) in its capital structure compared to a growth or mature company. This means that the equity portion in the capital structure for startups is higher than for growth or mature companies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q67",
+      "num": 67,
+      "question": "An analyst gathers the following information (in € thousands) about a machine: Carrying amount prior to impairment 50 Present value of expected future cash flows 46 Fair value 48 Costs to sell 3 Impairment loss (in € thousands) is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under IAS 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell and its value in use. Value in use is based on the present value of expected future cash flows. Accordingly, Impairment loss = Carry amount-Max[(Fair value - Costs to sell), Present value of expected future cash flows] = 50-Max [(48-3), 46] = 50-46=4. A is incorrect because it omits the costs to sell in the calculation of the recoverable amount. Accordingly, Impairment loss = Carrying amount - Max(Fair value, Present value of expected future cash flows] = 50-Max(48, 46]=50-48 = 2. C is incorrect because it calculates the recoverable amount as the lower (instead of higher) of the asset's fair value less costs to sell and its value in use. Accordingly, Impairment loss = Carrying amount - Min[(Fair value - Costs to sell), Present value of expected future cash flows] = 50-Min[(48-3), 46]=50-45=5.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q68",
+      "num": 68,
+      "question": "Which of the following fiscal policy tools is an automatic stabilizer?",
+      "options": {
+        "A": "Capital expenditures",
+        "B": "Social benefits through transfer payments",
+        "C": "Current government spending on goods and services"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes. Automatic stabilizers such as income tax, VAT, and social benefits are important because as output and employment fall and reduce tax revenues, so net tax revenues also fall as unemployment benefits rise. This acts as a fiscal stimulus and serves to reduce the size of the multiplier, dampening the output response of whatever caused the fall in output in the first place. Transfer payments are welfare payments made through the social security system and, depending on the country, comprise payments for state pensions, housing benefits, tax credits and income support for poorer families, child benefits, unemployment benefits, and job search allowances. A is incorrect because automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes. In addition to these automatic adjustments, governments also use discretionary fiscal adjustments to influence aggregate demand. These will involve tax changes and/or spending cuts or increases usually with the aim of stabilizing the economy. Capital expenditure includes infrastructure spending on roads, hospitals, prisons, and schools. C is incorrect because automatic stabilizers will lead to changes in the budget deficit unrelated to fiscal policy changes. In addition to these automatic adjustments, governments also use discretionary fiscal adjustments to influence aggregate demand. These will involve tax changes and/or spending cuts or increases usually with the aim of stabilizing the economy. Current government spending involves spending on goods and services that are provided on a regular, recurring basis including health, education, and defense.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q69",
+      "num": 69,
+      "question": "An analyst gathers the following information about three portfolios: Portfolio Return Standard Deviation 1 8.0% 6.0% 2 10.2% 8.0% 3 11.8% 10.0% If the risk-free rate is 2.0% and the shortfall level is 4.0%, the portfolio with the highest safety-first ratio is:",
+      "options": {
+        "A": "Portfolio 1.",
+        "B": "Portfolio 2.",
+        "C": "Portfolio 3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The safety-first ratio (SFRatio): SFRatio = [E(Rp) – RL]/ σp. Hence, Portfolio 3 has the highest SFRatio: SFRatio = (11.8-4.0)/10.0 =0.780. The SFRatio for Portfolio 1 is (8.0-4.0)/6.0 =0.667. The SFRatio for Portfolio 2 is (10.2-4.0)/8.0 = 0.775. A is incorrect because it assumes the safety-first ratio is equal to the return divided by the standard deviation. Hence, Portfolio 1 has the highest ratio: E(Rp)/σp = 8.0/6.0 = 1.333, while the ratio for Portfolio 2 is 10.2/8.0=1.275 and the ratio for Portfolio 3 is 11.8/10.0 = 1.18. B is incorrect because it calculates the Sharpe ratio instead of the safety-first ratio. If we substitute the risk-free rate, RF. for the critical level RL, the SFRatio becomes the Sharpe ratio. Hence, Portfolio 2 has the highest Sharpe ratio: [E(Rp)-Rt]/ σp =(10.2-2.0)/8.0=1.025, while the ratio for Portfolio 1 is (8.0-2.0)/6.0=1 and the ratio for Portfolio 3 is (11.8-2.0)/10.0=0.98.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q70",
+      "num": 70,
+      "question": "Which of the following is best described as a non-cooperative economic tool?",
+      "options": {
+        "A": "Globalization",
+        "B": "Nationalization.",
+        "C": "Restriction of foreign investment"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Economic tools can also be non-cooperative in nature. Nationalization, the process of transferring an activity or industry from private to state control, is a non-cooperative approach to assorting economic control. A is incorrect because globalization is not an economic tool, instead it is the result of economic and financial cooperation. C is incorrect because this is a non-cooperative financial tool. Examples of non-cooperative financial tools include limiting access to local currency markets and restricting foreign investment.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to Geopolitics — describe tools of geopolitics and their impact on regions and economies"
+      ]
+    },
+    {
+      "id": "S1Q71",
+      "num": 71,
+      "question": "Which of the following statements is most accurate?",
+      "options": {
+        "A": "Deferred tax assets occur when the tax base of an asset is lower than its carrying amount",
+        "B": "A company's current tax liability is the amount payable in taxes and is based on current taxable income",
+        "C": "Deferred tax liabilities occur when regulatory income tax expense is greater than accounting income tax expense"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A company's taxable income is the basis for its income tax payable (a liability) or recoverable (an asset), which appears on its balance sheet. A is incorrect because deferred tax liabilities could arise when the tax base of an asset is lower than its carrying amount. C is incorrect because deferred tax liabilities occur when financial accounting income tax expense is greater than regulatory income tax expense.",
+      "answer_source": "red",
+      "tags": [
+        "Analysis of Income Taxes — contrast accounting profit, taxable income, taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income"
+      ]
+    },
+    {
+      "id": "S1Q72",
+      "num": 72,
+      "question": "In the context of considering ESG factors, \"stranded asset risk most likely applies to companies in which sector?",
+      "options": {
+        "A": "Energy",
+        "B": "Financial",
+        "C": "Industrial"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Stranded asset risk refers to carbon-intensive assets that are at risk of no longer being economically viable because of changes in regulation or investor sentiment and would most likely apply to the energy sector. B is incorrect because this risk applies more directly to the energy sector than to industrial or financial stocks. C is incorrect because this risk applies more directly to the energy sector than to industrial or financial stocks.",
+      "answer_source": "red",
+      "tags": [
+        "Investors and Other Stakeholders — describe environmental, social, and governance factors of corporate issuers considered by investors"
+      ]
+    },
+    {
+      "id": "S1Q73",
+      "num": 73,
+      "question": "An analyst gathers the following information about a company: Revenue €20 million Average shareholders' equity €10 million ROE 10% ROA 4% The total asset turnover ratio is:",
+      "options": {
+        "A": "0.80.",
+        "B": "1.25.",
+        "C": "2.50."
+      },
+      "answer": "A",
+      "explanation": "A is correct. ROE = ROA x Leverage = Net profit margin x Total asset turnover x Leverage, where: ROE = Net Income / Average shareholders' equity; ROA = Net Income/Average total assets; Leverage = Average total assets / Average shareholders' equity; Net profit margin = Net Income / Revenue Total asset turnover = Revenue/Average total assets. There are a number of options to solve this: Option 1: Net income = ROE x Average shareholders' equity = 10% x €10,000,000 = €1,000,000; Average total assets = Net Income /ROA = €1,000,000/4% = €25,000,000; Total asset turnover = Revenue / Average total assets = €20,000,000/€25,000,000 = 0.80. Option 2: Net profit margin = Net Income / Revenue = €1,000,000/€20,000,000 = 5%; Leverage = ROE/ROA=10%/4%=2.50; ROE = Net profit margin x Total asset turnover x Leverage; thus Total asset turnover = ROE / (Net profit margin x Leverage) = 10% / (5% × 2.50)=10%/ 12.5%= 0.80. Option 3: Net profit margin = Net Income / Revenue = €1,000,000/€20,000,000 = 5%; ROA = Net profit margin x Total asset turnover; thus Total asset turnover = ROA/Net profit margin= 4%/5%=0.80. B is incorrect. C is incorrect.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q74",
+      "num": 74,
+      "question": "Credit cycles:",
+      "options": {
+        "A": "can amplify business cycles.",
+        "B": "are defined as fluctuations in real GDP",
+        "C": "tend to be shorter than business cycles."
+      },
+      "answer": "A",
+      "explanation": "A is correct. It is recognized that in a world with financial frictions, business cycles can be amplified, with deeper recessions and more extensive expansions because of changes in access to external financing. In line with this, it is found that the duration and magnitude of recessions and recoveries are often shaped by linkages between business and credit cycles. B is incorrect because credit cycles describe the changing availability and pricing-of credit. They describe growth in private sector credit (availability and usage of loans), which is essential for business investments and household purchases of real estate. They are therefore connected to real economic activity captured by business cycles that describe fluctuations in real GDP. C is incorrect because although financial variables tend to co-vary closely with each other and can often help explain the size of an economic expansion or contraction, but they are not always synchronized with the traditional business cycle. Credit cycles tend to be longer, deeper, and sharper than business cycles.",
+      "answer_source": "red",
+      "tags": [
+        "Understanding Business Cycles — describe credit cycles"
+      ]
+    },
+    {
+      "id": "S1Q75",
+      "num": 75,
+      "question": "An analyst examining the statement of cash flows for possible manipulation is least likely to be concerned about a(n):",
+      "options": {
+        "A": "cash flow from operations to net income ratio consistently higher than 1.",
+        "B": "increase in cash from operations arising from a large change in accounts payable.",
+        "C": "change in the classification of interest paid from an operating cash flow to a financing cash flow."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A cash flow from operations to net income ratio that is consistently higher than 1 indicates that operating cash flow is consistently higher than net income and signals high earnings quality. B is incorrect because a large increase in accounts payable could mean that a company is trying to artificially increase cash flow from operations by delaying payments to creditors. C is incorrect because although this change is allowable, it increases cash flow from operations, making the company appear healthier, and is likely to be made for this reason.",
+      "answer_source": "red",
+      "tags": [
+        "Financial Reporting Quality — describe accounting warning signs and methods for detecting manipulation of information in financial reports"
+      ]
+    },
+    {
+      "id": "S1Q76",
+      "num": 76,
+      "question": "An analyst gathers the following information (in € millions) about a company's 4-year construction contract: Contract price 106 Expected total costs 70 Actual costs incurred in Year 1 21 Bonus for on-time completion 8 Costs incurred are an appropriate measure of progress toward completion. The construction company is very experienced with similar contracts. If it is highly probable revenue will not be subsequently reversed, revenue (in € millions) recognized in Year 1 is most likely.",
+      "options": {
+        "A": "31.8.",
+        "B": "33.8.",
+        "C": "34.2."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Both the contract revenue and bonus should be calculated based on progress toward completion. A company is only allowed to recognize variable consideration if it can conclude that it will not have to reverse the cumulative revenue in the future. Answer is calculated as 21/70×(106 + 8) = 30% × 114 = 34.2. A is incorrect because it does not include the bonus for on-time completion. A company is only allowed to recognize variable consideration if it can conclude that it will not have to reverse the cumulative revenue in the future. Calculated as 21/70 x 106 = 30% × 106 = 31.8. B is incorrect because it includes 25% (1 out of 4 years) of the bonus for on-time completion. A company is only allowed to recognize variable consideration if it can conclude that it will not have to reverse the cumulative revenue in the future. Calculated as (21/70 x 106)+(1/4 x 8) = (30% × 106)+(1/4 x 8) = 31.8+(1/4x8) = 33.8.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Income Statements — describe general principles of revenue recognition, specific revenue recognition applications, and implications of revenue recognition choices for financial analysis"
+      ]
+    },
+    {
+      "id": "S1Q77",
+      "num": 77,
+      "question": "All else being equal, in periods of decreasing inventory unit costs and constant inventory quantities, using the FIFO inventory valuation method results in:",
+      "options": {
+        "A": "lower gross profit and lower inventory turnover than using the LIFO inventory valuation method.",
+        "B": "lower gross profit and higher inventory turnover than using the LIFO inventory valuation method.",
+        "C": "higher gross profit and higher inventory turnover than using the LIFO inventory valuation method."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using FIFO in periods of declining prices, the costs assigned to the units in ending inventory are lower than the costs assigned to the units sold. Conversely, [using LIFO] in periods of declining prices, the costs assigned to the units in ending inventory are higher than the costs assigned to the units sold. Therefore, when using FIFO, cost of goods sold will be higher than using LIFO, and accordingly, gross profit (revenue cost of goods sold) will be lower. Inventory turnover ratio Cost of goods sold / Average inventory, as the numerator is higher and denominator lower, the inventory turnover ratio using FIFO will be higher than using LIFO. A is incorrect because when using FIFO, cost of goods sold will be higher than using LIFO, and gross profit (revenue cost of goods sold) will be lower. Inventory turnover ratio = Cost of goods sold/Average inventory, as the numerator is higher and denominator lower, the inventory turnover ratio using the FIFO will be higher (not lower) than using LIFO. C is incorrect because when using FIFO cost of goods sold will be higher than with the LIFO-method, and the gross profit (revenue cost of goods sold) will be lower (not higher) Inventory turnover ratio = Cost of goods sold/Average inventory, as the numerator is higher and denominator lower, the inventory turnover ratio using FIFO will be higher than using LIFO.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q78",
+      "num": 78,
+      "question": "An analyst gathers the following information about a company's fiscal year beginning on 1 January: Net income £1,800,000 Preferred dividends declared and paid £600,000 Common shares outstanding on 31 December 300,000 Weighted average common shares outstanding during the year 500,00 Convertible preferred shares outstanding during the year 25,000 If one preferred share can be converted into four common shares and there are no other potentially dilutive securities outstanding, reported diluted EPS should be:",
+      "options": {
+        "A": "£2.40",
+        "B": "£3.00.",
+        "C": "£4.00."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Reported diluted EPS is equal to basic EPS as the convertible security is antidilutive (e. their inclusion would result in an EPS higher than the company's basic EPSI. Under IFRS and US GAAP, antidilutive securities are not included in the calculation of reported diluted EPS. Reported diluted EPS will always be less than or equal to basic EPS. Reported diluted EPS is calculated using the if-converted method. The if-converted method is based on what EPS would have been if the convertible preferred securities had been converted at the beginning of the period Diluted EPS using the if-converted method for preferred stock is Net income) (Weighted average number of shares outstanding + New common shares that would have been issued at conversion), or = €1,800,000/[500,000 + (25,000×4)] = £1,800,000/600,000 = £3.00. Basic EPS= (Net income - Preferred dividends)/ Weighted average number of shares outstanding = (1,800,000-600,000)/500,000= £1,200,000/500,000 = £2.40 As Basic EPS of £2.40 is lower than the diluted EPS of £3.00, the convertible preferred stock is antidilutive, the reported dilutive FPS should thus be equal to basic EPS of £2.40. B is incorrect because 1 does not consider that the convertible preferred stock is antidilutive and the reported dilutive EPS equals to calculated diluted EPS of £3.00. C is incorrect because i uses the number of shares outstanding at year-end, not weighted average during the year in the formula for diluted EPS and basic EFS. Diluted EPS = Net Income / (Number of common shares outstanding at year-end New common shares that would have been issued at conversion); or = £1,800,000/[300.000+ [25.000×4)] = £1.800.000/400,000 = £4.50. Basic EPS= (Net income Preferred dividends)/ Number of common shares outstanding at year-end = (£1,800,000 - £600,000)/300.000 = £1.200,000/300.000= 24.00. As Basic EPS o £4.00 is lower than the diluted EPS of £4.50, the convertible preferred stock is antidilutive, the reported dilutive EPS should thus be equal to basic EPS of $4.00.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q79",
+      "num": 79,
+      "question": "An analyst gathers the following information about a company: Canadian Dollars (millions) Cash flow from operating activities (CFO) 105.9 Cash flow from investing activities (11.8) Cash flow from financing activities 46.5 Net change in cash for the year 140.6 Interest paid (included in CFO) 22.4 Taxes paid (tax rate of 30%) 18.0 Total debt, end of year 512.8 The cash flow debt coverage ratio for the year is closest to:",
+      "options": {
+        "A": "20.6%.",
+        "B": "23.7%.",
+        "C": "27.4%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Cash flow debt coverage ratio = CFO/Total debt = 105.9/512.8=20.6%. B is incorrect because this response incorrectly adds hack interest x (1-t) to CFO (which is correct for FCFF but not for the coverage ratios): [105.9+22.4x(1 - 0.30)]/512.8 = 23.7%. C is incorrect because this response incorrectly uses net change in cash for the year, not just CFO: 140.6/512.8 = 27.4%.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Statements of Cash Flows II — calculate and interpret free cash flow to the firm, free cash flow to equity, and performance and coverage cash flow ratios"
+      ]
+    },
+    {
+      "id": "S1Q80",
+      "num": 80,
+      "question": "A firm operating in a perfectly competitive market will most likely shut down in the short run when:",
+      "options": {
+        "A": "average total cost is higher than marginal revenue.",
+        "B": "average fixed cost is higher than average revenue.",
+        "C": "average variable cost is higher than average revenue."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If TR (total revenue) cannot cover TVC (total variable cost), the firm shuts down production to minimize loss. Also, average revenue (AR) is revenue per unit. Further, average variable cost (AVC) is the ratio of total variable cost to total output: AVC=TVC/Q. Therefore TR < TVC implies that AR < AVC. A is incorrect because the output quantity for which average total cost equals average revenue corresponds to the breakeven point, not the shutdown point, and the breakeven point occurs for a value of Q which is greater than that for the shutdown point. A firm breaks even if its price (AR) is exactly equal to its ATC (average total cost), which is true under conditions of perfect and imperfect competition. Furthermore, in perfect competition marginal revenue equals average revenue. B is incorrect because the output quantity for which average total cost equals average revenue corresponds to the breakeven point, not the shutdown point, and the breakeven point occurs for a value of Q which is greater than that for the shutdown point. A firm breaks even if its price (AR) is exactly equal to its ATC (average total cost), which is true under conditions of perfect and imperfect competition. Furthermore, in perfect competition marginal revenue equals average revenue.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q81",
+      "num": 81,
+      "question": "In contrast to US GAAP, cash flow statements prepared under IFRS:",
+      "options": {
+        "A": "are less flexible regarding the classification of dividends paid or received.",
+        "B": "allow interest receipts to be classified as either operating or investing cash flows.",
+        "C": "require adherence to the direct method format when reporting operating activities."
+      },
+      "answer": "B",
+      "explanation": "B is correct. IFRS allows interest receipts to be classified as either operating or investing activities whereas US GAAP requires interest receipts to be classified only as operating cash flows. A is incorrect because iFRS are more flexible than US GAAP requirements. Under IFRS, dividends paid may be classified as either an operating or a financing activity; under US GAAP, dividends paid may only be classified a financing activity. Under IFRS, dividends received may be classified as either an operating or an investing activity: under US GAAP, dividends received may only be classified an operating activity. C is incorrect because the direct and indirect methods for formatting cash flow statements are acceptable under both US GAAP and IFRS.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Statements of Cash Flows I — contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)"
+      ]
+    },
+    {
+      "id": "S1Q82",
+      "num": 82,
+      "question": "If a company's receivables turnover ratio is equal to its payables turnover ratio, the company's cash conversion cycle is equal to its number of days of:",
+      "options": {
+        "A": "payables.",
+        "B": "sales outstanding.",
+        "C": "inventory on hand."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A company with the same value for receivables turnover and payables turnover has the same number of days sales outstanding (DSO) as the number of days of payables; therefore, the company's cash conversion cycle would equal the days of inventory on hand (DOH). That is, as a company's cash conversion cycle is equal to DOH + DSO- Number of days of payables when a company's DSO is equal to the number of days of payables, the company's cash conversion cycle is equal to its DOH. A is incorrect because when a company's DSO is equal to the number of days of payables the company's cash conversion cycle is equal to its DOH. A company's cash conversion cycle is equal to DOH + DSO-Number of days of payables. The company's DSO is equal to the number of days of payables because the receivables turnover and the payables turnover ratios have the same value. B is incorrect because when a company's DSO is equal to the number of days of payables the company's cash conversion cycle is equal to its DOH. A company's cash conversion cycle is equal to DOH + DSO-Number of days of payables. The company's DSO is equal to the number of days of payables because the receivables turnover and the payables turnover ratios have the same value.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q83",
+      "num": 83,
+      "question": "A central bank most likely.",
+      "options": {
+        "A": "lends money to banks facing serious shortages.",
+        "B": "is one of many supplier's of a country's currency.",
+        "C": "does not manage a country's foreign currency reserves."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The central bank acts as a lender of last resort to banks. Because the central bank effectively has the capacity to print money, it is in the position to be able to supply the funds to banks that are facing a damaging shortage. B is incorrect because generally, a central bank is the monopoly supplier of the currency. C is incorrect because most central banks will be responsible for managing their country's foreign currency reserves.",
+      "answer_source": "red",
+      "tags": [
+        "Monetary Policy — describe the roles and objectives of central banks"
+      ]
+    },
+    {
+      "id": "S1Q84",
+      "num": 84,
+      "question": "Bootstrap resampling:",
+      "options": {
+        "A": "repeatedly draws samples without replacement.",
+        "B": "can be used to estimate the standard error of a population median.",
+        "C": "relies on an analytical formula to estimate the distribution of estimators."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bootstrap, one of the most popular resampling methods, can be used to find the standard error or construct confidence intervals for the statistic of other population parameters, such as the median. A is incorrect because unlike bootstrap, which repeatedly draws samples with replacement, jackknife samples are selected by taking the original observed data sample and leaving out one observation at a time from the set (and not replacing it). C is incorrect because compared with conventional statistical methods, bootstrap does not rely on an analytical formula to estimate the distribution of the estimators.",
+      "answer_source": "red",
+      "tags": [
+        "Simulation Methods — describe the use of bootstrap resampling in conducting a simulation based on observed data in investment applications"
+      ]
+    },
+    {
+      "id": "S1Q85",
+      "num": 85,
+      "question": "When a company's payables turnover ratio is lower compared to its peers, the company is most likely",
+      "options": {
+        "A": "utilizing early payment discounts.",
+        "B": "taking advantage of lenient supplier terms.",
+        "C": "receiving payments from customers faster than its peers."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An excessively low turnover ratio (high days payable) could indicate trouble making payments on time, or alternatively, exploitation of lenient supplier terms. A is incorrect because a payables turnover ratio that is high (low days payable) relative to the industry could indicate that the company is not making full use of available credit facilities; alternatively, it could result from a company taking advantage of early payment discounts. Thus, a lower payable turnover ratio could mean the company has higher days payable and most likely is not taking advantage of early payment discounts. C is incorrect because receiving payments from customers faster than the industry norm impacts the receivables turnover rather than the payables turnover. The number of DSO represents the elapsed time between a sale and cash collection, reflecting how fast the company collects cash from customers to whom it offers credit.",
+      "answer_source": "red",
+      "tags": [
+        "Financial Analysis Techniques — calculate and interpret activity, liquidity, solvency, and profitability ratios"
+      ]
+    },
+    {
+      "id": "S1Q86",
+      "num": 86,
+      "question": "A company acquires 100% of a target company for a purchase price of $4.5 million. The net identifiable assets of the target company have a fair value of $5 million. In the period the acquisition occurs, the acquiring company most likely reports:",
+      "options": {
+        "A": "goodwill of $0.5 million.",
+        "B": "a pretax gain of $0.5 million in profit and loss.",
+        "C": "a pretax gain of $0.5 million in other comprehensive income."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When the fair value of the assets exceeds the purchase price, it is a bargain purchase, and is recognized the profit and loss in the period it occurs. When a transaction involves the purchase of net identifiable assets with a value greater than the cost to purchase, it is called a bargain purchase. Any gain from a bargain purchase is recognized in profit and loss in the period in which it arises. A is incorrect because the transaction is a bargain purchase, which is recognized in profit and loss in the period it occurs and does not create goodwill. Goodwill arises when an acquirer purchases target company for more than the value of the net identifiable assets acquired. C is incorrect because when the fair value of the assets exceeds the purchase price, it is a bargain purchase, and is recognized in profit and loss in the period it occurs, not other comprehensive income.",
+      "answer_source": "red",
+      "tags": [
+        "Analyzing Balance Sheets — explain the financial reporting and disclosures related to goodwill"
+      ]
+    },
+    {
+      "id": "S1Q87",
+      "num": 87,
+      "question": "Costs incurred related to the search of alternative materials to use in a production process:",
+      "options": {
+        "A": "must be expensed.",
+        "B": "must be capitalized.",
+        "C": "may be capitalized if certain criteria are met."
+      },
+      "answer": "A",
+      "explanation": "A is correct. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalized as an intangible asset. Research is defined as original and planned investigation undertaken with the prospect of gaining new scientific or technical knowledge and understanding. The research phase of an internal project refers to the period during which a company cannot demonstrate that an intangible asset is being created-for example, the search for alternative materials or systems to use in a production process. B is incorrect because iFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalized as an intangible asset. Research is defined as original and planned investigation undertaken with the prospect of gaining new scientific or technical knowledge and understanding. The research phase of an internal project refers to the period during which a company cannot demonstrate that an intangible asset is being created-for example, the search for alternative materials or systems to use in a production process. C is incorrect because iFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalized as an intangible asset. Research is defined as original and planned investigation undertaken with the prospect of gaining new scientific or technical knowledge and understanding. The research phase of an internal project refers to the period during which a company cannot demonstrate that an intangible asset is being created-for example, the search for alternative materials or systems to use in a production process.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q88",
+      "num": 88,
+      "question": "Which of the following statements is most accurate? The role of financial reporting is to:",
+      "options": {
+        "A": "forecast future net income and cash flow.",
+        "B": "value a security for making investment decisions.",
+        "C": "provide information about a company's performance, financial position, and changes in financial position."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The role of financial statements issued by companies is to provide information about a company's performance, financial position, and changes in financial position that is useful to a wide range of users in making economic decisions. A is incorrect because this is a role of financial analysis. In evaluating financial reports, analysts typically have a specific economic decision in mind. Examples of these decisions can include forecasting future net income and cash flow. B is incorrect because this is a role of financial analysis. In evaluating financial reports, analysts typically have a specific economic decision in mind. Examples of these decisions can include valuing a security for making an investment recommendation to others. Although financial reports do not show the value of an entity, they are useful in estimating the value of an entity.",
+      "answer_source": "red",
+      "tags": [
+        "Introduction to Financial Statement Analysis — describe the roles of financial statement analysis"
+      ]
+    },
+    {
+      "id": "S1Q89",
+      "num": 89,
+      "question": "Which of the following is an example of a liquidity ratio?",
+      "options": {
+        "A": "Defensive interval ratio",
+        "B": "Inventory turnover ratio",
+        "C": "Working capital turnover ratio"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The defensive interval ratio measures how long the company can continue to pay its expenses from its existing liquid assets without receiving any additional cash inflow. A higher defensive interval ratio indicates greater liquidity. B is incorrect because inventory turnover [activity ratio] indicates the resources tied up in inventory (i.e., the carrying costs) and can, therefore, be used to indicate inventory management effectiveness. A higher inventory turnover ratio implies a shorter period that inventory is held, and thus a lower DOH [days of inventory on hand]. It is a measure of efficiency, not a measure of liquidity. C is incorrect because working capital turnover [activity ratio] indicates how efficiently the company generates revenue with its working capital. A high working capital turnover ratio indicates greater efficiency (i.e., the company is generating a high level of revenues relative to working capital). For some companies, working capital can be near zero or negative, rendering this ratio incapable of being interpreted. Although working capital is the difference between current assets and current liabilities, the ratio of revenue divided by average working capital is a measure of efficiency, not a measure of liquidity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S1Q90",
+      "num": 90,
+      "question": "In simple linear regression models, the normality assumption requires that the:",
+      "options": {
+        "A": "dependent variable is normally distributed.",
+        "B": "independent variable is normally distributed.",
+        "C": "regression residuals are normally distributed."
+      },
+      "answer": "C",
+      "explanation": "C is correct. We need to make the assumption that regression residuals are normally distributed to be able to draw valid conclusions from a simple linear regression model. A is incorrect because the assumption of normality requires that the residuals be normally distributed. This does not mean that the dependent and independent variables must be normally distributed; it only means that the residuals from the model are normally distributed. B is incorrect because the assumption of normality requires that the residuals be normally distributed. This does not mean that the dependent and independent variables must be normally distributed; it only means that the residuals from the model are normally distributed.",
+      "answer_source": "red",
+      "tags": [
+        "Simple Linear Regression — explain the assumptions underlying the simple linear regression model, and describe how residuals and residual plots indicate if these assumptions may have been violated"
+      ]
+    }
+  ]
+}

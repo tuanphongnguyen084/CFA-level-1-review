@@ -3,6 +3,7 @@ import streamlit as st
 
 from core import progress, quiz
 from core.ui import go
+from views import exam as exam_view
 
 
 def render(library):
@@ -28,6 +29,10 @@ def render(library):
         if exam.group and exam.group != last_group:
             st.subheader(exam.group)
             last_group = exam.group
+
+        if exam.timed_minutes:
+            exam_view.render_exam_card(library, exam)
+            continue
 
         txt, _ = progress.status(s.subject_id, exam.exam_id, exam.n)
         e = progress.entry(s.subject_id, exam.exam_id) or {}

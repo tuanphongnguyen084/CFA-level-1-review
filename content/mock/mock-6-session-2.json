@@ -1,0 +1,1449 @@
+{
+  "schema_version": 1,
+  "name": "Mock 6 — Session 2",
+  "group": "Mock 6",
+  "source": "Mock Exam 3 (Q91-180)",
+  "timed_minutes": 135,
+  "questions": [
+    {
+      "num": 1,
+      "question": "An investor buys a non-dividend paying stock for $100 at the beginning of the year with 50% initial margin. At the end of the year, the stock price is $95. Deflation of 2% occurred during the year. Which of the following return measures for this investment will be greatest?",
+      "options": {
+        "A": "Real return.",
+        "B": "Nominal return.",
+        "C": "Leveraged return."
+      },
+      "answer": "A",
+      "explanation": "A is correct. No calculations are needed. The real return is greater than the nominal return because the inflation rate is negative. The leveraged return is more negative than the nominal return because the investment lost value and leverage magnifies the loss.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 1.3, LOS 1.e"
+      ],
+      "id": "S2Q1"
+    },
+    {
+      "num": 2,
+      "question": "While analyzing HMS Inc., Fred Browne notes that the company's liquidity as measured by its quick ratio has decreased over time while its current liabilities have remained constant. This could be explained by:",
+      "options": {
+        "A": "a decrease in inventory.",
+        "B": "an increase in marketable securities.",
+        "C": "a decrease in accounts receivable."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The quick ratio is defined as: (cash + marketable securities + accounts receivable) / current liabilities. If current liabilities have remained constant, cash, marketable securities, or accounts receivable must have decreased. Inventory is not included in the quick ratio.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 25.1, LOS 25.b"
+      ],
+      "id": "S2Q2"
+    },
+    {
+      "num": 3,
+      "question": "Stephanie Dell is evaluating two stocks (X and Y) using the capital asset pricing model. Dell predicts that the betas for the two stocks will be identical but that the unsystematic risk for Stock X will be much higher than for Stock Y. According to the capital asset pricing model, in equilibrium:",
+      "options": {
+        "A": "Stock X will have a higher expected return than Stock Y but a standard deviation equal to Stock Y.",
+        "B": "Stock X will have a higher standard deviation than Stock Y but an expected return equal to Stock Y.",
+        "C": "both the expected return and standard deviation for Stock X will be higher than Stock Y."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The equation for the capital asset pricing model is: E(Ri) = RF + βi[E(Rm) − RF] Beta measures the sensitivity of the stock's returns to changes in the returns on the market portfolio and is a standardized measure of the stock's systematic or non-diversifiable risk. As indicated by the CAPM equation, the expected return for any stock is related to its beta. In contrast, unsystematic risk does not affect the CAPM expected return. Therefore, according to the CAPM, expected returns are identical for assets with identical betas. Stock X has identical systematic risk but greater unsystematic risk than Stock Y, resulting in greater total risk (standard deviation).",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 21.2, LOS 21.f"
+      ],
+      "id": "S2Q3"
+    },
+    {
+      "num": 4,
+      "question": "A hedge fund's lockup period is the time during which:",
+      "options": {
+        "A": "the fund is closed to new investors.",
+        "B": "an investor may not redeem shares in the fund.",
+        "C": "the fund must return cash to an investor who has requested a redemption."
+      },
+      "answer": "B",
+      "explanation": "B is correct. During a lockup period, an investor is restricted from redeeming shares.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 83.1, LOS 83.a"
+      ],
+      "id": "S2Q4"
+    },
+    {
+      "num": 5,
+      "question": "Joe Leoni is an institutional equity trader. He believes that stock price and volume information can help him consistently generate excess returns on his stock picks. Based on this information, Leoni most likely believes that the market:",
+      "options": {
+        "A": "is not strong-form efficient.",
+        "B": "may be semi-strong or strong-form efficient.",
+        "C": "is not weak-form efficient, but may be semi-strong efficient."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because Leoni believes he can consistently generate excess returns using technical analysis, he must believe the market is not weak-form efficient, and therefore cannot be semi-strong form or strong-form efficient.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 43.1, LOS 43.d"
+      ],
+      "id": "S2Q5"
+    },
+    {
+      "num": 6,
+      "question": "Which of the following fintech applications is most likely to use distributed ledger technology?",
+      "options": {
+        "A": "Real-time clearing and settlement of securities trades.",
+        "B": "High-frequency trading to take advantage of intraday price discrepancies.",
+        "C": "Automated review of employees’ voice communications to detect misconduct."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Real-time clearing and settlement is a potential application of distributed ledger technology because it would require an identical record of transactions to be visible to multiple parties. Neither algorithmic trading nor natural language processing necessarily involves distributed ledger technology.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 84.1, LOS 84.a"
+      ],
+      "id": "S2Q6"
+    },
+    {
+      "num": 7,
+      "question": "A central clearing mandate for derivatives is most likely to result in:",
+      "options": {
+        "A": "increased disclosure of trades.",
+        "B": "dispersion of counterparty risk.",
+        "C": "standardization of derivatives contracts."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Compared to the absence of a mandate, a central clearing mandate typically results in greater disclosure of trades. Counterparty risk is concentrated with the central counterparty, rather than distributed among market participants. Over-the-counter derivatives remain customizable even if they are subject to a central clearing mandate.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 68.1, LOS 68.b"
+      ],
+      "id": "S2Q7"
+    },
+    {
+      "num": 8,
+      "question": "Compared to a normal distribution, historical returns on major asset classes in developed markets have exhibited:",
+      "options": {
+        "A": "less frequent large positive deviations.",
+        "B": "more frequent large negative deviations.",
+        "C": "the expected frequency of large deviations."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Historical data from global asset markets show that returns distributions exhibit negative skewness and positive excess kurtosis. Large negative deviations, and large deviations in general, have been more frequent than would be expected if returns were normally distributed.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 20.1, LOS 20.a"
+      ],
+      "id": "S2Q8"
+    },
+    {
+      "num": 9,
+      "question": "A fixed-income investor who is most concerned about high rebalancing fees would prefer to track an index that includes bonds characterized by:",
+      "options": {
+        "A": "shorter maturities and frequent new issuances.",
+        "B": "longer maturities and frequent new issuances.",
+        "C": "longer maturities and infrequent new issuances."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A fixed income investor who wants to minimize rebalancing costs should select an index with low turnover, such as one that includes long maturity bonds (long time until rebalancing) with infrequent new issuances.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 51.1, LOS 51.b"
+      ],
+      "id": "S2Q9"
+    },
+    {
+      "num": 10,
+      "question": "If a company's revenues and cost of goods sold both increase by the same money amount, the company's gross margin will most likely:",
+      "options": {
+        "A": "increase.",
+        "B": "decrease.",
+        "C": "remain the same."
+      },
+      "answer": "B",
+      "explanation": "B is correct. If both sales and COGS increase by the same dollar value, the company's gross profit remains unchanged. As a result, the company's gross margin (gross profit / sales) decreases (unchanged numerator, larger denominator).",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 47.1, LOS 47.c"
+      ],
+      "id": "S2Q10"
+    },
+    {
+      "num": 11,
+      "question": "An investor buys a five-year bond with a coupon of 2% and expects to sell it in four years. The investor will be most concerned with decreasing interest rates if the bond's Macaulay duration is:",
+      "options": {
+        "A": "equal to 4.",
+        "B": "less than 4.",
+        "C": "greater than 4."
+      },
+      "answer": "B",
+      "explanation": "B is correct. If the bond's Macaulay duration is lower than the investor's investment horizon (negative duration gap), reinvestment risk dominates and decreasing interest rates would cause reinvestment income to decrease more than the bond price increased.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 58.1, LOS 58.b, LOS 58.c"
+      ],
+      "id": "S2Q11"
+    },
+    {
+      "num": 12,
+      "question": "In the context of private debt, a single loan that combines secured and unsecured classes of debt is best described as:",
+      "options": {
+        "A": "mezzanine debt.",
+        "B": "unitranche debt.",
+        "C": "a leveraged loan."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Unitranche debt refers to a single loan that combines secured and unsecured classes of debt and typically ranks between senior and subordinated debt. Mezzanine debt is a class that is subordinated to senior secured debt. A leveraged loan is one made by a private debt fund using money borrowed from other sources.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 80.1, LOS 80.b"
+      ],
+      "id": "S2Q12"
+    },
+    {
+      "num": 13,
+      "question": "Which of the following statements about the asset management industry is most accurate?",
+      "options": {
+        "A": "Smart beta is a blend of active and passive management.",
+        "B": "The market share for active management has been growing over time.",
+        "C": "Passive management represents about half of assets under management."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Active managers use their skill to try to outperform a chosen benchmark, and passive managers try to replicate the performance of a benchmark. Smart beta is a blend of active in passive management; it follows an index (passive) but focuses on exposure to a particular market risk factor (active). Passive management represents about one-fifth of assets under management. The market share for passive management has been growing over time due to lower fees to investors and more perceived market efficiency from the amount of accessible data that can be quickly incorporated into investment decisions.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 85.2, LOS 85.e"
+      ],
+      "id": "S2Q13"
+    },
+    {
+      "num": 14,
+      "question": "Boswell is less risk-averse than Johnson. Using the same capital allocation line for Boswell and Johnson, Boswell will have:",
+      "options": {
+        "A": "a higher risk aversion coefficient than Johnson.",
+        "B": "steeper risk-return indifference curves than Johnson.",
+        "C": "an optimal portfolio with a higher expected return than Johnson."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Compared to a more risk-averse investor, a less risk-averse investor will have a lower risk aversion coefficient, flatter risk-return indifference curves, and an optimal portfolio with greater risk and a higher expected return.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 20.2, LOS 20.c"
+      ],
+      "id": "S2Q14"
+    },
+    {
+      "num": 15,
+      "question": "In a one-period binomial model for option pricing based on risk neutrality, the probabilities of an up-move or a down-move are:",
+      "options": {
+        "A": "equal.",
+        "B": "assumed by the modeler.",
+        "C": "calculated from the model inputs."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk-neutral pseudo-probabilities are calculated using the risk-free rate and the sizes of an up-move and down-move of the underlying asset.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 77.1, LOS 77.b"
+      ],
+      "id": "S2Q15"
+    },
+    {
+      "num": 16,
+      "question": "A leveraged buyout fund is best described as a private equity fund that acquires:",
+      "options": {
+        "A": "public companies, with the purchase price is largely funded by debt.",
+        "B": "public companies, with the purchase price is largely funded by equity.",
+        "C": "private companies, with the purchase price is largely funded by equity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A leveraged buyout fund is a private equity fund which buys public companies and finances the purchase largely through debt.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 80.1, LOS 80.a"
+      ],
+      "id": "S2Q16"
+    },
+    {
+      "num": 17,
+      "question": "The following data refer to a corporate bond: Par value: $1,000 Maturity: 10 years Coupon rate: 5% Coupon frequency: Semiannual Yield-to-maturity: 6.25% The market value of this bond is closest to:",
+      "options": {
+        "A": "$908.",
+        "B": "$988.",
+        "C": "$1,098."
+      },
+      "answer": "A",
+      "explanation": "A is correct. N = 10 × 2 = 20; PMT = 5% × $1,000 / 2 = $25; I/Y = 6.25 / 2 = 3.125; FV = $1,000; CPT PV = –908.08 or $908.08.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 2.1, LOS 2.a and Module 54.1, LOS 54.a"
+      ],
+      "id": "S2Q17"
+    },
+    {
+      "num": 18,
+      "question": "An organization is concerned it will be unable to continue to operate because it has run out of cash. This is an example of:",
+      "options": {
+        "A": "credit risk.",
+        "B": "liquidity risk.",
+        "C": "solvency risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Solvency risk is the risk that an organization will not be able to operate because it ran out of cash. Credit risk is the risk that a counterparty will not fulfill its contractual obligations. Liquidity risk is the risk that an asset will be sold at a loss at a price below the asset's underlying fair value due to the market conditions at the time of the sale.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 88.1, LOS 88.f"
+      ],
+      "id": "S2Q18"
+    },
+    {
+      "num": 19,
+      "question": "In assessing the pricing power of companies in an industry using Porter's five forces, an analyst will most likely determine that companies have less pricing power when:",
+      "options": {
+        "A": "barriers to entry are low.",
+        "B": "the threat of substitute products is low.",
+        "C": "switching costs for consumers are high."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When barriers to entry are low, the threat of new entrants is high; it is easier for new companies to enter into the industry. This potential competition decreases the pricing power of companies currently in the industry. Low threat of substitute products and high switching costs for consumers tend to increase the pricing power of companies in an industry.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 40.1, LOS 40.c and Module 46.2, LOS 46.d"
+      ],
+      "id": "S2Q19"
+    },
+    {
+      "num": 20,
+      "question": "The portion of a hedge fund's return that is attributable to its exposure to specific sectors is its:",
+      "options": {
+        "A": "alpha.",
+        "B": "market beta.",
+        "C": "strategy beta."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Strategy beta is the return attributable to a fund's sector exposures. Alpha is the return attributable to a fund's security selection. Market beta is the return attributable to a broad market index.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 83.1, LOS 83.c"
+      ],
+      "id": "S2Q20"
+    },
+    {
+      "num": 21,
+      "question": "The standard deviation of returns for a portfolio of risky assets is:",
+      "options": {
+        "A": "less than the standard deviation of the least risky asset.",
+        "B": "greater than the standard deviation of the least risky asset.",
+        "C": "less than or equal to the standard deviation of the most risky asset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The standard deviation of return of a portfolio of many risky assets can be less than or greater than the standard deviation of the least risky asset, depending on the correlations of returns among the assets and their weights in the portfolio. However, the portfolio standard deviation must be less than or equal to the standard deviation of the most risky asset.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 20.3, LOS 20.e"
+      ],
+      "id": "S2Q21"
+    },
+    {
+      "num": 22,
+      "question": "A real estate fund manager that specializes in property development is most likely to structure itself as a(n):",
+      "options": {
+        "A": "finite-life, closed-end fund.",
+        "B": "indefinite-life, open-end fund.",
+        "C": "indefinite-life, closed-end fund."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Finite-life, closed-end funds are appropriate for riskier real estate investment strategies such as development, redevelopment, repositioning, and leasing. Indefinite-life, open-end funds often focus on core real estate strategies that provide steady cash flow from well-leased, high-quality commercial and residential real estate in desirable markets.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 81.1, LOS 81.a"
+      ],
+      "id": "S2Q22"
+    },
+    {
+      "num": 23,
+      "question": "An equal-weighted index has a value of 100 at the beginning of a period. The five securities that make up the index have the following prices for the period: Security Beginning price Ending price 1 20 22 2 80 72 3 130 143 4 250 225 5 320 352 The index value at the end of the period is:",
+      "options": {
+        "A": "101.40.",
+        "B": "101.75.",
+        "C": "102.00."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The return on an equal-weighted index for a period is a simple average of the returns on its constituent securities. The returns on the five securities are +10%, –10%, +10%, – 10%, and +10%. The index return is (10%, – 10%, + 10%, – 10% + 10%) / 5 = 2% and the index value is 100 × 1.02 = 102.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 42.1, LOS 42.e"
+      ],
+      "id": "S2Q23"
+    },
+    {
+      "num": 24,
+      "question": "Institutional investors in alternative assets are most likely to progress from:",
+      "options": {
+        "A": "direct investing to co-investing to fund investing.",
+        "B": "direct investing to fund investing to co-investing.",
+        "C": "fund investing to co-investing to direct investing."
+      },
+      "answer": "C",
+      "explanation": "C is correct. As an institutional investor starts investing in alternative investments, they often start with fund investing because they can rely on the expertise of the fund manager. Next, they may often progress to co-investing so they can learn from the expertise of the fund manager. Then, the institutional investor may apply what they have learned and acquire alternative investments directly.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 78.1, LOS 78.b"
+      ],
+      "id": "S2Q24"
+    },
+    {
+      "num": 25,
+      "question": "Which of the following investors typically have the lowest need for liquidity?",
+      "options": {
+        "A": "Banks.",
+        "B": "Mutual funds.",
+        "C": "Defined benefit pension plans."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Defined benefit pension plans pay out predetermined amounts to beneficiaries. These are long-term in nature and sponsoring entities have enough time to plan out their distributions such that liquidity needs are rarely pressing. Banks and mutual funds have significant liquidity needs, as their customers or investors may liquidate their holdings at any time.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 85.1, LOS 85.c"
+      ],
+      "id": "S2Q25"
+    },
+    {
+      "num": 26,
+      "question": "Multilateral trading facilities (MTFs) are most accurately described as:",
+      "options": {
+        "A": "exchanges.",
+        "B": "block brokers.",
+        "C": "alternative trading systems."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Multilateral trading facilities are another name for alternative trading systems, which serve the same trading function as exchanges but have no regulatory function.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 41.1, LOS 41.d"
+      ],
+      "id": "S2Q26"
+    },
+    {
+      "num": 27,
+      "question": "An investor holds a bond with a duration gap of +1. If the investor expects interest rates to immediately rise, selling the bond at the end of the investor's investment horizon would result in a:",
+      "options": {
+        "A": "loss, because price risk dominates.",
+        "B": "loss, because reinvestment risk dominates.",
+        "C": "gain, because reinvestment risk dominates."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A positive duration gap indicates that the bond's Macaulay duration is higher than the investor's investment horizon. In this case, price risk dominates and the investor would experience a loss on the bond.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 58.1, LOS 58.b"
+      ],
+      "id": "S2Q27"
+    },
+    {
+      "num": 28,
+      "question": "Infrastructure projects are most likely characterized by high:",
+      "options": {
+        "A": "barriers to entry.",
+        "B": "business cycle sensitivity.",
+        "C": "correlations of returns with public equities."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because they involve long-term contracts and typically high barriers to entry, infrastructure projects tend to provide stable cash flows that are relatively non-cyclical, and returns that exhibit low correlations with public equity markets.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 81.2, LOS 81.d"
+      ],
+      "id": "S2Q28"
+    },
+    {
+      "num": 29,
+      "question": "Bearing unsystematic risk should provide no additional expected return:",
+      "options": {
+        "A": "under any circumstances.",
+        "B": "if diversification is cost-free.",
+        "C": "in a strong-form efficient market."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The theory that bearing unsystematic risk will provide no additional expected return assumes that unsystematic risk can be diversified away at no cost.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 21.1, LOS 21.c"
+      ],
+      "id": "S2Q29"
+    },
+    {
+      "num": 30,
+      "question": "An economist determines that Argove Industries is a low-cost producer in its industry. As a result, the economist should expect that Argove can earn returns:",
+      "options": {
+        "A": "only at its cost of capital.",
+        "B": "above its cost of capital both in the short run and long run.",
+        "C": "above its cost of capital in the short run, but not in the long run."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A low-cost producer in an industry can earn both short-run and long-run returns above its cost of capital even in a competitive industry, as long as it can sustain its cost advantage relative to its competitors over time.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 45.2, LOS 45.c"
+      ],
+      "id": "S2Q30"
+    },
+    {
+      "num": 31,
+      "question": "During which stage of a portfolio company's development does a venture capital fund provide it with capital to prepare it for an initial public offering?",
+      "options": {
+        "A": "Later stage.",
+        "B": "Formative stage.",
+        "C": "Mezzanine stage."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The mezzanine stage refers to the timing of the financing, which occurs when a company is preparing to go public. The \"later stage\" happens after production and sales have begun, but prior to going public. The formative stage is early in a company's development.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 80.1, LOS 80.a"
+      ],
+      "id": "S2Q31"
+    },
+    {
+      "num": 32,
+      "question": "An organization's risk management process is least likely to:",
+      "options": {
+        "A": "measure its risks.",
+        "B": "minimize all its risks.",
+        "C": "identify its risk tolerance."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The risk management process seeks to (1) identify the organization's risk tolerance, (2) identify and measure the risks that the organization faces, and (3) modify and monitor these risks. The process does not seek to minimize or eliminate all of these risks. Because organizations and investment portfolios earn returns above the risk-free rate by taking on risk, they should not avoid risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 88.1, LOS 88.a"
+      ],
+      "id": "S2Q32"
+    },
+    {
+      "num": 33,
+      "question": "A portfolio manager is reviewing the performance of a portfolio and calculates the Treynor measure to be 4.29. The analyst should interpret this measure to mean that the portfolio:",
+      "options": {
+        "A": "has more risk than the market.",
+        "B": "outperformed the market based on systematic risk.",
+        "C": "achieved 4.29% higher returns than a portfolio on the Security Market Line with the same level of systematic risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Treynor measure expresses excess return per unit of systematic risk. The portfolio does not necessarily have more risk than the market. The percentage portfolio return above that of a portfolio with the same beta that lies on the SML is measured by Jensen's alpha, not the Treynor measure.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 21.2, LOS 21.i"
+      ],
+      "id": "S2Q33"
+    },
+    {
+      "num": 34,
+      "question": "Aros Funds manages a family of mutual funds and employs a team of fundamental analysts, who research firms by analyzing financial statements and SEC filings. Under which form(s) of the efficient market hypothesis (EMH) would Aros Funds have the potential to achieve positive risk-adjusted returns consistently using fundamental analysis?",
+      "options": {
+        "A": "Weak form only.",
+        "B": "Semistrong form and weak form.",
+        "C": "No form of the EMH is consistent with earning positive risk-adjusted returns using fundamental analysis."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Fundamental analysis (i.e., analysis of public non-market data) can produce positive risk-adjusted returns if markets are weak-form efficient but not semistrong-form efficient. Under the semistrong form of the EMH, fundamental analysis cannot consistently achieve positive risk-adjusted returns.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 43.1, LOS 43.e"
+      ],
+      "id": "S2Q34"
+    },
+    {
+      "num": 35,
+      "question": "An investor in a sponsored depository receipt (DR):",
+      "options": {
+        "A": "holds the voting rights for the DR shares.",
+        "B": "must obtain the foreign currency in which the DR is traded.",
+        "C": "should be familiar with market procedures and regulations in the DR issuer’s country."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In a sponsored DR, voting rights of the shares are held by the investor. In an unsponsored DR, voting rights are retained by the depository bank. An advantage of DR shares over direct investments in foreign companies is that DR shares trade in the investor's domestic market and currency.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 44.2, LOS 44.d"
+      ],
+      "id": "S2Q35"
+    },
+    {
+      "num": 36,
+      "question": "Which of the following mortgage-backed securities is most likely to feature credit tranching?",
+      "options": {
+        "A": "Sequential-pay collateralized mortgage obligations.",
+        "B": "Commercial mortgage-backed securities.",
+        "C": "Agency residential mortgage-backed securities."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Commercial mortgage-backed securities often feature credit tranching in which subordinated tranches are the first to absorb credit losses. Sequential-pay CMOs employ time tranching in which all principal payments flow to Tranche 1 up to its principal amount, then to Tranche 2 up to its principal amount, and so on. Agency RMBS are pass-through securities and do not feature credit tranching or time tranching.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 67.1, LOS 67.d"
+      ],
+      "id": "S2Q36"
+    },
+    {
+      "num": 37,
+      "question": "The Investment Constraints component of an IPS is least likely to state:",
+      "options": {
+        "A": "“No greater than a 3% probability of returns below –5% in any 12-month period.”",
+        "B": "“Due to the high tax rate of the investor, capital gains are preferential to dividend payouts.”",
+        "C": "“To comply with the investor’s religion, must not invest in securities which make explicit interest payments.”"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Risk and return objectives are considered within Investment Objectives rather than Investment Constraints, which includes liquidity needs, time horizon, tax considerations, legal and regulatory constraints, and unique circumstances of an investor. Religious preferences are likely to be covered within unique circumstances. Investor preferences with regards to capital gains or dividend distributions would also be considered within Investment Constraints, especially if these have different tax treatments.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 86.1, LOS 86.e"
+      ],
+      "id": "S2Q37"
+    },
+    {
+      "num": 38,
+      "question": "Ian Goode is analyzing the price of the preferred stock of MegaGym. Goode estimates that MegaGym's earnings growth rate over the next five years will be 20%, and that MegaGym's earnings will then grow at a sustainable rate of 5%. The most appropriate method for Goode to value MegaGym's preferred stock is to:",
+      "options": {
+        "A": "use a justified price-to-earnings multiple.",
+        "B": "use a multistage dividend discount model with 20% growth for five years and 5% thereafter.",
+        "C": "divide the preferred dividend by the required rate of return on MegaGym’s preferred stock."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The value of preferred stock is the preferred dividend divided by the required rate of return on the preferred. Earnings growth rates do not factor into the valuation of preferred stock since the dividend is typically fixed. Therefore, neither a historical price-to-earnings model nor a multistage dividend discount model is appropriate.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.2, LOS 48.g"
+      ],
+      "id": "S2Q38"
+    },
+    {
+      "num": 39,
+      "question": "A collateralized mortgage obligation with agency RMBS as the collateral is least likely to be created to offer securities with less:",
+      "options": {
+        "A": "default risk than the underlying RMBS.",
+        "B": "extension risk than the underlying RMBS.",
+        "C": "prepayment risk than the underlying RMBS."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Agency CMOs are created to reapportion prepayment risk, which includes extension and contraction risk. Agency CMOs have little or no default risk because they are backed by the government or by GSEs.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 67.1, LOS 67.c"
+      ],
+      "id": "S2Q39"
+    },
+    {
+      "num": 40,
+      "question": "Roland Carlson owns a portfolio of large capitalization stocks. Carlson has a positive long-term outlook for the stock market, but would like to protect his portfolio from any sudden declines in the stock market, without selling his holdings. The most likely way for Carlson to achieve his objective of limiting the downside risk of his portfolio is to:",
+      "options": {
+        "A": "sell put options on the S&P 500.",
+        "B": "sell an S&P 500 futures contract.",
+        "C": "buy an S&P 500 forward contract."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Losses on Carlson's portfolio of large cap stocks can be offset by gains on a short position in a futures contract. (Gains on the portfolio would be offset by futures losses.) He could also buy put options on the S&P 500. A long position in an S&P 500 forward contract would not offer any downside protection.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 70.1, LOS 70.b"
+      ],
+      "id": "S2Q40"
+    },
+    {
+      "num": 41,
+      "question": "Which of the following forward rates can be used to construct a forward yield curve?",
+      "options": {
+        "A": "1-year and 2-year forward rates one year from now.",
+        "B": "1-year forward rates one year and two years from now.",
+        "C": "1-year forward rate one year from now and 2-year forward rate two years from now."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A forward yield curve is composed of forward rates of the same tenor at different future periods.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 57.1, LOS 57.c"
+      ],
+      "id": "S2Q41"
+    },
+    {
+      "num": 42,
+      "question": "Which of the following is the most likely reason for an investment manager to produce an investment policy statement for a new client?",
+      "options": {
+        "A": "To minimize the risk level of the investments chosen.",
+        "B": "To verify that the client understands and agrees with the policies and procedures of the investing firm.",
+        "C": "To ensure that the manager has a clear understanding of the client’s needs, circumstances, and constraints."
+      },
+      "answer": "C",
+      "explanation": "C is correct. At a minimum, an IPS will contain a clear statement of client circumstances and constraints, an investment strategy based on these, and some benchmark against which to evaluate the account performance.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 86.1, LOS 86.a, LOS 86.b"
+      ],
+      "id": "S2Q42"
+    },
+    {
+      "num": 43,
+      "question": "An alternative investment partnership with a 2-and-20 fee structure has increased in value each period and earned a return of 8% net of management fees in 20x7. Under which of the following provisions would incentive fees for 20x7 be the highest?",
+      "options": {
+        "A": "5% hard hurdle rate and a high water mark provision.",
+        "B": "6% soft hurdle rate and a high water mark provision.",
+        "C": "7% hard hurdle rate and no high water mark provision."
+      },
+      "answer": "B",
+      "explanation": "B is correct. With a soft hurdle rate, the incentive fee is a percentage of the entire return once the hurdle rate is met. With a hard hurdle rate, the incentive fee is a percentage of return in excess of the hurdle rate. A high water mark does not affect the incentive fee for an account that has increased in value each period. A soft hurdle rate would result in incentive fees of 20% × 8% = 1.6% of assets; a 5% hard hurdle rate would result in incentive fees of 20% × (8% − 5%) = 0.6% of assets; and a 7% hard hurdle rate would result in incentive fees of 20% × (8% − 7%) = 0.2% of assets.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 78.1, LOS 78.c"
+      ],
+      "id": "S2Q43"
+    },
+    {
+      "num": 44,
+      "question": "Contingent convertible bonds are described most accurately as those which, if a specified event occurs:",
+      "options": {
+        "A": "become convertible to equity.",
+        "B": "convert automatically to equity.",
+        "C": "increase the equity conversion ratio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Contingent convertible bonds are converted automatically to common stock if a specified event occurs.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 50.1, LOS 50.a"
+      ],
+      "id": "S2Q44"
+    },
+    {
+      "num": 45,
+      "question": "Sacco, Inc., has nine directors on its board. Three seats are elected annually using a cumulative voting system. An investor who owns 600 shares of Sacco common stock may give a maximum of:",
+      "options": {
+        "A": "600 votes to a single board candidate.",
+        "B": "1,800 votes to a single board candidate.",
+        "C": "600 votes to a candidate for each board seat."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under cumulative voting, with three board seats up for election, the shareholder can cast up to 1,800 votes for one candidate. In a statutory voting system, an investor who holds 600 shares can cast 600 votes in the election for each seat.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 44.1, LOS 44.b"
+      ],
+      "id": "S2Q45"
+    },
+    {
+      "num": 46,
+      "question": "Which of the following types of index is least likely to require frequent reconstitution of constituent securities?",
+      "options": {
+        "A": "Equity index.",
+        "B": "Commodity index.",
+        "C": "Fixed income index."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Equity indexes typically require reconstitution only in response to corporate events, such as mergers or bankruptcies. Commodity indexes, which use futures contracts as their constituent securities, and fixed income indexes require frequent reconstitution as futures contracts expire and bonds mature.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 42.2, LOS 42.k"
+      ],
+      "id": "S2Q46"
+    },
+    {
+      "num": 47,
+      "question": "Greenbaum, Inc. stock pays no dividend and currently trades at $54. Based on the CAPM and assuming an expected return on the market of 12% and a risk-free rate of 8%, the expected price for Greenbaum one year from now is $62. The beta of Greenbaum shares is closest to:",
+      "options": {
+        "A": "1.5.",
+        "B": "1.6.",
+        "C": "1.7."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Greenbaum's expected return for the coming year is (62 / 54) − 1 = 14.8%. Its risk premium relative to the risk-free rate is 14.8% – 8.0% = 6.8%. The market risk premium is 12% − 8% = 4%. Therefore, the beta of Greenbaum must be 6.8 / 4.0 = 1.7.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 21.1, LOS 21.e"
+      ],
+      "id": "S2Q47"
+    },
+    {
+      "num": 48,
+      "question": "The time value of a put option on an asset that provides no cash flows would most likely be increased by:",
+      "options": {
+        "A": "an increase in the exercise price.",
+        "B": "an increase in the asset’s price volatility.",
+        "C": "a decrease in the value of the underlying asset."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An increase in volatility will increase the value of a put option but will not change its intrinsic value, so it is the time value that increases. Changes in the exercise price or the value of the underlying asset will change an option's intrinsic or exercise value.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 75.1, LOS 75.c"
+      ],
+      "id": "S2Q48"
+    },
+    {
+      "num": 49,
+      "question": "Compared to traditional investments, alternative investments are least likely to exhibit:",
+      "options": {
+        "A": "higher fees.",
+        "B": "less manager specialization.",
+        "C": "more concentrated portfolios."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Compared to traditional investments, alternative investments exhibit greater manager specialization, more concentrated portfolios, and higher average fees.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 78.1, LOS 78.a"
+      ],
+      "id": "S2Q49"
+    },
+    {
+      "num": 50,
+      "question": "An investor places a market order to buy a stock on the holder-of-record date for the stock's next dividend. Is the investor entitled to receive this dividend?",
+      "options": {
+        "A": "No, because the order is placed after the declaration date.",
+        "B": "No, because the order is settled after the holder-of-record date.",
+        "C": "Yes, because the order is executed on the holder-of-record date."
+      },
+      "answer": "B",
+      "explanation": "B is correct. To receive the next dividend, an investor must buy a stock before its ex-dividend date, which is one or two business days before the holder-of-record date. This one- or two-day period allows orders executed before the ex-dividend date to be settled by the holder-of-record date. The buyer would be entitled to the dividend if the order was executed after the declaration date but before the ex-dividend date.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.1, LOS 48.c"
+      ],
+      "id": "S2Q50"
+    },
+    {
+      "num": 51,
+      "question": "Ann Lloyd observes that a 3-year senior unsecured bond of Hawk, Inc. has a rating of Baa3/BBB– and a 3-year senior unsecured bond of Osprey, Inc. has a rating of Ba1/BB+. Based only on this information, Lloyd can most appropriately conclude that:",
+      "options": {
+        "A": "credit risk is greater for the Osprey bond than for the Hawk bond.",
+        "B": "loss severity is greater for the Osprey bond than for the Hawk bond.",
+        "C": "the Hawk bond is investment grade and the Osprey bond is non-investment grade."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The classifications \"investment grade\" and \"non-investment grade\" are based on ratings from recognized credit rating agencies. Bonds rated Baa3/BBB– or higher are classified as investment grade, while bonds rated Ba1/BB+ or lower are classified as non-investment grade. However, an analyst should not rely exclusively on credit ratings to draw conclusions about the credit risk or loss severity of bond investments.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 62.1, LOS 62.b"
+      ],
+      "id": "S2Q51"
+    },
+    {
+      "num": 52,
+      "question": "Because of biases in return measurements, hedge fund data are most likely to:",
+      "options": {
+        "A": "overstate returns and overstate risk.",
+        "B": "overstate returns and understate risk.",
+        "C": "understate returns and overstate risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Survivorship bias in hedge fund returns contributes to overstatement of performance. Asset valuations based on models and appraisals contribute to understatement of risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 79.1, LOS 79.a"
+      ],
+      "id": "S2Q52"
+    },
+    {
+      "num": 53,
+      "question": "The sensitivity of a derivative's value to the price of the underlying asset is measured by the derivative's:",
+      "options": {
+        "A": "beta.",
+        "B": "delta.",
+        "C": "gamma."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Delta measures the sensitivity of a derivative's value to the price of its underlying asset. Gamma measures the sensitivity of delta to the price of the underlying asset. Beta measures the market risk of a security.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 88.1, LOS 88.g"
+      ],
+      "id": "S2Q53"
+    },
+    {
+      "num": 54,
+      "question": "An analyst develops the following information to value a common stock. Last year's earnings per share = $4.00 Real risk-free rate = 4% Inflation premium = 5% Return on equity (ROE), expected to remain constant in the future = 10% Dividend payout, expected to remain stable in the future = 30% Stock's beta = 1.4 Expected market return = 14% The value per share is closest to:",
+      "options": {
+        "A": "$14.39.",
+        "B": "$21.28.",
+        "C": "$31.39."
+      },
+      "answer": "A",
+      "explanation": "A is correct. RFRnominal = (1 + RFRreal)(1 + IP) − 1 = (1.04)(1.05) − 1 = 1.0920 − 1 = 0.0920 = 9.20% Using the CAPM, the required rate of return (ke) = RFRnominal + β(Rmkt − RFRnominal) = 9.20% + 1.4(14.0% − 9.2%) = 9.20% + 6.72% = 15.92% The retention rate (RR) = 1 − dividend payout ratio = 1 − 0.30 = 0.70 The growth rate (gc) = (RR)(ROE) = (0.70)(10%) = 7.00% D0 = E0(dividend payout) = $4.00(0.30) = $1.20 Next year's dividend (D1) = D0(1 + gc) = $1.20(1 + 0.07) = 1.284 P0 = D1 / (ke − g) = 1.284 / (0.1592 − 0.07) = 14.39.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.3, LOS 48.k"
+      ],
+      "id": "S2Q54"
+    },
+    {
+      "num": 55,
+      "question": "Bond X and Bond Y were issued at a premium to par value three years ago. Bond X matures in five years, and Bond Y matures in ten years. Both bonds carry the same credit rating. Bond X has a coupon of 7.25%, and Bond Y has a coupon of 8.00%. If the yield to maturity for both bonds is 7.60% today:",
+      "options": {
+        "A": "both bonds are priced at a premium.",
+        "B": "Bond X is priced at a premium, and Bond Y is priced at a discount.",
+        "C": "Bond X is priced at a discount, and Bond Y is priced at a premium."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because Bond X has a coupon rate that is below the required yield, it will trade at a discount to par. Bond Y, with a coupon rate greater than the required yield, will trade at a premium to par. The fact that both bonds were issued at premiums does not matter, nor does the difference in time to maturity.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 54.1, LOS 54.b"
+      ],
+      "id": "S2Q55"
+    },
+    {
+      "num": 56,
+      "question": "An investor uses options on a stock to create a synthetic short position in a risk-free bond that will pay the exercise price at option expiration. To create this position, the investor will buy:",
+      "options": {
+        "A": "a put option.",
+        "B": "a call option.",
+        "C": "the underlying stock."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using the put-call parity relationship, a synthetic short position in a risk-free bond that pays the exercise price at expiration can be created by buying a call, writing a put, and taking a short position in the stock.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 76.1, LOS 76.a"
+      ],
+      "id": "S2Q56"
+    },
+    {
+      "num": 57,
+      "question": "Kate Johnson owns shares of a stock that currently trades at $15. If Johnson wants to buy more shares if the price increases to $17, she should enter a:",
+      "options": {
+        "A": "stop buy order at $17.",
+        "B": "limit order to buy at $17.",
+        "C": "market order to buy at $17."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An order to buy if a price increases to a specified level is a stop buy order. A limit order at $17 will execute immediately if the market price is $15. A market order does not specify a price, but is executed at the prevailing market price.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 41.3, LOS 41.h"
+      ],
+      "id": "S2Q57"
+    },
+    {
+      "num": 58,
+      "question": "A commodity market is in contango if the spot price is:",
+      "options": {
+        "A": "higher than futures prices.",
+        "B": "equal to futures prices.",
+        "C": "lower than futures prices."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A commodity market is contango if the futures price is higher than the spot price.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 82.1, LOS 82.b"
+      ],
+      "id": "S2Q58"
+    },
+    {
+      "num": 59,
+      "question": "A waterfall structure in a securitized bond issue:",
+      "options": {
+        "A": "is a form of external credit enhancement.",
+        "B": "allows the entire issue to obtain a better credit rating.",
+        "C": "gives some bondholders a higher priority of claims than others."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In a securitized bond issue with a waterfall structure, the bonds are issued in tranches with varying levels of seniority. Any losses arising from the underlying assets are absorbed first by the tranches with the lowest seniority. Thus, tranches have different levels of default risk and therefore are likely to have different credit ratings. The structure is a form of internal credit enhancement.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 66.1, LOS 66.b"
+      ],
+      "id": "S2Q59"
+    },
+    {
+      "num": 60,
+      "question": "A put option with an exercise price of $75 sells for a premium of $10. At expiration, the put buyer may experience a loss:",
+      "options": {
+        "A": "of as much as $10.",
+        "B": "of as much as $65.",
+        "C": "that is theoretically unlimited."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The greatest loss a put buyer can experience is the premium paid. If the price of the underlying asset decreased to zero, the put writer would experience a loss of ($0 – $75) + $10 = –$65.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 69.2, LOS 69.b"
+      ],
+      "id": "S2Q60"
+    },
+    {
+      "num": 61,
+      "question": "Chris Renburg owns the following portfolio of option-free bonds: Par value Full price Duration $3,000,000 $2,400,000 4.625 $3,500,000 $3,600,000 7.322 $1,500,000 $1,200,000 9.300 $8,000,000 $7,200,000 The duration of Renburg's bond portfolio is closest to:",
+      "options": {
+        "A": "6.6.",
+        "B": "6.8.",
+        "C": "7.0."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Portfolio duration is the weighted average of component securities, using full prices: (2,400,000 / 7,200,000) × 4.625 + (3,600,000 / 7,200,000) × 7.322 + (1,200,000 / 7,200,000) × 9.3 = 6.753.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 60.1, LOS 60.c"
+      ],
+      "id": "S2Q61"
+    },
+    {
+      "num": 62,
+      "question": "A firm attempts to gain market share from its competitors by improving its manufacturing efficiency so that it can increase output and reduce the price of its product. This firm's competitive strategy is most accurately described as:",
+      "options": {
+        "A": "an offensive differentiation strategy.",
+        "B": "an offensive cost leadership strategy.",
+        "C": "a defensive cost leadership strategy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Cost leadership is a competitive strategy in which a firm attempts to become the lowest-cost producer in the industry. This will enable the firm to offer lower prices than its competitors. A differentiation strategy involves making a product distinctive compared to competing products so that customers will be willing to pay a premium price. A competitive strategy is described as defensive if it is used to maintain a firm's market share and offensive if it is used to gain market share.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 46.2, LOS 46.e"
+      ],
+      "id": "S2Q62"
+    },
+    {
+      "num": 63,
+      "question": "Which of the following sources of short-term funding for banks is most likely to have the lowest interest cost?",
+      "options": {
+        "A": "Interbank funds.",
+        "B": "Checking deposits.",
+        "C": "Central bank funds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Typically, banks do not pay interest on customer checking account deposits. A bank that borrows in either the central bank funds market or the interbank market incurs interest costs.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 52.1, LOS 52.a"
+      ],
+      "id": "S2Q63"
+    },
+    {
+      "num": 64,
+      "question": "The convenience yield associated with holding the underlying asset of a derivative is most accurately described as:",
+      "options": {
+        "A": "the nonmonetary benefits of holding the asset.",
+        "B": "the monetary and nonmonetary benefits of holding the asset.",
+        "C": "the monetary and nonmonetary benefits of holding the asset, net of its holding costs."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Convenience yield refers to the nonmonetary benefits of holding an asset. An example is being in a position to sell an overvalued asset that is difficult to sell short. Convenience yield does not include monetary benefits such as interest and dividend income. The costs of holding the asset, net of the monetary and nonmonetary benefits of holding it, is referred to as the net cost of carry.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 71.1, LOS 71.b"
+      ],
+      "id": "S2Q64"
+    },
+    {
+      "num": 65,
+      "question": "The problem of investment managers taking offsetting active positions is most likely addressed by employing:",
+      "options": {
+        "A": "risk budgeting.",
+        "B": "tactical asset allocation.",
+        "C": "a core-satellite approach."
+      },
+      "answer": "C",
+      "explanation": "C is correct. With a core-satellite approach, a majority of the assets are invested passively (in the \"core\" portfolio) with a smaller proportion in actively managed \"satellite\" portfolios. This reduces the likelihood of excessive trading and offsetting active positions.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 86.1, LOS 86.g"
+      ],
+      "id": "S2Q65"
+    },
+    {
+      "num": 66,
+      "question": "Which of the following bonds is most likely to have the greatest convexity at a yield to maturity of 3.5%?",
+      "options": {
+        "A": "2-year, 3% coupon bond.",
+        "B": "5-year, 4% coupon bond.",
+        "C": "10-year, zero-coupon bond."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Other things equal, convexity is greater for bonds with longer maturities and lower coupon rates.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 60.1, LOS 60.a"
+      ],
+      "id": "S2Q66"
+    },
+    {
+      "num": 67,
+      "question": "Yield spreads are most likely to widen in a market environment that exhibits:",
+      "options": {
+        "A": "slowing economic growth.",
+        "B": "high GDP growth rates.",
+        "C": "lower-than-normal supply of new bond issuance."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Slowing economic growth reduces firm profitability and creditworthiness and causes yield spreads to widen. Higher-than-normal supply of new bonds can cause yield spreads to widen. Yield spreads tend to narrow during expansions when GDP growth rates are high.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 62.1, LOS 62.c"
+      ],
+      "id": "S2Q67"
+    },
+    {
+      "num": 68,
+      "question": "A securities exchange is structured as a call market. On that exchange, a stock would trade at:",
+      "options": {
+        "A": "any time the market is open.",
+        "B": "one negotiated price that clears the market.",
+        "C": "prices set by auction or by dealer bid-ask quotes."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In a call market, stocks trade at specific times at one price that clears the market for the stock. In continuous markets, trades occur at any time the market is open at prices set by auction or by dealer quotes.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 41.3, LOS 41.j"
+      ],
+      "id": "S2Q68"
+    },
+    {
+      "num": 69,
+      "question": "Enterprise value is most accurately interpreted as the:",
+      "options": {
+        "A": "cost to take over a firm.",
+        "B": "fair market value of a firm’s equity.",
+        "C": "market value of a firm’s equity plus the market value of its debt."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Enterprise value equals the market value of a firm's common stock and debt minus its cash and short-term securities. Enterprise value is interpreted as the amount that would be needed to take over a firm.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.3, LOS 48.l"
+      ],
+      "id": "S2Q69"
+    },
+    {
+      "num": 70,
+      "question": "The period of time during which a private capital fund will select investments and direct committed capital to them is best described as a:",
+      "options": {
+        "A": "notice period.",
+        "B": "lockup period.",
+        "C": "drawdown period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The drawdown period for a private equity fund is the span of time over which the fund will draw down its committed capital and use it to invest in portfolio companies. Lockup periods and notice periods are related to hedge fund redemptions.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 78.1, LOS 78.c"
+      ],
+      "id": "S2Q70"
+    },
+    {
+      "num": 71,
+      "question": "Kathy Hurst is valuing a 4-year zero coupon security and has acquired the following information: 1-year spot rate 6.0% 4-year spot rate 7.5% 1-year forward rate 1 year from now 7.3% 1-year forward rate 3 years from now 8.9% The 1-year forward rate 2 years from now is closest to:",
+      "options": {
+        "A": "7.3%.",
+        "B": "7.8%.",
+        "C": "8.0%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. (1 + S4)^4 = (1 + S1)(1 + 1y1y)(1 + 2y1y)(1 + 3y1y); (1.075)^4 = (1.06)(1.073)(1 + 2y1y)(1.089); 1 + 2y1y = 0.078.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 57.1, LOS 57.b"
+      ],
+      "id": "S2Q71"
+    },
+    {
+      "num": 72,
+      "question": "An investor writes a put option that will expire in six months with an exercise price of 23 when the underlying price is 20. The investor will collect a premium that is:",
+      "options": {
+        "A": "equal to 3.",
+        "B": "less than 3.",
+        "C": "greater than 3."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The option premium at initiation will equal the option's exercise value of 23 – 20 = 3 plus some positive time value.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 75.1, LOS 75.a"
+      ],
+      "id": "S2Q72"
+    },
+    {
+      "num": 73,
+      "question": "An investor who would only sell shares he owns for $58 or more, but would not buy the same shares for more than $53, is exhibiting:",
+      "options": {
+        "A": "status quo bias.",
+        "B": "endowment bias.",
+        "C": "conservatism bias."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The tendency to value something already owned more than the same thing if it were not already owned is referred to as endowment bias.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 87.1, LOS 87.b"
+      ],
+      "id": "S2Q73"
+    },
+    {
+      "num": 74,
+      "question": "Regulations are most likely to increase market efficiency if they:",
+      "options": {
+        "A": "increase the availability of information.",
+        "B": "limit short-selling to qualified investors.",
+        "C": "decrease the incidence of arbitrage trading."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Increasing the availability of information is likely to increase market efficiency. Impediments to trading likely decrease market efficiency.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 43.1, LOS 43.c"
+      ],
+      "id": "S2Q74"
+    },
+    {
+      "num": 75,
+      "question": "For an underlying asset with no holding costs or benefits, the no-arbitrage forward price equals:",
+      "options": {
+        "A": "the spot price.",
+        "B": "the future value of the spot price.",
+        "C": "zero at initiation of a forward contract."
+      },
+      "answer": "B",
+      "explanation": "B is correct. With no costs or benefits to holding the underlying asset, the no-arbitrage forward price is the future value of the spot price, compounded at the risk-free rate over the term of a forward contract.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 72.1, LOS 72.a"
+      ],
+      "id": "S2Q75"
+    },
+    {
+      "num": 76,
+      "question": "Effective duration is the most appropriate measure of interest rate risk when:",
+      "options": {
+        "A": "a bond’s credit rating may change significantly.",
+        "B": "the investor is seeking to minimize a duration gap.",
+        "C": "the path of interest rate changes affects a bond’s cash flows."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For bonds with future cash flows that depend on the path of interest rate changes, such as those with embedded options, effective duration is the most appropriate measure of interest rate risk. A duration gap relative to an investor's horizon is measured using Macaulay duration. The effect of rating changes may be estimated using credit duration.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 61.1, LOS 61.a"
+      ],
+      "id": "S2Q76"
+    },
+    {
+      "num": 77,
+      "question": "A bond indenture states that the source of funds for repayment will be tolls paid by drivers using a highway constructed with the bond proceeds. This bond is most likely a:",
+      "options": {
+        "A": "secured bond.",
+        "B": "revenue bond.",
+        "C": "quasi-government bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Revenue bonds are municipal bonds that will be repaid from revenues generated by a specific project such as a toll road. Secured bonds have specific assets pledged as collateral. Quasi-government entities are agencies created by sovereign governments.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 63.1, LOS 63.a"
+      ],
+      "id": "S2Q77"
+    },
+    {
+      "num": 78,
+      "question": "Jim Boo is analyzing Justin Corp., a maker of home appliances. Boo's research provides the following facts: Justin's stock price is $60 per share. Expected growth rate of dividends is 5%. Expected retention rate is 60%. Required rate of return is 10%. Justin's expected price to earnings ratio (P0/E1) is closest to:",
+      "options": {
+        "A": "8.0x.",
+        "B": "10.0x.",
+        "C": "12.0x."
+      },
+      "answer": "A",
+      "explanation": "A is correct. P0/E1 = (D1/E1)/(k − g) = (1 − 0.6)/(0.1 − 0.05) = 8.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.3, LOS 48.k"
+      ],
+      "id": "S2Q78"
+    },
+    {
+      "num": 79,
+      "question": "Which of the following pooled investments is likely to require the smallest minimum investment amount?",
+      "options": {
+        "A": "Wrap fee account.",
+        "B": "Market neutral fund.",
+        "C": "Closed-end mutual fund."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Closed-end mutual fund shares can be purchased for market-determined prices. Hedge funds (which include market neutral funds) and wrap fee (separately managed) accounts typically require substantial minimum investment amounts.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 85.2, LOS 85.f"
+      ],
+      "id": "S2Q79"
+    },
+    {
+      "num": 80,
+      "question": "With regard to equivalent forward and futures contracts with an interest rate as the underlying, convexity bias results in:",
+      "options": {
+        "A": "no significant differences between forward and futures prices in practice.",
+        "B": "significant differences between forward and futures prices for long-term interest rates.",
+        "C": "significant differences between forward and futures prices for short-term interest rates."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Convexity bias can cause forward and futures prices to differ significantly for contracts on longer-term interest rates.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 73.1, LOS 73.b"
+      ],
+      "id": "S2Q80"
+    },
+    {
+      "num": 81,
+      "question": "A given percentage change in one of the 30 stocks in the Dow Jones Industrial Average (DJIA) will have the greatest impact on the DJIA for which index stock?",
+      "options": {
+        "A": "The one whose total equity has the highest market value.",
+        "B": "The one whose stock trades at the highest dollar price per share.",
+        "C": "The one having the greatest amount of equity in its capital structure."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Dow Jones Industrial Average is a price-weighted index. If each of its stocks changes by the same percentage, the stock with the largest impact on the index will be the one with the highest price per share.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 42.2, LOS 42.i"
+      ],
+      "id": "S2Q81"
+    },
+    {
+      "num": 82,
+      "question": "Bond X carries a rating of BBB-/Baa3. Bond Y has a rating of B/B2. Both bonds mature in 10 years. Which bond's value would be most affected by a ratings downgrade, and which bond has the higher default risk?",
+      "options": {
+        "A": "Bond X would be more affected by a ratings downgrade, but Bond Y has higher default risk.",
+        "B": "Bond Y would be more affected by a ratings downgrade, but Bond X has higher default risk.",
+        "C": "Bond X has higher default risk, but both bonds would experience similar effects of a ratings downgrade."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Bond X carries the lowest investment grade rating. If it is downgraded, it will fall to a speculative rating, and many investors will be restricted from owning it. A downgrade would therefore have a more significant impact on Bond X. Bond Y carries a speculative rating that implies more risk of default than the higher rated Bond X.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 62.1, LOS 62.b"
+      ],
+      "id": "S2Q82"
+    },
+    {
+      "num": 83,
+      "question": "An investor purchased a stock for $60 a share using margin from his broker. If the initial margin requirement is 40%, and the maintenance margin requirement is 20%, a margin call will initially be triggered below a share price of:",
+      "options": {
+        "A": "$30.",
+        "B": "$45.",
+        "C": "$48."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Margin call price = P0 × [(1 − initial margin%)/(1 − maintenance margin%)] = $60 × [(1 − 0.40)/(1 − 0.20)] = $60(0.75) = $45.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 41.2, LOS 41.f"
+      ],
+      "id": "S2Q83"
+    },
+    {
+      "num": 84,
+      "question": "Arkex Funds is a hedge fund with a value of $100 million at the beginning of the year. Arkex Funds charges a 2.0% management fee based on assets under management at the beginning of the year and a 20.0% incentive fee with a 5.0% hard hurdle rate. Incentive fees are calculated net of management fees. The value of the fund at the end of the year before fees is $110 million. The net return to investors is closest to:",
+      "options": {
+        "A": "6.8%.",
+        "B": "7.4%.",
+        "C": "8.0%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Management fee = $100 million × 2.0% = $2.0 million Incentive fee = [$110 million − $100 million − $2 million − ($100 million × 5.0%)] × 20% = $0.6 million Total fee = $2.0 million + $0.6 million = $2.6 million End-of-year value after fees = $110.0 − $2.60 = $107.4 million Net return = ($107.4 million / $100.0 million) − 1 = 7.4%.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 79.1, LOS 79.b"
+      ],
+      "id": "S2Q84"
+    },
+    {
+      "num": 85,
+      "question": "An investor buys an October 80 put option on a stock for a premium of $5. On the expiration date the stock price is 78 per share. The investor's gain or loss on the option is:",
+      "options": {
+        "A": "a loss of $2.",
+        "B": "a loss of $3.",
+        "C": "a gain of $2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The intrinsic value of a put is the greater of zero or the difference between the exercise price and the stock price if stock price. This option is in the money by 80 – 78 = 2. The gain or loss is equal to the intrinsic value minus the premium paid: 2 – 5 = –3.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 69.2, LOS 69.b"
+      ],
+      "id": "S2Q85"
+    },
+    {
+      "num": 86,
+      "question": "An investor buys an annual pay, 4% coupon bond for 102. The trade will settle immediately after the annual coupon payment and the bond has five years left to maturity. The investor sells the bond two years later for 101.5. The investor's holding period return on the bond includes:",
+      "options": {
+        "A": "a capital loss.",
+        "B": "a capital gain.",
+        "C": "neither a capital loss nor gain."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The yield to maturity at the time of purchase is: N = 5; PV = –102; PMT = 4; FV = 100; CPT I/Y = 3.5563%. The bond's constant-yield price two years later is: N = 3; I/Y = 3.5563; PMT = 4; FV = 100; CPT PV = –101.24. Because the price is greater than the constant-yield price, the investor has a capital gain on the sale.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 58.1, LOS 58.a"
+      ],
+      "id": "S2Q86"
+    },
+    {
+      "num": 87,
+      "question": "Gerald Snow is a bond manager for Long Vision Investments. Snow is evaluating potential arbitrage opportunities. He has the following list of bonds: Bond X is a 1-year zero coupon bond selling at 950. Bond Y is a 2-year zero coupon bond selling at 850. Bond Z is a 2-year bond with an annual coupon of 8%. All three bonds have a par value of $1,000. If no arbitrage opportunity exists, the price of Bond Z is closest to:",
+      "options": {
+        "A": "$975.",
+        "B": "$995.",
+        "C": "$1,015."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bond X = 1000 / 950 = 1.0526; Bond Y = 1000 / 850 = 1.1765 80 / (1.0526) = 76; 1080 / (1.1765) = 917.98 Bond Z = 76 + 917.98 = 993.98 ≈ 995 The arbitrage-free valuation approach applies time-appropriate spot interest rates to each cash flow of the bond.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 57.1, LOS 57.a"
+      ],
+      "id": "S2Q87"
+    },
+    {
+      "num": 88,
+      "question": "An equally weighted portfolio of five securities has a standard deviation of returns of 10%. The average standard deviation of returns of the five securities is 15%. If another security with a standard deviation of returns of 15% is added to the portfolio, and the weights are adjusted to restore equal weighting, the portfolio's diversification ratio is most likely to:",
+      "options": {
+        "A": "increase.",
+        "B": "decrease.",
+        "C": "remain unchanged."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The diversification ratio is the standard deviation of an equally weighted portfolio's returns divided by the average standard deviation of returns of the securities in the portfolio. Adding a security with a standard deviation equal to the average will decrease the portfolio standard deviation as long as the added security's returns are not perfectly positively correlated with the portfolio's returns. The result is a lower diversification ratio, which indicates a greater benefit from diversification.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 85.1, LOS 85.a"
+      ],
+      "id": "S2Q88"
+    },
+    {
+      "num": 89,
+      "question": "Larry Rile is evaluating the investment merits of Bing Corp., a successful motorcycle manufacturer. Rile is forecasting a dividend in year 1 of $1.50 per share, a dividend in year 2 of $3.00 per share, and a dividend in year 3 of $4.50 per share. After year 3, Rile expects dividends to grow at the rate of 6% per year. Rile calculates a beta of 1.3 for Bing. Rile expects the S&P 500 index to return 8%. The U.S. Treasury bill is yielding 2%. Using the multistage dividend discount model, Bing's intrinsic value is closest to:",
+      "options": {
+        "A": "$92 per share.",
+        "B": "$102 per share.",
+        "C": "$112 per share."
+      },
+      "answer": "B",
+      "explanation": "B is correct. D1 = 1.50; D2 = 3.00; D3 = 4.50; g = 0.06; required return = RFR + β(Rm − RFR); required return = 0.02 + 1.3(0.08 − 0.02) = 0.098; P3 = (4.50×1.06)/(0.098−0.06) = 4.77/0.038 = 125.53; V = 1.50/1.098 + 3.00/(1.098)^2 + (4.50+125.53)/(1.098)^3 = 102.08.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 48.2, LOS 48.h"
+      ],
+      "id": "S2Q89"
+    },
+    {
+      "num": 90,
+      "question": "Mountie Bank is a financial institution with a $300 million senior unsecured bond outstanding. Mountie is considering setting up MB Trust as a bankruptcy remote special purpose entity. If MB Trust issues a $500 million bond through a securitized transaction secured by Mountie's customer receivables, the MB Trust bond would:",
+      "options": {
+        "A": "be senior to the Mountie bond.",
+        "B": "rank pari passu with the Mountie bond.",
+        "C": "not have a seniority ranking relative to the Mountie bond."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Mountie Bank and MB Trust are two distinct legal entities. As a result, seniority ranking does not apply between the two bonds.",
+      "answer_source": "green_check",
+      "tags": [
+        "Module 65.1, LOS 65.b"
+      ],
+      "id": "S2Q90"
+    }
+  ]
+}

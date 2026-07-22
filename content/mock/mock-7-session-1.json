@@ -1,0 +1,1449 @@
+{
+  "schema_version": 1,
+  "name": "Mock 7 — Session 1",
+  "group": "Mock 7",
+  "source": "Mock Exam 4 (Q1-90)",
+  "timed_minutes": 135,
+  "questions": [
+    {
+      "id": "S1Q1",
+      "num": 1,
+      "question": "Which of the following statements about ethical behavior is most accurate?",
+      "options": {
+        "A": "Legal standards typically set a higher standard of behavior than ethical standards.",
+        "B": "Personal traits are the most important determinant of the ethical quality of one’s behavior.",
+        "C": "Unethical behavior in the investment industry increases the cost of capital for businesses."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Unethical behavior in the investment industry increases the cost of capital for businesses by increasing savers' perceived risk of providing funds, causing them to demand a higher rate of return on the capital they provide. Situational influences external to an individual are claimed to be a more important determinant of ethical behavior than personal traits. Ethical standards often set a higher standard of behavior than legal standards.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 89.1, LOS 89.g)"
+      ]
+    },
+    {
+      "id": "S1Q2",
+      "num": 2,
+      "question": "In accrual accounting, the matching principle states that:",
+      "options": {
+        "A": "an entity should recognize revenues only when received and expenses only when they are paid.",
+        "B": "transactions and events producing cash flows are allocated only to time periods in which the cash flows occur.",
+        "C": "expenses incurred to generate revenue are recognized in the same time period as the revenue."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The matching principle holds that expenses should be accounted for in the same performance measurement period as the revenue they generate.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 30.2, LOS 30.b)"
+      ]
+    },
+    {
+      "id": "S1Q3",
+      "num": 3,
+      "question": "Which of the following most accurately characterizes a company in the mature stage of the industry life cycle?",
+      "options": {
+        "A": "High business risk.",
+        "B": "Increasing growth rate of revenue.",
+        "C": "Significant use of debt financing."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In the mature stage, cash flow is significant and relatively stable, allowing for the greater use of leverage compared to earlier stages of a company's life cycle. Business risk tends to be low and revenue growth is typically slowing in the mature stage.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 27.1, LOS 27.b)"
+      ]
+    },
+    {
+      "id": "S1Q4",
+      "num": 4,
+      "question": "Donald Smith, CFA, has been assigned by his employer to write a report for clients on Braden Corporation. Smith has 1,000 shares of Braden that he bought three years ago and has been discussing a consulting contract with Braden to write guidelines for their investor relations department. If Smith writes the report on Braden Corporation, he must disclose within the report:",
+      "options": {
+        "A": "both his ownership of Braden shares and his prospective consulting work.",
+        "B": "and to his employer his prospective consulting work but not his ownership of Braden shares.",
+        "C": "his ownership of Braden shares but need only disclose his prospective consulting work to his employer."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Both ownership of Braden stock and the possible consulting work present potential conflicts of interest for Smith and must be disclosed within the report to comply with Standard VI(A) Disclosure of Conflicts.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.8, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q5",
+      "num": 5,
+      "question": "An activist shareholder that wishes to change a company's actions is least likely to initiate a:",
+      "options": {
+        "A": "poison pill.",
+        "B": "tender offer.",
+        "C": "proxy contest."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A poison pill is a takeover defense. Proxy contests and tender offers are among the actions available to activist shareholders.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 24.1, LOS 24.b)"
+      ]
+    },
+    {
+      "id": "S1Q6",
+      "num": 6,
+      "question": "In the most recent year, a company decreased its inventory turnover ratio from 6 to 5 compared to the previous year. Based on this ratio, an analyst may conclude that:",
+      "options": {
+        "A": "sales are 5 times greater than average inventory.",
+        "B": "the company is turning over its inventory every 73 days.",
+        "C": "the company has decreased its days of inventory on hand."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Inventory turnover of 5 means the company is turning over its inventory every 365 / 5 = 73 days, and that cost of goods sold (not sales) are 5 times greater than average inventory. The company has increased its days of inventory on hand from 365 / 6 = 60.8 in the previous year.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 39.2, LOS 39.b)"
+      ]
+    },
+    {
+      "id": "S1Q7",
+      "num": 7,
+      "question": "An analyst is testing the hypothesis that the variance of monthly returns for Index L equals the variance of monthly returns for Index M based on samples of 50 monthly observations. The sample variance of Index L returns is 0.085, whereas the sample variance of Index M returns is 0.084. Assuming the samples are independent and the returns are normally distributed, which of the following represents the most appropriate test statistic?",
+      "options": {
+        "A": "(sample variance of Index L) / (sample variance of Index M)",
+        "B": "(variance of Index L − variance of Index M) / (standard error of squared differences)",
+        "C": "[(degrees of freedom) × (Index L sample variance)] / (Index M sample variance)"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The appropriate test is an F-test, where the larger sample variance (Index L) is placed in the numerator.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 8.2, LOS 8.b)"
+      ]
+    },
+    {
+      "id": "S1Q8",
+      "num": 8,
+      "question": "The CFA Institute Code of Ethics most likely requires members and candidates to:",
+      "options": {
+        "A": "not engage in activity which compromises the integrity of CFA Institute.",
+        "B": "stay informed on applicable laws and regulations that pertain to their respective areas of business.",
+        "C": "act with competence, integrity, and in ethical manner when dealing with the public, clients, employers, employees, and other market participants."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The first requirement of the Code of Ethics is that members and candidates \"act with integrity, competence, diligence, respect, and in an ethical manner with the public, clients, prospective clients, employers, employees, colleagues in the investment profession, and other participants in the global capital markets.\" Knowing the applicable laws and regulations is required by Standard I(A) Knowledge of the Law. Standard VII(A) Conduct as Participants in CFA Institute Programs requires members and candidates not to compromise the integrity of CFA Institute.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.1, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q9",
+      "num": 9,
+      "question": "Using historical index returns for an equities market over a 20-year period, an analyst has calculated the average annual return as 5.60% and the holding period return as 170%. The compound annual index return over the period is closest to:",
+      "options": {
+        "A": "2.69%.",
+        "B": "5.09%.",
+        "C": "5.24%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. (1 + HPR)^(1/n) − 1 = (1 + 1.70)^(1/20) − 1 = 0.050916.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 1.3, LOS 1.e)"
+      ]
+    },
+    {
+      "id": "S1Q10",
+      "num": 10,
+      "question": "A country's central bank is concerned about inflation and the economy overheating. To help reduce this risk, the central bank is most likely to implement which of the following combinations of monetary policy tools?",
+      "options": {
+        "A": "Sell government securities and increase the policy rate.",
+        "B": "Decrease the policy rate and increase reserve requirements.",
+        "C": "Decrease reserve requirements and buy government securities."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If the concern is that the economy is overheating and faces the risk of increasing inflation, the central bank will take a contractionary monetary policy stance. This may include selling government securities (which reduces cash in investor accounts), increasing the policy rate, and increasing reserve requirements. Expansionary monetary policy may include buying government securities, decreasing the policy rate, and decreasing reserve requirements.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 15.1, LOS 15.b)"
+      ]
+    },
+    {
+      "id": "S1Q11",
+      "num": 11,
+      "question": "The independent auditors of Shadydells, Inc., have determined that the company recorded operating leases that should have been capitalized. This is considered to be a material instance of noncompliance with applicable GAAP, but the financial statements are otherwise fairly presented. Which opinion are the auditors most likely to issue?",
+      "options": {
+        "A": "Adverse opinion.",
+        "B": "Qualified opinion.",
+        "C": "Unqualified opinion."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Auditors issue a qualified opinion when there is a material instance of noncompliance with applicable accounting standards. An unqualified opinion means the auditors believe there is reasonable assurance that the financial statements are free of error and in compliance with applicable accounting standards. An adverse opinion is only issued when the auditors believe the financial statements as a whole are not fairly presented.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 81.1, LOS 81.a)(Module 29.1, LOS 29.c)"
+      ]
+    },
+    {
+      "id": "S1Q12",
+      "num": 12,
+      "question": "Ronaldo Jenkins, CFA, chief investment officer for Windwatch Advisors, has been helping his local municipality find an investment bank for a bond issue. Jenkins was told in confidence that one investment bank, which is a subsidiary of a commercial bank held in Windwatch client portfolios, is experiencing financial difficulties and will be shut down soon. According to the CFA Institute Standards of Professional Conduct, Jenkins is least likely permitted to:",
+      "options": {
+        "A": "share the information received about the investment bank with his compliance officer.",
+        "B": "share the information received about the investment bank with Windwatch’s head of equity investments.",
+        "C": "approach the investment bank about making public disclosure of the financial difficulties and pending closure."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The information received by Jenkins is covered by Standard II(A) Material Nonpublic Information, under which members who possess material nonpublic information related to the value of a security are prohibited from trading, or causing others to trade in, that security. For purposes of compliance with Standard II(A), Jenkins may attempt to achieve public dissemination of the information and may inform his compliance officer of the information. However, under no circumstances should Jenkins share material nonpublic information with other investment personnel. Sharing such information may cause others to trade on the information in violation of Standard II(A).",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.3, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q13",
+      "num": 13,
+      "question": "A firm operates in a market structure with a downward sloping demand curve. If a firm's total costs exceed total revenues, but total revenues exceed total variable costs, the firm should:",
+      "options": {
+        "A": "operate for both the short and long run.",
+        "B": "shut down for both the short run and long run.",
+        "C": "operate in the short run but shut down in the long run."
+      },
+      "answer": "C",
+      "explanation": "C is correct. When total costs exceed total revenues, the firm is not profitable. However, if total revenue exceeds total variable costs, its contribution margin is positive and the firm is covering a portion of its fixed costs. The firm in this situation should continue to operate in the short run but shut down in the long run.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 12.1, LOS 12.a)"
+      ]
+    },
+    {
+      "id": "S1Q14",
+      "num": 14,
+      "question": "A company's chief financial officer wants to generate liquidity while avoiding the higher costs and negative signaling of using secondary liquidity sources. The officer should most appropriately:",
+      "options": {
+        "A": "delay capital investments.",
+        "B": "restructure debt to extend the maturity dates.",
+        "C": "sell marketable securities from the investment portfolio."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the company wants to avoid secondary liquidity sources, the best option is to use a primary liquidity source such as selling marketable securities the company holds in its portfolio. Delaying capital investments and restructuring debt represent secondary liquidity sources.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 25.1, LOS 25.b)"
+      ]
+    },
+    {
+      "id": "S1Q15",
+      "num": 15,
+      "question": "Compared to a listed public company, a private company typically has greater:",
+      "options": {
+        "A": "free float.",
+        "B": "barriers to ownership transfer.",
+        "C": "reporting and compliance costs."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Unlike a listed public company, for which transfers of ownership are readily carried out on share exchanges, transfers of ownership for a private company are more difficult or restricted. Reporting and compliance costs are lower for private companies because they typically are not required to file financial reports with regulators. Free float refers to shares that are actively traded and only applies to listed public companies.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 22.1, LOS 22.c)"
+      ]
+    },
+    {
+      "id": "S1Q16",
+      "num": 16,
+      "question": "Adam Schute, CFA, is on a conference call with the CFO of an investment banking client with his phone speaker on and his door open. As a result, salesmen and traders overhear the CFO describing problems with production target dates that have not been publicly disclosed. The salesmen relay this information to clients and the traders reduce their positions in the stock. With respect to the Standard on material nonpublic information, Schute has:",
+      "options": {
+        "A": "not violated the Standard because he has not acted on the information, but the traders and salesmen have violated the Standard.",
+        "B": "violated the Standard because he should have taken steps to prevent the dissemination of the information.",
+        "C": "violated the Standard by not making the information public when he realized others had overheard the call."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Schute has violated the Standard by not taking steps to ensure that the nonpublic information he has received as part of his investment banking work was not shared with others in the firm.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.3, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q17",
+      "num": 17,
+      "question": "Which of the following is least likely to be a role of financial statement analysis?",
+      "options": {
+        "A": "Assigning credit ratings to the company’s debt.",
+        "B": "Making decisions about the everyday operations of the business.",
+        "C": "Forming an opinion of the company’s ability to earn future profits."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Financial statement analysis is typically done by actors outside a company. Making decisions about the everyday operations of the business will be done by a company's management, and is often based on information that goes beyond what is included in the financial statements.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 29.1, LOS 29.b)"
+      ]
+    },
+    {
+      "id": "S1Q18",
+      "num": 18,
+      "question": "Which of the following organizations is the most focused on promoting economic growth and reducing poverty by offering both monetary and technical assistance?",
+      "options": {
+        "A": "World Bank.",
+        "B": "World Trade Organization.",
+        "C": "International Monetary Fund."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Promoting economic growth and reducing world poverty are among the primary goals of the World Bank. The IMF primarily promotes the growth of international trade, supports exchange rate stability, and provides a forum for cooperation on monetary problems internationally. The WTO has a primary focus on reaching trade agreements and settling trade disputes.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 16.1, LOS 16.c)"
+      ]
+    },
+    {
+      "id": "S1Q19",
+      "num": 19,
+      "question": "For a parametric test of the hypothesis that two normally distributed variables are independent, an analyst should calculate a:",
+      "options": {
+        "A": "t-statistic with n – 1 degrees of freedom.",
+        "B": "t-statistic with n – 2 degrees of freedom.",
+        "C": "Chi-square statistic with n – 1 degrees of freedom."
+      },
+      "answer": "B",
+      "explanation": "B is correct. To test whether the correlation coefficient is equal to zero, the test statistic used is a t-statistic with n – 2 degrees of freedom.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 9.1, LOS 9.a)"
+      ]
+    },
+    {
+      "id": "S1Q20",
+      "num": 20,
+      "question": "Patricia Nelson, CFA, is informed by one of her clients that if she can get the performance of the client firm's pension portfolio above that of the Standard & Poor's average by year-end, the client will give her a free trip to Singapore to visit the firm's offices. If Nelson agrees to this arrangement, which of the following actions complies with CFA Institute Standards of Professional Conduct? Nelson:",
+      "options": {
+        "A": "must inform her employer of this agreement but does not need consent.",
+        "B": "must inform her employer of this agreement and may accept it with verbal consent.",
+        "C": "may inform her employer by email of this agreement and must receive written consent."
+      },
+      "answer": "C",
+      "explanation": "C is correct. To comply with Standard IV(B) Additional Compensation Arrangements, because the additional compensation is contingent on future performance, Nelson must disclose this additional compensation to her employer and must receive written consent, which can be email or any other form of communication that can be documented.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.6, LOS 91.a,91.b,91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q21",
+      "num": 21,
+      "question": "If both aggregate demand and interest rates are increasing, this most likely results from:",
+      "options": {
+        "A": "expansionary monetary and fiscal policy.",
+        "B": "contractionary monetary policy and expansionary fiscal policy.",
+        "C": "expansionary monetary policy and contractionary fiscal policy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Contractionary monetary policy will result in higher interest rates, while expansionary fiscal policy will increase aggregate demand. Expansionary monetary policy will result in lower interest rates, while contractionary fiscal policy will decrease aggregate demand.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 15.2, LOS 15.d)"
+      ]
+    },
+    {
+      "id": "S1Q22",
+      "num": 22,
+      "question": "A firm's statutory tax rate was 24.5%, while its effective tax rate was 27.8%. This difference is least likely to result from:",
+      "options": {
+        "A": "a change in the enacted tax rate during the year.",
+        "B": "the firm incurring nondeductible expenses and earning tax-exempt income.",
+        "C": "a difference between depreciation methods used for accounting and tax purposes."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Temporary timing differences, such as differences in depreciation methods used for accounting and tax purposes, do not typically cause statutory and effective tax rates to differ. Factors which may cause these rates to differ include: different tax rates in different tax jurisdictions; permanent tax differences: tax credits, tax-exempt income, nondeductible expenses, and tax differences between capital gains and operating income; changes in tax rates and legislation; and tax holidays in some countries.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 37.3, LOS 37.c)"
+      ]
+    },
+    {
+      "id": "S1Q23",
+      "num": 23,
+      "question": "Jordan Loney issues a \"sell\" recommendation on Sullivan Company because she believes its financial reporting quality is low. Loney writes, \"Rapid turnover of key employees in its information systems and accounting units have made Sullivan's internal monitoring controls ineffective.\" Which condition that may lead to low-quality financial reporting has Loney detected at Sullivan?",
+      "options": {
+        "A": "Opportunity.",
+        "B": "Motivation.",
+        "C": "Rationalization."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Ineffective internal controls over accounting may provide opportunities for low-quality financial reporting.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 38.1, LOS 38.d)"
+      ]
+    },
+    {
+      "id": "S1Q24",
+      "num": 24,
+      "question": "To be compliant with GIPS, a firm's composites must comprise all:",
+      "options": {
+        "A": "fee-paying accounts.",
+        "B": "discretionary accounts.",
+        "C": "discretionary accounts that are fee-paying."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Each discretionary fee-paying account must be included in at least one composite.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 92.1, LOS 92.c)"
+      ]
+    },
+    {
+      "id": "S1Q25",
+      "num": 25,
+      "question": "Over the last 12 months, M&N Company has been using its accounts payable as an internal source of funds. This month, M&N's largest supplier changed its invoice terms from 2/20 net 90 to 2/10 net 60. Going forward, this change is most likely to:",
+      "options": {
+        "A": "increase M&N’s days of payables.",
+        "B": "decrease M&N’s days of payables.",
+        "C": "have no effect on M&N’s days of payables."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Days of payables are a measure of how long it takes a company to pay its trade creditors. If a supplier changes its invoice terms from 2/20 net 90 to 2/10 net 60, the supplier has shortened both the due date for net amounts (from 90 days to 60 days) and the discount period (from 20 days to 10 days). That is, the supplier requires faster payment. Assuming M&N complies with the new terms, this is most likely to decrease its days of payables.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 25.1, LOS 25.a)"
+      ]
+    },
+    {
+      "id": "S1Q26",
+      "num": 26,
+      "question": "An analyst can most appropriately use a company's historical depreciation expense to estimate its needs for:",
+      "options": {
+        "A": "expansion projects.",
+        "B": "going concern projects.",
+        "C": "regulatory or compliance projects."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Historical depreciation is usually the starting point to forecast capital spending for going concern projects to maintain the business.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 26.1, LOS 26.a) and (Module 47.1, LOS 47.d)"
+      ]
+    },
+    {
+      "id": "S1Q27",
+      "num": 27,
+      "question": "An analyst studies the returns on two investments over a period of 36 months and finds that the covariance between them is significantly negative. This implies that the investment returns have:",
+      "options": {
+        "A": "no linear relationship.",
+        "B": "a covariance between 0 and –1.",
+        "C": "a negative correlation coefficient."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The correlation coefficient is equal to the covariance divided by the product of the two variables' standard deviations. Because standard deviations must be positive, if the covariance is negative, so is the correlation coefficient. A negative covariance implies that the variables have a negative a linear relationship (a covariance of 0 implies there is not a linear relationship). The correlation coefficient would be between 0 and –1, not the covariance.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 3.2, LOS 3.d)"
+      ]
+    },
+    {
+      "id": "S1Q28",
+      "num": 28,
+      "question": "According to the Standard concerning suitability, it is most likely that members and candidates in advisory relationships with clients should:",
+      "options": {
+        "A": "document unsuccessful attempts to update client information.",
+        "B": "purchase only securities with low to medium risk for a client with moderate risk tolerance.",
+        "C": "decline to manage assets for clients who withhold important information about their financial circumstances and needs."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Members and candidates who are in advisory relationships with clients should document unsuccessful attempts to update client information and circumstances. Because risk is to be evaluated in a portfolio context, there is no prohibition against the purchase of a security that is risky on a stand-alone basis, as long as the risk of the client's overall portfolio is consistent with their ability and willingness to assume investment risk. While lack of client information could make suitability a difficult question, Standard III(C) Suitability does not prohibit managing assets for clients who withhold information about their financial circumstances and needs.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.5, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q29",
+      "num": 29,
+      "question": "A model that concludes there are optimal amounts of both debt and equity in a company's capital structure least likely requires an assumption that:",
+      "options": {
+        "A": "there are no taxes.",
+        "B": "interest is deductible for tax.",
+        "C": "financial distress imposes costs."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The existence of an optimal capital structure involving both debt and equity requires that increasing levels of debt result in greater tax benefits and increasing expected costs of financial distress that just offset each other at some optimal capital structure.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 27.2, LOS 27.d)"
+      ]
+    },
+    {
+      "id": "S1Q30",
+      "num": 30,
+      "question": "Byron Bell, CFA, tells his assistant that Mary Mitchel, a client of his, confided to him that she is suffering from the early stages of Alzheimer's disease and that she is planning to leave almost all of her sizable estate to Prather House, a support facility for Alzheimer's patients. Bell directs his assistant to keep this information confidential. With respect to the Standard on preservation of confidentiality, Bell has:",
+      "options": {
+        "A": "not violated the Standard.",
+        "B": "violated the Standard by sharing information about his client’s health but not about planned bequest to Prather House.",
+        "C": "violated the Standard both by sharing the information about his client’s health and about her planned bequest to Prather House."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Bell is permitted to share confidential client information with another firm employee who is also working for the client's benefit, so sharing this information with his assistant is not a violation of Standard III(E) Preservation of Confidentiality.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.5, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q31",
+      "num": 31,
+      "question": "The slope coefficient of a lin-log model describes a linear relationship between:",
+      "options": {
+        "A": "relative changes in the dependent variable and relative changes in the independent variable.",
+        "B": "relative changes in the dependent variable and absolute changes in the independent variable.",
+        "C": "absolute changes in the dependent variable and relative changes in the independent variable."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In a lin-log model, the slope coefficient gives the absolute change in the dependent variable for a relative change in the independent variable.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 10.3, LOS 10.f)"
+      ]
+    },
+    {
+      "id": "S1Q32",
+      "num": 32,
+      "question": "While at dinner a member overhears a well-known and influential analyst from a different firm tell his companion that he will be raising his recommendation on Tree Products from hold to buy when he appears on a morning talk show the next day. Before the broadcast, the member buys 1,000 shares of Tree Products for her own account. The member has violated the Standard relating to:",
+      "options": {
+        "A": "fair dealing.",
+        "B": "diligence and reasonable basis.",
+        "C": "material nonpublic information."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A change in investment recommendation by a well-known and influential analyst is likely to affect the market price and is considered material information, so acting on this information before it has been released is prohibited by Standard II(A) Material Nonpublic Information. Because the member does not work for the analyst's firm, this is not addressed by Standard III(B) Fair Dealing. Having a reasonable basis does not apply to a member's own personal trades.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.4, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q33",
+      "num": 33,
+      "question": "Listed equity securities held as assets that do not convey significant influence in the investee company must be reported at fair value through profit and loss under:",
+      "options": {
+        "A": "IFRS only.",
+        "B": "U.S. GAAP only.",
+        "C": "both IFRS and U.S. GAAP."
+      },
+      "answer": "B",
+      "explanation": "B is correct. U.S. GAAP categorizes equity investment without significant control as trading securities, reported at fair value with profit and loss reported on the income statement. Under IFRS, firms can report equity securities in this manner, but may elect at the time of purchase to report an equity security at fair value through other comprehensive income.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 31.1, LOS 31.c)"
+      ]
+    },
+    {
+      "id": "S1Q34",
+      "num": 34,
+      "question": "Tony Roberts, CFA, is part of a team that manages equities accounts. He believes that a teammate, who is not a CFA Institute member or candidate, takes actions that, while not illegal under local law, violate CFA Institute Standards of Professional Conduct. According to the CFA Institute Standards of Professional Conduct, Roberts:",
+      "options": {
+        "A": "is required to dissociate from the team’s activities if they continue.",
+        "B": "is not required to act because the Code and Standards do not apply to non-members.",
+        "C": "must report the suspected violations of the Code and Standards first to his supervisor and then to CFA Institute."
+      },
+      "answer": "A",
+      "explanation": "A is correct. If Roberts suspects someone is engaging in activities that are illegal or violate the Code and Standards, Standard I(A) Knowledge of the Law requires him to dissociate from the activities if he cannot remedy the situation. In this situation, the teammate is acting within the applicable laws but is violating CFA Institute Standards of Professional Conduct. When the Code and Standards are stricter than applicable law, the Code and Standards apply to members and candidates. However, Roberts is not required by the Code and Standards to report violations of laws or the Code and Standards to CFA Institute or to governmental regulators, although it may be prudent or even required by law that he do so.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.1, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q35",
+      "num": 35,
+      "question": "Given the observations 45, 20, 30, and 25, the mean absolute deviation is closest to:",
+      "options": {
+        "A": "0.0.",
+        "B": "7.5.",
+        "C": "13.3."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The mean absolute deviation is the mean of the absolute values of the differences between each number and the mean. Because the mean is (45 + 20 + 30 + 25) / 4 = 30, the mean absolute deviation is (15+10+0+5)/4 = 7.5.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 3.1, LOS 3.a)"
+      ]
+    },
+    {
+      "id": "S1Q36",
+      "num": 36,
+      "question": "Mary Walters, CFA, is a bank trust officer who has entered into a referral agreement with Bob Sear, a tax attorney. Sear has told Walters that he will do her tax work in return for referrals. According to the CFA Institute Code and Standards, Walters must disclose:",
+      "options": {
+        "A": "only the fact that she compensated for referrals, to any clients or prospects she refers to Sear.",
+        "B": "only the fact that she is compensated for referrals, to her employer and any clients or prospects she refers to Sear.",
+        "C": "the fact that she is compensated for the referrals and the nature of the compensation she is to receive, to her employer and any clients or prospects she refers to Sear."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard VI(C) Referral Fees requires members and candidates to disclose any compensation received for referrals and the nature of the compensation, to their employers and to any clients or prospects they refer to others with the expectation of compensation in any form.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.8, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q37",
+      "num": 37,
+      "question": "An analyst gathers the following information: Net income $100 Decrease in accounts receivable 30 Depreciation 25 Increase in inventory 17 Increase in accounts payable 10 Decrease in wages payable 5 Increase in deferred taxes 17 Sale of fixed assets 150 Purchase of fixed assets 340 Profit from sale of fixed assets 5 Dividends paid out 35 Sale of new common stock 120 Based on the above information, the company's cash flow from operations under U.S. GAAP is:",
+      "options": {
+        "A": "$155.",
+        "B": "$165.",
+        "C": "$182."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Net income +100 Adjustment for noncash and nonoperating items: Depreciation +25 Deferred taxes (increase) +17 Profit from sale of equipment –5 Adjustment for working capital items: Accounts receivable (decrease) +30 Inventory (increase) -17 Accounts payable (increase) +10 Wages payable (decrease) –5 Cash flow from operations +$155 Dividends paid are CFF, not CFO.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 32.1, LOS 32.b)"
+      ]
+    },
+    {
+      "id": "S1Q38",
+      "num": 38,
+      "question": "The benefits of international trade accrue most directly to:",
+      "options": {
+        "A": "consumers of imported goods.",
+        "B": "owners of rival producers of imported goods.",
+        "C": "employees of rival producers of imported goods."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Consumers benefit most directly from international trade due to lower prices of goods and services. Owners of rival producers see reduced growth and profitability due to greater competition from imported goods and services. Employees of rival producers are detrimentally affected in the short run.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 17.1, LOS 17.a)"
+      ]
+    },
+    {
+      "id": "S1Q39",
+      "num": 39,
+      "question": "When he assumed the job of compliance officer two years ago, Ed Michaels, CFA, issued written compliance procedures and made all covered employees aware of the procedures. A report by an external auditor found that on several occasions over the past two years, two different employees traded in recommended securities ahead of trades made in managed client accounts. Michaels fires both employees and recirculates the written compliance procedures that explain clearly which activities are prohibited. Michaels has violated the Standard concerning:",
+      "options": {
+        "A": "Responsibilities of Supervisors by firing the employees instead of restricting their activities.",
+        "B": "Responsibilities of Supervisors by failing to implement reasonable procedures to detect violations.",
+        "C": "Misconduct because, as the compliance officer, he is associated with, and ultimately responsible for, the unethical activity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Michaels has violated Standard IV(C) Responsibilities of Supervisors, which requires him to make reasonable efforts to detect and prevent violations of compliance procedures. Simply making employees aware of the rules is not enough. Monitoring of employee trades, duplicate confirms, establishing blackout periods, or preclearance of employee trades are all methods that would have revealed the problem prior to the external audit. Michaels has not violated Standard I(D) Misconduct because his actions did not exhibit dishonesty or lack of integrity.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.6, LOS 91.a,91.b,91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q40",
+      "num": 40,
+      "question": "Judy Blush is a CFA candidate and is recommending the purchase of a mutual fund that invests solely in long-term U.S. Treasury bonds (T-bonds) to one of her clients. She states: \"Because the U.S. government guarantees payment of both principal and interest on its bonds, risk of loss from investing in this fund is virtually zero.\" Blush's actions violated:",
+      "options": {
+        "A": "the Standard on misrepresentation.",
+        "B": "the Standard on communication with clients.",
+        "C": "none of the Standards of Professional Conduct."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Government bonds are default risk free but are subject to price risk, particularly if the bonds are longer-term than the investor's horizon. Thus, Blush misrepresented the nature of investing in the fund and therefore violated Standard I(C) Misrepresentation.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.2, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q41",
+      "num": 41,
+      "question": "An investor is considering three new portfolios for her holdings. The details on the three portfolios are: Expected Annual Return Standard Deviation of Returns Portfolio 1 17% 15% Portfolio 2 12% 10% Portfolio 3 8% 6% According to Roy's Safety-First criterion, the portfolio she would prefer is:",
+      "options": {
+        "A": "Portfolio 1.",
+        "B": "Portfolio 2.",
+        "C": "Portfolio 3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. SFRatio1 = (17−5)/15 = 0.8. SFRatio2 = (12−5)/10 = 0.7. SFRatio3 = (8−5)/6 = 0.5. The SFRatio is the number of standard deviations that the minimum return is below the mean (expected) return. The optimal portfolio is the one with the greatest SFRatio as it has the lowest probability of a return below the minimum. Based on the SFRatio, the investor would prefer Portfolio 1.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 5.1, LOS 5.c)"
+      ]
+    },
+    {
+      "id": "S1Q42",
+      "num": 42,
+      "question": "A lessor will recognize a lease receivable asset if the lease is classified as:",
+      "options": {
+        "A": "an operating lease.",
+        "B": "a finance lease.",
+        "C": "either an operating or a finance lease."
+      },
+      "answer": "B",
+      "explanation": "B is correct. With a finance lease, the lessor will recognize a lease receivable asset and amortize it over the lease term. With an operating lease, the lessor retains the leased asset on its balance sheet and records depreciation expense over its useful life.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 36.1, LOS 36.a)"
+      ]
+    },
+    {
+      "id": "S1Q43",
+      "num": 43,
+      "question": "Allen Winkler, CFA, recently had lunch with Kim Thompson, a former professor of his, who told him of a new valuation model she had developed. Winkler recreated Thompson's model with some revisions and back-tested it using data provided by Standard & Poor's (S&P) with impressive results. Winkler's firm launches a mutual fund based on the revised model, and Winkler provides a discussion of the principles underlying the model and the test results. Is Winkler required to credit Thompson for having developed the model and S&P as the source of the data?",
+      "options": {
+        "A": "Both of these sources must be cited.",
+        "B": "Neither of these sources must be cited.",
+        "C": "Only one of these sources must be cited."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under Standard I(C) Misrepresentation, Winkler must identify Thompson as having developed the original model to avoid the prohibition against plagiarism. The only permitted exception is using factual information published by recognized financial and statistical reporting services such as S&P.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.2, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q44",
+      "num": 44,
+      "question": "An analyst would like to use fintech to assess how often the word \"assumption\" is used in a company's annual financial report. This application is best described as:",
+      "options": {
+        "A": "text analytics.",
+        "B": "corporate exhaust.",
+        "C": "natural language processing."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Text analytics are used to analyze unstructured data in text (or voice) forms, for example identifying how often a word appears in a report. Corporate exhaust is the potentially useful data that businesses generate from retail transactions and bank data. In natural language processing, computers and artificial intelligence are used to interpret human language.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 11.1, LOS 11.c)"
+      ]
+    },
+    {
+      "id": "S1Q45",
+      "num": 45,
+      "question": "Two companies are identical in all respects except that one uses the LIFO inventory cost method and the other uses FIFO. If prices are falling, the two companies will most likely have the same:",
+      "options": {
+        "A": "asset turnover.",
+        "B": "inventory turnover.",
+        "C": "receivables turnover."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Inventory cost methods affect ratios that include cost of sales and inventory. Receivables turnover (revenue / receivables) is not affected by either of these.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 39.2, LOS 39.b)"
+      ]
+    },
+    {
+      "id": "S1Q46",
+      "num": 46,
+      "question": "Details on two investments are as follows: Investment Arithmetic mean return Standard deviation X 20% 40% Y 10% 30% Which investment is a risk-averse investor most likely to prefer on the basis of relative dispersion?",
+      "options": {
+        "A": "Investment Y because it has a lower standard deviation.",
+        "B": "Investment Y because it has a higher coefficient of variation.",
+        "C": "Investment X because it has a lower coefficient of variation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The coefficient of variation = standard deviation / mean. For investment X, CV = 40 / 20 = 2, and for investment Y, CV = 30 / 10 = 3. A risk-averse investor would prefer investment X because it has less risk per unit of expected return.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 3.1, LOS 3.b)"
+      ]
+    },
+    {
+      "id": "S1Q47",
+      "num": 47,
+      "question": "Morton Crane, CFA, is a portfolio manager. Crane has just been informed by his compliance officer that a new law will require additional disclosures of personal client information to regulators for two of Crane's former clients and one of his current clients. Crane decides to comply with the new law and provide the required client information. Has Crane violated CFA Institute Standards of Professional Conduct?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, because he disclosed confidential information about a former client.",
+        "C": "Yes, because he disclosed confidential information about a current client."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard III(E) Preservation of Confidentiality, members and candidates must keep information about former, current, and potential future clients confidential unless client information is legally required to be disclosed, the information pertains to potential illegal client activities, or the client gives permission for the information to be disclosed. Crane is complying with current legal reporting requirements, which require disclosure of personal client information for both former and current clients. Thus, Crane has not violated the Standard by disclosing the client information.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.5, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q48",
+      "num": 48,
+      "question": "During a period when net income is unexpectedly weak, managers who attempt to smooth earnings are most likely to:",
+      "options": {
+        "A": "capitalize an expense.",
+        "B": "decrease the estimated lives of assets.",
+        "C": "classify a nonrecurring gain as recurring income."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Management may attempt to increase reported earnings in the current period by capitalizing an expense. Classifying a nonrecurring gain as recurring income would not increase net income because it already includes nonrecurring gains. Decreasing the estimated lives of assets would increase depreciation expense and decrease income in the current period.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 38.2, LOS 38.g)"
+      ]
+    },
+    {
+      "id": "S1Q49",
+      "num": 49,
+      "question": "Central banks that practice inflation targeting are most likely set a target band between:",
+      "options": {
+        "A": "–2 percent and 2 percent.",
+        "B": "0 percent and 4 percent.",
+        "C": "1 percent and 3 percent."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Central banks typically target an inflation rate of about 2 percent. Bands for target inflation rates are unlikely to include zero because central banks typically do not wish to risk deflation.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 15.2, LOS 15.c)"
+      ]
+    },
+    {
+      "id": "S1Q50",
+      "num": 50,
+      "question": "Ralph Malone, CFA, has many clients, including a trust account that benefits three of his immediate family members. His firm changes its recommendation on a stock from \"hold\" to \"buy\" on a security that is suitable for many clients, including the trust. Which of the following would be considered a violation of the Standard concerning priority of transactions?",
+      "options": {
+        "A": "Malone waits until after the firm purchases the security to buy it for the family trust account.",
+        "B": "Malone trades on the family account shortly after his firm’s clients have been informed of the buy recommendation.",
+        "C": "The firm gives clients time to act on the new recommendation and then buys 100,000 shares for its own account prior to publicly disclosing the new recommendation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because the family account is a client account, it should be treated as any other client account would be. Waiting until after the firm buys shares would violate Standard VI(B) Priority of Transactions. There is no requirement that a firm's recommendations be made public.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.8, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q51",
+      "num": 51,
+      "question": "A company should most appropriately select the group of profitable projects that it can fund that have the highest:",
+      "options": {
+        "A": "IRRs.",
+        "B": "combined NPVs.",
+        "C": "spreads between project IRRs and the company’s WACC."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The group of projects with the greatest total NPVs that can be funded will increase the expected value of the company by the greatest amount. Ranking by IRRs will not necessarily identify the group of projects with the greatest total NPV.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 26.1, LOS 26.b)"
+      ]
+    },
+    {
+      "id": "S1Q52",
+      "num": 52,
+      "question": "Which of the following definitions used in accounting for income taxes is least accurate?",
+      "options": {
+        "A": "Income tax expense is current period taxes payable adjusted for any changes in deferred tax assets and liabilities.",
+        "B": "A valuation allowance is a reserve against deferred tax assets based on the likelihood that those assets will not be realized.",
+        "C": "A deferred tax liability is created when tax expense is less than taxes payable and the difference is expected to reverse in future years."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Deferred tax liability refers to balance sheet amounts that are created when tax expense is greater than taxes payable.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 37.1, LOS 37.a)"
+      ]
+    },
+    {
+      "id": "S1Q53",
+      "num": 53,
+      "question": "To properly execute the steps to prepare a sales-based pro forma company model, an analyst will most likely use the pro forma:",
+      "options": {
+        "A": "cash flow statement and balance sheet to prepare the pro forma income statement.",
+        "B": "income statement and cash flow statement to prepare the pro forma balance sheet.",
+        "C": "balance sheet and income statement to prepare the pro forma cash flow statement."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The pro forma balance sheet and income statement are needed to construct the pro forma cash flow statement. Even in preparing actual financial statements, the cash flow statement is typically prepared using information from the balance sheet and income statement.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 40.1, LOS 40.a)"
+      ]
+    },
+    {
+      "id": "S1Q54",
+      "num": 54,
+      "question": "Which of the following objectives would a national government most likely pursue by placing restrictions on inflows of foreign capital?",
+      "options": {
+        "A": "Protecting domestic industries.",
+        "B": "Supporting domestic asset prices.",
+        "C": "Keeping domestic interest rates low."
+      },
+      "answer": "A",
+      "explanation": "A is correct. National governments may seek to limit foreign investment in certain domestic industries, for example, those that are seen as essential for national defense. A government seeking to keep domestic interest rates low or support domestic asset prices would be more likely to restrict capital outflows.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 18.2, LOS 18.c)"
+      ]
+    },
+    {
+      "id": "S1Q55",
+      "num": 55,
+      "question": "Diane Harris, a CFA Institute member, is a portfolio manager for Worldwide Investments. One of her clients has offered her the use of his condominium in Hawaii if the returns on his U.S. equities account beat their benchmark on a risk-adjusted basis. Harris informed her manager of all terms of this agreement in writing and received verbal consent to the arrangement before accepting the offer. Did Harris violate the Standards?",
+      "options": {
+        "A": "Yes, because written consent from her employer is required.",
+        "B": "No, because bonuses from clients for doing her job well do not create a conflict of interest.",
+        "C": "No, because Harris notified and received verbal consent from her employer to enter the arrangement."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard IV(B) Additional Compensation Arrangements requires that members and candidates obtain written consent from their employers to enter into the agreement for additional contingent compensation from a client. Harris only received verbal consent. The concern is that such an arrangement might induce Harris to give partiality to this client's portfolio over those of her other clients.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.6, LOS 91.a,91.b,91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q56",
+      "num": 56,
+      "question": "Which of the following is the most accurate definition of capital adequacy in the context of financial analysis of banks?",
+      "options": {
+        "A": "The ratio of a bank’s liabilities to its central bank reserves.",
+        "B": "A comparison of a bank’s liquid assets to certain named liabilities.",
+        "C": "A monetary measure of a firm’s risk as a percentage of its equity capital."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Capital adequacy is a monetary measure of a firm's risk as a percentage of its equity capital. The comparison of a bank's liquid assets to certain named liabilities is known as the liquid asset requirement. The ratio of a bank's liabilities to its central bank reserves refers to the bank's reserve requirements.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 39.5, LOS 39.e)"
+      ]
+    },
+    {
+      "id": "S1Q57",
+      "num": 57,
+      "question": "Which of the following tests would generally be considered a nonparametric test?",
+      "options": {
+        "A": "Test of whether a sample is random.",
+        "B": "Large sample test of the value of a population mean.",
+        "C": "Value of the variance of a normal population."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Nonparametric tests can be used in a variety of instances where the assumptions required for parametric tests cannot be sustained. A runs test can be used to test for the randomness of a sample. Both of the other tests are parametric because they test the value of a parameter of the underlying distribution.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 8.2, LOS 8.c)"
+      ]
+    },
+    {
+      "id": "S1Q58",
+      "num": 58,
+      "question": "While visiting Cassori Company, Mark Ramsey, CFA, overhears management make comments that are not public information but are not really meaningful by themselves. Combining this information with his own analysis and other outside sources, Ramsey decides to change his recommendation on Cassori from \"Buy\" to \"Sell.\" According to the CFA Institute Standards of Professional Conduct, Ramsey:",
+      "options": {
+        "A": "must not issue his report until Cassori’s management makes their comments public.",
+        "B": "may issue his “Sell” report because the facts are nonmaterial, but should maintain a file of the facts and documents leading to this conclusion.",
+        "C": "must report these events to his immediate supervisor and legal counsel, since they have become material in combination with his analysis."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard II(A) Material Nonpublic Information, the use of security analysis combined with nonmaterial nonpublic information to arrive at significant conclusions is allowable under the mosaic theory.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.3, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q59",
+      "num": 59,
+      "question": "A company which runs testing on lab samples offers the following pricing: Samples 1 – 100: $6 per sample Samples 101 – 200: $4 per sample Samples 201 – 300: $3 per sample This structure is an example of:",
+      "options": {
+        "A": "tiered pricing.",
+        "B": "add-on pricing.",
+        "C": "dynamic pricing."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Tiered pricing is based on volume of purchases. Dynamic pricing offers different prices at different times. Add-on pricing involves additional options that can be included with a product.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 28.1, LOS 28.a)"
+      ]
+    },
+    {
+      "id": "S1Q60",
+      "num": 60,
+      "question": "Which of the following accounting practices is most likely to decrease reported earnings in the current period?",
+      "options": {
+        "A": "Using the straight-line method of depreciation instead of an accelerated method.",
+        "B": "Capitalizing advertising expenses rather than expensing them in the current period.",
+        "C": "Using LIFO inventory cost methods during a period of rising prices."
+      },
+      "answer": "C",
+      "explanation": "C is correct. LIFO will result in lower net income than FIFO in the current period, during a period of rising prices. The other choices will tend to increase current period earnings.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 34.2, LOS 34.b)(Module 38.2, LOS 38.g)"
+      ]
+    },
+    {
+      "id": "S1Q61",
+      "num": 61,
+      "question": "John Anderson, CFA, follows Radley Manufacturing for his employer, Atlas Brokers. Radley has announced a takeover bid for Palmer Industries, a company that Atlas does not follow. To get out a research note about the potential effects of the acquisition on Radley, Anderson purchases a report on Palmer from a research firm Atlas regularly uses. Anderson incorporates projections and analysis from the purchased report into his research note on what a post-acquisition Radley would look like but does not cite the source. Anderson has violated the Standard on:",
+      "options": {
+        "A": "misrepresentation.",
+        "B": "independence and objectivity.",
+        "C": "diligence and reasonable basis."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Anderson has violated Standard I(C) Misrepresentation by representing the work of another as his own in the report. The use of third-party research is not necessarily a violation of Standard I(B) Independence and Objectivity or Standard V(A) Diligence and Reasonable Basis. Using a research firm that is approved by his company is permitted as long as he has no knowledge that the work is of less than good quality.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.7, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q62",
+      "num": 62,
+      "question": "Inez Company has the following target capital structure: 35% debt, 55% common stock, and 10% preferred stock. The company's before-tax cost of debt is 6%, its cost of common stock is 10%, and its cost of preferred stock is 8%. The company's marginal tax rate is 40%. What is Inez's weighted average cost of capital?",
+      "options": {
+        "A": "7.14%.",
+        "B": "7.56%.",
+        "C": "8.40%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. WACC = (0.35)(0.06)(1 – 0.40) + (0.10)(0.08) + (0.55)(0.10) = 7.56%.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 27.1, LOS 27.a)"
+      ]
+    },
+    {
+      "id": "S1Q63",
+      "num": 63,
+      "question": "Selected year-end values for Able, Inc., which reports under U.S. GAAP, are presented in the following tables: Balance Sheet Items December 31, 20X2 December 31, 20X1 Accounts receivable $19 million $21 million Trade payables $14 million $16 million Inventory $31 million $28 million Income Statement Items December 31, 20X2 Net income $42 million Loss on sale $3 million Depreciation $2 million Dividends paid $1 million Based only on the data in the tables, 20X2 cash flow for operations for Able, Inc., is:",
+      "options": {
+        "A": "$43 million.",
+        "B": "$44 million.",
+        "C": "$45 million."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Starting with net income of 42, add 2 for the decrease in receivables (a source of cash), subtract 2 for the decrease in payables (a use of cash), subtract 3 for the increase in inventory (a use of cash), add 3 for the loss (a non-CFO item), and add 2 for depreciation (a noncash item), resulting in CFO = $44 million. Note that the balance sheet items are presented from right to left.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 32.1, LOS 32.b)"
+      ]
+    },
+    {
+      "id": "S1Q64",
+      "num": 64,
+      "question": "The Code of Ethics least likely states that members and candidates are required to:",
+      "options": {
+        "A": "use their own judgement.",
+        "B": "obey all laws and the Standards of Practice.",
+        "C": "attempt to improve the competence of other investment professionals."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Requirements for following laws and regulations are contained in the Standards (e.g., Standard I(A) Knowledge of the Law). The other choices are both explicitly required by the Code of Ethics.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b)"
+      ]
+    },
+    {
+      "id": "S1Q65",
+      "num": 65,
+      "question": "Gordon, Inc., reports using the LIFO cost method. In notes to its financial statements, Gordon discloses inventory of 500 units in 20X1 and 510 units in 20X2 and states a LIFO reserve of $50,000 in 20X1 and $48,000 in 20X2. These inventory disclosures most likely reflect:",
+      "options": {
+        "A": "decreasing demand.",
+        "B": "decreasing prices.",
+        "C": "a LIFO liquidation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Decreasing prices can cause the LIFO reserve to decrease even when the inventory quantity is stable or increasing. A LIFO liquidation is a decrease in the quantity of inventory. To look for an indication of decreasing demand, an analyst would compare the growth rates of inventories and sales.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 34.3, LOS 34.c)"
+      ]
+    },
+    {
+      "id": "S1Q66",
+      "num": 66,
+      "question": "Betty Cantor, CFA, has been finishing a report on high-tech firm HLC Corporation and intends to give it a \"market perform\" rating. Before releasing the report, she speaks with Donald Watson, her former manager and mentor, who is now with another investment firm and is well known for his great calls on high-tech companies. Watson is bullish on HLC and tells Cantor that \"HLC is going to increase for sure over the next year, and we have it as a buy.\" Cantor changes her rating on HLC to \"outperform\" based on Watson's comments. Cantor has:",
+      "options": {
+        "A": "not violated the Standards because she knows the high quality of Watson’s analysis.",
+        "B": "violated the Standards because she based her rating on material nonpublic information.",
+        "C": "violated the Standards because she does not have a reasonable basis for her recommendation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Cantor violated Standard V(A) Diligence and Reasonable Basis because she did not have a reasonable and adequate basis for recommending clients buy HLC. Watson's enthusiasm and claim that HLC stock will perform well are not consistent with Cantor's conclusions. She must perform her own analysis before changing her investment recommendation. She has also violated Standard I(B) Independence and Objectivity because she has not exhibited the independence of analysis and thought that is required by the Standard.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.7, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q67",
+      "num": 67,
+      "question": "Which of the following statements regarding the significance level of a hypothesis test is most accurate?",
+      "options": {
+        "A": "Given a significance level of 5%, a test will reject a true null hypothesis 5% of the time.",
+        "B": "If the significance level of a test is 5%, it will yield the correct decision about the null hypothesis 95% of the time.",
+        "C": "If the significance level of a test is 95%, it will yield the correct decision about the null hypothesis 95% of the time."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The significance level of a test is the probability that a true null hypothesis will be rejected by chance because the test statistic is from a sample and may take on a value that is outside the range of critical values because of sampling error. The probability of making a correct decision also must account for the probability of failing to reject a false null hypothesis.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 8.1, LOS 8.a)"
+      ]
+    },
+    {
+      "id": "S1Q68",
+      "num": 68,
+      "question": "Ellen Samuels has been elected by the shareholders to serve as an independent member of the board of directors for the Brand Company. Which of the following responsibilities will most likely fall under her purview?",
+      "options": {
+        "A": "Managing the budget during the fiscal year.",
+        "B": "Determining the bonus structure for senior management.",
+        "C": "Developing operational goals and objectives for the company."
+      },
+      "answer": "B",
+      "explanation": "B is correct. One of the responsibilities of the Board of Directors is to set compensation for a firm's senior managers. Compensation will include salaries as well as the bonus structure. Senior management will be responsible for managing the budget during the fiscal year. The board may establish a strategic direction for the company, but developing operational goals and objectives to carry out the strategy is management's responsibility.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 23.1, LOS 23.b)"
+      ]
+    },
+    {
+      "id": "S1Q69",
+      "num": 69,
+      "question": "NuTrack manufactures wearable electronic devices for runners. According to the most recent industry analysis data, NuTrack's days of sales outstanding are increasing significantly relative to competitors. Which of the following conclusions is most consistent with this observation?",
+      "options": {
+        "A": "NuTrack is collecting its receivables faster.",
+        "B": "NuTrack’s customer credit quality is improving.",
+        "C": "NuTrack may be recording revenues prematurely."
+      },
+      "answer": "C",
+      "explanation": "C is correct. DSO measures how quickly NuTrack would receive payment for goods it sold on credit; in other words, how fast will it collect on its receivables. Increasing DSO indicates that it takes longer for NuTrack to collect cash from its customers; in other words, NuTrack is collecting receivables more slowly. This is unfavorable and may be caused by NuTrack recording revenues prematurely or by its customers' credit quality declining.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 38.3, LOS 38.h)"
+      ]
+    },
+    {
+      "id": "S1Q70",
+      "num": 70,
+      "question": "When a member or candidate knows that a client and coworker are violating regulatory rules and local law, the member or candidate is:",
+      "options": {
+        "A": "not required to report any of the violations to authorities.",
+        "B": "required to report violations by the coworker but not the client.",
+        "C": "required to report the violations of the law and of the regulatory rules to the appropriate authority."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Standards strongly encourage, but do not require, members and candidates to report violations of relevant regulatory rules and laws.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.1, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q71",
+      "num": 71,
+      "question": "A pricing model is developed with the assumption that returns are both independently and identically distributed. Based on that assumption:",
+      "options": {
+        "A": "the mean exhibits stationarity.",
+        "B": "past returns can be used to predict future returns.",
+        "C": "the variance is constant over time, but the standard deviation is not necessarily constant over time."
+      },
+      "answer": "A",
+      "explanation": "A is correct. When returns are independently distributed, past returns are not helpful for predicting future returns. When returns are identically distributed, the mean and the variance (and therefore the standard deviation) exhibit stationarity, which means they do not change over time.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 6.1, LOS 6.a)"
+      ]
+    },
+    {
+      "id": "S1Q72",
+      "num": 72,
+      "question": "An analyst gathered the following data about a company: 1,000,000 shares of common are outstanding at the beginning of the year. 10,000 6% convertible bonds (conversion ratio is 20 to 1) were issued at par June 30 of this year. The company has 100,000 warrants outstanding all year with an exercise price of $25 per share. The average stock price for the period is $20, and the ending stock price is $30. If the convertible bonds are considered dilutive, the number of shares of common stock that the analyst should use to calculate diluted earnings per share is:",
+      "options": {
+        "A": "1,000,000.",
+        "B": "1,100,000.",
+        "C": "1,266,667."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When the capital structure contains options or warrants, the treasury stock method uses the average price. In this situation, the warrants are antidilutive because the exercise price of the warrant ($25) is higher than the market price of the stock ($20). Thus, warrants are excluded. Otherwise, common shares would be reduced. Original shares of common stock = 1,000,000 (12/12). Then add the impact of the bond conversion: (10,000)(20) × (6/12) = 100,000. Thus, the adjusted denominator for fully diluted EPS is: 1,000,000 + 100,000 = 1,100,000.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 30.4, LOS 30.d)"
+      ]
+    },
+    {
+      "id": "S1Q73",
+      "num": 73,
+      "question": "Two of the typical steps in the capital allocation process are:",
+      "options": {
+        "A": "analyzing project proposals and raising additional capital.",
+        "B": "raising additional capital and creating the firm-wide capital budget.",
+        "C": "analyzing project proposals and creating the firm-wide capital budget."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The four typical steps in the capital allocation process are generating ideas, analyzing project proposals, creating the firm-wide capital budget, and monitoring decisions and conducting a post-audit. Raising additional capital is not one of the typical steps in the capital allocation process.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 26.1, LOS 26.b)"
+      ]
+    },
+    {
+      "id": "S1Q74",
+      "num": 74,
+      "question": "Susan Smart, CFA, is about to change her \"buy\" recommendation on RollinsCo to \"sell.\" RollinsCo had been growing rapidly over the past year, but Smart believes the growth potential is now gone. Smart sells the shares held in her discretionary client accounts and in her own personal account before issuing her report. According to the Standards that concern fair dealing and priority of transactions, Smart violated:",
+      "options": {
+        "A": "both of these Standards.",
+        "B": "neither of these Standards.",
+        "C": "only one of these Standards."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Smart violated both Standards. Smart violated Standard III(B) Fair Dealing because she did not deal fairly and objectively with all clients and prospects when disseminating investment recommendations, giving priority to some of the firm's clients by trading for her clients first before issuing the report. She also sold her own shares before issuing the report, which violated Standard VI(B) Priority of Transactions. Smart did not give clients an opportunity to react to and benefit from her recommendation before she personally benefited from her research.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.8, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q75",
+      "num": 75,
+      "question": "Assume that one year ago, the exchange rate between the Japanese yen and the euro was 100 JPY/EUR, and the exchange rate between the Japanese yen and the U.S. dollar was 80 JPY/USD. Current exchange rates are 104.2 JPY/EUR and 76.6 JPY/USD. Which of the following statements is most accurate?",
+      "options": {
+        "A": "The USD has depreciated relative to the EUR.",
+        "B": "The JPY has depreciated 4.2% relative to the EUR.",
+        "C": "The current U.S. dollar to euro exchange rate is approximately 1.25 USD/EUR."
+      },
+      "answer": "A",
+      "explanation": "A is correct. We can calculate the current USD/EUR cross rate as 104.2 / 76.6 = 1.3603 USD/EUR. The original USD/EUR cross rate was 100 / 80 = 1.2500 USD/EUR. Thus, the USD has depreciated relative to the EUR. While it is correct to say that the EUR has appreciated 4.2% relative to the JPY (104.2 / 100 – 1) = 4.2%, it is not correct to say that the JPY has depreciated by the same percentage. To calculate the percentage change in the JPY relative to the EUR, we need to invert the quotes. One year ago, the quote was 0.0100 EUR/JPY and now the quote is 0.0096 EUR/JPY. (0.0096 / 0.0100 – 1) = 0.0403 or 4.0% depreciation in the JPY relative to the EUR.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 19.1, LOS 19.a)"
+      ]
+    },
+    {
+      "id": "S1Q76",
+      "num": 76,
+      "question": "An analyst gathered the following information about a company: Cash flow from operations $800 Purchase of plant and equipment 40 Sale of land 30 Interest expense 80 Depreciation and amortization 100 The company has a tax rate of 35% and prepares its financial statements under U.S. GAAP. The company's free cash flow to the firm (FCFF) is closest to:",
+      "options": {
+        "A": "$840.",
+        "B": "$870.",
+        "C": "$940."
+      },
+      "answer": "A",
+      "explanation": "A is correct. FCFF = Cash flow from operations + interest expense net of tax − net capital expenditures. FCFF = $800 + 80(1 − 0.35) − 40 + 30 = $842. Depreciation and amortization do not have to be added when calculating FCFF from CFO. They are added when calculating FCFF from net income.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 33.1, LOS 33.b)"
+      ]
+    },
+    {
+      "id": "S1Q77",
+      "num": 77,
+      "question": "Tom Hayes, CFA, changed firms recently, becoming the senior analyst at Balcom Management. He had earned a great reputation at his old firm with his analysis of Selldex, which doubled in value after his recommendation. Because he still likes Selldex, Hayes recreates from public sources the records and analysis he did at his previous employer and issues a report on Selldex with a \"buy\" rating. Hayes has:",
+      "options": {
+        "A": "not violated the Standards.",
+        "B": "violated the Standards because the analysis he did for his previous employer belongs to his previous employer.",
+        "C": "violated the Standards because his analysis is based on previous research and not independent of his prior analysis."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The actions are not in violation of the Standards. Under Standard IV(A) Loyalty, the use in new employment of knowledge and experience gained in previous employment is not prohibited. Hayes recreated the supporting records as required by Standard V(C) Record Retention.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.7, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q78",
+      "num": 78,
+      "question": "Harding Corp. has a permanently impaired asset. The difference between its carrying value and the present value of its expected cash flows should be written down immediately and:",
+      "options": {
+        "A": "reported as an operating loss.",
+        "B": "charged directly against retained earnings.",
+        "C": "reported as a non-operating loss in other comprehensive income."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Impairment writedowns are included in income from continuing operations.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 35.2, LOS 35.b)"
+      ]
+    },
+    {
+      "id": "S1Q79",
+      "num": 79,
+      "question": "Which of the following arguments most likely suggests the size of a fiscal deficit relative to GDP is a cause for concern?",
+      "options": {
+        "A": "Large fiscal deficits may bring about demands for tax reform.",
+        "B": "Increased government debt may be used to finance capital investments.",
+        "C": "Government borrowing may increase interest rates in the overall economy."
+      },
+      "answer": "C",
+      "explanation": "C is correct. One of the arguments that a large fiscal deficit relative to GDP matters is that government borrowing may increase interest rates and crowd out private investment. Tax reform stemming from larger deficits and debt that funds capital investments are arguments that the size of the deficit is not problematic.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 14.1, LOS 14.b)"
+      ]
+    },
+    {
+      "id": "S1Q80",
+      "num": 80,
+      "question": "Which of the following statements is a proper reference to the CFA® designation?",
+      "options": {
+        "A": "I expect to obtain the CFA designation after I pass the next Level III exam.",
+        "B": "As a CFA charterholder, I am required to comply with high ethical standards.",
+        "C": "As a CFA Level II, I hope to obtain the highest set of credentials in the investment industry."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Referring to oneself as a CFA charterholder and emphasizing a charterholder's ethical requirements are appropriate references to the CFA designation. Candidates should not state an expected date for completing the CFA Program. There is no partial designation for a candidate who has passed the Level I, Level II, or Level III exams.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.9, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q81",
+      "num": 81,
+      "question": "Under which of the following exchange rate regimes does a country retain its own currency?",
+      "options": {
+        "A": "Dollarization.",
+        "B": "Currency board.",
+        "C": "Monetary union."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under a currency board arrangement, a country retains its own currency but commits to exchange it at a fixed ratio for a foreign currency. Dollarization is the formal adoption of a foreign currency as a country's medium of exchange. In a monetary union, all the members adopt a common currency.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 18.2, LOS 18.b)"
+      ]
+    },
+    {
+      "id": "S1Q82",
+      "num": 82,
+      "question": "Peter Wellington has changed his status in marketing materials to \"Level III CFA candidate.\" Wellington passed the Level II CFA exam and just received his results. He intends to register for the next Level III CFA examination that is offered. Wellington has:",
+      "options": {
+        "A": "not violated the Standards of Professional Conduct.",
+        "B": "violated the Standard on conduct as participants in CFA Institute programs.",
+        "C": "violated the Standard on reference to the CFA Institute, the CFA Designation, and the CFA Program."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under Standard VII(B) Reference to CFA Institute, the CFA Designation, and the CFA Program, candidates in the CFA Program may appropriately reference their participation in the CFA Program. However, to be considered a candidate, individuals must be registered to take the next scheduled CFA examination. Therefore, Wellington, who intends to register for the next exam, but has not done so, has violated Standard VII(B). Wellington may indicate that he passed Level II of the CFA Program and the year in which he passed, but he is not a candidate unless he is registered for the next exam or awaiting exam results. Standard VII(A) Conduct as Participants in CFA Institute Programs addresses issues that concern the validity and security of the exams and the integrity and reputation of the CFA designation and CFA Institute.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.9, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q83",
+      "num": 83,
+      "question": "Credit cycles are most likely to:",
+      "options": {
+        "A": "dampen business cycles.",
+        "B": "coincide with business cycles.",
+        "C": "have longer durations than business cycles."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Historically, credit cycles have been longer, on average, than business cycles. Credit cycles tend to amplify, not dampen, business cycles.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 13.1, LOS 13.b)"
+      ]
+    },
+    {
+      "id": "S1Q84",
+      "num": 84,
+      "question": "For a dataset of nine unequal values, the harmonic mean is 13.25 and the arithmetic mean is 13.86. The geometric mean is closest to:",
+      "options": {
+        "A": "12.97.",
+        "B": "13.55.",
+        "C": "14.16."
+      },
+      "answer": "B",
+      "explanation": "B is correct. For any data set with unequal values, the geometric mean will be between the arithmetic and harmonic mean. Therefore, 13.55 is the only possible answer out of the choices given. The exact relationship is that the geometric mean squared equals the arithmetic mean multiplied by the harmonic mean: [(13.25)(13.86)]^(1/2) = 13.5516.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 1.1, LOS 1.b)"
+      ]
+    },
+    {
+      "id": "S1Q85",
+      "num": 85,
+      "question": "An analyst is concerned about his own tendency to exhibit overconfidence bias. An appropriate action toward overcoming this bias would be to:",
+      "options": {
+        "A": "narrow confidence intervals.",
+        "B": "work independently from colleagues.",
+        "C": "employ scenario analysis in forecasting."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Overconfidence bias occurs when an analyst has too much faith in their own work. Sharing forecasts with others, widening confidence intervals, and using scenario analysis are all appropriate ways to mitigate the impact of overconfidence bias.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 40.1, LOS 40.b)"
+      ]
+    },
+    {
+      "id": "S1Q86",
+      "num": 86,
+      "question": "Matt Jacobs, CFA, recommended to a client that he buy shares in Timeco, which has subsequently underperformed the market. Timeco stock is thinly traded, and its price has decreased sharply over the past few weeks because two insiders have sold large blocks of shares. Jacobs believes this price decrease reflects an illiquid market. Because he still believes Timeco is a good long-term investment, he buys shares for his personal account in order to raise the price and help him convince his client to hold on to his investment in Timeco. Has Jacobs violated the Standards?",
+      "options": {
+        "A": "No, because the trade is for the benefit of his client.",
+        "B": "Yes, because he intended to manipulate the market price of Timeco.",
+        "C": "No, because he is providing liquidity to offset the effects of the recent large insider sales."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Whatever his motivation, Jacobs' attempt to manipulate the market price of Timeco shares with the intent to deceive market participants (in this case, his own client) constitutes a violation of Standard II(B) Market Manipulation.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.3, LOS 91.a, 91.b, 91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q87",
+      "num": 87,
+      "question": "Which of the following relationships among a company's stakeholders is most accurately described as a principal-agent relationship? The relationship between a company's managers and its:",
+      "options": {
+        "A": "creditors.",
+        "B": "regulators.",
+        "C": "shareholders."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The relationship between shareholders and managers of a company is a principal-agent relationship because the shareholders (the principals) hire managers (the agents) to act in the best interests of the shareholders.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 24.1, LOS 24.a)"
+      ]
+    },
+    {
+      "id": "S1Q88",
+      "num": 88,
+      "question": "At the beginning of the year, a firm securitizes half of its accounts receivable and uses the proceeds to pay down principal on a long-term bank loan. These transactions will:",
+      "options": {
+        "A": "increase the firm’s current ratio.",
+        "B": "decrease the firm’s debt-to-equity ratio.",
+        "C": "decrease the firm’s interest coverage ratio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Securitizing accounts receivable means the firm sells them to a special purpose entity that will issue asset-backed securities. This transaction will remove these accounts receivable from the firm's balance sheet. Using the proceeds to retire long-term debt will decrease liabilities by the same amount. Shareholders' equity is not affected. Therefore, the debt-to-equity ratio will decrease. The current ratio will decrease because accounts receivable (a current asset) decrease while current liabilities remain unchanged (or decrease only by any current portion of the debt paid down). The interest coverage ratio will increase because paying down long-term debt will decrease interest expense.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 39.2, LOS 39.b)"
+      ]
+    },
+    {
+      "id": "S1Q89",
+      "num": 89,
+      "question": "Craig Boone, CFA, a fixed-income trader, observes that one of the salesmen on the desk has been allocating his trades at the end of the day, giving better execution to large clients, a practice Boone suspects is illegal. The salesman tells Boone this is a common practice and that the firm's senior management is aware of it. If Boone makes a personal record of the activity, takes it home for his personal files, and subsequently reveals it to regulatory authorities, he would:",
+      "options": {
+        "A": "not be in violation of any Standards.",
+        "B": "be in violation of the Standards for disclosing confidential information.",
+        "C": "be in violation of the Standards for breaching his duty of loyalty to his employer."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard IV(A) Loyalty, the interests of a member or candidate's employer are secondary to protecting the interests of clients and the integrity of capital markets. In this circumstance, whistleblowing is justified. As long as his motivation is clearly not for personal gain, he may, according to the Standards, violate employer confidentiality in this case. While he is required to dissociate from the suspect activity by Standard I(A) Knowledge of the Law, he is not prohibited by the Standards from reporting it unless a stricter local law applies.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.b, 90.c; Module 91.6, LOS 91.a,91.b,91.c; and Module 93.1, LOS 93.a, 93.b)"
+      ]
+    },
+    {
+      "id": "S1Q90",
+      "num": 90,
+      "question": "Sanctions that may be imposed on members by CFA Institute include:",
+      "options": {
+        "A": "public censure, suspension of membership, and fines.",
+        "B": "suspension of membership, revocation of CFA charter, and fines.",
+        "C": "public censure, suspension of membership, and revocation of CFA charter."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If a Professional Conduct Program inquiry finds that a member has violated the Code and Standards, CFA Institute may impose sanctions, which include public censure, suspension of membership in CFA Institute and use of the CFA designation, and revocation of a member's CFA charter. CFA Institute does not impose fines.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 90.1, LOS 90.a)"
+      ]
+    }
+  ]
+}

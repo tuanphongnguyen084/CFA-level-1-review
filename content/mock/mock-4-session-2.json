@@ -1,0 +1,1179 @@
+{
+  "schema_version": 1,
+  "name": "Mock 4 — Session 2",
+  "group": "Mock 4",
+  "source": "MOCK 4 SESSION 2",
+  "timed_minutes": 135,
+  "questions": [
+    {
+      "id": "S2Q1",
+      "num": 1,
+      "question": "Which of the following statements is most accurate?",
+      "options": {
+        "A": "The value of a swap fluctuates as market: conditions change",
+        "B": "The price and the value of a swap are the same al expiration",
+        "C": "The price of a swap at initiation is zero as there is no initial outlay of cash"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The value of a swap will fluctuate as market conditions change. B is incorrect because the world of forwards, futures, and swaps, however, uses different terminology with respect to price and value. As the underlying moves, [swap] values become either positive or negative. The forward, futures, or swap price is a concept that represents the fixed price or rate at which the underlying will be purchased at a later date. The value and price are not at all comparable with each other. Therefore, the statement that the price and the value of a swap are the same is incorrect. C is incorrect because it is the value of a swap contract that is zero at initiation and not the price. Forwards, futures, and swaps start off with values of zero.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q2",
+      "num": 2,
+      "question": "With respect to the portfolio management process, the execution step most likely includes",
+      "options": {
+        "A": "asset allocation.",
+        "B": "portfolio monitoring.",
+        "C": "developing the investment policy statement."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Asset allocation is part of the execution step of the portfolio management process. The execution step also includes security analysis and portfolio construction. B is incorrect. Portfolio monitoring is part of the feedback step of the portfolio management process. C is incorrect. Preparation of an investment policy statement is part of the planning step of the portfolio management process.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q3",
+      "num": 3,
+      "question": "Which of the following types of mutual funds most likely places the highest pressure on the portfolio manager to manage liquidity?",
+      "options": {
+        "A": "A load closed-end fund",
+        "B": "A no-load open-and fund",
+        "C": "A no-load closed-end fund"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A no-load open-end fund accepts new investment money and issues additional shares at a value equal to the net asset value of the fund at the time of investment. This structure makes it easy to grow in size but creates pressure on the portfolio manager to manage the cash inflows and outflows. Redemptions may create the need to liquidate assets that the portfolio manager might not want to sell at the time or to hold cash to meet redemptions. As a no-load fund, it charges no fee for investing in the fund or for redemption. A is incorrect. A load closed-end fund disallows new investment money into the fund and in addition to the annual fee, a percentage fee is charged to invest in the fund and/or for redemption from the fund. Therefore, needs for liquidity for the portfolio managers are low. C is incorrect. A no-load closed-end fund disallows new investment money into the fund and charges no fee for investing in the fund or for redemption. Therefore, there are no particular needs for liquidity for the portfolio managers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q4",
+      "num": 4,
+      "question": "A limit order is an example of a(n):",
+      "options": {
+        "A": "validity instruction.",
+        "B": "clearing instruction.",
+        "C": "execution instruction."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Execution instructions indicate how to fill the order. Market and limit orders convey the most common execution instructions. A is incorrect because validity instructions indicate when the order may be filled. B is incorrect because clearing instructions indicate how to arrange the final settlement of the trade.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q5",
+      "num": 5,
+      "question": "Jensen's alpha is most appropriate in measuring portfolio performance when:",
+      "options": {
+        "A": "idiosyncratic risk is relevant for an investor.",
+        "B": "evaluating the performance of real estate against equity investments.",
+        "C": "the investor holds a well-diversified portfolio with negligible diversifiable risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk. A is incorrect because like the Treynor ratio, Jenson's alpha is based on systematic risk. It does not consider idiosyncratic risk. B is incorrect because the measures of performance evaluation assume that the benchmark market portfolio is the correct portfolio. As a result, an error in the benchmark may cause the results to be misleading. For example, evaluating a real estate fund against the S&P 500 is incorrect because real estate has different characteristics than equity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q6",
+      "num": 6,
+      "question": "The bond equivalent yield for a semiannual pay bond is most likely",
+      "options": {
+        "A": "equal to the effective annual yield.",
+        "B": "more than the effective annual yield.",
+        "C": "equal to double the yield per semiannual period."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An annual rate having a periodicity of two is known as a semiannual bond basis yield, or semiannual bond equivalent yield. Therefore, a semiannual bond basis yield is the yield per semiannual period times 2. A is incorrect because the bond equivalent yield for a semi-annual pay bond is equal to double the semiannual yield to maturity and is lower than the effective annual yield. B is incorrect because the bond equivalent yield for a semi-annual pay bond is equal to double the semiannual yield to maturity and is lower than the effective annual yield.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q7",
+      "num": 7,
+      "question": "As compared to exchange-traded derivative markets, over-the-counter derivative markets are typically more:",
+      "options": {
+        "A": "liquid.",
+        "B": "flexible.",
+        "C": "transparent."
+      },
+      "answer": "B",
+      "explanation": "B is correct. OTC (over-the-counter) and ETD (exchange-traded derivative) markets differ in several ways. OTC derivatives offer greater flexibility and customization than ETD. Specifically, the terms of OTC contracts can be customized to match a desired risk exposure profile. This flexibility is important to end users seeking to hedge a specific existing or anticipated underlying exposure based upon non-standard terms. A is incorrect because OTC instruments have less transparency, usually involve more counterparty risk, and may be less liquid. Moreover, when compared to OTC derivative markets, ETD contracts are more formal and standardized, which facilitates a more liquid and transparent market. Hence, OTC derivative markets are typically less, not more, liquid than ETD markets. C is incorrect because ETD markets have transparency, which means that full information on all transactions is disclosed to exchanges and national regulators. Moreover, when compared to OTC derivative markets, ETD contracts are more formal and standardized, which facilitates a more liquid and transparent market. Hence, OTC derivatives markets are typically less, not more, transparent than ETD markets.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q8",
+      "num": 8,
+      "question": "In which form of market efficiency do security prices fully reflect private information?",
+      "options": {
+        "A": "Weak-form efficient",
+        "B": "Semi-strong-form efficient",
+        "C": "Strong-form efficient"
+      },
+      "answer": "C",
+      "explanation": "C is correct. In a strong-form efficient market, security prices fully reflect private information. A is incorrect because weak-form efficiency makes no claims about prices reflecting private information, only that prices reflect all past market data such as price and volume information. B is incorrect because semi-strong form efficiency makes no claims on prices reflecting private information, only that prices reflect all past market data such as price and volume information and all publicly known information such as financial statements.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q9",
+      "num": 9,
+      "question": "An investor sells a European put option with the following characteristics: Fut price $40 Exercise price $1,500 Q. If the price of the underlying at expiration is $1,550, the profit or loss for the seller is:",
+      "options": {
+        "A": "–S10",
+        "B": "$40",
+        "C": "$50"
+      },
+      "answer": "B",
+      "explanation": "B is correct. To the put seller, the profit is = -Max(0,X-ST) + p0, where X is the exercise price, ST is the price of the underlying at expiration, and po is the put price. Therefore, Π=-Max(0, (1,500-1,550)) + 40 = 40. A is incorrect because it represents the put price p, less the difference between the exercise price X and the price of the underlying ST at expiration: 40-(1,550-1,500)=-10. This would be the profit to the seller of a call option, Π = - Max(0,ST - X) + C0, with the same exercise price and the same selling price. By contrast, to the put seller, the profit is Π= -Max(0,X – ST) + po. Therefore, Π=-Max(0,(1,500 1,550)) + 40 = 40. C is incorrect because it represents the payoff to the call buyer cT= Max(0,ST-X), where ST is the price of the underlying at expiration and X is the exercise price. Therefore, cT= Max(0, (1,550-1,500)) = 50. By contrast, to the put seller, the profit is Π = -Max(0,X-ST) + P0, where po is the put price. Therefore, Π=- Max(0,(1,500-1,550)) + 40 = 40.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q10",
+      "num": 10,
+      "question": "An analyst gathers the following information about a security and the market for a 12-month period: Realized Return Beta Security 10.5% 0.8 Market 12.0% 1.0 Q. The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
+      "options": {
+        "A": "–1.1%",
+        "B": "0.5%",
+        "C": "2.5%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The abnormal return of a security during a period is the difference between expected return and realized return, or the error term e in the market model, Rj = αj + βjRm + ej. The term αj is Rf x (1-βj) = 0.02 × 0.2 = 0.004, which results in ej= 0.105-0.004-0.8×0.12 =0.005 =0.5%. Another approach to compute the abnormal return of a security is using the capital asset pricing model, E(Rj) = Rf+βj (Rm-Rf), such that E(Rj) = 0.02 +0.8 x (0.12-0.02)=0.10. It follows that the abnormal return of the security is 0.105- 0.10 =0.005 = 0.5%. A is incorrect because the market model is incorrectly stated as Rj=Rf+βiRm+ej which results in ej = 0.105- 0.02- 0.8×0.12 =-0.011=-1.1%. This is also closest to the calculation 0.8 x (0.105-0.12)=-0.012=-1.2%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q11",
+      "num": 11,
+      "question": "Following an increase in interest rates, the point in time at which a bondholder's gain on reinvested coupons equals the loss on the sale price is best measured by:",
+      "options": {
+        "A": "effective duration.",
+        "B": "modified duration.",
+        "C": "Macaulay duration."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For a particular assumption about yield volatility, Macaulay duration indicates the investment horizon for which coupon reinvestment risk and market price risk offset each other. In addition, at some point in the lifetime of the bond the effect from an increase in interest rates on the reinvested coupons and bond price offset each other and the gain on reinvested coupons is equal to the loss on the sale of the bond. That point in time is the Macaulay duration statistic. A is incorrect because effective duration measures a percentage change in price, not a point in time. The effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve. B is incorrect because modified duration measures a percentage change in price, not a point in time. Modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q12",
+      "num": 12,
+      "question": "Which of the following best describes the risk of having to make a significant price concession when selling an asset?",
+      "options": {
+        "A": "Liquidity risk",
+        "B": "Solvency risk",
+        "C": "Settlement risk"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Liquidity risk is the risk of a significant downward valuation adjustment when selling a financial asset. In order to sell an asset, a party may need to reduce the price to a level that is less than the marked value or the seller's assessment of the asset's true value based on the fundamentals of the asset. In certain market conditions, the seller must make a significant price concession. B is incorrect because solvency risk is the risk that the organization does not survive or succeed because it runs out of cash, even though it might otherwise be solvent. C is incorrect because settlement risk is the risk of loss from the settling of payments that occur just before a default. However, the stem does not refer to any default event.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q13",
+      "num": 13,
+      "question": "Using put-call parity, a long call can best be replicated by going:",
+      "options": {
+        "A": "long the put, short the asset, and long the bond.",
+        "B": "short the put, long the asset, and short the bond.",
+        "C": "long the put, long the asset, and short the band."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to put-call parity, a long call is equal to long put, long asset, short bond. A is incorrect because the short asset position must be a long position, and the long bond position must be a short position. According to put-call parity, a long call is equal to long put, long asset, short bond. B is incorrect because the short put position must be a long position. According to put-call parity, a long call is equal to long put, long asset, short bond.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q14",
+      "num": 14,
+      "question": "A portfolio manager plans to add three securities with the following characteristics to a well-diversified portfolio: • Security 1 has the highest Jensen's alpha, • Security 2 has the highest information ratio; • Security 3 has the lowest nonsystematic variance. Q. To maximize the portfolio's risk-adjusted return, the manager should assign the highest relative weight to:",
+      "options": {
+        "A": "Security 1.",
+        "B": "Security 2.",
+        "C": "Security 3."
+      },
+      "answer": "B",
+      "explanation": "B is correct. , when choosing relative weights in a portfolio, as we are concerned with maximizing risk-adjusted return, securities with a higher a should have a higher weight, and securities with greater nonsystematic risk should be given less weight in the portfolio. The weight in each nonmarket security should be proportional to αj/σei^2, where the denominator is the nonsystematic variance of security /. The information ratio, αj/σei^2 (i.e., alpha divided by nonsystematic risk), measures the abnormal return per unit of risk added by the security to a well-diversified portfolio. The larger the information ratio is, the more valuable the security. Thus, Security 2 with the highest information ratio should have the highest relative weight when added to a well-diversified portfolio. A is incorrect because a positive Jensen's alpha indicates a superior security, whereas a negative Jensen's alpha indicates a security that is likely to underperform the market when adjusted for risk. Thus, a security with a positive Jensen's alpha would be considered as an addition to a proxy for the market portfolio; however, its relative weight in the portfolio depends not only on the security's alpha, but also on its nonsystematic risk. The weight in each nonmarket security should be proportional to αj/σei^2, where the denominator is the nonsystematic variance of security i. The information ratio, αj/σei^2 (i.e., alpha divided by nonsystematic risk), measures the abnormal return per unit of risk added by the security to a well-diversified portfolio. The larger the information ratio is, the more valuable the security. Since Security 2 has a higher information ratio than Security 1, it implies that Security 1 should have a lower relative weight in the portfolio. C is incorrect because , when choosing relative weights in a portfolio, as we are concerned with maximizing risk-adjusted return, securities with a higher a should have a higher weight, and securities with greater nonsystematic risk should be given less weight in the portfolio. The weight in each nonmarket security should be proportional to αj/σei^2, where the denominator is the nonsystematic variance of security i. The information ratio, αj/σei^2 (i.e., alpha divided by nonsystematic risk), measures the abnormal return per unit of risk added by the security to a well-diversified portfolio. The larger the information ratio is, the more valuable the security. Since Security 2 has a higher information ratio than Security 3, it implies that Security 3 should have a lower relative weight in the portfolio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q15",
+      "num": 15,
+      "question": "With respect to an investment policy statement, which of the following is most closely linked to the client's distinctive needs?",
+      "options": {
+        "A": "The evaluation and review section",
+        "B": "The objectives and constraints sections",
+        "C": "The statement of duties and responsibilities"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The sections that are most closely linked to the client's distinctive needs, and probably the most important from a planning perspective, are those dealing with investment objectives and constraints. An IPS [investment policy statement] focusing on these two elements has been called an IPS in an 'objectives and constraints' format. A is incorrect because the Evaluation and Review section provides guidance on obtaining feedback on investment results. C is incorrect because the Statement of Duties and Responsibilities details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q16",
+      "num": 16,
+      "question": "An annual-pay bond with a £1,000 face value has a coupon rate of 4% and matures in three years. If the yield to maturity is 3%, the current value of the bond is closest to:",
+      "options": {
+        "A": "£972.",
+        "B": "£1,028.",
+        "C": "£1,142."
+      },
+      "answer": "B",
+      "explanation": "B is correct. FV = £1,000 I=3 N=3 PMT = 40 PV = £1,028 Or PV = 40/1.03+40/(1.03)²+1,040/(1.03)³ = £1,028.30, rounded to £1,028. A is incorrect because it changes the payment amount to semiannual but leaves the time period and discount rate as annual. FV = £1,000 1=3 N=3 PMT = 20 PV = £972 rounded. C is incorrect because it changes the discount rate and time period to semiannual and leaves the payment as annual. FV = £1,000 I=1.5 N=6 PMT = 40 PV = £1,142.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q17",
+      "num": 17,
+      "question": "An investor makes the following statements: Statement 1 \"Swaps are contingent claims.\" Statement 2 \"Swaps are characterized by a series of cash flows.\" Q. Which of the statements is correct?",
+      "options": {
+        "A": "Statement 1 only",
+        "B": "Statement 2 only",
+        "C": "Both Statement 1 and Statement 2"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A swap is an over-the-counter derivative contract in which two parties agree to exchange a series of cash flows whereby one party pays a variable series that will be determined by an underlying asset or rate and the other party pays either (1) a variable series determined by a different underlying asset or rate or (2) a fixed series. A is incorrect because the various types of forward commitments are called forward contracts, futures contracts, and swaps. Therefore, swaps are commitments, not contingent claims. C is incorrect because the various types of forward commitments are called forward contracts, futures contracts, and swaps. Therefore, swaps are commitments, not contingent claims.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q18",
+      "num": 18,
+      "question": "Which of the following measures is an example of a top-down driver for forecasting a firm's revenue?",
+      "options": {
+        "A": "Same-store sales growth",
+        "B": "Growth relative to GDP growth",
+        "C": "Volumes and average selling prices"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Growth relative to GDP growth is an example of a top-down forecast object. Common top-down forecast objects include 'growth relative to GDP growth' and 'market growth and market share.'. A is incorrect because same-store sales growth is an example of a capacity-based measure which is a bottom-up forecast object. Examples of bottom-up drivers for revenue forecasts include capacity-based measures. Forecasts, for example, in retailing, based on the number of stores and sales per store, or same-store sales growth (for stores that have been open for at least 12 months) and sales related to new-store openings). C is incorrect because examples of bottom-up drivers for revenue forecasts include the following: Volumes and average selling prices.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q19",
+      "num": 19,
+      "question": "The money duration of a bond is best defined as:",
+      "options": {
+        "A": "the bond's Macaulay duration times the bond's full price.",
+        "B": "the estimated change in the bond's full price in currency units for a given change in the annual yield to maturity.",
+        "C": "one half of the difference in the bond's full prices given a 1 basis point decrease and 1 basis point increase in yield-to-maturity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. This describes the interpretation of money duration. The money duration of a bond is a measure of the price change in units of the currency in which the bond is denominated. For a given change in the annual yield-to-maturity (∆Yield), modified duration estimates the percentage price change and money duration estimates the change in currency units. A is incorrect because it is the annual modified duration, not Macaulay duration, times the bond's full price. Money duration (MoneyDur) is calculated as the annual modified duration times the full price (PVN) of the bond. C is incorrect because this describes the calculation of the price value of a basis point (PVBP). The PVBP is an estimate of the change in the full price given a 1 bp change in the yield-to-maturity. The PVBP can be calculated using a formula similar to that for the approximate modified duration... PVBP = [(PV-)-(PV+)]/2 where PV-and PV+ are the full prices calculated by decreasing and increasing the yield-to-maturity by 1 bp.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q20",
+      "num": 20,
+      "question": "All else being equal, forward and futures prices are equal when:",
+      "options": {
+        "A": "futures prices and interest rates are negatively correlated.",
+        "B": "futures prices and interest rates are uncorrelated.",
+        "C": "futures prices and interest rates are positively correlated."
+      },
+      "answer": "B",
+      "explanation": "B is correct. If futures prices and interest rates are uncorrelated, forwards and futures prices will be the same. Future and forward prices differ due to differences in cash flows. When these cashflows are uncorrelated with interest rates, the desirability of own futures vs owning forwards is the same and hence their prices are the same. A is incorrect because a negative correlation between futures prices and interest rates leads to the opposite interpretation, with forwards being more desirable than futures to the long position. Hence the price of the future will be lower than the price of the forward. C is incorrect because if futures prices are positively correlated with interest rates, futures contracts are more desirable to holders of long positions than are forwards. Hence the price of the future will be higher than the price of the forward.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q21",
+      "num": 21,
+      "question": "An analyst gathers the following information about a company's common stock: Dividend per share - Year 1 $2.00 Dividend per share - Year 2 $2.10 Annual dividend per share Year 3 and beyond $2.21 Q. If the required rate of return is 10%, the intrinsic value per share is closest to:",
+      "options": {
+        "A": "$21.82",
+        "B": "$22.10",
+        "C": "$27.31"
+      },
+      "answer": "A",
+      "explanation": "A is correct. It is the present value of all future dividends. The present value of the perpetual level dividends, three year from now, is: $2.21 / (0.10-0)=$22.10. The present value of the perpetual level dividends now is: $22.10/(1.10)^3 = $16.604. The present of dividends in the first three years is: $2.00/1.10 + $2.10/(1.10)^2+ $2.21/(1.10)^3=$1.818 + $1.736 + $1.660= $5.214. So, the intrinsic value of the stock is closest to: $16.604 + $5.214 = $21.818~$21.82. B is incorrect because it is only the present value of the perpetual level dividends three years from now. $2.21/(0.10- 0) = $22.10.",
+      "answer_source": "text"
+    },
+    {
+      "id": "S2Q22",
+      "num": 22,
+      "question": "A company's cost of equity is a proxy for the:",
+      "options": {
+        "A": "company's intrinsic value.",
+        "B": "company's accounting return on equity.",
+        "C": "minimum required rate of return of investors in the company's equity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Companies try to raise capital at the lowest possible cost, [and] the company's cost of equity is often used as a proxy for the investors' minimum required rate of return. A is incorrect because intrinsic value refers to the true value of an asset. And a primary means to estimate a company's true or intrinsic value, is the present value of its future projected cash flows. B is incorrect because accounting return on equity (ROE) measures the total amount of net income available to common shareholders generated by the total equity capital invested in the company.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q23",
+      "num": 23,
+      "question": "The focus strategy is most likely used to defend against which of Porter's five forces?",
+      "options": {
+        "A": "Industry rivalry",
+        "B": "Threat of new entrants",
+        "C": "Bargaining power of suppliers"
+      },
+      "answer": "B",
+      "explanation": "B is correct. With the focus strategy, customer loyalty to unique product can deter switching, protect market share. A is incorrect because the cost leadership strategy can most likely be used to defend against industry rivalry, not the focus strategy. With the cost leadership strategy, rivals may not be able to compete on price with cost leaders. C is incorrect because the differentiation strategy can most likely be used to defend against bargaining power of suppliers, not the focus strategy. With the differentiation strategy, the company may have the ability to pass along price increases to customers and/or margin to absorb cost increases.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q24",
+      "num": 24,
+      "question": "Which of the following is most likely a high-risk infrastructure investment?",
+      "options": {
+        "A": "An asset with a history of steady cash flows",
+        "B": "A brownfield asset leased back to a government",
+        "C": "A greenfield project without guarantees of demand upon completion"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Greenfield projects without guarantees of demand upon completion-e.g., variable electricity prices, uncertain traffic on roads and through ports, are examples of higher-risk profile investments. A is incorrect because an investment in a brownfield asset leased back to a government represents a low-risk infrastructure investment, as does an investment in assets with a history of steady cash flows, such as certain established toll roads. B is incorrect because an investment in a brownfield asset leased back to a government represents a low-risk infrastructure investment, as does an investment in assets with a history of steady cash flows, such as certain established toll roads.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q25",
+      "num": 25,
+      "question": "An example of a negative bond covenant is a:",
+      "options": {
+        "A": "promise to pay required taxes.",
+        "B": "limit on the issuance of additional debt.",
+        "C": "requirement to comply with existing laws and regulations."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Examples of negative covenants include the Restrictions on debt regulate the issue of additional debt. A is incorrect because affirmative covenants are typically administrative in nature and include a promise to comply with all laws and regulations, maintain its current lines of business, insure and maintain its assets, and pay taxes as they come due. C is incorrect because affirmative covenants are typically administrative in nature [and include a promise to comply with all laws and regulations, maintain its current lines of business, insure and maintain its assets, and pay taxes as they come due.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q26",
+      "num": 26,
+      "question": "An investor collects the following information about a call option: Spot price of the underlying $10.50 Strike price of the option $9.40 Option premium $1.15 Q. At expiration, if the price of the underlying is $9.35, the profit to the call seller is:",
+      "options": {
+        "A": "S0",
+        "B": "$1,10",
+        "C": "$1.15"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Π = -Max(0,ST-X) + co (profit to the call seller), where ST is the price of the underlying at expiration, X is the strike price and co is the option premium. Therefore, the correct calculation yields: $1.15 = - Max(0,$9.35-$9.40) + $1.15. A is incorrect because the profit to the call seller (Π) is not equal to ST-S0+-Max(0,ST-X) + c0, where So is the spot price of the underlying, ST is the price of the underlying at expiration, X is the strike price and co is the option premium. Therefore, the incorrect calculation yields: $0 = $9.35-$10.50+-Max(0,$9.35-$9.40) + $1.15, which represents the profit of a covered call strategy. Instead, the correct formula is Π=- Max(0,ST-X) + c0 (profit to the call seller) which yields: $1.15=-Max(0,$9.35-$9.40) + $1.15. B is incorrect because the profit to the call seller (Π) is not equal to X-ST + c0, where ST is the price of the underlying at expiration, X is the strike price and co is the option premium. Therefore, the incorrect calculation yields: $1.10 = $9.35-$9.40+$1.15. Instead, the correct formula is Π = -Max(0,ST-X) + co (profit to the call seller) which yields: $1.15=-Max(0,$9.35 - $9.40) + $1.15.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q27",
+      "num": 27,
+      "question": "For a given currency and tenor, a bond's yield spread over the standard swap rate is best described as the:",
+      "options": {
+        "A": "I-spread.",
+        "B": "G-spread.",
+        "C": "Z-spread."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I-spread or interpolated spread to the swap curve. This yield spread over MRR allows comparison of bonds with differing credit and liquidity risks against an interbank lending benchmark. B is incorrect because the yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond. C is incorrect because the G-spread and I-spread each use the same discount rate for each cash flow. Another approach is to calculate a constant yield spread over a government (or interest rate swap) spot curve instead. This spread is known as the zero-volatility spread (Z-spread) of a bond over the benchmark rate.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q28",
+      "num": 28,
+      "question": "An analyst gathers the following information about a hedge fund: Beginning-of-year assets under management (AUM) $350 million Management fee, based on year-end AUM before fees 2% Incentive fee 20% Hard hurdle rate 5% Annual return before fees 10% Q. If the incentive fee is based on returns net of management fees, the incentive fee (in $ millions) is:",
+      "options": {
+        "A": "1.96",
+        "B": "5.46",
+        "C": "7.00"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee. GPs typically receive 20% of the total profit of the private equity fund net of any hard hurdle rate, in which case the GP earns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in which case the fee is calculated on the entire annual gross return as long as the set hurdle is exceeded. Management Fee = $350 x 1.10 × 0.02 = $7.7 Hurdle Rate (in $) = $350 × 0.05 = $17.5 Profit on Hedge Fund = $350 × 0.10 = $35 Incentive Fee ($35-$7.7-$17.5) x 0.20 = $1.96. B is incorrect because the hurdle rate is not accounted for in the incentive fee calculation. Profit on Hedge Fund = $350 × 0.10 = $35 Management Fee =$350 x 1.10 × 0.02 = $7.7 Incentive Fee =($35-$7.7) x 0.20 = $5.46. C is incorrect because neither the management fee nor the hurdle rate are accounted for in the incentive fee calculation. Profit on Hedge Fund = $350 × 0.10 = $35 Incentive Fee = $35 × 0.20 = $7.00.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q29",
+      "num": 29,
+      "question": "The methodology used by a credit rating agency to adjust a specific bond issue rating is best described as:",
+      "options": {
+        "A": "notching.",
+        "B": "cross-default.",
+        "C": "structural subordination."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Specific issues may be assigned different credit ratings - higher or lower due to a ratings adjustment methodology known as notching. For the rating agencies, likelihood of default - default risk - is the primary factor in assigning their ratings. However, there are secondary factors as well including priority of payment in the event of a default, potential loss severity in the event of default, structural subordination,. B is incorrect because although cross-default provisions, whereby events of default such as non-payment of interest on one bond trigger default on all outstanding debt, implies the same default probability for all issues, specific issues may be assigned different credit ratings - higher or lower due to a ratings adjustment methodology known as notching. Notching is the process by which an issue credit rating is adjusted higher or lower, where as cross-default provisions describe a process whereby the default of a bond issue from the same issuer can trigger the default on other or all outstanding debt of that issuer. Cross-default provisions are terms in a bond issue and do not describe a credit rating methodology. C is incorrect because a factor considered by ratings agencies is structural subordination, which can arise when a corporation with a holding company structure has debt at both its parent holding company and operating subsidiaries. Debt at the operating subsidiaries will get serviced by the cash flow and assets of the subsidiaries before funds can be passed (\"upstreamed\") to the holding company to service debt at that level. Recognizing these.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q30",
+      "num": 30,
+      "question": "Regarding distribution methods in alternative investments, which of the following is most advantageous to the general partners?:",
+      "options": {
+        "A": "A European waterfall",
+        "B": "An American waterfall",
+        "C": "A whole-of-fund waterfall"
+      },
+      "answer": "B",
+      "explanation": "B is correct. There are two types of waterfalls: deal-by-deal (or American) waterfalls and whole-of-fund (or European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund. A is incorrect because there are two types of waterfalls: deal-by-deal (or American) waterfalls and whole-of-fund (or European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund. C is incorrect because there are two types of waterfalls: deal-by-deal (or American) waterfalls and whole-of-fund (or European) waterfalls. Deal-by-deal waterfalls are more advantageous to the GP because performance fees are collected on a per-deal basis, allowing the GP to get paid before LPs receive both their initial investment and their preferred rate of return (i.e., the hurdle rate) on the entire fund.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q31",
+      "num": 31,
+      "question": "Security market indexes can be used to calculate alphas, which are best described as:",
+      "options": {
+        "A": "a measure of market sentiment.",
+        "B": "the systematic risk of a security, using the index as a proxy for the entire market.",
+        "C": "the difference between the return of the actively managed portfolio and the return of the passive portfolio."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Security market indexes serve as market proxies when measuring risk-adjusted performance. Alpha, the difference between the return of the actively managed portfolio and the return of the passive portfolio, is a measure of risk-adjusted return. A is incorrect because the collective opinion of market participants indicates sentiment whereas alpha is a measure of risk-adjusted return. B is incorrect because beta, not alpha, measures the amount of systematic risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q32",
+      "num": 32,
+      "question": "An analyst gathers the following information about a margin transaction: Initial stock price $80 Leverage ratio 2.5 Q. If the first margin call occurs at a stock price below $60, the maintenance margin is closest to:",
+      "options": {
+        "A": "15.0%",
+        "B": "20.0%",
+        "C": "46.7%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The maintenance margin is solved using the following equation: Equity per share/ Price per share =( Equity per share +P-initial stock price )/P = Maintenance margin in percentage terms. Where P is equal to the price below which a margin call will first take place. Here this is $60. Equity per share = Percentage of equity initial stock price, where the percentage of equity is equal to 1/Leverage ratio= 1 / 2.5= 0.4 or 40%. Therefore, the Equity per share is equal to 0.4 x $80 = $32. Therefore, the maintenance margin is $32 + $60 −$80 $60 = ^$12 $60 ^= 20%. A is incorrect because this response is calculated by incorrectly using the initial stock price [$80] as opposed to P, the price below which a margin call will first take place [$60]. This calculation is as follows: $32 + $60 −$80 $80 = ^$12 $80 ^= 0.15 𝑜𝑟 15%. C is incorrect because Equity per share is incorrectly calculated with the wrong percentage of equity formula: (1-1/ leverage ratio) [as opposed to the correct calculation of: 1/ leverage ratio] = (1-1/2.5)=(1- 0.4) = 0.6 or 60%. Using 60% to calculate the Equity per share, the equity per share = 60% x $80 = $48 Applying this incorrect percentage of equity [60%] into the formula for maintenance margin - Equity per/ Price per share = ( Equity per share +P-initial stock price )/P = $48 + $60 −$80 $60 = ^$28 $60 ^= 46.7%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q33",
+      "num": 33,
+      "question": "Which of the following is an underlying assumption of yield to maturity as a measure of expected return for a bond?",
+      "options": {
+        "A": "The credit quality of the issuer remains the same",
+        "B": "The bond is sold at the same price as the purchase price",
+        "C": "Coupons are reinvested at the same rate as the yield to maturity at purchase"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The yield-to-maturity at the time of purchase measures the investor's rate of return under three assumptions: (1) The investor holds the bond to maturity, (2) there is no default by the issuer, and (3) the coupon interest payments are reinvested at that same rate of interest. A is incorrect because although one of the assumptions of yield-to-maturity as a return measure is that there is no default by the issuer, it only assumes that the issuer does not default, meaning all interest and principal payments are made as scheduled. Although a change to the credit rating of the issuer may change the market price of the bond before maturity, the return measure is yield to maturity, meaning principal repayment is par at maturity, and credit ratings in the interim or at maturity will not impact that amount. B is incorrect because the yield-to-maturity at the time of purchase measures the investor's rate of return under three assumptions: (1) The investor holds the bond to maturity, (2) there is no default by the issuer, and (3) the coupon interest payments are reinvested at that same rate of interest. The assumptions require the bond to be held to maturity, not to be sold at the purchase price.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q34",
+      "num": 34,
+      "question": "A manager gathers the following information about two non-dividend paying stocks that constitute a market-capitalization weighted index: Stock Market Capitalization Price per Share 1 $100 million $90 2 $200 million $30 Q. If there are no other securities in the index and the price of each stock increases by 10%, the index's return will most likely be:",
+      "options": {
+        "A": "less than the return of an equal-weighted index.",
+        "B": "equal to the return of an equal-weighted index.",
+        "C": "greater than the return of an equal-weighted index."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The return or percentage change of both indexes is 10% as shown below. The return of the market-cap or equal-weight index = ∑wi x (Pi1-Pi0)/Pi0 where: Pi₁ = end-of-period price of the i^th security Pi0 = begin-of-period price of the i^th security 𝑊𝑖 𝑀= 𝑄𝑖𝑃𝑖 ∑ 𝑄𝑖𝑃𝑖 𝑁 𝑖−1 = weight of security i for a market-cap index at beginning of period Wi^E=1/N= weight of security i for an equal-weight index of N securities N E For the market-cap index, w₁ = 200/300 = 0.6667; w₂ = 100/300 = 0.3333 The return of the market-cap index = 0.6667 × 10+ 0.3333 × 10 = 10% For the equal-weight index, w1 = W₂ = ½ = 0.50 The return of the equal-weight index = 0.5 x 10+ 0.5 × 10 = 10%. Alternatively, the answer can be calculated as follows: For the market-cap index, the initial market cap is 100 + 200 = 300. The market cap of each stock increases by 10% to 110 +220 =330. The return or percentage change of the index is 330/300-1=10%. For the equal-weight index of two stocks, each stock has the same weight of ½ or 50%. If each stock increases by 10% then the index changes by (50% 10% +50% × 10%) = 10%. A is incorrect because both indexes change by the same 10%. The return of the market-cap or equal-weight index = ∑ Wi x (Pi1-Pi0)/Pi0 where: Pi1 =end-of-period price of the it security Pi0 =begin-of-period price of the ith security 𝑊𝑖 𝑀= 𝑄𝑖𝑃𝑖 ∑ 𝑄𝑖𝑃𝑖 𝑁 𝑖−1 = weight of security i for a market-cap index at beginning of period Wi^E = 1/N =weight of security i for an equal-weight index of N securities For the market-cap index, w1 =200/300 = 0.6667; w₂ = 100/300 = 0.3333 The return of the market-cap index = 0.6667 x 10+ 0.3333 × 10 = 10% For the equal-weight index, W1 = W₂ = ½ = 0.50 The return of the equal-weight index = 0.5x10 +0.5 × 10 = 10%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q35",
+      "num": 35,
+      "question": "A trader buys 500 shares of a stock on margin at $36 a share using an initial leverage ratio of 1.66. The maintenance margin requirement for the position is 30%. The stock price at which the margin call will occur is closest to:",
+      "options": {
+        "A": "$20.57",
+        "B": "$25.20",
+        "C": "$30.86"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Initial equity (%) in the margin transaction = 1/Leverage ratio = 1/1.66=0.60. Initial equity per share at the time of purchase = $36×0.60 = $21.60 Price (P) at which margin call occurs: Equity per share/Price per share = Maintenance margin (%) ($21.60+P-$36)/P = 0.30 0.7P = $14.40 P = $20.57. B is incorrect because it takes (1-maintenance margin %) of the initial price as the critical price for margin call: $36 x (1-0.3) = $25.20. C is incorrect because it calculates the initial equity per share at the time of purchase = $36 x 0.40 = $14.40.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q36",
+      "num": 36,
+      "question": "Two private equity funds doubled the value of their investments. All else being equal, if Fund 1 achieved this return in less time than Fund 2, the multiple of invested capital (MOIC) of Fund 1 is:",
+      "options": {
+        "A": "lower than that of Fund 2.",
+        "B": "the same as that of Fund 2.",
+        "C": "higher than that of Fund 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A shortcut methodology often used by both private equity and real estate managers involves simply citing a multiple of invested capital (MOIC), or money multiple, on total invested capital (which is paid-in capital less management fees and fund expenses). Here, one simply measures the total value of all realized investments and residual asset values (assets that may still be awaiting their ultimate sale) relative to an initial total investment the MOIC ignores the timing of cash flows. A is incorrect because the MOIC ignores the timing of cash flows. C is incorrect because the MOIC ignores the timing of cash flows.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q37",
+      "num": 37,
+      "question": "At maturity, the buyer faces the counterparty credit risk of the seller in:",
+      "options": {
+        "A": "a profitable long forward position only.",
+        "B": "an in-the-money long call option position only.",
+        "C": "both a profitable long forward position and an in-the-money long call option position."
+      },
+      "answer": "C",
+      "explanation": "C is correct. At maturity the buyer of an in-the-money call option faces the counterparty credit risk of the seller, as does the buyer of a profitable long forward position. A is incorrect because although at maturity the buyer of a profitable long position in a forward faces the counterparty credit risk of the seller, the buyer of an in-the-money call option also faces this counterparty credit risk. B is incorrect because although at maturity the buyer of an in-the-money call option faces the counterparty credit risk of the seller, the buyer of a profitable long position in a forward also faces this counterparty credit risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q38",
+      "num": 38,
+      "question": "With respect to an IPS, which of the following best describes an absolute risk objective for a client's portfolio?",
+      "options": {
+        "A": "An annual tracking risk of less than 2 percent",
+        "B": "A twelve-month 95% value at risk of less than €1,000,000",
+        "C": "Maintaining at least €10,000 in cash for planned monthly withdrawals"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Measures of absolute risk include the variance or standard deviation of returns and value at risk. For example, the 12-month 95% value at risk of the portfolio must be no more than ¥1 billion. A is incorrect because for risk relative to a benchmark, the measure could be tracking risk, or tracking error. Further, an expected tracking risk of 2% would imply a return within 4% of the index return approximately 95% of the time. Remember that tracking risk is stated as a one standard deviation measure. C is incorrect because maintaining cash is an IPS constraint, not a risk objective. Liquidity Requirements The IPS should state what the likely requirements are to withdraw funds from the portfolio. Examples for an individual investor would be outlays for covering healthcare payments or tuition fees. When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and have low risk when the liquidity need is actually present.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q39",
+      "num": 39,
+      "question": "Which of the following sections of an IPS most likely explains the steps to be taken to keep the IPS current?",
+      "options": {
+        "A": "Procedures",
+        "B": "Investment Guidelines",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Procedures section explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. B is incorrect because the Investment Guidelines section provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any, and not the steps to keep the IPS current. C is incorrect because the Statement of Duties and Responsibilities section details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers, and not the steps to keep the IPS current.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q40",
+      "num": 40,
+      "question": "The value of bitcoin is most likely based on:",
+      "options": {
+        "A": "underlying cash flows only.",
+        "B": "expected price appreciation only.",
+        "C": "both underlying cash flows and expected price appreciation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows. A is incorrect because bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows. The market demand for the limited supply of cryptocurrencies is a significant driver of prices. For instance, the supply of bitcoin is limited to 21 million bitcoins, by design. For this reason, bitcoins are sometimes viewed by investors as the digital version of gold. C is incorrect because bitcoin and other cryptocurrency values are based solely on asset appreciation, with no underlying cash flows.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q41",
+      "num": 41,
+      "question": "Which of the following types of private debt is expected to be the riskiest?",
+      "options": {
+        "A": "Mezzanine debt",
+        "B": "Infrastructure debt",
+        "C": "Senior direct lending"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Mezzanine debt is riskier than senior secure debt which is riskier than infrastructure debt (graphically displayed by the Private Capital Risk and Return Levels by Category chart). Because of its typically junior ranking and its usually unsecured status, mezzanine debt is riskier than senior secured debt. Investments in private capital vary in terms of risk and return across the corporate capital structure hierarchy. Typically, private equity, as the riskiest alternative, offers the highest returns, with private debt returns declining on a continuum down to the safest, most secured form of debt-infrastructure debt. B is incorrect because investments in private capital vary in terms of risk and return across the corporate capital structure hierarchy. Typically, private equity, as the riskiest alternative, offers the highest returns, with private debt returns declining on a continuum down to the safest, most secured form of debt-infrastructure debt. C is incorrect because senior direct lending is less risky than mezzanine debt. Because of its typically junior ranking and its usually unsecured status, mezzanine debt is riskier than senior secured debt.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q42",
+      "num": 42,
+      "question": "Which of the following securities is most likely subject to the highest prepayment risk?",
+      "options": {
+        "A": "Covered bond",
+        "B": "Mortgage pass-through security",
+        "C": "Credit card receivable asset-backed security"
+      },
+      "answer": "B",
+      "explanation": "B is correct. ABS and MBS pass-through security cash flows are uncertain because scheduled and actual payments frequently differ. Borrower behavior, such as the early payment of interest and principal as well as payment delinquencies over the life of a loan, depends upon a number of factors, including the income of the borrower (household income or cash flows for a corporation), the terms and conditions of the loan (such as the original interest rate versus current rates and any prepayment penalties), and the sale of the underlying asset being financed. To correctly value these securities, investors make certain assumptions about the predicted contractual payments after factoring in prepayment risk. Prepayment risk is the risk that the principal or a proportion of the principal is paid back at a different pace from the contractually agreed scheduled payment plan by the borrower. Prepayment risk has two components: contraction risk and extension risk, both of which reflect changes in the general level of interest rates. A is incorrect because covered bonds usually consist of one bond class per cover pool. Another important feature lies in the dynamic nature of the cover pool. The assets in the pool are monitored by a third party for performance and adherence to underwriting standards. Moreover, the covered bond issuer must replace any prepaid or non-performing assets (i.e., assets that do not generate the promised cash flows) to ensure sufficient cash flows until the maturity of the covered bond. C is incorrect because for credit card receivable ABS, the collateral is a pool of non-amortizing loans. During the lockout period, the cash proceeds from principal repayments are reinvested in additional credit card receivables. During this period, there is no prepayment risk and potential default risk is generally limited or is absorbed by credit enhancements. When the lockout period is over, principal repayments are used to pay off the outstanding principal on the ABS.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q43",
+      "num": 43,
+      "question": "A bond has a modified duration of 5 and a convexity statistic of 75. If the bond's yield-to-maturity decreases 50 bps, the expected percentage price change is closest to:",
+      "options": {
+        "A": "2.41%",
+        "B": "2.59%",
+        "C": "2.69%"
+      },
+      "answer": "B",
+      "explanation": "B is correct. : %∆PV^Full = (-AnnModDur x ∆Yield) + [0.5 x AnnConvexity × (∆Yield)^2 ] = (-5x- 0.005)+[1/2×75×(-0.005)^2 ] = 0.025 +0.00094 = 0.02594 ~ 2.59%. A is incorrect because it subtracts the second term instead of adding it: (-5 x -0.005)-[0.5×75×(-0.005)² ]= 0.025 - 0.00094 = 0.02406~2.41%. C is incorrect because it omits 0.5 from the calculation: (-5 -0.005) + [75×(-0.005)²] > = 0.025 +0.001875 = 0.026875~2.69%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q44",
+      "num": 44,
+      "question": "Buying the stock of a company being acquired while going short the stock of the acquiring company best describes a(n):",
+      "options": {
+        "A": "activist strategy.",
+        "B": "merger arbitrage strategy.",
+        "C": "distressed/restructuring strategy."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A merger arbitrage strategy involves going long (buying) the stock of the company being acquired at a discount to its announced takeover price and going short (selling) the stock of the acquiring company when the merger or acquisition is announced. A is incorrect because the term \"activist\" is short for \"activist shareholder.\" Here, managers secure sufficient equity holdings to allow them to influence a company's policies or direction. The hedge fund manager thus tries to create his or her own catalyst, influencing the investment's ultimate destiny by creating a desired corporate outcome. For example, the activist hedge fund may advocate for divestitures, restructuring, capital distributions to shareholders, or changes in management and company strategy that will affect their equity holdings. C is incorrect because a distressed/restructuring strategy focuses on the securities of companies that are either in bankruptcy or perceived to be near bankruptcy. One strategy sees hedge funds simply purchasing fixed-income securities that are trading at a significant discount to par but are still senior enough to be deemed \"money good\"> (backed by enough corporate assets to be fully repayable at par or at least at a significant premium to the available bond purchase price) in a bankruptcy situation. Alternatively, a hedge fund may purchase the so-called fulcrum debt instrument that is expected to convert into new equity in the case of a restructuring or bankruptcy.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q45",
+      "num": 45,
+      "question": "Commodity futures prices are most likely in backwardation when:",
+      "options": {
+        "A": "interest rates are high.",
+        "B": "storage costs are high.",
+        "C": "the convenience yield is high."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In backwardation, futures prices are lower than spot prices, that is, the commodity forward curve is downward sloping. This scenario occurs when the convenience yield is high. Futures price Spot price (1+r)+ Storage costs - Convenience yield. A is incorrect. Futures price Spot price (1+r) + Storage costs - Convenience yield. Thus, high interest rates contribute to an upward sloping commodity forward curve. B is incorrect. Futures price - Spot price (1+r) + Storage costs - Convenience yield. Thus, high storage costs contribute to an upward sloping commodity forward curve.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q46",
+      "num": 46,
+      "question": "An analyst gathers the following information about a company's non-callable, non-convertible preferred stock: Par value per share €55 Estimated intrinsic value per share €75 Maturity 5 years Q. If the required rate of return is 7.2%, the company's semiannual dividend on the preferred stock is closest to:",
+      "options": {
+        "A": "€3.96",
+        "B": "€4.40",
+        "C": "€5.40"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using the formula: V=∑Di/(1+r)^t + F/(1+r)^n, Where: Vo= intrinsic value = €75 F = par value = €55 r = nominal required rate of return = 7.2% annually, divided by 2. Therefore, the semi-annual rate = 3.6% n = number of periods through to maturity = 5 years multiplied by 2 to arrive at 10. Solving for D (or PMT in a financial calculator) we arrive at D = €4.3970, rounded to €4.40. A is incorrect because this mistakenly calculates the annual required rate of return of 7.2% applied to the par value of shares of €55. That is 0.072 x €55 to mistakenly arrive at €3.96. C is incorrect because this mistakenly calculates the annual required rate of return of 7.2% applied to the preferred stock's intrinsic value of €75. That is 0.072 x €75 to mistakenly arrive at €5.40.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q47",
+      "num": 47,
+      "question": "According to the capital asset pricing model (CAPM), the difference in the expected returns for two securities is determined by the securities\":",
+      "options": {
+        "A": "total risk.",
+        "B": "systematic risk only.",
+        "C": "nonsystematic risk only."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The CAPM asserts that the expected returns of assets vary only by their systematic risk as measured by beta. Two assets with the same beta will have the same expected return irrespective of the nature of those assets. A is incorrect because the standard deviation is a measure of total risk or volatility of a security itself based on historical returns. A security's standard deviation, correlation, and the standard deviation of the market must be taken into account in the calculation for beta, a measure of systematic risk. According to the CAPM, it is beta (systematic risk) that is then used to calculate expected return, because the nonsystematic risk included in the total risk (standard deviation) can be diversified away. Thus, while standard deviation is used to determine beta, the CAPM asserts that the expected returns of assets vary only by their systematic risk as measured by beta. Two assets with the same beta will have the same expected return irrespective of the nature of those assets. C is incorrect because the CAPM asserts that the expected returns of assets vary only by their systematic risk as measured by beta. Two assets with the same beta will have the same expected return irrespective of the nature of those assets. Nonsystematic risk is not part of the expected return of a security.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q48",
+      "num": 48,
+      "question": "An equity fund manager is considering a market index as the benchmark for his portfolio, and has the following preferences: •the index should have a contrarian effect; • shares held by controlling shareholders should be included; • dividends should be included in the weighting of constituent securities; and •the weights of constituent securities should not be arbitrarily determined by the index provider. Q. Which of the following weightings of indexes best meets the fund manager's preferences?",
+      "options": {
+        "A": "Equal",
+        "B": "Fundamental",
+        "C": "Float-adjusted market capitalization"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fundamental weighting satisfies the fund manager's preferences. Fundamental indexes use a single measure, such as total dividends, to weight the constituent securities. Fundamentally weighted indexes generally will have a contrarian effect in that the portfolio weights will shift away from securities that have increased in relative value and toward securities that have fallen in relative value whenever the portfolio is rebalanced. All shares are included in a fundamental weighted index. A is incorrect because the weights in an equal-weighted index are arbitrarily assigned by the index provider. C is incorrect because in float-adjusted market-capitalization weighting, the shares held by controlling shareholders are excluded.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q49",
+      "num": 49,
+      "question": "Which of the following best describes a feature unique to the co-investing method? A limited partner:",
+      "options": {
+        "A": "participating in an investment fund alongside the general partner.",
+        "B": "participating in an investment fund alongside other limited partners.",
+        "C": "making an investment alongside a fund in a deal the fund has identified."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In co-investing, the investor invests in assets indirectly through the fund but also possesses rights (known as co-investment rights) to invest directly in the same assets. Through co-investing, an investor is able to make an investment alongside a fund when the fund identifies deals. A is incorrect because it describes the fund investing method. In fund investing, the investor contributes capital to a fund, and the fund identifies, selects, and makes investments on the investor's behalf. Although co-investing includes an indirect investment through a fund, this is not unique to co-investing. B is incorrect because it describes the partnership structure common to alternative investments, which is not unique to co-investing. In limited partnerships, the fund manager is the general partner (GP) and investors are the limited partners (LPs). Limited partners are outside investors who own a fractional interest in the partnership based on the amount of their initial investment and the terms set out in the partnership documentation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q50",
+      "num": 50,
+      "question": "A bond portfolio manager is considering three bonds 1, 2, and 3-for his portfolio. Bond 1 allows the issuer to call the bond before the stated maturity, Bond 2 allows the investor to put the bond back to the issuer before the stated maturity, and Bond 3 contains no embedded options. The bonds are otherwise identical. The manager tells his assistant, \"Bond 1 and Bond 2 should have larger nominal yield spreads to a US Treasury than Bond 3 to compensate for their embedded options. Is the manager most likely correct?",
+      "options": {
+        "A": "Yes",
+        "B": "No, because Bond 1's nominal yield spread should be less than Bond 3's",
+        "C": "No, because Bond 2's nominal yield spread should be less than Bond 3's"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Bond 2's embedded put option benefits the investor, and the yield spread will therefore be less than the yield spread of Bond 3, which does not contain this option or benefit. A is incorrect because Bond 2 should have a smaller yield spread. B is incorrect because Bond A's embedded call option benefits the issuer, not the investor, therefore investors will demand a higher yield spread than on Bond 3 in compensation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q51",
+      "num": 51,
+      "question": "An analyst gathers the following information: Time to Maturity Yield to Maturity Bond 1 4 years 3.3% Bond 2 7 years 5.1% Q. Based only on this information, the estimated market discount rate for a 6-year bond with similar credit quality is:",
+      "options": {
+        "A": "3.9%",
+        "B": "4.2%",
+        "C": "4.5%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix I pricing. The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation between the two given bonds, we have: 0.033+ (6-4)/(7-4)×(0.051-0.033)=0.033+2/3 x 0.018 = 0.045 = 4.5%. A is incorrect because the linear interpolation for matrix pricing is implemented from the wrong end of the interval. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation from the wrong end between the two given bonds, we have: 0.033+ (7-6)/(7-4)×(0.051 -0.033)=0.033+1/30.018 = 0.039 = 3.9%. B is incorrect because the simple average is used instead of linear interpolation in matrix pricing. Some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using the simple average of the two given bonds, we have: (0.033 + 0.051)/2=0.084/2 = 0.042 = 4.2%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q52",
+      "num": 52,
+      "question": "A portfolio manager holds the following three option-free bonds Bond Par Value Owned Market Value Owned Duration 1 $8 million $12 million 3 2 $8 million $6 million 7 3 $4 million $6 million 6 Q. The portfolio's duration is closest to:",
+      "options": {
+        "A": "4.15",
+        "B": "5.20",
+        "C": "5.33"
+      },
+      "answer": "A",
+      "explanation": "A is correct. The portfolio's duration is a weighted average of the durations of the individual holdings, computed as: (12/24) × (3.0) + (6/24) × (7.0) + (6/24) x (6.0)=4.75. B is incorrect because the portfolio's duration is computed using the par values owned, as follows: (8/20) × (3.0) + (8/20)×(7.0) + (4/20) x (6.0) = 5.20. C is incorrect because the portfolio's duration is computed as a simple average of the three durations, as follows: (3.0 + 7.0+6.0)/3~5.33.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q53",
+      "num": 53,
+      "question": "Which of the following attributes is least likely to be a requirement for the existence of riskless arbitrage? The underlying security:",
+      "options": {
+        "A": "is relatively liquid.",
+        "B": "can be sold short.",
+        "C": "is a financial asset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For riskless arbitrage to exist, the underlying security that can be arbitraged may be either a financial or a non-financial security. A is incorrect because for riskless arbitrage to exist, the underlying security must be relatively liquid so it is easy to buy and sell at a low cost. B is incorrect because for riskless arbitrage to exist, the underlying security must be able to be short sold.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q54",
+      "num": 54,
+      "question": "Exercise of a European put option is most likely justified if",
+      "options": {
+        "A": "the option is out of the money.",
+        "B": "the exercise value is negative.",
+        "C": "the exercise price exceeds the value of the underlying."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If the exercise price exceeds the value of the underlying at expiration, the option has positive exercise value and may be exercised. A is incorrect because an out-of-the-money option should not be exercised and will expire worthless. B is incorrect because an option that generates a negative cash flow when exercised should not be exercised.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q55",
+      "num": 55,
+      "question": "Short positions have the potential for:",
+      "options": {
+        "A": "unbounded gains only.",
+        "B": "unbounded losses only.",
+        "C": "both unbounded gains and unbounded losses."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded. A is incorrect because the potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded. Long positions have potentials of unbounded gains. C is incorrect because the potential gains on a short position are limited to no more than 100 percent whereas the potential losses are unbounded.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q56",
+      "num": 56,
+      "question": "With respect to behavioral finance, an explanation for the overreaction anomaly is:",
+      "options": {
+        "A": "risk aversion.",
+        "B": "loss aversion.",
+        "C": "sudden changes in economic fundamentals."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets. If loss aversion is more important than risk aversion, researchers should observe that investors overreact. A is incorrect because loss aversion, not risk aversion is an explanation for the overreaction anomaly. Some argue that behavioral theories of loss aversion can explain observed overreaction in markets. C is incorrect because finding that equity returns are affected by changes in economic fundamentals is not evidence of market inefficiency and would not result in abnormal trading returns. These changes do not explain the overreaction anomaly.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q57",
+      "num": 57,
+      "question": "An analyst gathers the following information about two assets: Asset Expected Return Standard Deviation of Returns 1 5% 2 2 5% 8% Q. If the correlation between the two assets' returns is -1, the standard deviation of returns for an equally weighted portfolio of the assets is closest to:",
+      "options": {
+        "A": "0%.",
+        "B": "2%.",
+        "C": "4%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio variance can be calculated using the formula: σp² = w1^2 σ1² + w₂^2 σp² + 2W1W2 P12 σ1 σ2 where wi denotes the portfolio weights, σi the asset standard deviations, and p₁₂ the correlation between the returns on the two assets; σp² = (0.5^2 x 0.05^2) + (0.5^2x0.09^2) + (2x0.5x0.5 x -1 x 0.05× 0.09) = 0.0004. The standard deviation is σp = Sqr0.0004 = 0.022%. In fact, when two assets are perfectly negatively correlated, the portfolio standard deviation is σp = |w1 σ1 – w2 σ2 |= 10.5× 0.05- 0.5×0.09]=|-0.02| = 2%. A is incorrect because for the case in which p₁₂=-1 (that is, the two asset returns move in opposite directions), the portfolio can be made risk free. However, in this particular example the portfolio weights are not sufficient to make the portfolio risk free. This answer is also closest to the intermediate step of calculating the variance; σp² = (0.52 x 0.052) + (0.52x0.092) + (2 x 0.5× 0.5× 1 × 0.05 x 0.09) = 0.0004, which could be interpreted as 0.04% ~0%. C is incorrect because it omits the 2 in the correct formula; w1^2 σ1^2 + W₂²O₂² + W₁W2 P12 σ1 σ2 = (0.52x0.052) + (0.52 x 0.092) + (0.5× 0.5× 1 × 0.05 x 0.09) = 0.001525, which gives a portfolio standard deviation of 0.001525 = 0.039053.9%~4%. It is also the variance if 0.0004 was interpreted as 4%. Alternatively, it is the difference between the standard deviations of both assets; 9%-5% 4%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q58",
+      "num": 58,
+      "question": "The two-fund separation theorem states that all investors will hold a combination of the:",
+      "options": {
+        "A": "risk-free asset and the optimal risky portfolio.",
+        "B": "risk-free asset and the global minimum-variance portfolio.",
+        "C": "optimal risky portfolio and the global minimum-variance portfolio."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The two-fund separation theorem states that all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds: a risk-free asset and an optimal portfolio of risky assets. B is incorrect because the two-fund separation theorem states that all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds: a risk-free asset and an optimal portfolio of risky assets. The left-most point on the minimum-variance frontier is the portfolio with the minimum variance among all portfolios of risky assets, and is referred to as the global minimum-variance portfolio. While the investor will hold the risk-free asset in their portfolio, their risk-return trade-off can be improved by holding the optimal risky portfolio rather than the global minimum-variance portfolio. C is incorrect because the two-fund separation theorem states that all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds: a risk-free asset and an optimal portfolio of risky assets. The left-most point on the minimum-variance frontier is the portfolio with the minimum variance among al portfolios of risky assets, and is referred to as the global minimum-variance portfolio. While the investor will hold the optimal risky portfolio, their risk return trade-off can be improved by holding the risk-free asset rather than the global minimum-variance portfolio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q59",
+      "num": 59,
+      "question": "All else being equal, credit spreads most likely widen:",
+      "options": {
+        "A": "in periods of heavy new issue supply.",
+        "B": "with expectations of a stronger economy.",
+        "C": "with increased demand for corporate bonds."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Credit spreads widen in periods of heavy new issue supply. B is incorrect because credit spreads narrow when broader economic conditions improve a strengthening economy will cause credit spreads to narrow. C is incorrect because in periods of high demand for bonds, spreads will move tighter.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q60",
+      "num": 60,
+      "question": "An analyst gathers the following information (in $ millions) about three companies: Company 1 Company 2 Company 3 Total Debt 1,125 1,360 1,562 EBITDA 590 680 750 Interest Expense 71 60 63 Q. Which company's leverage contributes most adversely to its credit risk?",
+      "options": {
+        "A": "Company 1",
+        "B": "Company 2",
+        "C": "Company 3"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The only leverage ratio that can be calculated given the data provided is the debt-to-EBITDA ratio. Company 3 has the highest debt-to-EBITDA ratio of the three companies presented. A higher ratio indicates more leverage and thus higher credit risk. Company 3 also has the highest coverage ratio (EBITDA/interest expense) of the three companies, which would indicate lower credit risk, but the question is confined to analyzing leverage ratios only. Company 1: 1,125/590 = 1.9x Company 2: 1,360/680 = 2.0× Company 3: 1,562/750 = 2.08x. A is incorrect. Company 1 has a debt-to-EBITDA ratio of 1.9, which is lower than Company 3's ratio of 2.08. A lower ratio indicates less leverage and less credit risk. Company 1: 1,125/590 = 1.9× Company 2: 1,360/680 = 2.0× Company 3: 1,562/750 = 2.08×. B is incorrect. Company 2 has a debt-to-EBITDA ratio of 2.0, which is slightly less than Company 3's ratio of 2.08. A lower ratio indicates less leverage and less credit risk. Company 1: 1,125/590 = 1.9x Company 2: 1,360/680 = 2.0× Company 3: 1,562/750 = 2.08×.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q61",
+      "num": 61,
+      "question": "If the correlation between assets in a two-asset portfolio is less than one, the standard deviation of the portfolio is:",
+      "options": {
+        "A": "less than the weighted average standard deviation of the individual assets.",
+        "B": "equal to the weighted average standard deviation of the individual assets.",
+        "C": "greater than the weighted average standard deviation of the individual assets."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets when the individual assets are perfectly correlated. Portfolio risk falls, however, when the two assets are not perfectly correlated (p12 <+1). This can also be seen using the formula for portfolio risk (standard deviation), which is expressed by the terms to the left of the \"<\" sign below. The term to the right of the \"<\" shows the portfolio risk when: P12 = +1 The left side is smaller than the right side because the correlation coefficient on the left side for the new portfolio is <1. √𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝑝12𝜎1𝜎2 < √𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝜎1𝜎2 = √𝑤1 2𝜎1 2 + 𝑤2 2𝜎2 2 + 2𝑤1𝑤2𝑝12𝜎1𝜎2 < 𝑤1𝜎1 + 𝑤2𝜎2. B is incorrect because the portfolio's standard deviation is simply a weighted average of the standard deviations of the two assets when the individual assets are perfectly correlated.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q62",
+      "num": 62,
+      "question": "The pass-through rate of a mortgage-pass through security is:",
+      "options": {
+        "A": "lower than the mortgage rate on the underlying pool.",
+        "B": "equal to the mortgage rate on the underlying pool.",
+        "C": "greater than the mortgage rate on the underlying pool."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. B is incorrect because the pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. C is incorrect because the pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q63",
+      "num": 63,
+      "question": "Which of the following are most likely traded in traditional investment markets?",
+      "options": {
+        "A": "Commodities",
+        "B": "Securitized debts",
+        "C": "Shares in pooled investment vehicles that hold publicly traded debts"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Traditional investments include all publicly traded debts and equities and shares in pooled investment vehicles that hold publicly traded debts and/or equities. Alternative investments include hedge funds, private equities (including venture capital), commodities, real estate securities and real estate properties, securitized debts, operating leases, machinery, collectibles, and precious gems. A is incorrect because traditional investments include all publicly traded debts and equities and shares in pooled investment vehicles that hold publicly traded debts and/or equities. Alternative investments include hedge funds, private equities (including venture capital), commodities, real estate securities and real estate properties, securitized debts, operating leases, machinery, collectibles, and precious gems. B is incorrect because traditional investments include all publicly traded debts and equities and shares in pooled investment vehicles that hold publicly traded debts and/or equities. Alternative investments include hedge funds, private equities (including venture capital), commodities, real estate securities and real estate properties, securitized debts, operating leases, machinery, collectibles, and precious gems.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q64",
+      "num": 64,
+      "question": "If poorly reasoned decisions with positive results are remembered as brilliant tactical moves, the cognitive error most likely being exhibited is:",
+      "options": {
+        "A": "hindsight bias.",
+        "B": "confirmation bias.",
+        "C": "overconfidence bias."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Hindsight bias refers to believing past events as having been predictable and reasonable to expect. People tend to remember their own predictions of the future as more accurate than they actually were because they are biased by the knowledge of what actually occurred. Poorly reasoned decisions with positive results may be remembered as brilliant tactical moves, and poor results of well-reasoned decisions may be described as avoidable mistakes. B is incorrect because confirmation bias refers to the tendency to look for and notice what confirms prior beliefs and to ignore or undervalue whatever contradicts them. Hence, it pertains to the collection of information and not interpretation of this information or how it makes an individual feel about their actions. C is incorrect because , while hindsight bias is closely related to overconfidence bias, an overconfidence bias is an emotional bias, not a cognitive error. The six emotional biases are loss aversion, overconfidence, self-control, status quo, endowment, and regret aversion.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q65",
+      "num": 65,
+      "question": "If ten board directors are to be elected, under statutory voting, the maximum number of votes a shareholder owning ten shares can cast in favor of a single candidate is:",
+      "options": {
+        "A": "1.",
+        "B": "10.",
+        "C": "100."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Regular shareholder voting, where each share represents one vote, is referred to as statutory voting. Under statutory voting, a shareholder [owning 100 shares] would be able to cast only a maximum of 100 votes for each candidate. Therefore, if 10 board directors are to be elected, in case of statutory voting, the maximum number of votes the shareholder owning 10 shares can cast in favor of a single candidate is 10. A is incorrect because regular shareholder voting, where each share represents one vote, is referred to as statutory voting. Under statutory voting, a shareholder [owning 100 shares] would be able to cast only a maximum of 100 votes for each candidate. Therefore, if 10 board directors are to be elected, in case of statutory voting, the maximum number of votes the shareholder owning 10 shares can cast in favor of a single candidate is 10, not 1. C is incorrect because regular shareholder voting, where each share represents one vote, is referred to as statutory voting. Cumulative voting allows shareholders to direct their total voting rights to specific candidates, as opposed to having to allocate their voting rights evenly among all candidates. Total voting rights are based on the number of shares owned multiplied by the number of board directors being elected. For example, under cumulative voting, if four board directors are to be elected, a shareholder who owns 100 shares is entitled to 400 votes and can either cast all 400 votes in favor of a single candidate or spread them across the candidates in any proportion.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q66",
+      "num": 66,
+      "question": "In the binomial model, if the probability of an upward movement in an underlying increases, the value of a put option:",
+      "options": {
+        "A": "decreases.",
+        "B": "remains unchanged.",
+        "C": "increases."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The value of put option = p0 = (πp1^+ + (1 - π)p₁^-)/(1+r), where π = (1 + r-d)/(u-d), this formula sheds a great deal of light on option pricing. Notice the probabilities of the up and down moves, q and 1-q, do not appear in the formula. Therefore, the value of a put option is independent of the probability of an upward movement in an underlying. A is incorrect because the value of put option = p0 = (πp1^+ + (1 - π)p1^- )/(1+r), where = (1+r-d)/(u-d), this formula sheds a great deal of light on option pricing. Notice the probabilities of the up and down moves, q and 1-q, do not appear in the formula. Therefore, the value of a put option is independent of the probability of an upward movement in an underlying. C is incorrect because the value of put option = p0 = (πp1^+ + (1 – π)p₁^-)/(1 + r), where = (1+r-d)/(u-d), this formula sheds a great deal of light on option pricing. Notice the probabilities of the up and down moves, q and 1 - q, do not appear in the formula. Therefore, the value of a put option is independent of the probability of an upward movement in an underlying.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q67",
+      "num": 67,
+      "question": "Zet Bank has entered into a contract with Louly Corporation in which Zet agrees to buy a 2.5% US Treasury bond maturing in ten years and promises to sell it back next month at an agreed-on price. From Zet Bank's perspective, this contract is best described as a:",
+      "options": {
+        "A": "repo.",
+        "B": "reverse repo.",
+        "C": "collateralized loan."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A reverse repo (repurchase agreement) is collateralized cash lending by purchasing an underlying security now and selling it back in the future. A is incorrect because it is the contract known for Louly Corporate as a collateralized borrowing, i.e., repo. C is incorrect because collateralized short-term borrowing involves selling the security and subsequently repurchasing the collateral posted.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q68",
+      "num": 68,
+      "question": "Individual investors most likely bear investment risk when participating in:",
+      "options": {
+        "A": "defined benefit pension plans only.",
+        "B": "defined contribution pension plans only.",
+        "C": "both defined benefit pension plans and defined contribution pension plans."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Many employees of public and private companies invest for retirement through a defined contribution pension plan (DC plan). DC plans are retirement plans in the employee's name usually funded by both the employee and the employer. The key to a DC plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement. A is incorrect because defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants. Generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees. C is incorrect because generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees. On the other hand the key to a DC plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q69",
+      "num": 69,
+      "question": "With respect to risk management, determining how risk is taken by an organization best describes:",
+      "options": {
+        "A": "risk tolerance.",
+        "B": "risk mitigation.",
+        "C": "risk budgeting."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk budgeting picks up where risk tolerance leaves off. Whereas risk tolerance focuses on the appetite for risk and what is and is not acceptable, risk budgeting has a more specific focus on how that risk is taken. Risk budgeting quantifies and allocates the tolerable risk by specific metrics; it extends and guides implementation of the risk tolerance decision. A is incorrect because an important element of good risk governance is the risk tolerance discussion and decision within the governing body. Business and investment strategy centers on selecting a portfolio of acceptable risk activities that will maximize value and produce the highest returns possible for the given risk level. At the governance level, the duty is generally not to select these activities-a job that usually falls to management-but to establish the organization's risk appetite. Certain risks or levels of risks may be deemed acceptable, other risks deemed unacceptable, and in the middle are risks that may be pursued in a risk-limited fashion. Said differently, risk tolerance identifies the extent to which the entity is willing to experience losses or opportunity costs and to fail in meeting its objectives. B is incorrect because risk mitigation, along with monitoring and management, are steps where much of a firm's day-to-day risk management activity is focused. Risk levels are continuously monitored, having just been measured. There is a major decision at the monitoring stage: Management must check that all the risks are in line and not outside the limits of the defined risk tolerance or budget. Risk mitigation follows the risk governance and risk budgeting processes.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q70",
+      "num": 70,
+      "question": "Convenience yield provides a possible explanation as to why the current spot price of a commodity is:",
+      "options": {
+        "A": "lower than the market's expectation of the future spot price of the commodity.",
+        "B": "equal to the market's expectation of the future spot price of the commodity.",
+        "C": "higher than the market's expectation of the future spot price of the commodity"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The spot price of the commodity could even be above the market's expectation of its future price, a condition that would seem to imply a negative expected return. This scenario raises the question of why anyone would want to hold the commodity if its expected return is negative. The convenience yield provides a possible explanation that attributes an implied but non-financial expected return to the advantage of holding a commodity in short supply. A is incorrect because , as described in the rationale for the correct answer, convenience yield provides a possible explanation as to why the spot price of a commodity is higher (not lower) than the market's expectation of its future price. B is incorrect because , as described in the rationale for the correct answer, convenience yield provides a possible explanation as to why the spot price of a commodity is higher than (not equal to) the market's expectation of its future price.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q71",
+      "num": 71,
+      "question": "The sensitivity of a bond's price to a change in the benchmark yield curve is best described as:",
+      "options": {
+        "A": "effective duration.",
+        "B": "modified duration.",
+        "C": "the price value of a basis point."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Effective duration is a type of curve duration that measures the sensitivity of the bond price with respect to a benchmark yield curve. B is incorrect because modified duration is a type of yield duration (as opposed to curve duration), which measures the sensitivity of a bond's price to a change in its own yield to maturity (not the benchmark yield curve). C is incorrect because the price value of a basis point is a type of yield duration (as opposed to curve duration), which measures the sensitivity of a bond's price to a change in its own yield to maturity (not the benchmark yield curve).",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q72",
+      "num": 72,
+      "question": "A hedge fund raised initial capital under the following terms: Beginning-of-year assets under management (AUM) $100 million Management fee based on end-of-year AUM 2% Incentive fee 20% Annual gross performance 30% Q. If the incentive fee is calculated net of management fees, total fees earned by the manager are:",
+      "options": {
+        "A": "$6.00 million.",
+        "B": "$8.08 million.",
+        "C": "$8.60 million."
+      },
+      "answer": "B",
+      "explanation": "B is correct. $130 million × 2% = USD2.6 million management fee. ($130-$100-$2.6) million x 20% = $5.48 million incentive fee. Total fees = $8.08 million. A is incorrect because it ignores the management fee. ($130-$100) million x 20% = $6.0 million incentive fee. Total fees (excluding management fee) = $6.0 million. C is incorrect because it did not deduct the management fees from the incentive fee calculation. $130 million × 2% = $2.6 million management fee. ($130 $100) million x 20% = $6 million incentive fee. Total fees = $8.6 million.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q73",
+      "num": 73,
+      "question": "Which of the following best describes the intrinsic value of a security? The intrinsic value of a security is:",
+      "options": {
+        "A": "the price at which the security can be bought or sold.",
+        "B": "represented by the intersection of supply and demand for the security.",
+        "C": "the value placed by investors based on a complete understanding of the security's investment characteristics."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Intrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would be placed on [an asset] by investors if they had a complete understanding of the asset's investment characteristics. A is incorrect because market value is the price at which an asset can currently be bought or sold. Intrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would be placed on it by investors if they had a complete understanding of the asset's investment characteristics. B is incorrect because the market value [not the intrinsic value] of an asset represents the intersection of supply and demand the point that is low enough to induce at least one investor to buy while being high enough to induce at least one investor to sell.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q74",
+      "num": 74,
+      "question": "Which of the following duration measures is most appropriate for a callable bond?",
+      "options": {
+        "A": "Effective duration",
+        "B": "Modified duration",
+        "C": "Macaulay duration"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The duration of a callable bond is not the sensitivity of the bond price to a change in the yield-to-worst (i.e., the lowest of the yield-to-maturity, yield-to-first-call, yield-to-second-call, and so forth). The problem is that future cash flows are uncertain because they are contingent on future interest rates. The issuer's decision to call the bond depends on the ability to refinance the debt at a lower cost of funds. In brief, a callable bond does not have a well-defined internal rate of return (yield-to-maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure. B is incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity (ΔYield). Effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (ΔCurve) yield duration statistics, such as modified and Macaulay durations, do not apply [to complex bonds]; effective duration is the appropriate duration measure. C is incorrect because the difference between approximate modified duration and effective duration is in the denominator. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity (ΔYield). Effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (ΔCurve) yield duration statistics, such as modified and Macaulay durations, do not apply [to complex bonds]; effective duration is the appropriate duration measure.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q75",
+      "num": 75,
+      "question": "Price multiples for relative comparisons are most likely used for.",
+      "options": {
+        "A": "time-series analyses only.",
+        "B": "cross-sectional analyses only.",
+        "C": "both time-series analyses and cross-sectional analyses."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The major advantage of using price multiples is that they allow for relative comparisons, both cross-sectional (versus the market or another comparable) and in time series. A is incorrect because the major advantage of using price multiples is that they allow for relative comparisons, both cross-sectional (versus the market or another comparable) and in time series. B is incorrect because the major advantage of using price multiples is that they allow for relative comparisons, both cross-sectional (versus the market or another comparable) and in time series.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q76",
+      "num": 76,
+      "question": "Which of the following best describes an advantage of the EV/EBITDA multiple for valuing equity? An advantage is that:",
+      "options": {
+        "A": "the multiple must be positive.",
+        "B": "EBITDA is a proxy for operating cash flow.",
+        "C": "it does not require the market value of debt."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An advantage of EBITDA is that it is a proxy for operating cashflow because it excludes depreciation and amortization. A is incorrect because the multiple can be negative if EBITDA is negative. C is incorrect because the market value of debt is needed in valuing the equity since it should be deducted from the enterprise value and may be difficult to obtain.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q77",
+      "num": 77,
+      "question": "The slope of the capital allocation line is the:",
+      "options": {
+        "A": "beta of the market.",
+        "B": "market price of risk.",
+        "C": "market risk premium."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The capital allocation line has an intercept of Rt and a slope of (E(Rt)) -Rt)/σj, which is the additional required return for every increment in risk, and is sometimes referred to as the market price of risk. A is incorrect because the SCL (security characteristic line) is a plot of the excess return of the security on the excess return of the market. Jensen's alpha is the intercept and the beta is the slope. Furthermore, the beta of the market is 1. The capital allocation line has a slope \"referred to as the market price of risk. C is incorrect because the market risk premium is the slope of the security market line. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. The slope of this line is the market risk premium, Rm-Rt.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q78",
+      "num": 78,
+      "question": "Regarding hedge fund fee calculations, a high-water mark:",
+      "options": {
+        "A": "represents the return on gains that are not yet fully realized.",
+        "B": "protects the client from paying twice for the same performance.",
+        "C": "is the rate of return that the general partner must exceed in order to earn a performance fee."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In hedge funds, fee calculations also take into account a high-water mark, which reflects the highest value used to calculate an incentive fee. A high-water mark is the highest value of the fund investment ever achieved at a performance fee crystallization date, net of fees, by the individual LP. The use of high-water marks protects clients from paying twice for the same performance. A is incorrect because this distractor pertains to the clawback provision, not high water mark. A clawback provision reflects the right of LPs to reclaim part of the GP's performance fee. Along either waterfall path, if a GP ever accrues (or actually pays itself) an incentive fee on gains that are not yet fully realized and then subsequently gives back these gains, an investor is typically able to claw back prior incentive fee accruals and payments. C is incorrect because rate of the return that must be achieved before incentive fees are earned is the hurdle rate. The partnership agreement usually specifies that the performance fee is earned only after the fund achieves a return known as a hurdle rate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed in order to earn the performance fee.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q79",
+      "num": 79,
+      "question": "In the private debt market, a hybrid loan structure that combines secured and unsecured debt into a single loan with a blended interest rate is best described as:",
+      "options": {
+        "A": "unitranche debt.",
+        "B": "mezzanine debt.",
+        "C": "a leveraged loan."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This is the definition of unitranche debt. Another type of debt that could be directly extended to borrowers is unitranche debt. Unitranche debt consists of a hybrid or blended loan structure combining different tranches of secured and unsecured debt into a single loan with a single, blended interest rate. Since unitranche debt is a blend of secured and unsecured debt, its interest rate will generally fall in between the interest rates often demanded on secured and unsecured debt. The unitranche loan will usually be structured between senior and subordinated debt in priority ranking. B is incorrect because mezzanine debt is not a blend of secured and unsecured debt. Mezzanine debt refers to private credit subordinated to senior secured debt but senior to equity in the borrower's capital structure. Because of its typically junior ranking and its usually unsecured status, mezzanine debt is riskier than senior secured debt. C is incorrect because a leveraged loan is a type of direct lending that typically does not blend secured and unsecured debt. The debt itself typically is senior and secured and has covenants in place to protect the lender/investor. In direct lending, many firms may also provide debt in the form of a leveraged loan, a loan that is itself levered. Private debt firms that invest in leveraged loans first borrow money to finance the debt and then extend it to another borrower.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q80",
+      "num": 80,
+      "question": "The financial systems that are operationally efficient are most likely characterized by:",
+      "options": {
+        "A": "security prices that reflect fundamental values.",
+        "B": "the use of resources where they are most valuable.",
+        "C": "liquid markets with low commissions and order price impacts."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Operationally efficient markets are liquid markets in which the costs of arranging trades, commissions, bid-ask spreads, and order price impacts are low. A is incorrect because informationally efficient markets, not the operationally efficient markets, are characterized by prices that reflect fundamental values so that prices vary primarily in response to changes in fundamental values and not to demands for liquidity made by uninformed traders. B is incorrect because allocationally efficient markets, not the operationally efficient markets, are characterized by using resources where they are most valuable.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q81",
+      "num": 81,
+      "question": "Which of the following statements about real estate assets is most accurate?",
+      "options": {
+        "A": "Real estate assets are homogeneous",
+        "B": "Commercial property represents the majority of real estate assets by value",
+        "C": "Private real estate has historically had low correlations with other asset classes"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The key reasons for investing in [private] real estate include potential benefits like historically low correlations with other asset classes. A is incorrect because real estate property has some unique features, including heterogeneity [not homogeneity] (no two properties are identical) and fixed location. B is incorrect because real estate includes two major sectors: residential and commercial. Residential [not commercial] real estate is the largest sector, totaling 75% of the global market.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q82",
+      "num": 82,
+      "question": "An analyst observes the following series of 1-year forward rates: Time Period Forward Rate 0y1y 0.1% 1y1y 0.3% 2y1y 0.6% Q. Based on only this information, the price per 100 of par value of a 3-year 0.2% annual coupon bond is closest to:",
+      "options": {
+        "A": "97.64",
+        "B": "98.82",
+        "C": "99.60"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The Price per 100 of par value = 0.2/(1+0.1%) +0.2/((1+0.1%)×(1+0.3%)) + (100+0.2)/ ((1+0.1%) x (1+0.3%)×(1+0.6%)) = 99.60. A is incorrect because the denominator of each term is incorrectly raised to a power: Price per 100 of par value ≠ 0.2/(1+0.1%) +0.2/((1+0.1%)×(1+0.3%))² + (100+0.2)/((1+0.1%)×(1+0.3%)× (1+0.6%))^3 = 97.64. B is incorrect because the bond is priced on the basis of spot rates rather than forward rates: Price per 100 of par value ≠ 0.2/(1+0.1%) +0.2/(1+0.3%)² + (100+0.2)/(1+0.6%)³ = 98.82.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q83",
+      "num": 83,
+      "question": "All else being equal, a stock dividend most likely:",
+      "options": {
+        "A": "decreases the share price.",
+        "B": "has no impact on the share price.",
+        "C": "increases the share price."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A stock dividend (also known as a bonus issue of shares) is a type of dividend in which a company distributes additional shares of its common stock (typically, 2%-10% of the shares then outstanding) to shareholders instead of cash. A stock dividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without affecting the value of the pie or any shareholder's proportional ownership in the company. The smaller pieces (more shares on issue) would be worth less individually even though the shareholders overall holding value is unchanged. B is incorrect because a stock dividend (also known as a bonus issue of shares) is a type of dividend in which a company distributes additional shares of its common stock (typically, 2%-10% of the shares then outstanding) to shareholders instead of cash. The smaller pieces (more shares on issue) would be worth less individually even though the shareholders overall holding value is unchanged. C is incorrect because a stock dividend (also known as a bonus issue of shares) is a type of dividend in which a company distributes additional shares of its common stock (typically, 2%-10% of the shares then outstanding) to shareholders instead of cash. The smaller pieces (more shares on issue) would be worth less individually even though the shareholders overall holding value is unchanged.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q84",
+      "num": 84,
+      "question": "Analytical duration:",
+      "options": {
+        "A": "assumes that government bond yields and spreads are independent variables.",
+        "B": "is lower than empirical duration for high-yield bonds under market stress scenarios.",
+        "C": "uses statistical methods and historical bond prices to derive the price-yield relationship for bond portfolios."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The approach to estimate duration and convexity statistics using mathematical formulas is often referred to as analytical duration. These estimates of the impact of benchmark yield changes on bond prices implicitly assume that government bond yields and spreads are independent variables that are uncorrelated with one another. B is incorrect because the same macroeconomic factors driving government bond yields lower in a market stress scenario will cause high-yield bond credit spreads to widen because of an increase in expected default risk. Since credit spreads and benchmark yields are negatively correlated under this scenario, wider credit spreads will partially or fully offset the decline in government benchmark yields, resulting in lower empirical duration estimates than analytical duration estimates. Analytical duration is higher, not lower, in this case. C is incorrect because empirical duration uses statistical methods and historical bond prices to derive the price-yield relationship for specific bonds or bond portfolios.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q85",
+      "num": 85,
+      "question": "In contrast to investors in otherwise-similar mortgage-backed securities, investors in covered bonds most likely:",
+      "options": {
+        "A": "face higher credit risks.",
+        "B": "are exposed to prepayment risks.",
+        "C": "have recourse against the issuing financial institution."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Covered bonds are similar to ABS but offer bondholders dual recourse-that is, to both the issuing financial institution and the underlying asset pool. A is incorrect because in contrast to a static pool of mortgage loans that expose investors to prepayment risk as in the case of US mortgage-backed securities, cover pool sponsors must replace any prepaid or non-performing assets (i.e., assets that do not generate the promised cash flows) in the cover pool to ensure sufficient cash flows until the maturity of the covered bond. B is incorrect because in contrast to a static pool of mortgage loans that expose investors to prepayment risk as in the case of US mortgage-backed securities, cover pool sponsors must replace any prepaid or non-performing assets (i.e., assets that do not generate the promised cash flows) in the cover pool to ensure sufficient cash flows until the maturity of the covered bond.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q86",
+      "num": 86,
+      "question": "In order to take advantage of short-term capital market expectations, a fund manager holds less of her portfolio in equities than the policy weights prescribe. This action is best described as:",
+      "options": {
+        "A": "security selection.",
+        "B": "portfolio rebalancing.",
+        "C": "tactical asset allocation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Tactical asset allocation is the decision to deliberately deviate (e.g., reduce the weight of equities) from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes. A is incorrect because security selection is an attempt to generate higher returns than the asset class benchmark by selecting securities with a higher expected return. The action to reduce the weight of equities does not involve the selection of specific securities. It is tactical asset allocation, not security selection, that chooses asset class weights that deviate from the policy. B is incorrect because rebalancing refers to the process of restoring the portfolio's original exposures to systematic risk factors. However, the action here is to choose portfolio weightings that deviate from the original exposure, which is tactical asset allocation, not rebalancing.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q87",
+      "num": 87,
+      "question": "Enterprise value equals the market value of a company's debt and equity reduced by the company's:",
+      "options": {
+        "A": "debt.",
+        "B": "cash.",
+        "C": "preferred stock."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Enterprise value is most frequently determined as market capitalization of equity plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). A is incorrect because enterprise value is most frequently determined as market capitalization of equity plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). C is incorrect because enterprise value is most frequently determined as market capitalization of equity plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments).",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q88",
+      "num": 88,
+      "question": "The value of a European put option is inversely related to the:",
+      "options": {
+        "A": "risk free rate.",
+        "B": "exercise price.",
+        "C": "volatility of the underlying."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The value of a European put is inversely related to the risk-free interest rate. B is incorrect because the value of a European put option is directly related to the exercise price. C is incorrect because the value of a European put is directly related to the volatility of the underlying.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q89",
+      "num": 89,
+      "question": "If the forward price of a stock is equal to the current spot price, the price of an at-the-money put option applying put-call parity will be:",
+      "options": {
+        "A": "lower than the price of at-the-money call option.",
+        "B": "equal to the price of at-the-money call option.",
+        "C": "higher than the price of at-the-money call option."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to put-call parity p0-c0 [X-F｡(T)]/(1+r)^T If the forward price is equal to the spot price which is also the strike price as the options are at-the-money, the right hand side of the equation is zero and put price is equal to the call price. A is incorrect because according to put-call parity p0-c0 [X-F｡(T)]/(1+r)^T If the forward price is equal to the spot price which is also the strike price as the options are at-the-money, the right hand side of the equation is zero and put price is equal to the call price and not lower than the call price. C is incorrect because according to put-call parity p0-c0 [X-F｡(T)]/(1+r)^T If the forward price is equal to the spot price which is also the strike price as the options are at-the-money, the right hand side of the equation is zero and put price is equal to the call price and not higher than the call price.",
+      "answer_source": "red"
+    },
+    {
+      "id": "S2Q90",
+      "num": 90,
+      "question": "An analyst gathers the following information about a company: ROA 8% Leverage ratio 1.2 Dividend payout ratio 35% Q. The sustainable growth rate is closest to:",
+      "options": {
+        "A": "3.4%",
+        "B": "5.2%",
+        "C": "6.2%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The sustainable growth rate = Retention rate x ROE, where ROE = ROA x Leverage, and the retention rate = (1 - Payout Ratio). The calculation becomes (1-35%) × (8%×1.2) = 0.65 x 9.6% = 0.0624~6.2%. A is incorrect because it assumes that the sustainable growth rate = Dividend Payout Ratio x ROE instead of retention rate x ROE. The calculation becomes 35% × (8% x 1.2) = 35% × 9.6% =0.0336 ~ 3.4%. B is incorrect because it assumes that the sustainable growth rate = Retention Rate × ROA instead of retention rate x ROE. The calculation becomes (1-35%)×8% = 65% × 8% = 0.052 = 5.2%.",
+      "answer_source": "red"
+    }
+  ]
+}

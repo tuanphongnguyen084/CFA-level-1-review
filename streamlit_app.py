@@ -15,6 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st  # noqa: E402
 
 from core import content, progress, ui  # noqa: E402
+from views import exam as exam_view  # noqa: E402
 from views import home, quiz, result, review, subject  # noqa: E402
 
 st.set_page_config(page_title="CFA Quiz", layout="centered",
@@ -36,5 +37,7 @@ VIEWS = {
     "quiz": quiz.render,
     "result": result.render,
     "review": review.render,
+    "exam": exam_view.render,
+    "exam_result": exam_view.render_result,
 }
 VIEWS.get(st.session_state.view, home.render)(library)

@@ -26,6 +26,7 @@ class Exam:
     group: str
     questions: list
     path: str
+    timed_minutes: int | None = None   # set => exam-mode; None => practice-quiz mode
 
     @property
     def n(self):
@@ -133,6 +134,7 @@ def _load_subject(subject_id, sdir, errors):
             group=data.get("group", ""),
             questions=good,
             path=fpath,
+            timed_minutes=data.get("timed_minutes"),
         ))
 
     subject.exams.sort(key=lambda e: (e.group, _natural_key(e.name)))

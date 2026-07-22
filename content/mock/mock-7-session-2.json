@@ -1,0 +1,1449 @@
+{
+  "schema_version": 1,
+  "name": "Mock 7 — Session 2",
+  "group": "Mock 7",
+  "source": "Mock Exam 4 (Q91-180)",
+  "timed_minutes": 135,
+  "questions": [
+    {
+      "id": "S2Q1",
+      "num": 1,
+      "question": "In the most recent year, Mowe Company and Larrie Company each experienced a 5% increase in sales. Mowe's operating income increased by 7% and its net income increased by 8%. Larrie's operating income increased by 6% and its net income increased by 9%. Based only on this information, Larrie most likely:",
+      "options": {
+        "A": "is a larger company them Mowe.",
+        "B": "uses more financial leverage than Mowe.",
+        "C": "has relatively greater fixed costs than Mowe."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because Mowe's operating income increased relatively more than Larrie's from the same percentage increase in sales, Mowe most likely had greater operating leverage (a higher fixed portion of its operating costs). Because Larrie's net income increased relatively more than Mowe's despite a smaller percentage increase in operating income, Larrie most likely had greater financial leverage. These relationships hold regardless of the sizes of the firms.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 45.2, LOS 45.d, 45.e)"
+      ]
+    },
+    {
+      "id": "S2Q2",
+      "num": 2,
+      "question": "The spot interest rate curve most likely:",
+      "options": {
+        "A": "can be derived from forward rates.",
+        "B": "can be used to derive the par rate curve.",
+        "C": "is derived in practice from yields on risk-free zero-coupon bonds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Par rates are derived from spot rates. In practice, spot rates are derived from the yields on risk-free government coupon bonds. Forward rates are implied from the spot rate curve.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 57.1, LOS 57.c)"
+      ]
+    },
+    {
+      "id": "S2Q3",
+      "num": 3,
+      "question": "An investment advisor constructs a portfolio that plots on the capital market line but has less risk and a lower return than the market portfolio. This portfolio is most accurately described as:",
+      "options": {
+        "A": "a lending portfolio.",
+        "B": "a leveraged portfolio.",
+        "C": "an inefficient portfolio."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A portfolio that plots on the capital market line with less risk than the market portfolio must include a positive allocation to the risk-free asset. Such a portfolio is called a lending portfolio because investing in the risk-free asset represents lending at the risk-free rate.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 21.1, LOS 21.b)"
+      ]
+    },
+    {
+      "id": "S2Q4",
+      "num": 4,
+      "question": "A futures market is most likely to exhibit backwardation when the:",
+      "options": {
+        "A": "convenience yield is low.",
+        "B": "net cost of carry is negative.",
+        "C": "spot price is less than the futures price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. When commodity prices are in backwardation, and the futures price is less than the spot price. This is most likely to occur when the convenience yield is high and the net cost of carry is negative.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 82.1, LOS 82.b)"
+      ]
+    },
+    {
+      "id": "S2Q5",
+      "num": 5,
+      "question": "Collateral is the primary source of repayment for:",
+      "options": {
+        "A": "secured debt only.",
+        "B": "secured debt and unsecured debt.",
+        "C": "neither secured debt nor unsecured debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Company cash flows are the primary source of repayment for both secured debt and unsecured debt. Secured debt does specify the company assets that serve as collateral, but collateral is a secondary source of interest and principal payments.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 62.1, LOS 62.a)"
+      ]
+    },
+    {
+      "id": "S2Q6",
+      "num": 6,
+      "question": "A researcher finds that over a sample period, firms' price-to-earnings ratios could have been used to select portfolios that outperformed the appropriate index on a risk-adjusted basis. If the results are statistically significant, the researcher can conclude that, during the sample period, stock prices were:",
+      "options": {
+        "A": "not weak form efficient.",
+        "B": "semi-strong form efficient.",
+        "C": "not strong form efficient."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Price and earnings information is public information and strong form efficiency requires that no information, public or private, can be used to \"beat the market.\" The test also shows that prices were not semi-strong form efficient, but it does not rule out that they could be weak form efficient.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 43.1, LOS 43.d)"
+      ]
+    },
+    {
+      "id": "S2Q7",
+      "num": 7,
+      "question": "Given the high cost of hurricane insurance premiums in its area, a company decides to save the premium costs and instead reserve funds for potential weather-related risks. This approach is best described as:",
+      "options": {
+        "A": "risk shifting.",
+        "B": "risk transfer.",
+        "C": "self-insurance."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Self-insurance is when a company has decided to bear the risk rather than involving an outside party. Any associated losses that may occur will be borne by the company itself, and companies (like the one here) may reserve funds to cover any potential losses should they occur. Risk shifting involves changing the distribution of potential outcomes. Risk transfer is when another party bears some or all of the risk, as is the case with insurance.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 88.1, LOS 88.g)"
+      ]
+    },
+    {
+      "id": "S2Q8",
+      "num": 8,
+      "question": "Which type of private capital is most likely to have the lowest risk and return?",
+      "options": {
+        "A": "Private equity.",
+        "B": "Mezzanine debt.",
+        "C": "Infrastructure debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk and return profiles for private capital, from lowest to highest: Infrastructure debt, senior real estate debt, unitranche debt, mezzanine debt, private equity co-investments, and venture capital.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 80.1, LOS 80.c)"
+      ]
+    },
+    {
+      "id": "S2Q9",
+      "num": 9,
+      "question": "To keep a futures position open, an investor who receives a margin call must restore the balance in the account to the:",
+      "options": {
+        "A": "initial margin level.",
+        "B": "variation margin level.",
+        "C": "maintenance margin level."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In futures markets, a position holder who receives a margin call must deposit enough funds to restore the account balance to the initial margin amount, or close the position.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 69.1, LOS 69.a)"
+      ]
+    },
+    {
+      "id": "S2Q10",
+      "num": 10,
+      "question": "The quoted add-on rate for a 120-day certificate of deposit is 0.25%, assuming a 365-day year. Given an initial principal amount of EUR 100 million, the redemption amount is closest to:",
+      "options": {
+        "A": "99.75 million.",
+        "B": "100.08 million.",
+        "C": "100.25 million."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The add-on rate is quoted on an annualized basis, and therefore must be unannualized to calculate the redemption amount (future value) of the CD: 100 million × [1 + (120/365 × 0.0025)] = EUR 100.082 million.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 56.1, LOS 56.b)"
+      ]
+    },
+    {
+      "id": "S2Q11",
+      "num": 11,
+      "question": "A change in a government's antitrust policies, resulting from an election of an opposition party, would most likely affect an industry:",
+      "options": {
+        "A": "PESTLE analysis.",
+        "B": "strengths and weaknesses analysis.",
+        "C": "analysis based on Porter’s five forces."
+      },
+      "answer": "A",
+      "explanation": "A is correct. PESTLE analysis is focused on the political, economic, social, technological, legal, and environmental influences on an industry, which would include changes in the antitrust environment. An analysis based on Porter's five forces is primarily concerned with the determinants of industry profitability. Strengths and weaknesses are used in company analysis rather than industry analysis.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 46.2, LOS 46.d)"
+      ]
+    },
+    {
+      "id": "S2Q12",
+      "num": 12,
+      "question": "In contrast with other asset classes, digital assets typically:",
+      "options": {
+        "A": "do not have an intrinsic value.",
+        "B": "have transactions validated by a central intermediary.",
+        "C": "are accepted by financial institutions as media of exchange."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because they are not backed by underlying assets, digital assets typically have no intrinsic value. Digital assets are typically recorded on decentralized electronic ledgers. The mainstream financial system is hesitant to accept digital assets as media of exchange.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 84.2, LOS 84.b)"
+      ]
+    },
+    {
+      "id": "S2Q13",
+      "num": 13,
+      "question": "Which of the following possible portfolios cannot lie on the efficient frontier? Portfolio Expected Return Standard Deviation 1 8% 6% 2 10% 6% 3 14% 12% 4 14% 16%",
+      "options": {
+        "A": "Portfolio 3 only.",
+        "B": "Portfolios 1 and 4.",
+        "C": "Portfolios 2 and 3."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Portfolio 1 does not lie on the efficient frontier because it has a lower return than Portfolio 2 but has equal risk. Portfolio 4 does not lie on the efficient frontier because it has higher risk than Portfolio 3 but has the same return.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 20.4, LOS 20.g)"
+      ]
+    },
+    {
+      "id": "S2Q14",
+      "num": 14,
+      "question": "For a bond trading at a discount:",
+      "options": {
+        "A": "its current yield and YTM are both higher than the coupon rate.",
+        "B": "its current yield is higher than the coupon rate, and its YTM is lower than the coupon rate.",
+        "C": "its YTM is higher than the coupon rate, and its current yield is lower than the coupon rate."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The current yield is a bond's annual coupon divided by the bond's price. The current yield for a discount bond is higher than coupon rate because its denominator is less than par value. Similarly, the YTM factors in the coupon rate plus the appreciation of the discount value to par value by maturity, and is therefore larger than the coupon rate.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 49.1, LOS 49.a)"
+      ]
+    },
+    {
+      "id": "S2Q15",
+      "num": 15,
+      "question": "An analyst studying the J-curve effect exhibited by alternative investments will expect returns to be lowest during which of the following phases?",
+      "options": {
+        "A": "Capital distribution phase.",
+        "B": "Capital deployment phase.",
+        "C": "Capital commitment phase."
+      },
+      "answer": "C",
+      "explanation": "C is correct. During the capital commitment phase, the returns are not only the lowest of all of the phases, but they are often negative during this phase. Returns typically get higher during the capital deployment phase and are often the highest during the capital distribution phase.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 79.1, LOS 79.a)"
+      ]
+    },
+    {
+      "id": "S2Q16",
+      "num": 16,
+      "question": "Which of the following provides structural call protection for a commercial mortgage-backed security?",
+      "options": {
+        "A": "Defeasance.",
+        "B": "Sequential-pay tranches.",
+        "C": "Prepayment lockout periods."
+      },
+      "answer": "B",
+      "explanation": "B is correct. With sequential-pay tranches, the principal amount of each successive tranche must be repaid in full before principal on the next successive tranche can be paid. This type of call protection is structural in the CMBS, not at the individual loan level. Prepayment lockout periods and defeasance both offer call protection at the loan level.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 67.1, LOS 67.d)"
+      ]
+    },
+    {
+      "id": "S2Q17",
+      "num": 17,
+      "question": "The investment needs of property and casualty insurers are characterized by a:",
+      "options": {
+        "A": "short-term time horizon and low risk tolerance.",
+        "B": "long-term time horizon and high risk tolerance.",
+        "C": "short-term time horizon and high risk tolerance."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Property and casualty insurers typically have a short-term time horizon, since claims are expected in the near term, and low risk tolerance.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 85.1, LOS 85.b)"
+      ]
+    },
+    {
+      "id": "S2Q18",
+      "num": 18,
+      "question": "For an investment structured as a limited partnership, the provision is that is most likely to benefit the general partner is a:",
+      "options": {
+        "A": "high-water mark.",
+        "B": "catch-up provision.",
+        "C": "clawback provision."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Catch-up provisions address specifically a situation where performance fees to the general partner are accelerated after a hurdle rate is achieved. Clawback provisions and high-water marks benefit limited partners.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 78.1, LOS 78.c)"
+      ]
+    },
+    {
+      "id": "S2Q19",
+      "num": 19,
+      "question": "An issue of covered bonds specifies that if payments are not made as originally scheduled, the issuer can postpone the maturity date by 12 months. These bonds are most accurately described as:",
+      "options": {
+        "A": "soft-bullet covered bonds.",
+        "B": "hard-bullet covered bonds.",
+        "C": "conditional pass-through covered bonds."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In a soft-bullet covered bond, bond default and payment acceleration are both delayed to a new maturity date (typically 12 month after the covered bond original maturity) if payments are not made as originally scheduled. In a hard-bullet covered bond, bond default and payment acceleration are triggered if payments are not made as originally scheduled. In a conditional pass-through covered bond, the bond is converted into pass-through securities at the initial maturity date if payments are not made as originally scheduled.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 66.1, LOS 66.a)"
+      ]
+    },
+    {
+      "id": "S2Q20",
+      "num": 20,
+      "question": "As part of its risk management process, an organization should most appropriately seek to:",
+      "options": {
+        "A": "generate a return equivalent to the risk-free rate.",
+        "B": "minimize the risks inherent in its investment portfolio.",
+        "C": "align the organization’s risk level with its risk tolerance."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Identifying the risk tolerance of the organization and aligning risks with risk tolerance is a key element of the risk management process. An organization will not use the risk management process to generate returns equal to just the risk-free rate, nor will it necessarily seek to minimize risks.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 88.1, LOS 88.a)"
+      ]
+    },
+    {
+      "id": "S2Q21",
+      "num": 21,
+      "question": "A leveraged buyout firm that carries out a secondary sale has:",
+      "options": {
+        "A": "offered additional shares to the public.",
+        "B": "exited an investment in a portfolio company.",
+        "C": "received new capital from its general or limited partners."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In a secondary sale, a private equity firm sells one of its portfolio companies to a group of investors or another private equity firm.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 80.1, LOS 80.a)"
+      ]
+    },
+    {
+      "id": "S2Q22",
+      "num": 22,
+      "question": "General obligation bonds issued by local and regional governments are most similar to a corporate issuer's:",
+      "options": {
+        "A": "secured bonds.",
+        "B": "subordinated bonds.",
+        "C": "senior unsecured bonds."
+      },
+      "answer": "C",
+      "explanation": "C is correct. General obligation (GO) bonds are backed by the full faith and credit of the issuing government, serviced by government revenues such as taxes. GO bonds are typically not collateralized. As a result, they are the non-sovereign government equivalent of senior unsecured bonds.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 53.1, LOS 53.a) and (Module 64.1, LOS 64.c)"
+      ]
+    },
+    {
+      "id": "S2Q23",
+      "num": 23,
+      "question": "If the risk-free rate of interest is 3%, the spot price of an asset is 35, and its net cost of carry is –2, the no-arbitrage price of a one-year forward contract on units of the asset is closest to:",
+      "options": {
+        "A": "33.99.",
+        "B": "38.05.",
+        "C": "38.11."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A negative net cost of carry means that the costs of holding the asset are greater than the benefits, so we must add 2 to the spot price to get a no-arbitrage price for a one-year forward contract of 1.03(35 + 2) = 38.11.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 72.1, LOS 72.a)"
+      ]
+    },
+    {
+      "id": "S2Q24",
+      "num": 24,
+      "question": "Which type of equity index would have price returns mirroring a portfolio that held the same number of shares of each constituent security?",
+      "options": {
+        "A": "Price-weighted.",
+        "B": "Equal-weighted.",
+        "C": "Market cap-weighted."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The price returns of a price-weighted index mirror the returns on a portfolio with an equal number of shares of each security. An equal-weighted index mirrors the returns on a portfolio with the same money amount invested in each security. A market capitalization index mirrors the returns on a portfolio with security weights proportional to the market capitalizations of each constituent.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 42.1, LOS 42.d)"
+      ]
+    },
+    {
+      "id": "S2Q25",
+      "num": 25,
+      "question": "Direct investment in infrastructure is most similar to investing in:",
+      "options": {
+        "A": "public equity.",
+        "B": "government debt.",
+        "C": "commercial real estate."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Investing in infrastructure is most similar to investing in commercial real estate because both involve real, illiquid, capital intensive, long-term assets that require large investment amounts and specialized knowledge. Both publicly traded stocks and government debt investments are easily accessible with lower minimum investments, do not require additional capital investment, and are highly liquid.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 81.1, LOS 81.a) and (Module 81.2, LOS 81.c)"
+      ]
+    },
+    {
+      "id": "S2Q26",
+      "num": 26,
+      "question": "A portfolio manager is reviewing a client's IPS, and notes that that investor needs to withdraw a large portion of their funds at the end of this year to pay their child's college fees. What impact is this most likely to have on any portfolio decisions made in the current year? Investments should be allocated to:",
+      "options": {
+        "A": "low risk, low liquidity investments.",
+        "B": "low risk, high liquidity investments.",
+        "C": "high risk, high liquidity investments."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In general, the longer an investor's time horizon, the more risk and less liquidity the investor can accept in the portfolio. As the investor has a short time horizon, at least for the majority of their funds, this means the focus should be on lower-risk, highly liquid investments.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 86.1, LOS 86.e)"
+      ]
+    },
+    {
+      "id": "S2Q27",
+      "num": 27,
+      "question": "An investor who purchases a no-load mutual fund is most likely to pay:",
+      "options": {
+        "A": "redemption fees.",
+        "B": "fees for ongoing management.",
+        "C": "up-front fees for purchasing shares."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Even though no-load funds do not charge fees for buying shares (up-front fees) or for redeeming shares (redemption fees), they still charge fees for ongoing portfolio management.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 85.2, LOS 85.f)"
+      ]
+    },
+    {
+      "id": "S2Q28",
+      "num": 28,
+      "question": "An investor wishes to incorporate alternative investments into her portfolio for the first time. Which of the following benefits may she receive by adding this asset class?",
+      "options": {
+        "A": "Illiquidity premiums generating potentially higher returns.",
+        "B": "Risk reduction from high correlations to traditional investments.",
+        "C": "Greater efficiencies than those found in traditional investments."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Alternative investments are often illiquid, which merits higher returns to align with their greater risk. Alternative investments do tend to reduce risk in a portfolio, but this is due to lower (rather than higher) correlation to traditional investments. Markets for alternative investments also tend to be less efficient rather than more efficient compared to traditional investments.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 78.1, LOS 78.a)"
+      ]
+    },
+    {
+      "id": "S2Q29",
+      "num": 29,
+      "question": "Compared to an otherwise equivalent option-free bond, a putable bond:",
+      "options": {
+        "A": "benefits the investor, and therefore has a higher yield.",
+        "B": "benefits the issuer, and therefore has a lower yield.",
+        "C": "benefits the investor, and therefore has a lower yield."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A putable bond provides a value to the investor (bondholder) by promising a pre-specified selling price at the redemption dates. Because a putable bond gives investors a benefit, its price is above and its yield is below an otherwise equivalent option-free bond.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 50.1, LOS 50.a)"
+      ]
+    },
+    {
+      "id": "S2Q30",
+      "num": 30,
+      "question": "If a stock's beta is equal to 1.2, its standard deviation of returns is 28%, and the standard deviation of the returns on the market portfolio is 14%, the covariance of the stock's returns with the returns on the market portfolio is closest to:",
+      "options": {
+        "A": "0.168.",
+        "B": "0.024.",
+        "C": "0.600."
+      },
+      "answer": "B",
+      "explanation": "B is correct. From the fact that betai = Covi,mkt / Varmkt, we have Covi,mkt = betai × varmkt. Covi,mkt = 1.2 × 0.14^2 = 0.02352.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 21.1, LOS 21.e)"
+      ]
+    },
+    {
+      "id": "S2Q31",
+      "num": 31,
+      "question": "Based on parity relations for options prices, the value of a put minus the value of a call (on the same asset with same exercise prices) must equal:",
+      "options": {
+        "A": "the price of a forward contract on the asset minus the present value of the option exercise price.",
+        "B": "the present value of the price of a forward contract on the asset minus the option exercise price.",
+        "C": "the present value of the difference between the option exercise price and the price of a forward contract on the asset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The no-arbitrage put-call-forward parity condition for European options can be presented as: F0(T)/(1+Rf)^T + p0 = c0 + X/(1+Rf)^T, or as p0 − c0 = [X−F0(T)] / (1+Rf)^T.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 76.1, LOS 76.a)"
+      ]
+    },
+    {
+      "id": "S2Q32",
+      "num": 32,
+      "question": "A financial market is said to be operationally efficient if:",
+      "options": {
+        "A": "transactions costs are low.",
+        "B": "prices adjust quickly to new information.",
+        "C": "it results in resources being allocated to their most productive uses."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Financial markets are said to be operationally efficient if participants can achieve their desired purposes with low transactions costs. Markets are said to be informationally efficient if prices reflect new information rapidly, and allocationally efficient if resources are allocated to their most productive uses.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 41.3, LOS 41.k)"
+      ]
+    },
+    {
+      "id": "S2Q33",
+      "num": 33,
+      "question": "Which of the following statements about alternative investment indexes is most accurate?",
+      "options": {
+        "A": "An investor can replicate a commodity index by making direct investments in the underlying physical commodities.",
+        "B": "Real Estate Investment Trust indexes track the prices of shares of publicly traded companies that invest in mortgages or real property.",
+        "C": "Hedge fund indexes accurately represent the investment performance of the hedge fund industry."
+      },
+      "answer": "B",
+      "explanation": "B is correct. REIT indexes represent a convenient way to invest in real estate. Commodity indexes are based on futures prices of commodities, and are not replicated by investing in the commodities themselves. Hedge fund indexes are biased upward because hedge funds are not required to disclose their performance to index providers and poorly performing funds are less likely to do so (self-selection bias).",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 42.2, LOS 42.k)"
+      ]
+    },
+    {
+      "id": "S2Q34",
+      "num": 34,
+      "question": "An investor with an investment horizon of 5 years has purchased a 15-year 6% coupon bond at par. The bond has a modified duration of 9.8. The duration gap for this investor is closest to:",
+      "options": {
+        "A": "–4.2.",
+        "B": "4.8.",
+        "C": "5.4."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The duration gap is calculated as the bond's Macaulay duration minus the investor's investment horizon. Modified duration is Macaulay duration / (1 + YTM), so we can calculate the Macaulay duration as 9.8 × 1.06 = 10.388. The duration gap is 10.388 – 5 = 5.388.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 58.1, LOS 58.b) and (Module 59.1, LOS 59.a)"
+      ]
+    },
+    {
+      "id": "S2Q35",
+      "num": 35,
+      "question": "Which of the following risks is least likely to be reduced by diversification?",
+      "options": {
+        "A": "Market risk.",
+        "B": "Firm-specific risk.",
+        "C": "Unsystematic risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Risk that cannot be diversified away is referred to as systematic risk, non-diversifiable risk, or market risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 21.1, LOS 21.c)"
+      ]
+    },
+    {
+      "id": "S2Q36",
+      "num": 36,
+      "question": "The least likely reason for investing in commodity derivatives rather than physical commodities is their:",
+      "options": {
+        "A": "convenience yield.",
+        "B": "greater price transparency.",
+        "C": "positive correlation with inflation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Convenience yield is a benefit of holding physical commodities, not commodity derivatives. Positive correlation with inflation makes commodity derivatives useful as a hedge against inflation. Derivatives pricing is more transparent compared to pricing of physical commodities.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 82.1, LOS 82.b)"
+      ]
+    },
+    {
+      "id": "S2Q37",
+      "num": 37,
+      "question": "The following information applies to JNC Advisers, a hedge fund: $250 million in AUM as of prior year-end 2% management fee (based on year-end AUM) 20% incentive fee calculated net of management fees, using a 4% soft hurdle rate and a high-water mark ($275 million as of prior year-end) In the current year, the fund's gross return is 20%. An investor's net-of-fees return for the year is closest to:",
+      "options": {
+        "A": "13.0%.",
+        "B": "15.6%.",
+        "C": "16.1%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. End-of-year AUM = $250 million × 1.20 = $300 million Management fees = $300 million × 2% = $6 million AUM net of management fees = $300 million – $6 million = $294 million Return net of management fees = $294 / $250 – 1 = 17.6%. Because returns for the year net of management fees exceeded the soft hurdle rate, the fund can collect incentive fees, but only on gains above the high-water mark. Incentive fees = 20% × ($294 – $275) = $3.8 million Total fees to JNC Advisers = $6 + $3.8 = $9.8 million After-fee return = [(300 – 9.8) / 250] – 1 = 16.08%.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 79.1, LOS 79.b)"
+      ]
+    },
+    {
+      "id": "S2Q38",
+      "num": 38,
+      "question": "A non-cumulative preferred stock will be most risky if it is:",
+      "options": {
+        "A": "putable.",
+        "B": "callable.",
+        "C": "option-free."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A callable preferred is most risky because it can be redeemed for a fixed price if its value increases beyond that call price. Option-free and putable preferred stocks do not have this risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 44.2, LOS 44.e)"
+      ]
+    },
+    {
+      "id": "S2Q39",
+      "num": 39,
+      "question": "An analyst is valuing a company's perpetual preferred stock that pays a $6 annual dividend. The company's bonds currently yield 7.5% and preferred shares are selling to yield 75 basis points below the company's bond yield. The value of the preferred stock is closest to:",
+      "options": {
+        "A": "$72.",
+        "B": "$80.",
+        "C": "$89."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Step 1: Determine the discount rate. 7.50% – 0.75% = 6.75%. Step 2: Value the preferred. VP = dividend/kp = $6.00/0.0675 = $88.89.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 2.1, LOS 2.a) and (Module 48.2, LOS 48.g)"
+      ]
+    },
+    {
+      "id": "S2Q40",
+      "num": 40,
+      "question": "Other things equal, an investor is most likely to have a high ability to bear risk if the investor has:",
+      "options": {
+        "A": "a short time horizon.",
+        "B": "significant liquid wealth.",
+        "C": "high but variable employment income."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investors with significant liquid wealth have the greatest ability to bear risk because they do not need to rely on employment income to meet their liquidity needs and their wealth can sustain them on a long-term basis. Longer time horizons increase the ability to bear risk because investors have more time to grow wealth and recover from market volatility. Steady income also increases the ability to bear risk because it reduces the portfolio's liquidity constraints.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 86.1, LOS 86.d)"
+      ]
+    },
+    {
+      "id": "S2Q41",
+      "num": 41,
+      "question": "A BAA rated bond that is priced to yield 7.75% has a modified duration of 6 and a convexity of 40. A government bond of the same maturity is yielding 6.5%. If the benchmark yield is unchanged and the BAA bond yield decreases to 7.5%, the expected increase in the full price of the bond is closest to:",
+      "options": {
+        "A": "1.48%.",
+        "B": "1.49%.",
+        "C": "1.51%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The percentage change in a bond's full price can be calculated as: – (Mod Dur × ∆Spread) + (½ Convexity × ∆Spread^2). The credit spread on the BAA bond has decreased from 7.75% – 6.5% = 1.25% to 7.5% – 6.5% = 1%, so ∆Spread = –0.25%. The expected change in the full price of the bond is –6 × (–0.0025) + ½ × 40 × –0.0025^2 = 0.015125 = 1.5125%.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 60.1, LOS 60.b)"
+      ]
+    },
+    {
+      "id": "S2Q42",
+      "num": 42,
+      "question": "The multifactor model produced by Fama and French least likely includes as a factor:",
+      "options": {
+        "A": "firm size.",
+        "B": "price momentum.",
+        "C": "excess return on the market portfolio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fama and French produced a multifactor model based on the sensitivity of security returns to three factors: firm size, firm book value to market value ratio, and the return on the market portfolio minus the risk-free rate (excess return on the market portfolio). Carhart produced a multifactor model which used all three of these, plus price momentum using prior period returns.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 21.1, LOS 21.d)"
+      ]
+    },
+    {
+      "id": "S2Q43",
+      "num": 43,
+      "question": "An investor buys a stock at $32 a share and deposits 50% initial margin. Assume that the maintenance margin is 25%, the stock pays no dividends, and transaction costs and interest on the margin loan are zero. The price at which the investor would receive a margin call is closest to:",
+      "options": {
+        "A": "$16.",
+        "B": "$21.",
+        "C": "$24."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Price at which a margin call will occur: original price × [(1 − initial margin) / (1 − maintenance margin)] = [$32.00 × (1 − 0.5)] / (1 − 0.25) = $16.00 / 0.75 = $21.33.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 41.2, LOS 41.f)"
+      ]
+    },
+    {
+      "id": "S2Q44",
+      "num": 44,
+      "question": "Recent economic data suggest an increasing likelihood that the economy will soon enter a recessionary phase. What is the most likely effect on the yields of lower-quality corporate bonds and on credit spreads of lower-quality versus higher-quality corporate bonds?",
+      "options": {
+        "A": "Both will increase.",
+        "B": "Both will decrease.",
+        "C": "One will increase and one will decrease."
+      },
+      "answer": "A",
+      "explanation": "A is correct. During economic contractions, the probability of default increases for lower-quality issues and their yields increase. When investors anticipate an economic downturn, they tend to sell low-quality issues and buy high-quality issues, causing credit spreads to widen.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 62.1, LOS 62.c)"
+      ]
+    },
+    {
+      "id": "S2Q45",
+      "num": 45,
+      "question": "Which of the following statements about put options at expiration is least accurate? The:",
+      "options": {
+        "A": "put buyer’s maximum loss is the put option’s premium.",
+        "B": "maximum loss to the put writer is the exercise price less the premium.",
+        "C": "put holder will exercise the option whenever the underlying price is greater than the exercise price."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The put holder will exercise the option at expiration whenever the underlying price is less than the exercise price.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 69.2, LOS 69.b)"
+      ]
+    },
+    {
+      "id": "S2Q46",
+      "num": 46,
+      "question": "Which of the following scenarios is inconsistent with efficient financial markets?",
+      "options": {
+        "A": "An analyst’s buy recommendations have returned 2% more than the broad market index, on average.",
+        "B": "Johnson, Inc. reports an increase of 8% in its earnings from a year earlier, and its stock price declines 5% on the news.",
+        "C": "Earl Baker, an investor, earns consistently superior risk-adjusted returns by buying stocks when most investment advisors are pessimistic and selling stocks when most investment advisors are optimistic."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If markets are efficient, investors should not earn consistently superior returns from technical trading rules such as a contrary opinion strategy. A stock price will decrease on a report of an increase in earnings if that increase is less than investors expected based on all the information previously available. An analyst's recommendations could be for stocks with more than market risk, or the analyst's industry may outperform for some period of time. Both could account for outperformance even though markets are efficient.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 43.1, LOS 43.e)"
+      ]
+    },
+    {
+      "id": "S2Q47",
+      "num": 47,
+      "question": "The holder of the type of security that has a priority in liquidation less than that of bonds or promissory notes issued by the company but ahead of that of common stock is most likely to have:",
+      "options": {
+        "A": "no voting rights.",
+        "B": "statutory voting rights.",
+        "C": "cumulative voting rights."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The security being described here is preferred stock (preference shares). In the event of liquidation of a firm, the claims of preferred equity shareholders are senior to the claims of common stockholders but subordinated to the claims of debt holders. Preferred shares typically have no voting rights.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 44.1, LOS 44.a)"
+      ]
+    },
+    {
+      "id": "S2Q48",
+      "num": 48,
+      "question": "Transactions costs incurred from portfolio rebalancing are most likely to be highest for funds that track:",
+      "options": {
+        "A": "price-weighted indexes.",
+        "B": "value-weighted indexes.",
+        "C": "equal-weighted indexes."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Equal-weighted index portfolios require rebalancing after each return period because differences in returns among securities will drive the security weightings away from equal weighting. Changes in the security prices automatically adjust the weights in price- and value-weighted index portfolios to their correct values, so funds that track price- and value-weighted indexes do not require frequent rebalancing.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 42.2, LOS 42.f)"
+      ]
+    },
+    {
+      "id": "S2Q49",
+      "num": 49,
+      "question": "When compared to direct investing, fund investing offers:",
+      "options": {
+        "A": "greater diversification.",
+        "B": "higher minimum investments.",
+        "C": "a higher degree of investor involvement."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Advantages of fund investing as compared to direct investing include less investor involvement, lower minimum investment requirements, and diversification across investments made by the fund.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 78.1, LOS 78.b)"
+      ]
+    },
+    {
+      "id": "S2Q50",
+      "num": 50,
+      "question": "A hedge fund will honor redemption requests at any time within 30 days of the request, but it will charge a significant fee for redemption requests received during the first two years. These terms are most appropriately referred to as a two-year:",
+      "options": {
+        "A": "penalty period.",
+        "B": "soft lockup period.",
+        "C": "redemption restriction period."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A period after initial investment during which there are significant penalties for redemptions is referred to as a soft lockup period. If redemption requests will not be honored for a period after initial investment, that is referred to as a lockup period.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 83.1, LOS 83.a)"
+      ]
+    },
+    {
+      "id": "S2Q51",
+      "num": 51,
+      "question": "A supranational bond:",
+      "options": {
+        "A": "is issued by a multilateral agency.",
+        "B": "trades outside the jurisdiction of any one country.",
+        "C": "pays coupons in a different currency than its principal."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Supranational bonds are issued by multilateral agencies such as the World Bank or International Monetary Fund. Bonds that trade outside the jurisdiction of any one country are known as global bonds. Bonds that pay coupons in a different currency than their principal are known as dual-currency bonds.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 53.1, LOS 53.a)"
+      ]
+    },
+    {
+      "id": "S2Q52",
+      "num": 52,
+      "question": "If an investor wants only investment grade bonds in her portfolio, she would be least likely to purchase a:",
+      "options": {
+        "A": "2-year municipal bond rated A–.",
+        "B": "3-year municipal bond rated BB.",
+        "C": "15-year, semiannual coupon corporate bond rated BBB."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investment grade bonds are BBB– and above. This bond is rated BB, which is below BBB–.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 62.1, LOS 62.b)"
+      ]
+    },
+    {
+      "id": "S2Q53",
+      "num": 53,
+      "question": "A stock that currently does not pay a dividend is expected to pay its first dividend of $1.00 five years from today. Thereafter, the dividend is expected to grow at an annual rate of 25% for the next three years and then grow at a constant rate of 5% per year thereafter. The required rate of return is 10.3%. The value of the stock today is closest to:",
+      "options": {
+        "A": "$20.65.",
+        "B": "$22.72.",
+        "C": "$23.87."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This is essentially a two-stage dividend discount model (DDM) problem. Discounting all future cash flows, we get: P0 = 1.00/(1.103)^5 + 1.25/(1.103)^6 + (1.25)^2/(1.103)^7 + [(1.25)^3 / ((0.103−0.05)(1.103)^7)] = $20.647. Note that the constant growth formula can be applied to dividend 8 (1.25^3) because it will grow at a constant rate (5%) forever.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 2.1, LOS 2.a and Module 48.2, LOS 48.h)"
+      ]
+    },
+    {
+      "id": "S2Q54",
+      "num": 54,
+      "question": "If, at expiration, the price of a stock is $43, the profit or loss to the writer of a put option at $45 is:",
+      "options": {
+        "A": "a $2 loss.",
+        "B": "a $2 profit.",
+        "C": "no profit or loss."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The put option is in the money by Max(0, exercise price – stock price) or $45 – $43 = $2, which is the put holder's profit and the put writer's loss.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 69.2, LOS 69.b)"
+      ]
+    },
+    {
+      "id": "S2Q55",
+      "num": 55,
+      "question": "Consider a one-year USD floating-rate note that pays quarterly based on a 180-day MRR with: Face value 1,000 Discount margin 80 bps Quoted margin 90 bps 180-day MMR 4.2% The note is trading at:",
+      "options": {
+        "A": "par.",
+        "B": "a discount.",
+        "C": "a premium."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the discount margin is less than the quoted margin, the note will be trading at a premium.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 56.1, LOS 56.a)"
+      ]
+    },
+    {
+      "id": "S2Q56",
+      "num": 56,
+      "question": "An investor who exhibits hyperbolic discounting most likely:",
+      "options": {
+        "A": "takes personal credit for gains and blames others for losses.",
+        "B": "favors small gains in the short term over larger gains in the long term.",
+        "C": "experiences greater pain from a loss than pleasure from an equal-sized gain."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Hyperbolic discounting refers to favoring small payoffs in the short term over larger payoffs in the long term and is related to self-control bias. An investor who takes personal credit for gains and blames others for losses exhibits self-attribution bias. An investor who experiences greater pain from a loss than pleasure from an equal-sized gain exhibits loss aversion bias.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 87.1, LOS 87.b)"
+      ]
+    },
+    {
+      "id": "S2Q57",
+      "num": 57,
+      "question": "Roger Gould is analyzing the stock of Zero Incorporated and trying to determine which price multiple to use in his valuation. Zero, a start-up, had losses over the last 12 months and is projected to have a loss over the next 12 months. Zero has significant internally generated intangible assets and human capital that Gould would like to capture in his valuation. The price multiple that Gould should most appropriately use is the:",
+      "options": {
+        "A": "price-to-sales ratio.",
+        "B": "price-to-book value.",
+        "C": "price-to-earnings ratio."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The price-to-sales ratio can be used for firms with negative earnings and implicitly recognizes the value of assets not recognized on the balance sheet. The price-to-earnings ratio is the most popular ratio in the investment community; however, it is not a useful ratio for firms with negative earnings. One of the significant disadvantages of the price-to-book value ratio is that it does not recognize the value of nonphysical assets such as human capital or intangible assets generated internally. Therefore, price-to-book value would not be the best choice.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 48.3, LOS 48.k)(Module 48.3, LOS 48.m)"
+      ]
+    },
+    {
+      "id": "S2Q58",
+      "num": 58,
+      "question": "Benefits of derivative markets most likely include:",
+      "options": {
+        "A": "decreasing the probability of counterparty defaults.",
+        "B": "increasing investors’ ability to hedge against systemic risks.",
+        "C": "discovery of market information that is not otherwise available."
+      },
+      "answer": "C",
+      "explanation": "C is correct. One of the benefits of derivative markets is the ability to discover information that is not available from cash market transactions, such as implied volatility from options markets. Risks of derivative markets include counterparty credit risk and greater systemic risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 70.1, LOS 70.a)"
+      ]
+    },
+    {
+      "id": "S2Q59",
+      "num": 59,
+      "question": "Four non-convertible bonds have the indicated yield spreads to Treasury securities: Maturity Government Spread Zero- Volatility Spread Option- Adjusted Spread Bond W 2 years 156 bp 155 bp 130 bp Bond X 3 years 173 bp 174 bp 199 bp Bond Y 5 years 188 bp 189 bp 164 bp Bond Z 10 years 202 bp 201 bp 226 bp Based on these spreads, it is most likely that:",
+      "options": {
+        "A": "Bond X is callable, and Bond Y is putable.",
+        "B": "Bond W is callable, and Bond Z is putable.",
+        "C": "Bond Z is callable, and the spot yield curve is inverted."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bonds W and Y are most likely callable, and Bonds X and Z are most likely putable. If the option-adjusted spread is less than the zero-volatility spread, the embedded option has a negative value to the bondholder (e.g., a call option), and if the option-adjusted spread is greater than the zero-volatility spread, the embedded option has a positive value to the bondholder (e.g., a put option). Zero-volatility spreads adjust for the fact that nominal spreads (between the yields to maturity of two bonds) are theoretically correct only when the spot yield curve is flat. All of these bonds' zero-volatility spreads are nearly identical to their government spreads, which suggests the spot yield curve is approximately flat.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 55.1, LOS 55.b)"
+      ]
+    },
+    {
+      "id": "S2Q60",
+      "num": 60,
+      "question": "Based on the following interest rates: 1-year spot rate 3.0% 1-year forward rate one year from now 5.0% 2-year forward rate one year from now 6.5% The 3-year spot rate is closest to:",
+      "options": {
+        "A": "5.0%.",
+        "B": "5.3%.",
+        "C": "9.3%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The 3-year spot rate is the discount rate for a 3-year zero-coupon security. To eliminate any opportunity for arbitrage, the 3-year spot rate should equal the compounded equivalent of borrowing at expected forward rates: 3-year spot rate = [(1 + 0.03)(1 + 0.065)^2]^(1/3) – 1 = 0.0532 = 5.32%. Note that the answer can be approximated simply by averaging the 1-year rate and the 2-year forward rate one year from now: (3 + 6.5 + 6.5) / 3 = 5.33%.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 2.2, LOS 2.c)(Module 57.1, LOS 57.b)"
+      ]
+    },
+    {
+      "id": "S2Q61",
+      "num": 61,
+      "question": "An analyst classifies Mettler, Inc., an operator of retail grocery stores, in the same industry group as Powell Corporation, a manufacturer of industrial machinery. This analyst's classification system is most likely based on:",
+      "options": {
+        "A": "statistical methods.",
+        "B": "products and services.",
+        "C": "sensitivity to the business cycle."
+      },
+      "answer": "A",
+      "explanation": "A is correct. This grouping is most likely the result of a cluster analysis and may have arisen by chance. The two firms clearly offer different products and services. An industrial machinery manufacturer is likely to be a cyclical firm, while a grocery retailer is likely to be a non-cyclical firm.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 46.1, LOS 46.b)"
+      ]
+    },
+    {
+      "id": "S2Q62",
+      "num": 62,
+      "question": "Two investments each require an initial cash outflow of $3,000. Investment 1 has a 20% probability of returning $10,000 and an 80% probability of returning $2,000. Investment 2 has a 100% probability of returning $3,200. A risk-averse investor is most likely to:",
+      "options": {
+        "A": "prefer Investment 1.",
+        "B": "prefer Investment 2.",
+        "C": "be indifferent between Investments 1 and 2."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A risk-averse investor prefers less risk to more, given the same expected return. The expected return of Investment 1 is 0.2($10,000) + 0.8($2,000) = $3,200. A risk-averse investor would prefer Investment 2, which has the same expected return as Investment 1 with no variability.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 20.2, LOS 20.b)"
+      ]
+    },
+    {
+      "id": "S2Q63",
+      "num": 63,
+      "question": "An analyst collects the following spot rates, stated as annual bond-equivalent yields: 6-month spot rate = 6%. 12-month spot rate = 6.5%. 18-month spot rate = 7%. 24-month spot rate = 7.5%. Given only this information, the price of a 2-year, semiannual-pay, 10% coupon bond with a face value of $1,000 is closest to:",
+      "options": {
+        "A": "$918.30.",
+        "B": "$1,000.00.",
+        "C": "$1,046.77."
+      },
+      "answer": "C",
+      "explanation": "C is correct. This question can be answered without calculations. Since the spot rates are less than the coupon rate, the price must be greater than par value. This is a four-period bond with $50 cash flows each period. Divide each spot rate by two to get the semiannual rate. PV1: N = 1; I/Y = 3.00; FV = $50; CPT → PV = $48.54. PV2: N = 2; I/Y = 3.25; FV = $50; CPT → PV = $46.90. PV3: N = 3; I/Y = 3.50; FV = $50; CPT → PV = $45.10. PV4: N = 4; I/Y = 3.75; FV = $1,050; CPT → PV = $906.23. Sum to get $1,046.77. Or, 50/1.03 + 50/1.0325^2 + 50/1.035^3 + 1,050/1.0375^4 = $1,046.77.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 57.1, LOS 57.a)"
+      ]
+    },
+    {
+      "id": "S2Q64",
+      "num": 64,
+      "question": "A programming error resulted in the issuance of a forward contract that ignored the convenience yield investors realize from holding the underlying asset. To gain an arbitrage profit from this error, an arbitrageur's position would most likely include a long position in the:",
+      "options": {
+        "A": "forward contract.",
+        "B": "underlying asset.",
+        "C": "risk-free asset."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Ignoring the convenience yield (a nonmonetary benefit of holding the asset) will result in a forward price that is above the no-arbitrage forward price. To profit from this mispricing, an arbitrageur would borrow at the risk-free rate (i.e., take a short position in the risk-free asset), purchase the underlying asset, and take a short position in the forward contract.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 71.1, LOS 71.a)"
+      ]
+    },
+    {
+      "id": "S2Q65",
+      "num": 65,
+      "question": "Non-financial sources of risk for an organization most likely include:",
+      "options": {
+        "A": "credit risk.",
+        "B": "liquidity risk.",
+        "C": "solvency risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Non-financial risks are those that arise from an organization's operations and from outside sources other than financial markets. Solvency risk is classified as a non-financial risk.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 88.1, LOS 88.f)"
+      ]
+    },
+    {
+      "id": "S2Q66",
+      "num": 66,
+      "question": "To ensure the continuity of a value-weighted index when one of the stocks in the index is split:",
+      "options": {
+        "A": "no adjustment is necessary.",
+        "B": "only the denominator must be adjusted for the split.",
+        "C": "both the numerator and the denominator must be adjusted for the split."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Value-weighted indexes do not need to be adjusted for stock splits because the market capitalization of the company remains the same.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 42.1, LOS 42.e)"
+      ]
+    },
+    {
+      "id": "S2Q67",
+      "num": 67,
+      "question": "Management fees for hedge funds are most likely calculated as a percentage of:",
+      "options": {
+        "A": "committed capital.",
+        "B": "gains above a hurdle rate.",
+        "C": "assets under management."
+      },
+      "answer": "C",
+      "explanation": "C is correct. For hedge funds, management fees are typically a percentage of assets under management. Incentive fees are based on gains. Management fees for private capital funds are typically a percentage of committed capital.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 78.1, LOS 78.c)"
+      ]
+    },
+    {
+      "id": "S2Q68",
+      "num": 68,
+      "question": "Which of the following is a risk faced by issuers of commercial paper?",
+      "options": {
+        "A": "Default risk.",
+        "B": "Rollover risk.",
+        "C": "Reinvestment risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Rollover risk is the risk that an issuer who relies on the commercial paper market as a funding source may not be able to issue new commercial paper when an outstanding issue matures. Default risk and reinvestment risk are faced by bondholders.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 52.1, LOS 52.a)"
+      ]
+    },
+    {
+      "id": "S2Q69",
+      "num": 69,
+      "question": "Other things equal, an increase in an option-free bond's yield to maturity will:",
+      "options": {
+        "A": "increase its interest rate risk.",
+        "B": "decrease its interest rate risk.",
+        "C": "not change its interest rate risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because the price-yield relationship for an option-free bond is convex, interest rate risk as measured by duration changes when a bond's YTM changes. An increase in YTM reaches a flatter part of the price-yield curve, from which changes in yield will have relatively smaller effects on the bond's value.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 59.1, LOS 59.b)"
+      ]
+    },
+    {
+      "id": "S2Q70",
+      "num": 70,
+      "question": "An analyst using a risk-neutral one-period binomial model calculates a probability-weighted average of an option's values following an up-move and a down-move. According to this model, this average is most likely:",
+      "options": {
+        "A": "equal to the option’s value today.",
+        "B": "less than the option’s value today.",
+        "C": "greater than the option’s value today."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The probability-weighted average calculated by the analyst is the option's value after one period. To estimate the option's value today, this result must be discounted by one period.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 77.1, LOS 77.b)"
+      ]
+    },
+    {
+      "id": "S2Q71",
+      "num": 71,
+      "question": "A contract that requires one party to pay $100,000 each quarter to another company that will make a variable quarterly payment based on the market value of an equities portfolio is referred to as:",
+      "options": {
+        "A": "a swap.",
+        "B": "an index option.",
+        "C": "portfolio insurance."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In an equity swap, one party pays a fixed amount periodically in return for a payment that is calculated using a specific amount and the return on a stock or portfolio of stocks.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 41.1, LOS 41.c)"
+      ]
+    },
+    {
+      "id": "S2Q72",
+      "num": 72,
+      "question": "Visser, Inc. is an unprofitable fishing enterprise. Visser rents most of its boats and equipment but owns valuable transferable fishing quotas. If a competitor is interested in acquiring Visser, the most appropriate equity valuation model to use is:",
+      "options": {
+        "A": "an asset-based valuation model.",
+        "B": "an earnings multiplier model.",
+        "C": "a Gordon growth model."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Asset-based models are often used to value natural resources companies and companies that are being liquidated. Because Visser is unprofitable, an earnings multiplier model or a dividend discount model such as the Gordon growth model may not produce a meaningful value for the firm.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 48.1, LOS 48.b)"
+      ]
+    },
+    {
+      "id": "S2Q73",
+      "num": 73,
+      "question": "A credit analyst determines the following selected financial ratios for three firms in an industry after making all appropriate adjustments: Johnson Knight Lawrence EBIT/revenue 0.25 0.30 0.35 EBIT/interest 12.5 14.0 10.5 Debt/capital 0.55 0.70 0.35 Revenue/assets 0.20 0.15 0.10 In evaluating the creditworthiness of these firms, the analyst should conclude that:",
+      "options": {
+        "A": "Knight has the most favorable leverage and Johnson has the most favorable coverage.",
+        "B": "Lawrence has the most favorable leverage and Knight has the most favorable coverage.",
+        "C": "Johnson has the most favorable leverage and Lawrence has the most favorable coverage."
+      },
+      "answer": "B",
+      "explanation": "B is correct. EBIT / interest is a coverage ratio and debt / capital is a leverage ratio. Higher interest coverage and lower leverage are favorable for creditworthiness. Of the three companies given, Knight has the highest interest coverage and Lawrence has the lowest leverage. EBIT / revenue (operating profit margin) is a profitability ratio and revenue / assets (asset turnover) is an operating ratio.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 64.1, LOS 64.b)"
+      ]
+    },
+    {
+      "id": "S2Q74",
+      "num": 74,
+      "question": "One of an investor's unique preferences is a wish to avoid links to companies that violate human rights. Which of the following ESG investing methods most likely implements this mandate?",
+      "options": {
+        "A": "Positive screening.",
+        "B": "Thematic investing.",
+        "C": "Negative screening."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Negative screening refers to the practice of excluding companies based on ESG factors. Positive screening focuses on investments with favorable ESG aspects. Thematic investing strategies typically consider a single factor, such as energy efficiency or climate change.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 86.1, LOS 86.h)"
+      ]
+    },
+    {
+      "id": "S2Q75",
+      "num": 75,
+      "question": "Market conditions have increased the storage costs and decreased the convenience yield of a commodity. Other things equal, what effects will these changes have on the value of a forward contract on that commodity? The forward contract value:",
+      "options": {
+        "A": "will increase.",
+        "B": "will decrease.",
+        "C": "may increase or decrease."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The value of a forward contract at any time before its expiration is the spot price of the underlying asset, plus the present value of storage costs, minus the present value of monetary and nonmonetary benefits of holding the underlying, minus the present value of the forward price. An increase in storage costs and a decrease in convenience yield (a non-monetary benefit of holding the asset) will increase the value of a forward contract, other things equal.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 71.1, LOS 71.b) (Module 72.1, LOS 72.a)"
+      ]
+    },
+    {
+      "id": "S2Q76",
+      "num": 76,
+      "question": "A provision that ensures that investors in an alternative investment fund will not pay twice for the same gains is:",
+      "options": {
+        "A": "a clawback.",
+        "B": "a hard hurdle rate.",
+        "C": "a high-water mark."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A high-water mark provision stipulates that the general partner will only earn incentive fees for increases in value above the highest previous value of an investor's share of the fund.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 78.1, LOS 78.c)"
+      ]
+    },
+    {
+      "id": "S2Q77",
+      "num": 77,
+      "question": "In a transaction referred to as a management buyout (MBO):",
+      "options": {
+        "A": "management sells its shares to an investor group attempting to gain control of a company.",
+        "B": "management buys a controlling interest in a public company to gain control of the board of directors.",
+        "C": "an investor group that includes management buys all the shares of a company and they no longer trade on an exchange."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Management buyout refers to a situation where an investor group that includes the firm's key management purchases all the outstanding shares (not just a controlling interest) of a public company in order to take it private. Once this is done, the shares are no longer registered for public trading and, as a result, are no longer traded on exchanges or in other public markets.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 44.1, LOS 44.c) and (Module 80.1, LOS 80.a)"
+      ]
+    },
+    {
+      "id": "S2Q78",
+      "num": 78,
+      "question": "A stock has a beta of 0.9 and an estimated return of 10%. The risk-free rate is 7%, and the expected return on the market is 11%. According to the CAPM, this stock:",
+      "options": {
+        "A": "is overvalued.",
+        "B": "is undervalued.",
+        "C": "is properly valued."
+      },
+      "answer": "A",
+      "explanation": "A is correct. E(R) = 7% + 0.9(11% − 7%) = 10.6%. Because the expected return of 10% is less than the required return of 10.6%, the security is overvalued.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 21.2, LOS 21.h)"
+      ]
+    },
+    {
+      "id": "S2Q79",
+      "num": 79,
+      "question": "For a 5-year pure discount bond that is callable at par after two years, which of the following yield measures will be lowest?",
+      "options": {
+        "A": "Current yield.",
+        "B": "Yield to first call.",
+        "C": "Yield to maturity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Current yield = annual coupon / bond price. A pure discount bond is a zero-coupon bond, which has a current yield of zero.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 55.1, LOS 55.b)"
+      ]
+    },
+    {
+      "id": "S2Q80",
+      "num": 80,
+      "question": "An investor who chooses to invest in a fund-of-funds rather than in an individual hedge fund is least likely concerned with:",
+      "options": {
+        "A": "diversification among hedge fund strategies.",
+        "B": "minimizing management and incentive fees.",
+        "C": "the manager’s expertise in selecting hedge funds."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investing in a fund-of-funds can offer diversification among hedge fund strategies and provide manager expertise in selecting individual hedge funds. However, managers for these funds may charge both a management fee (e.g., 1%) and an incentive fee (e.g., 10%) that are in addition to the fees charged by the funds in which the fund-of-funds invests.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 83.1, LOS 83.b)"
+      ]
+    },
+    {
+      "id": "S2Q81",
+      "num": 81,
+      "question": "In which step of the portfolio management process does an investment manager rebalance the portfolio to its target asset allocation percentages?",
+      "options": {
+        "A": "Analysis step.",
+        "B": "Feedback step.",
+        "C": "Execution step."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The three major steps in the portfolio management process are planning, execution, and feedback. Rebalancing the portfolio to its desired asset allocation is part of the feedback step.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 85.1, LOS 85.d)"
+      ]
+    },
+    {
+      "id": "S2Q82",
+      "num": 82,
+      "question": "Moore Company stock is currently trading at $40 per share. An investor attempting to protect against losses of more than 10% on a short position in Moore should place a:",
+      "options": {
+        "A": "stop buy order at $44.",
+        "B": "stop sell order at $36.",
+        "C": "limit buy order at $44."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The investor is short the stock and will experience losses if the stock price increases. A stop buy order at $44 will execute if the stock price rises to $44 or higher. A limit buy order at $44 would execute immediately because the stock price is less than $44.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 41.3, LOS 41.h)"
+      ]
+    },
+    {
+      "id": "S2Q83",
+      "num": 83,
+      "question": "Which of the following statements most accurately represents the positions of the parties to a derivatives contract?",
+      "options": {
+        "A": "A call option imposes an obligation to buy the underlying security.",
+        "B": "A forward contract imposes an obligation on the seller but not the buyer.",
+        "C": "Both a put writer and a call writer have an obligation to exchange the underlying asset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Both put and call writers (sellers) have an obligation to honor the terms of the option if it is exercised. Option holders (buyers) have the right, not the obligation, to exercise under the terms of the agreement. The holder pays a premium for this right, while the writer receives a premium for this obligation. A forward contract imposes an obligation on both the buyer and seller to exchange the underlying asset.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 69.2, LOS 69.c)"
+      ]
+    },
+    {
+      "id": "S2Q84",
+      "num": 84,
+      "question": "Under which of the following conditions are market values of securities most likely to be persistently greater than their intrinsic values?",
+      "options": {
+        "A": "Short selling is restricted.",
+        "B": "Transactions costs are high.",
+        "C": "Arbitrage trading is restricted."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Restrictions on short sales remove some of the selling pressure on overvalued securities that would otherwise drive their market values down toward their intrinsic values in an efficient market. Market inefficiency caused by high transactions costs or restrictions on arbitrage trading may allow market values that are different from intrinsic values to persist both for overvalued and undervalued securities.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 43.1, LOS 43.b)(Module 43.1, LOS 43.c)"
+      ]
+    },
+    {
+      "id": "S2Q85",
+      "num": 85,
+      "question": "In what way is approximate convexity different from effective convexity?",
+      "options": {
+        "A": "Effective convexity takes embedded options into account, while approximate convexity does not.",
+        "B": "Effective convexity results in a more accurate estimate of an option-free bond’s change in price than approximate convexity.",
+        "C": "Approximate convexity can be used with an unequal increase and decrease in yield, while effective convexity can only be used with an equal increase or decrease in yield."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The distinction between effective convexity and approximate convexity is that effective convexity accounts for the effects of embedded options on the bond's cash flows at different yields. For bonds that do not have embedded options, there is no difference between effective convexity and approximate convexity. Both measures are used to improve the estimate of the change in a bond's price for a given change in yield.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 60.1, LOS 60.a) and (Module 61.1, LOS 61.a)"
+      ]
+    },
+    {
+      "id": "S2Q86",
+      "num": 86,
+      "question": "A multi-market index is most likely to overweight countries that have recently experienced high equity market returns if it weights the securities in each country index by:",
+      "options": {
+        "A": "dividend yield, and weights the country index returns by market capitalization.",
+        "B": "dividend yield, and weights the country index returns by gross domestic product.",
+        "C": "market capitalization, and weights the country index returns by gross domestic product."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Weighting countries in a multi-market index by market capitalization, rather than a fundamental factor such as GDP, is likely to overweight countries with previously high stock returns.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 42.2, LOS 42.h)"
+      ]
+    },
+    {
+      "id": "S2Q87",
+      "num": 87,
+      "question": "Which portion of an investment policy statement is most likely to state any restriction on portfolio leverage?",
+      "options": {
+        "A": "Procedures.",
+        "B": "Investment guidelines.",
+        "C": "Duties and responsibilities."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The investment guidelines section typically contains information about specific types of assets prohibited in the portfolio and the permissible use, if any, of leverage and derivatives.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 86.1, LOS 86.b)"
+      ]
+    },
+    {
+      "id": "S2Q88",
+      "num": 88,
+      "question": "Accrued interest is the difference between a coupon bond's:",
+      "options": {
+        "A": "flat price and full price.",
+        "B": "clean price and flat price.",
+        "C": "invoice price and dirty price."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Flat price or clean price does not include accrued interest. Full price (dirty or invoice price) includes accrued interest.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 54.1, LOS 54.a)"
+      ]
+    },
+    {
+      "id": "S2Q89",
+      "num": 89,
+      "question": "Given the put-call parity relationship, a synthetic underlying asset can be created by forming a portfolio of a:",
+      "options": {
+        "A": "long call, long put, and short risk-free bond.",
+        "B": "long call, short put, and long risk-free bond.",
+        "C": "short call, long put, and long risk-free bond."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An asset underlying put and call options can be replicated with a long European call option, a short European put option, and a long position in a risk-free bond that pays the exercise price on the expiration date.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 76.1, LOS 76.a)"
+      ]
+    },
+    {
+      "id": "S2Q90",
+      "num": 90,
+      "question": "An analyst gathered the following data about a stock: The stock paid a $1 dividend last year. Next year's dividend is projected to be 10% higher. The stock is projected to sell for $25 at the end of the year. The risk-free rate of interest is 8%. The expected return on the market is 13%. The stock's beta is 1.2. The value of the stock today is closest to:",
+      "options": {
+        "A": "$19.45.",
+        "B": "$22.89.",
+        "C": "$26.74."
+      },
+      "answer": "B",
+      "explanation": "B is correct. k = RFR + β(RM − RFR) = 0.08 + 1.2(0.13 − 0.08) = 0.08 + 0.06 = 0.14. P0 = (P1+D1)/(1+k) = (25+1.10)/1.14 = $22.89.",
+      "answer_source": "green_check",
+      "tags": [
+        "(Module 2.1, LOS 2.a and Module 48.2, LOS 48.h)"
+      ]
+    }
+  ]
+}

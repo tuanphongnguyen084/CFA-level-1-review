@@ -102,6 +102,24 @@ _CSS = """
       background: rgba(255, 255, 255, 0.06);
   }
 
+  /* Exam-mode question-navigation grid — compact by design: it's a nav
+     aid, not primary content, so default button sizing (built for a handful
+     of full-width actions) made 90 cells dominate the page. */
+  .st-key-exam-grid [data-testid="stHorizontalBlock"] {
+      gap: 4px;
+      padding: 2px 0;
+  }
+  .st-key-exam-grid [data-testid="stHorizontalBlock"]:hover {
+      background: transparent;
+  }
+  .st-key-exam-grid .stButton > button {
+      padding: 0.15rem 0.3rem;
+      min-height: 1.8rem;
+      font-size: 0.7rem;
+      letter-spacing: normal;
+      text-transform: none;
+  }
+
   /* Question card — dark surface, heavy shadow */
   .q-card {
       background: var(--sp-surface);

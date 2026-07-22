@@ -90,21 +90,22 @@ def _timer(library):
 
 
 def _question_grid(ex, questions):
-    for start in range(0, len(questions), _GRID_COLS):
-        row = list(enumerate(questions))[start:start + _GRID_COLS]
-        cols = st.columns(len(row))
-        for col, (pos, q) in zip(cols, row):
-            with col:
-                answered = q["id"] in ex["answers"]
-                flagged = q["id"] in ex["flagged"]
-                kind = ("primary" if pos == ex["idx"]
-                        else "secondary" if answered else "tertiary")
-                label = f"🚩{pos + 1}" if flagged else str(pos + 1)
-                if st.button(label, key=f"grid_{q['id']}", type=kind,
-                             use_container_width=True):
-                    ex["idx"] = pos
-                    exam_core.persist_session()
-                    st.rerun()
+    with st.container(key="exam-grid"):
+        for start in range(0, len(questions), _GRID_COLS):
+            row = list(enumerate(questions))[start:start + _GRID_COLS]
+            cols = st.columns(len(row))
+            for col, (pos, q) in zip(cols, row):
+                with col:
+                    answered = q["id"] in ex["answers"]
+                    flagged = q["id"] in ex["flagged"]
+                    kind = ("primary" if pos == ex["idx"]
+                            else "secondary" if answered else "tertiary")
+                    label = f"🚩{pos + 1}" if flagged else str(pos + 1)
+                    if st.button(label, key=f"grid_{q['id']}", type=kind,
+                                 use_container_width=True):
+                        ex["idx"] = pos
+                        exam_core.persist_session()
+                        st.rerun()
 
 
 def _confirm_submit(library, answered, total, flagged_n):

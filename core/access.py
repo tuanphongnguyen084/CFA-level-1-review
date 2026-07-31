@@ -93,26 +93,26 @@ def require_access():
         _shell(
             "🔒 CFA Quiz",
             "<p style='text-align:center;color:#b3b3b3;'>"
-            "Đăng nhập bằng email đã đăng ký để tiếp tục.</p>",
+            "Sign in with your registered email to continue.</p>",
         )
         _, col, _ = st.columns([1, 2, 1])
         with col:
-            st.button("Đăng nhập với Google", on_click=st.login,
+            st.button("Sign in with Google", on_click=st.login,
                       use_container_width=True, type="primary")
         st.stop()
 
     email = email.strip().lower()
 
     _shell(
-        "Chưa có quyền truy cập",
+        "No access yet",
         "<p style='text-align:center;color:#b3b3b3;'>"
-        f"Tài khoản <b>{email or 'này'}</b> chưa được cấp quyền. "
-        "Vui lòng liên hệ để được thêm vào danh sách.</p>",
+        f"<b>{email or 'This account'}</b> is not on the access list. "
+        "Please get in touch to be added.</p>",
     )
     _, col, _ = st.columns([1, 2, 1])
     with col:
         # Lets someone who signed in with the wrong Google account retry.
-        st.button("Đăng xuất / đổi tài khoản", on_click=st.logout,
+        st.button("Sign out / use another account", on_click=st.logout,
                   use_container_width=True)
     st.stop()
 
@@ -129,5 +129,5 @@ def sidebar_account():
     except Exception:  # noqa: BLE001
         return
     with st.sidebar:
-        st.caption(f"Đăng nhập: {email}")
-        st.button("Đăng xuất", on_click=st.logout, use_container_width=True)
+        st.caption(f"Signed in: {email}")
+        st.button("Sign out", on_click=st.logout, use_container_width=True)

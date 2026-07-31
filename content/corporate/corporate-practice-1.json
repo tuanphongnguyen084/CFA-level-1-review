@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "corporate-practice-1",
+  "name": "CI Practice Test 1 — 10 câu",
+  "group": "2026 Corporate Issuers Practice Sets",
+  "source": "2026 Corporate Issuers Practice 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following organizational forms provides for the least owner liability of business debts?",
+      "options": {
+        "A": "General partnership",
+        "B": "Private limited company",
+        "C": "Sole proprietorship"
+      },
+      "answer": "B",
+      "explanation": "B is correct. In both the sole proprietorship and general partnership forms of organization, the owners are personally liable for all debts assumed by the company. In a private limited company, owner (shareholder) liability is limited to the value of their ownership stake.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Voting rights of a corporate issuer’s shareholders generally refer to which of the following?",
+      "options": {
+        "A": "The ability of the corporation to vote in political elections",
+        "B": "The direct ability to elect a chief executive officer of the company",
+        "C": "The ability to elect members of the company’s board of directors"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The voting rights of shareholders generally allow them to elect board members as well as vote on other matters outlined in the company’s charter. The board of directors has the responsibility to hire (or retain) the company’s chief executive officer (CEO); thus, voting rights do not give shareholders the direct ability to hire the CEO. Despite the status of a corporation as a distinct legal entity, this status does not provide voting rights in political elections.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Corporate issuers are characterized by all of the following except:",
+      "options": {
+        "A": "Corporate income is taxed at both the corporate and personal levels.",
+        "B": "Owners do not need to be involved in management of the company.",
+        "C": "The owners of the corporation are not legally distinct from the corporation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A corporation is a legally separate entity from its owners. A is incorrect because corporate income is taxed at both the corporate and personal levels unless the company pays zero dividends. B is incorrect because shareholders are not required to exercise management control over the company. While in some cases, a large shareholder may serve as senior management or be on the board of directors, most shareholders do not take on management responsibilities.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Which of the following groups has a residual claim on an issuer’s cash flows?",
+      "options": {
+        "A": "Employees",
+        "B": "Debtholders",
+        "C": "Shareholders"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Shareholders are residual claimants to a firm’s cash flows and receive discretionary distributions after priority claims (e.g., employee compensation, supplier payments, interest expenses, and taxes) are met.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "All of the following are characteristics of debt except:",
+      "options": {
+        "A": "limited liability.",
+        "B": "unlimited return.",
+        "C": "priority in payment."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Shareholders, not debtholders, have the potential for unlimited return.A is incorrect. Debtholders and shareholders both have limited liability. C is incorrect. Debtholders have a priority claim over shareholders to a firm’s cash flows.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "A corporation that wishes to raise equity capital and have its shares publicly traded is most likely to engage in:",
+      "options": {
+        "A": "a management buyout.",
+        "B": "a direct listing on an exchange.",
+        "C": "an initial public offering."
+      },
+      "answer": "C",
+      "explanation": "An initial public offering is a sale of equity shares to the public. Proceeds from the sale increase the issuer's equity capital. A direct listing does not raise capital. A management buyout is a method to take a public company private.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Government regulators typically require periodic disclosure of a company's financial performance for:",
+      "options": {
+        "A": "listed companies only.",
+        "B": "private companies only.",
+        "C": "both private and listed companies."
+      },
+      "answer": "A",
+      "explanation": "Regulators and securities exchanges typically require periodic reporting of financial results for listed companies. Private companies are typically not subject to these requirements.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Which of the following payments are contractual obligations of a corporation?",
+      "options": {
+        "A": "Interest, principal, and preferred stock dividend payments.",
+        "B": "Interest and principal payments.",
+        "C": "Interest and common stock dividend payments."
+      },
+      "answer": "B",
+      "explanation": "Interest and principal payments to lenders are contractual obligations. A corporation may distribute dividends to owners but is not required to do so.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "A principal-agent relationship most likely exists between a company's:",
+      "options": {
+        "A": "customers and suppliers.",
+        "B": "directors and regulators.",
+        "C": "shareholders and managers."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The relationship between shareholders and managers is a principal-agent relationship. Shareholders, as principals, through the board of directors hire managers, as agents, to act in the best interests of the shareholders.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A controlling shareholder of Stillcreek Corporation owns 55% of Stillcreek’s shares, and the remaining shares are spread among a large group of shareholders. In this situation, conflicts of interest are most likely to arise between:",
+      "options": {
+        "A": "shareholders and bondholders.",
+        "B": "the controlling shareholder and managers.",
+        "C": "the controlling shareholder and minority shareholders."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In this ownership structure, the controlling shareholder’s power is likely more influential than that of minority shareholders. Thus, the controlling shareholder may be able to exploit its position to the detriment of the interests of the remaining shareholders. A and B are incorrect, because the ownership structure in and of itself is unlikely to create material conflicts between shareholders and bondholders or shareholders and managers.",
+      "answer_source": "text"
+    }
+  ]
+}

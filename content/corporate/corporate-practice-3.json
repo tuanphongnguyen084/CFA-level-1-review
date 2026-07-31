@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "corporate-practice-3",
+  "name": "CI Practice Test 3 — 8 câu",
+  "group": "2026 Corporate Issuers Practice Sets",
+  "source": "2026 Corporate Issuers Practice 3",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Removing the assumption of no taxes, but keeping all of Modigliani and Miller’s other assumptions, which of the following would be the optimal capital structure for maximizing the value of a firm?",
+      "options": {
+        "A": "100% equity.",
+        "B": "50% debt and 50% equity.",
+        "C": "100% debt."
+      },
+      "answer": "A",
+      "explanation": "If MM's other assumptions are maintained, removing the no tax assumption means that the value of the firm is maximized when the value of the tax shield is maximized, which occurs with a capital structure of 100% debt.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "According to the static trade-off theory:",
+      "options": {
+        "A": "the amount of debt used by a company should decrease as the company’s corporate tax rate increases.",
+        "B": "there is an optimal proportion of debt that will maximize the value of the firm.",
+        "C": "new debt financing is always preferable to new equity financing."
+      },
+      "answer": "B",
+      "explanation": "The static trade-off theory seeks to balance the costs of financial distress with the tax shield benefits from using debt. Under the static trade-off theory, there is an optimal capital structure that has an optimal proportion of debt that will maximize the value of the firm.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "A company will typically use debt for the largest percentage of its financing during its:",
+      "options": {
+        "A": "maturity stage.",
+        "B": "start-up stage.",
+        "C": "growth stage."
+      },
+      "answer": "A",
+      "explanation": "A mature firm usually generates reliable and positive free cash flow and likely has an established customer and supplier base. In practice, large, mature public companies commonly use significant debt in their capital structures",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Which of the following statements most correctly characterizes the pecking order theory of capital structure?",
+      "options": {
+        "A": "Firms have a preference ordering for capital sources, preferring internally-generated equity first, new debt capital second, and externally-sourced equity as a last resort.",
+        "B": "Firms will seek to use debt financing up to the point that the value of the tax shield benefit is outweighed by the costs of financial distress.",
+        "C": "Regardless of how the firm is financed, the overall value of the firm and aggregate value of the claims issued to finance it remain the same."
+      },
+      "answer": "A",
+      "explanation": "Internally generated capital is most preferred, debt is the next-best choice, and external equity is the least preferred financing option.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Debrin Company uses a tiered pricing strategy. Debrin is most likely to:",
+      "options": {
+        "A": "offer a discount for buying a large number of units.",
+        "B": "charge higher prices during peak times of day.",
+        "C": "set a temporarily low price until it builds market share and scales up production."
+      },
+      "answer": "A",
+      "explanation": "Tiered pricing refers to setting prices based on a customer's volume of purchases.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "__________________ involves user communities that enable voluntary collaboration between users of a product with generally a small amount of moderation and oversight by the community host or operator.",
+      "options": {
+        "A": "Franchising.",
+        "B": "Crowdsourcing.",
+        "C": "Hybrid business."
+      },
+      "answer": "B",
+      "explanation": "Generically, crowdsourcing means obtaining contributions from multiple parties. Many digital business models incorporate or utilize crowdsourcing as their defining feature, whereby the company creates a service that users build, while the company simply creates rules and moderates user contributions. Common examples include social media, product reviews, open source software, and Wikis.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A business model is least likely to include details about a company’s:",
+      "options": {
+        "A": "largest customers.",
+        "B": "workforce characteristics.",
+        "C": "revenue and expense estimates."
+      },
+      "answer": "C",
+      "explanation": "A business model should: o Identify the firm’s potential customers. => largest customers. o Describe the firm’s product or service. o Explain how the firm will sell its product or service. => workforce characteristics. o Describe the key assets and suppliers of the firm. o Explain its pricing strategy. Revenue and expense estimates are financial plan, not business model.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "____________ refers to the increase in the value of a network to its users as more users join.",
+      "options": {
+        "A": "“Value chain”",
+        "B": "“Network effects”",
+        "C": "“Value proposition”"
+      },
+      "answer": "B",
+      "explanation": "A network in which participants interact or transact with one another increases in value as more participants join. Examples of companies or services with network effects include financial instrument exchanges, payment networks, social media, and phone and other communication networks. Network effects can be a strong barrier to new industry entrants.",
+      "answer_source": "text"
+    }
+  ]
+}

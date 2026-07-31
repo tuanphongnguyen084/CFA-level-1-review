@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "corporate-review-test-1",
+  "name": "CI Review Test 1 — 40 câu",
+  "group": "2026 Corporate Issuers Review Tests",
+  "source": "2026 Corporate Issuers Review Test (CF)",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Under which business structure are profits potentially subject to double taxation?",
+      "options": {
+        "A": "General partnership.",
+        "B": "Limited partnership.",
+        "C": "Corporation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Double taxation refers to a situation in which a country taxes corporations' gross earnings and then taxes net earnings distributed to owners (dividends) as personal income. Partnership profits are subject to only one level of taxation (they are personal income of the partners).",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Nebrid Company describes itself as a B2B firm. This means that Nebrid:",
+      "options": {
+        "A": "sells its products or services to other businesses.",
+        "B": "is a marketplace for buyers and sellers.",
+        "C": "provides both inbound and outbound logistics."
+      },
+      "answer": "A",
+      "explanation": "A is correct. B2B businesses are those that sell their products to other businesses.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Risks that may arise from ineffective corporate governance least likely include:",
+      "options": {
+        "A": "reduced default risk.",
+        "B": "less effective decision making.",
+        "C": "weaker financial performance."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Ineffective corporate governance is likely to increase default risk.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "One of the basic principles of capital allocation is that:",
+      "options": {
+        "A": "decisions are based on cash flows.",
+        "B": "opportunity costs should be excluded from the analysis of a project.",
+        "C": "projects should be analyzed on a pre-tax basis."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Key principles of the capital allocation process are: 1. Decisions are based on cash flows, not accounting income. 2. Cash flows are based on opportunity costs. 3. The timing of cash flows is important. 4. Cash flows are analyzed on an after-tax basis. 5. Financing costs are reflected in the project's required rate of return.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following payments are contractual obligations of a corporation?",
+      "options": {
+        "A": "Interest, principal, and preferred stock dividend payments.",
+        "B": "Interest and principal payments.",
+        "C": "Interest and common stock dividend payments."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Interest and principal payments to lenders are contractual obligations. A corporation may distribute dividends to owners but is not required to do so.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "The cash conversion cycle (CCC) would most likely decrease if:",
+      "options": {
+        "A": "days sales outstanding increased.",
+        "B": "days payable outstanding decreased.",
+        "C": "days of inventory on hand decreased."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The CCC measures the time it takes for a company to convert its investments in inventory and other resources into cash inflows from sales. The CCC is calculated by adding the days of inventory on hand and the days sales outstanding, and subtracting the days payable outstanding. The CCC would, therefore, decrease if either the days of inventory on hand or the days sales outstanding decreased, or if the days payable outstanding increased.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A real option can:",
+      "options": {
+        "A": "never have a negative value.",
+        "B": "have a negative value only if it is not exercised.",
+        "C": "have a negative value only if a project’s net present value (NPV) is negative."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Real options represent rights, but not obligations, to the option holders. As a result, they can never have negative values because the option holders could simply walk away from (not exercise) their option. If a project's NPV is negative, the real option would have zero value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Government regulators typically require periodic disclosure of a company's financial performance for:",
+      "options": {
+        "A": "listed companies only.",
+        "B": "private companies only.",
+        "C": "both private and listed companies."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Regulators and securities exchanges typically require periodic reporting of financial results for listed companies. Private companies are typically not subject to these requirements.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Which of the following groups has a residual claim on an issuer’s cash flows?",
+      "options": {
+        "A": "Employees",
+        "B": "Debtholders",
+        "C": "Shareholders"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Shareholders are residual claimants to a firm’s cash flows and receive discretionary distributions after priority claims (e.g., employee compensation, supplier payments, interest expenses, and taxes) are met.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A principal-agent relationship most likely exists between a company's:",
+      "options": {
+        "A": "customers and suppliers.",
+        "B": "directors and regulators.",
+        "C": "shareholders and managers."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The relationship between shareholders and managers is a principal-agent relationship. Shareholders, as principals, through the board of directors hire managers, as agents, to act in the best interests of the shareholders.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "The executive management of Global Capital Advisors (GCA) is considering making a new acquisition that needs a significant amount of new capital. Based on the pecking order theory, GCA's most appropriate financing decision is to use:",
+      "options": {
+        "A": "debt financing, because it is the cheapest financing option.",
+        "B": "equity financing, because it does not increase the firm’s leverage.",
+        "C": "internal financing, because it is least likely to send a negative signal to investors."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Based on the pecking order theory, a firm's management will select the financing option that sends the least negative signals—and is, therefore, least visible to investors. Internal financing is most preferred, followed by debt financing, while equity financing is the least preferred choice.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Based on feedback from its extensive customer survey, a car manufacturer will include luxury interior fabrics and a top-of-line audio system as part of the basic features of its next model. As a result, the base price of the model will be higher than the price of competitors' models. Which pricing model best reflects the company's strategy?",
+      "options": {
+        "A": "Dynamic pricing.",
+        "B": "Bundling.",
+        "C": "Freemium pricing."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bundling is a strategy in which multiple complementary products (in this case, a car, its interior fabric, and its audio system) are priced together for a more profitable strategy. Note that because the manufacturer bundled these features as part of the car's price, this strategy is different than add-on pricing, in which the manufacturer would sell the car at normal margins, but would sell upgrade options like interior fabric and a stereo system separately at high margins. Dynamic pricing is a pricing model where a company charges different prices based on what time of day or time of week a purchase is made. Freemium pricing is a pricing strategy in which offering a product with basic functionality at no cost, but sell/unlock other functionality for a fee.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "The conclusion of Modigliani and Miller's capital structure model with taxes is that:",
+      "options": {
+        "A": "there is a trade-off between tax savings on debt increased risk of bankruptcy.",
+        "B": "capital structure decisions do not affect the value of a firm.",
+        "C": "firms should be financed with all debt."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because MM with taxes does not consider costs of financial distress, it concludes that tax savings of debt financing are maximized at 100% debt.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Johnson's Jar Lids is deciding whether to begin producing jars. Johnson's pays a consultant $50,000 for market research that concludes Johnson's sales of jar lids will increase by 5% if it also produces jars. In choosing the cash flows to include when evaluating a project to begin producing jars, Johnson's should:",
+      "options": {
+        "A": "include both the cost of the market research and the effect on the sales of jar lids.",
+        "B": "include the cost of the market research and exclude the effect on the sales of jar lids.",
+        "C": "exclude the cost of the market research and include the effect on the sales of jar lids."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Sunk costs should be excluded from cash flows, as they are costs that cannot be avoided even if the project is not undertaken. Externalities, such as positive or negative effects of accepting a project on sales of the company's existing products, should be included in the cash flows.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "The quick ratio is considered a more conservative measure of liquidity than the current ratio because the quick ratio excludes:",
+      "options": {
+        "A": "inventories.",
+        "B": "marketable securities.",
+        "C": "accounts receivable."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The quick ratio is usually defined as (current assets – inventories) / current liabilities. The quick ratio excludes inventories from current assets because inventories are not necessarily liquid. It is a more restrictive measure of liquidity than the current ratio, which equals current assets / current liabilities. Current assets that remain in the numerator of the quick ratio include cash and cash equivalents, accounts receivable, and short-term marketable securities.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "The interests of community groups affected by a company's operations are most likely to be considered in corporate governance under:",
+      "options": {
+        "A": "special interest theory.",
+        "B": "shareholder theory.",
+        "C": "stakeholder theory."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Community groups may be one of the stakeholder groups considered under stakeholder theory.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "A corporation that wishes to raise equity capital and have its shares publicly traded is most likely to engage in:",
+      "options": {
+        "A": "a management buyout.",
+        "B": "a direct listing on an exchange.",
+        "C": "an initial public offering."
+      },
+      "answer": "C",
+      "explanation": "C is correct. An initial public offering is a sale of equity shares to the public. Proceeds from the sale increase the issuer's equity capital. A direct listing does not raise capital. A management buyout is a method to take a public company private.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "While conducting market research, an analyst observes that significant amounts of a company's sales are prepaid, while inventory levels are generally very low. The analyst should most appropriately conclude that the company has a:",
+      "options": {
+        "A": "low cash conversion cycle.",
+        "B": "high cash conversion cycle.",
+        "C": "high days of inventory on hand."
+      },
+      "answer": "A",
+      "explanation": "A is correct. High levels of prepaid sales along with low levels of inventories—typical of airlines—imply low cash conversion cycles. Low inventory levels would imply low days of inventory on hand.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "The financial manager at Genesis Company is looking into the purchase of an apartment complex for $550,000. Net after-tax cash flows are expected to be $65,000 for each of the next five years, then drop to $50,000 for four years. Genesis' required rate of return is 9% on projects of this nature. After nine years, Genesis Company expects to sell the property for after-tax proceeds of $300,000. What is the internal rate of return on this project?",
+      "options": {
+        "A": "7.01%.",
+        "B": "6.66%.",
+        "C": "13.99%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. CF0 = –$550,000; CF1 = $65,000; F1 = 5; CF2 = $50,000; F2 = 3; CF3 = $350,000; F3 = 1. CPT IRR = 7.0152. Note that the cash flows in year 9 have to be netted to calculate the IRR correctly.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following statements comparing corporations and general partnerships is most accurate?",
+      "options": {
+        "A": "Owner liability is only limited under a corporation.",
+        "B": "Access to capital is easier under a general partnership, given the less complex business structure.",
+        "C": "Both corporations and general partnerships are separate legal entities."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Shareholders (owners) of corporations have limited liability; their liability is limited to their investments in the corporation. All general partners under a general partnership have unlimited liability. Only corporations are separate legal entities. Corporations tend to have the greatest and easiest access to both debt and equity capital, given their size and structure.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "A company’s effectiveness in managing long-term risks and sustainability is best classified as a:",
+      "options": {
+        "A": "social factor.",
+        "B": "governance factor.",
+        "C": "environmental factor."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Corporate governance and stakeholder management address issues that include a company’s effectiveness in managing long-term risks and sustainability. Management effectiveness can be assessed through an evaluation of the company’s financial and non-financial performance over the long run, along with a comparison against industry peers to isolate controllable variables.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following examples best represents a flexibility option?",
+      "options": {
+        "A": "In three years, a company can invest $500 million to increase the size of its project by 40%.",
+        "B": "In two years, a company can cease operating a factory if the present value of production is negative.",
+        "C": "In one year, a company can increase the price of its product by up to 30% if demand rises."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A flexibility option gives the holder the right to make future operational decisions regarding price and production. Flexibility relates to overtime pay, input materials, prices charged, and the type of products produced. The answer option referencing a $500 million investment is an example of an expansion (growth) option, which gives a company the right to make additional investments in future projects if the projects will create value. The answer option referencing a company ceasing operating a factory is an example of an abandonment option, which gives a company the right to abandon a project in the future if the NPV of the project is negative.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "According to the static trade-off theory:",
+      "options": {
+        "A": "the amount of debt used by a company should decrease as the company’s corporate tax rate increases.",
+        "B": "new debt financing is always preferable to new equity financing.",
+        "C": "there is an optimal proportion of debt that will maximize the value of the firm."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The static trade-off theory seeks to balance the costs of financial distress with the tax shield benefits from using debt. Under the static trade-off theory, there is an optimal capital structure that has an optimal proportion of debt that will maximize the value of the firm.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "To generate more sales on slow days, a hair salon will be offering its services at a 50% discount on Sundays and Mondays, but it will increase its prices by 20% on Fridays and Saturdays. Which pricing model best describes the company's strategy?",
+      "options": {
+        "A": "Dynamic pricing.",
+        "B": "Razors-and-blades.",
+        "C": "Tiered pricing."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Dynamic pricing is a pricing model where a company charges different prices based on what time of day or time of week a purchase is made. Offering the same services at different prices on busier and slower days is an example of dynamic pricing. Tiered pricing is a pricing model based on the volume of purchases; typically, the greater the volume purchased, the greater the overall price discount. Razors-and-blades is a pricing model for multiple products; typically, one product is sold at a low price and low margin, while a second complementary product is sold at a high margin.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Responsibilities of a board of directors' nominations committee are least likely to include:",
+      "options": {
+        "A": "evaluating the independence of directors.",
+        "B": "recruiting qualified members to the board.",
+        "C": "selecting an external auditor for the company."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Selecting an external auditor (subject to shareholder approval) is a responsibility of the Board's audit committee.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "With respect to the various business structures, which of the following statements about income taxes is most accurate?",
+      "options": {
+        "A": "In a limited partnership, all tax due on profits is paid by the limited partners and general partners.",
+        "B": "In a general partnership, income is taxed at both the partnership and partner (individual) level.",
+        "C": "Under a corporate structure, shareholders have no personal tax liability."
+      },
+      "answer": "A",
+      "explanation": "A is correct. In a limited partnership, income is not paid by the business; it is instead taxed as personal income of each partner. Similar to a limited partnership, in a general partnership, income is taxed as personal income of each partner. Under a corporate structure, there may be tax liability to shareholders because corporate dividends are taxed as personal income of shareholders (although often at a favorable tax rate). In many countries, corporate earnings are already taxed by the government, and this can lead to double taxation.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "A firm is planning a $25 million expansion project. The project will be financed with $10 million in debt and $15 million in equity stock (equal to the company's current capital structure). The before- tax required return on debt is 10% and 15% for equity. If the company's tax rate is 35%, what cost of capital should the firm use to determine the project's net present value?",
+      "options": {
+        "A": "9.6%.",
+        "B": "12.5%.",
+        "C": "11.6%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Weight of equity = $15 million / ($10 million + $15 million) = 60% Weight of debt = $10 million / ($10 million + $15 million) = 40% WACC = 0.60(kCE) + 0.40(after-tax kD) WACC = 0.60(0.15) + 0.40(0.10)(1 - 0.35) = 0.09 + 0.026 = 0.116 or 11.6%.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following steps is least likely to be a step in the capital allocation process?",
+      "options": {
+        "A": "Arranging financing for capital projects.",
+        "B": "Conducting a post-audit to identify errors in the forecasting process.",
+        "C": "Forecasting cash flows and analyzing project profitability."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Arranging financing is not one of the administrative steps in the capital budgeting process. The four administrative steps in the capital budgeting process are: 1. Idea generation 2. Analyzing project proposals 3. Creating the firm-wide capital budget 4. Monitoring decisions and conducting a post-audit",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "A company's management recently decided to fund its inventory needs and rent expenses using long-term debt rather than short-term debt. The management's decision would most likely result in higher:",
+      "options": {
+        "A": "profitability.",
+        "B": "costs.",
+        "C": "equity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The management's decision to use more long-term financing to fund working capital (like inventory costs and rent expense) is indicative of a more conservative approach to working capital management. The conservative approach typically results in higher funding costs (long-term debt costs are higher than short-term) and lower profitability— and therefore, equity.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Smith Company's board of directors assigns responsibilities to several committees. The committee that is most likely to be responsible for establishing the chief executive officer's compensation package is Smith's:",
+      "options": {
+        "A": "remuneration committee.",
+        "B": "risk committee.",
+        "C": "governance committee."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Compensation for a company's senior executives is typically a responsibility of a remuneration or compensation committee.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "In computing WACC, the cost of equity is higher than the cost of debt because the:",
+      "options": {
+        "A": "cost of debt is set by management.",
+        "B": "distributions to shareholders are tax deductible.",
+        "C": "debt investors take less risk than equity investors."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Debt is less risky than equity because it has a priority, contractual claim on the firm’s cash flow. Additionally, some debt is secured with an underlying asset. In contrast, equity is a residual claim. A is incorrect because an issuer’s cost of debt, like its cost of equity, is determined by financial market participants. B is incorrect because, generally, distributions to shareholders, such as dividends, are not tax deductible while interest expense is tax deductible in many jurisdictions.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Increasing a company's risk exposure in an effort to increase its growth rate is most likely to be favored by:",
+      "options": {
+        "A": "owners but not lenders.",
+        "B": "neither lenders nor owners.",
+        "C": "both lenders and owners."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because the upside for lenders is limited to the promised interest payments and repayment of principal, they do not benefit from an increased growth rate of the company and are unlikely to favor actions that increase a company's risk exposure and potential for default. Because owners have potentially unlimited upside from a company's growth, they are more likely to favor actions that increase a company's potential growth rate.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "A small group of investment professionals is looking to establish a partnership agreement that specifies two of them as general partners and the rest as limited partners. The most appropriate form of partnership is a:",
+      "options": {
+        "A": "limited partnership.",
+        "B": "limited liability partnership.",
+        "C": "general partnership."
+      },
+      "answer": "A",
+      "explanation": "A is correct. A limited partnership includes both general partners (managers with unlimited liability) and limited partners (liability is limited to their investments). A general partnership includes only general partners, each with unlimited liability for claims against the business. A limited liability partnership involves only limited partners, but this form of business is often restricted to professional services like law, accounting, and medicine.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "A supplier offers 4/30 net 90 terms. The bank interest rate is 6.5%. Which source of financing is the cheapest?",
+      "options": {
+        "A": "The bank.",
+        "B": "The two cost the same.",
+        "C": "The supplier’s offered terms."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The EAR of supplier financing = (1 + 0.04 / 0.96)365/60– 1 = 18.0%. The cost of implicit supplier financing is much higher than the cost of explicit bank financing of 6.5%.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Pro-X Cycle (Pro-X) is a bicycle manufacturer specializing in custom bicycles. The company sells all bikes for $1,200, but it offers high-margin packages like custom paint and premium tires and brakes ranging between $1,000 and $2,000. The pricing model that best reflects Pro-X's strategy is:",
+      "options": {
+        "A": "hidden revenue.",
+        "B": "bundling.",
+        "C": "add-on pricing."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Add-on pricing refers to a pricing model in which a company sells its products at normal margins, but it offers additional (add-on) products to its customers at high margins. Bundling is a pricing model for multiple complementary products (like renting an apartment with furniture). Hidden revenue is a pricing model in which a product is usually free (like an app for a smartphone), but revenue is generated through advertising sales in the app.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "A controlling shareholder of Stillcreek Corporation owns 55% of Stillcreek’s shares, and the remaining shares are spread among a large group of shareholders. In this situation, conflicts of interest are most likely to arise between:",
+      "options": {
+        "A": "shareholders and bondholders.",
+        "B": "the controlling shareholder and managers.",
+        "C": "the controlling shareholder and minority shareholders."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In this ownership structure, the controlling shareholder’s power is likely more influential than that of minority shareholders. Thus, the controlling shareholder may be able to exploit its position to the detriment of the interests of the remaining shareholders. A and B are incorrect, because the ownership structure in and of itself is unlikely to create material conflicts between shareholders and bondholders or shareholders and managers.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "A company with a moderate approach to working capital management would most likely fund:",
+      "options": {
+        "A": "permanent current assets using long-term funds, and fund seasonal current assets using short-term funds.",
+        "B": "both permanent and seasonal current assets using short-term funds.",
+        "C": "permanent current assets using short-term funds, and fund seasonal current assets using long-term funds."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Companies with a moderate approach to working capital management typically prefer using cheaper, short-term financing to fund seasonal (variable) working capital needs, while using long-term financing to fund permanent working capital needs.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An analyst covering the reinsurance sector observes that the capital structure of three of the covered firms recently deviated from their targets. That analyst should be most concerned with:",
+      "options": {
+        "A": "Firm C, whose equity weight increased relative to target given the change in minimum transaction lot size requirement leading to increase bid-ask spread.",
+        "B": "Firm B, whose debt weight increased relative to target following the issuance of new debt.",
+        "C": "Firm A, whose equity weight declined relative to target given a drop in the market value of the firm’s equity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The analyst should be most concerned with Firm B because by issuing new debt, the management has intentionally altered the capital structure weights. Unintentional or unavoidable deviations from a firm's target capital structure would be less cause for concern; these include deviations caused by fluctuations in the market value of equity as well as minimum lot size requirements when issuing new equity, which may make it difficult to adhere to precise capital structure weights.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "A firm is reviewing an investment opportunity that requires an initial cash outlay of $336,875 and promises to return the following irregular payments: Year 1: $100,000 Year 2: $82,000 Year 3: $76,000 Year 4: $111,000 Year 5: $142,000 If the required rate of return for the firm is 8%, what is the net present value of the investment?",
+      "options": {
+        "A": "$64,582.",
+        "B": "$99,860.",
+        "C": "$86,133."
+      },
+      "answer": "A",
+      "explanation": "A is correct. To determine the net present value of the investment, given the required rate of return, we can discount each cash flow to its present value, sum the present value, and subtract the required investment. Year Cash Flow PV of Cash flow at 8% –336,875.00 –336,875.00 100,000.00 92,592.59 82,000.00 70,301.78 76,000.00 60,331.25 111,000.00 81,588.31 142,000.00 96,642.81 Net Present Value 64,581.74",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "The management of a company that manufactures pens decides to initially offer its products at a significant discount to market price to gain market entry. Afterward, it will offer its products at various discounts based on volume of purchases. Which pricing models best reflect the company's strategy? Discount to market price Discount based on purchase volume",
+      "options": {
+        "A": "Freemium pricing Dynamic pricing",
+        "B": "Freemium pricing Tiered pricing",
+        "C": "Penetration pricing Tiered pricing"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Penetration pricing is a pricing model in which a company sells its product at a low margin or even at a loss in the product's early days to gain market entry. Tiered pricing refers to a pricing model based on the volume of purchases; typically, the greater the volume purchased, the greater the overall price discount. Freemium pricing is a pricing model in which a company offers its basic products at no cost, but it offers other related products or functionality for a fee. Dynamic pricing is a pricing model where a company charges different prices based on what time of day or time of week a purchase is made.",
+      "answer_source": "text"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "corporate-practice-2",
+  "name": "CI Practice Test 2 — 10 câu",
+  "group": "2026 Corporate Issuers Practice Sets",
+  "source": "2026 Corporate Issuers Practice 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following best describes dual-class share structures?",
+      "options": {
+        "A": "Dual-class share structures can be easily changed over time.",
+        "B": "Company founders can maintain significant power over the organization.",
+        "C": "Conflicts of interest between management and stakeholder groups are less likely than with single- class share structures."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Under dual-class share systems, company founders may control board elections, strategic decisions, and other significant matters. A is incorrect, because dual-class share systems are difficult to dismantle once adopted as the voting control within dual-class systems is held exclusively by company insiders or founders. C is incorrect, because conflicts of interest between management and stakeholders are more likely than with single-class share structures owing to the potential control element in dual-class systems.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Special resolutions that require a supermajority of shareholder votes may be addressed:",
+      "options": {
+        "A": "at either the annual general meeting or an extraordinary general meeting.",
+        "B": "only at an extraordinary general meeting.",
+        "C": "only at the annual general meeting."
+      },
+      "answer": "A",
+      "explanation": "Special resolutions may be voted on at the annual general meeting or at an extraordinary general meeting that is called specifically to address them.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following best describes shareholder activists? Shareholder activists:",
+      "options": {
+        "A": "help stabilize a company’s strategic direction.",
+        "B": "have little effect on the company’s long-term investors.",
+        "C": "are unlikely to alter the composition of a company’s shareholder base."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Shareholder activists often narrow a company’s strategic direction to focus on the few things that the company has historically done well, often shedding assets and closing divisions in the process. B is incorrect, because long-term investors in a company need to consider how shareholder activists affect the company, especially if the company is restructured and management is replaced. C is incorrect, because an activist is likely to change the investment thesis for a company toward restructuring, which may prompt a change in the shareholder base.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Benefits of effective corporate governance include all of the following except:",
+      "options": {
+        "A": "avoidance of fraud.",
+        "B": "higher investor confidence.",
+        "C": "reduced cost of equity."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Effective corporate governance allows for the mitigation, not the avoidance, of risk factors such as fraud, or at least their identification and control at early stages. B and C are incorrect, as these are both benefits of effective corporate governance.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following actions or events will most likely decrease an issuer’s cash conversion cycle?",
+      "options": {
+        "A": "Buying short-term marketable securities using cash on hand",
+        "B": "Offering customers a discount for payment received within 10 days",
+        "C": "Slowing of sales of certain goods due to changing preferences in styles"
+      },
+      "answer": "B",
+      "explanation": "B is correct. A prompt-payment discount would likely reduce days sales outstanding and, in turn, decrease the issuer’s cash conversion cycle. A is incorrect, because increasing marketable securities by reducing cash does not affect the issuer’s cash conversion cycle. C is incorrect, because the slowing of sales of certain goods would likely increase days of inventory on hand and, in turn, increase the issuer’s cash conversion cycle.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following actions provides a secondary source of liquidity?",
+      "options": {
+        "A": "Issuance of equity securities",
+        "B": "Collecting accounts receivable",
+        "C": "Taking advantage of a supplier’s financing and paying on the net day, day 40"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Primary sources of liquidity include cash on hand, borrowings, and cash flow from operations. Secondary sources of liquidity generate cash at a greater cost when primary sources are insufficient, such as issuing equity. B is incorrect, because collection of accounts receivable is a primary source of liquidity. C is incorrect, because supplier financing is a primary source of liquidity.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "An issuer is comparing a bank loan at a rate of 15% with taking advantage of a supplier’s terms of 1/14, net 30, paying on day 14. The best decision in terms of the lower cost of financing is to:",
+      "options": {
+        "A": "forgo the discount and use the supplier’s financing to pay on day 30.",
+        "B": "borrow from the bank to take advantage of the trade credit terms.",
+        "C": "use either option because the cost of the bank loan and the cost of the trade credit are identical."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The cost of the supplier’s trade credit, expressed as an effective annual rate, is 25.769%, which is higher than the 15% interest rate on the bank loan.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "What type of capital allocation project will most likely be implemented even if it has a negative estimated NPV?",
+      "options": {
+        "A": "New lines of business and other",
+        "B": "Expansion of existing business",
+        "C": "Regulatory or compliance"
+      },
+      "answer": "C",
+      "explanation": "C is correct. Regulatory compliance projects are required by third parties, such as government regulatory bodies, to meet rules and standards and to avoid fines or other legal consequences. A and B are incorrect because new lines of business and other as well as expansion of existing business projects are done at management’s discretion and would generally not be pursued if they were estimated to have a negative NPV.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Which step in the capital allocation process most likely involves the calculation of NPV and IRR?",
+      "options": {
+        "A": "Idea generation",
+        "B": "Investment analysis",
+        "C": "Planning and prioritization"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The investment analysis step involves forecasting the amount, timing, duration, and volatility of an investment’s expected cash flows and subsequently using NPV and IRR to determine whether the investment will be a wise use of capital. A is incorrect because during the idea generation step, management gathers ideas and chooses the most promising ones for further analysis. However, in this early phase, no forecasts or profitability analysis involving NPV or IRR is conducted. C is incorrect because during the planning and prioritization step, management selects and prioritizes profitable investment opportunities that, when considered together, are the most value enhancing on a risk- adjusted return basis. This step occurs after NPV and IRR analysis.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A company is considering undertaking a new capital investment project that is expected to cost $33 million. The after-tax cash-flow projection for the next four years is: Year 1: $0 million; Year 2: $16 million; Year 3: $24 million; Year 4: $7 million. Calculate NPV and IRR assuming a required rate of return of 7.5%.",
+      "options": {
+        "A": "NPV = $5.4 million, IRR = 12.16%.",
+        "B": "NPV = $5.8 million, IRR = 13.57%.",
+        "C": "NPV = $5.4 million, IRR = 13.57%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. NPV = CF0 + CF1/(1+r)^1 + CF2/(1+r)^2 + CF3/(1+r)^3 + CF4/(1+r)^4 = -33 + 0/(1.075)^1 + 16/(1.075)^2 + 24/(1.075)^3 + 7/(1.075)^4 = $5.41 million ≈ $5.4 million. Using the same equation, solve for IRR by setting NPV = 0: 0 = -33 + 0/(1+IRR)^1 + 16/(1+IRR)^2 + 24/(1+IRR)^3 + 7/(1+IRR)^4, giving IRR = 13.57%.",
+      "answer_source": "text"
+    }
+  ]
+}

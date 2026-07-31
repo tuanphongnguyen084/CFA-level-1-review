@@ -22,7 +22,8 @@ st.set_page_config(page_title="CFA Quiz", layout="centered",
                    initial_sidebar_state="expanded")
 ui.inject_css()
 
-# No-op unless st.secrets["access_emails"] is set — see core/access.py.
+# Google sign-in + buyer allowlist. No-op unless [auth] is configured in
+# secrets — see core/access.py.
 access.require_access()
 
 # localStorage component + hydrate progress (must run every script run).
@@ -30,6 +31,7 @@ progress.init()
 
 library = content.load_library()
 ui.sidebar(library)
+access.sidebar_account()
 
 if "view" not in st.session_state:
     st.session_state.view = "home"

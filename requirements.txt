@@ -1,4 +1,8 @@
 # Runtime dependencies (installed by Streamlit Community Cloud).
 # Keep this lean — content tooling deps live in requirements-dev.txt.
-streamlit>=1.40
+#
+# The [auth] extra pulls in Authlib, which st.login() needs for the Google
+# sign-in gate (core/access.py). Without it the app boots fine and only
+# blows up the moment someone clicks "sign in", so it must be declared here.
+streamlit[auth]>=1.42
 streamlit-local-storage>=0.0.25

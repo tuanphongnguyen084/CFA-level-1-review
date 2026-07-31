@@ -36,18 +36,10 @@ Progress shape (keyed by ``"<subject_id>/<exam_id>"``)::
 """
 import json
 import os
-import time
 
 import streamlit as st
 
 _KEY = "cfa_progress_v1"
-
-# Seconds to let the browser actually perform a queued localStorage write
-# before the caller's st.rerun() tears the script down (see save()).
-_WRITE_SETTLE_S = 0.8
-
-# Reruns allowed while waiting for the browser to hand back saved progress.
-_MAX_HYDRATE_TRIES = 4
 
 # Escape hatch: set CFA_DISABLE_LOCALSTORAGE=1 to run session-only (no browser
 # component). Used by AppTest/headless checks where there is no frontend to
@@ -93,33 +85,11 @@ def init():
         except Exception:  # noqa: BLE001
             st.session_state.progress = {}
         st.session_state["_prog_hydrated"] = True
-        return
-
-    # Component still mounting: it returns its default on the first run of a
-    # session and only delivers the browser payload on a later one. "Retry on
-    # the next run" only works if a next run actually happens, and on a fresh
-    # page load nothing triggers one — so saved progress stayed invisible
-    # until the user happened to click something. Drive the retries here,
-    # bounded so a genuinely empty store still settles into session-only mode.
-    tries = st.session_state.get("_prog_tries", 0)
-    if tries < _MAX_HYDRATE_TRIES:
-        st.session_state["_prog_tries"] = tries + 1
-        time.sleep(0.3)
-        st.rerun()
-    st.session_state["_prog_hydrated"] = True
+    # else: component still mounting (or no saved data) — retry next run.
 
 
 def save():
-    """Write the working copy back to the browser.
-
-    ``setItem`` only queues a component render; the browser executes the
-    actual localStorage write when it receives that delta. Every caller here
-    reruns immediately afterwards (exit_to_subject, finish, ...), and a rerun
-    tears the script down before the delta is delivered — so without the
-    short pause below nothing was ever persisted and all progress silently
-    vanished on refresh. Verified in a real browser: no pause -> the
-    ``cfa_progress_v1`` key never appears; with it -> the key is written.
-    """
+    """Write the working copy back to the browser."""
     st.session_state["_prog_hydrated"] = True   # we now own the state
     ls = st.session_state.get("_ls")
     if ls is None:
@@ -127,7 +97,6 @@ def save():
     try:
         ls.setItem(_KEY, json.dumps(st.session_state.progress, ensure_ascii=False),
                    key="cfa_prog_writer")
-        time.sleep(_WRITE_SETTLE_S)
     except Exception:  # noqa: BLE001
         pass
 

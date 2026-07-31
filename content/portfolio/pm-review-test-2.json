@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "pm-review-test-2",
+  "name": "PM Review Test 2 — 40 câu",
+  "group": "2026 PM Review Tests",
+  "source": "2026 PM Lvl 1 Review Test 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following statements about different types of investors is least accurate?",
+      "options": {
+        "A": "The time horizon for defined benefit pension plan is longer than the time horizon for non-life insurance.",
+        "B": "For banks, the liquidity of their investments is a paramount concern.",
+        "C": "For endowments, investment horizons are short due to their short-term spending needs."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Most foundations and endowments are established with the intent of having perpetual lives. The large allocation to alternative investments primarily reflects the typically long time horizon of endowments and foundations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "An analyst gathers the following information about a security and the market for a 12-month period: Realized Return Beta Security 10.5% 0.8 Market 12.0% 1.0 The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
+      "options": {
+        "A": "–1.1%",
+        "B": "2.5%",
+        "C": "0.5%"
+      },
+      "answer": "C",
+      "explanation": "C is correct. because the abnormal return of a security during a period is the difference between expected return and realized return, or the error term e in the market model, Rj = αj + βjRm + ej. The term αj = Rf × (1-βj) = 0.02 × 0.2 = 0.004, which results in ej = 0.105 – 0.004 – 0.8 × 0.12 = 0.005 = 0.5%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Wesley is preparing the IPS of Aaban Masri. Masri prohibits Wesley from investing in the shares of: GreenX Inc. for certain periods in the year, as he is a director at GreenX and cannot trade shares before financial results are published; and casinos and bonds, due to his compliance with Islamic law. In which section of the IPS will Wesley most likely document Masri's instructions regarding GreenX Inc., and casinos and bonds, respectively?",
+      "options": {
+        "A": "GreenX Inc. — Unique circumstances; casinos and bonds — Unique circumstances.",
+        "B": "GreenX Inc. — Legal and regulatory factors; casinos and bonds — Unique circumstances.",
+        "C": "GreenX Inc. — Legal and regulatory factors; casinos and bonds — Legal and regulatory factors."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Legal and regulatory factors generally refer to restrictions imposed by government, regulatory or oversight authorities that affect investment decision-making. Unique needs are internal factors (at the discretion of investor) that restrict investment choices.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "One principle of the Strategic asset allocation (SAA) is that, changes in portfolio value over the long term are primarily determined by portfolio’s:",
+      "options": {
+        "A": "total risk.",
+        "B": "systematic risk.",
+        "C": "nonsystematic risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Strategic asset allocation (SAA) is based on two principles: (i) Changes in portfolio value over the long term are primarily determined by portfolio’s systematic risk. (ii) Similar assets have similar exposures to certain sets of systematic factors.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "With respect to an IPS, which of the following best describes an absolute risk objective for a client’s portfolio?",
+      "options": {
+        "A": "A twelve-month 95% value at risk of less than €1,000,000.",
+        "B": "An annual tracking risk of less than 2 percent.",
+        "C": "Maintaining at least €10,000 in cash for planned monthly withdrawals."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because measures of absolute risk include the variance or standard deviation of returns and value at risk. For example, the 12-month 95% value at risk of the portfolio must be no more than ¥1 billion. B is incorrect because for relative risk to a benchmark, the measure could be tracking risk, or tracking error. Further, an expected tracking risk of 2% would imply a return within 4% of the index return approximately 95% of the time. Remember that tracking risk is stated as a one standard deviation measure. C is incorrect because maintaining cash is an IPS constraint, not a risk objective. Liquidity Requirements the IPS should state what the likely requirements are to withdraw funds from the portfolio. Examples for an individual investor would be outlays for covering healthcare payments or tuition fees. When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid-that is, easily converted to cash-and have low risk when the liquidity need is actually present.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "As the number of assets in an equally weighted portfolio becomes large, the portfolio's variance of returns most likely approaches:",
+      "options": {
+        "A": "zero.",
+        "B": "the average covariance between the individual assets' returns.",
+        "C": "the average variance of the individual assets' returns."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The equation to calculate the portfolio variance of many risky assets with equal weighting: The equation shows that as N becomes large, the first term on the right side with the denominator of N becomes smaller and smaller, implying that the contribution of one asset's variance to portfolio variance gradually becomes negligible. The second term, however, approaches the average covariance as N increases. It is reasonable to say that for portfolios with a large number of assets, covariance among the assets accounts for almost all of the portfolio's risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "The correlation between the risk-free asset and the optimal risky portfolio is expected to be:",
+      "options": {
+        "A": "zero.",
+        "B": "negative.",
+        "C": "positive."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because a combination of the risk-free asset and a risky asset can result in a better risk- return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Kendra Jackson, CFA, is given the following information on two stocks, Rockaway and Bridgeport. • Covariance between the two stocks = 0.0325 • Standard Deviation of Rockaway's returns = 0.25 • Standard Deviation of Bridgeport's returns = 0.13 Assuming that Jackson must construct a portfolio using only these two stocks, which of the following combinations will result in the minimum variance portfolio?",
+      "options": {
+        "A": "50% in Bridgeport, 50% in Rockaway.",
+        "B": "100% in Bridgeport.",
+        "C": "80% in Bridgeport, 20% in Rockaway."
+      },
+      "answer": "B",
+      "explanation": "B is correct. First, calculate the correlation coefficient to check whether diversification will provide any benefit. Since the stocks are perfectly positively correlated, there are no diversification benefits and we select the stock with the lowest risk (as measured by variance or standard deviation), which is Bridgeport.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "The process of risk management is best described as the set of decisions that maximizes a company's value while:",
+      "options": {
+        "A": "minimizing the risk taken.",
+        "B": "predicting the potential risk correctly.",
+        "C": "bearing a tolerable level of risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company's or portfolio's value... Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk. A is incorrect because risk management is not about minimizing risk; it is about actively understanding and embracing those risks that best balance the achievement of goals with an acceptable chance of failure, quantifying the exposure, and continually monitoring and modifying it. B is incorrect because risk management is not even about predicting risks. They are not expected to predict what will happen.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "The following table shows data for the stock of JKU and a market index: expected return of JKU is 15%, expected return of the market index is 12%, the risk-free rate is 5%, standard deviation of JKU returns is 20%, standard deviation of market index returns is 15%, and the correlation of JKU and market index returns is 0.75. Based on the capital asset pricing model (CAPM), JKU is most likely:",
+      "options": {
+        "A": "undervalued.",
+        "B": "fairly valued.",
+        "C": "overvalued."
+      },
+      "answer": "A",
+      "explanation": "A is correct. βJKU = (ρJKU,M × σJKU)/σM = (0.75 × 0.2)/0.15 = 1.0 and E(RJKU) = Rf + βJKU × (RM − Rf) = 0.05 + 1 × (0.12 − 0.05) = 0.12. The required rate of return of JKU is 12%, and the expected return of JKU is 15%. Therefore, JKU is undervalued relative to the security market line (SML); the risk–return relationship lies above the SML.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "An investment manager is most likely to be engaging in tactical asset allocation if she:",
+      "options": {
+        "A": "allocates 5% to cash, 20% to fixed income, and 75% to equities based on the investor’s long time horizon and high risk tolerance.",
+        "B": "allocates more than the targeted 10% to emerging market bonds because the sector appears to be undervalued.",
+        "C": "increases the allocation to tax-free bonds because the investor’s effective tax rate has increased."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Tactical asset allocation is deviating from a portfolio's strategic asset allocation because an asset class or sector is perceived to be mispriced in the short term. Establishing and updating target weights for asset classes based on the investor's objectives and constraints is strategic asset allocation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "An overreaction in the financial markets causes a security's price to experience a significant loss during a short period. If this overreaction is caused by investors that sell because other investors are selling, the behavior is best described as:",
+      "options": {
+        "A": "overconfidence.",
+        "B": "loss aversion.",
+        "C": "herding."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because herding occurs when investors trade or the same side of the market in the same securities, or when investors ignore their own private information and/or analysis and act as other investors do. Herding behavior has been advanced as a possible explanation of under-reaction and overreaction in financial markets. B is incorrect because loss aversion refers to the tendency of people to dislike losses more than they like comparable gains. This results in a strong preference for avoiding losses as opposed to achieving gains. A is incorrect because if investors are overconfident, they overestimate their own ability to process and interpret information about a security.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "An adviser gathers the following information about a client's retirement income needs: • The current balance of the client's retirement fund is $150,000. • The client plans to retire in 15 years' time. • $500,000 in today's money is needed to fund retirement. • No further retirement fund contributions will be made. Inflation is expected to average 2% per year over the next 15 years. Based only on the above information and ignoring taxes, the minimum annual rate of return required to meet the client's retirement income objective is closest to:",
+      "options": {
+        "A": "6.2%.",
+        "B": "10.5%.",
+        "C": "8.4%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. At 2% annual inflation, $500,000 in today's money equates to $500.00 × (1.02)15 = $672.934 in 15 years' time. Since no further contributions to the retirement fund will be made, the current savings of $150,000 must grow to at least $672,934 in 15 years' time to meet the individual's retirement income objective. Hence, the minimum required rate of return, r, satisfies $150,000 × (1+r)15= $672,934, giving r = [$672,934/$150,000]1/15 – 1 = 0.105 = 10.5% Calculator solution: (1) N = 15; I/Y = 2%, PV= -500,000; compute FV = 672,934. (2) N = 15; PV =- 150,000; FV = 672,934; compute I/Y = 10.5%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "A successful portfolio risk budget will most likely:",
+      "options": {
+        "A": "be based on multiple sources of risk.",
+        "B": "produce superior performance compared to passive investing.",
+        "C": "lead to investment in assets with the highest return per unit of risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because whether the risk budgeting process focuses explicitly on it or not, it should result in choosing assets based on their ability to add the best return for each unit of the risk budget they use. Although some risk budgeting processes consider multiple risk sources, even a process based on a single risk can provide substantial benefits to an organization. While risk budgeting focuses on allocating the portfolio's risk tolerance to its best uses, this does not necessary define a portfolio that will beat passive benchmarks. Risk might be best budgeted to passive investments. A is incorrect because a portfolio risk budgeting process using only a single simple risk measure can provide substantial benefits to the organization. B is incorrect because risk budgeting need not result in active investment decisions; the superior sources of return per unit of risk might be passive investment vehicles.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Beta can be defined as:",
+      "options": {
+        "A": "The correlation of an asset with the market as a proportion of the market’s standard deviation.",
+        "B": "The covariance of an asset with the market as a proportion of the market’s standard deviation.",
+        "C": "The covariance of an asset with the market as a proportion of the market’s covariance with itself."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Beta equals the covariance of an asset with the market as a proportion of the market’s covariance with itself. The market’s covariance with itself basically equals the market’s variance.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "A bank estimates the expected value of a one-month loss that exceeds ¥100 million to be ¥300 million. The ¥300 million estimate is best described as:",
+      "options": {
+        "A": "a value at risk.",
+        "B": "a conditional VaR.",
+        "C": "a scenario-based VaR."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Conditional VaR is the expected value of a loss, given that the loss exceeds a minimum amount. Value at risk is the minimum loss that will occur over a period with a specified probability.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Consider the following statements about the efficient frontier: • Statement 1: The slope of the efficient frontier increases steadily as risk increases. • Statement 2: The efficient frontier is the set of portfolios with the greatest expected return for a given level of risk. • Statement 3: A portfolio that plots above efficient frontier is not attainable, while a portfolio that plots below the efficient frontier is inefficient. • Statement 4: The efficient frontier shows the relationship that exists between expected return and total risk in the absence of a risk-free asset. How many statements above are most likely incorrect?",
+      "options": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Only statement 1 is incorrect. The slope of the efficient frontier decreases steadily as risk and return increase. The other 3 statements are correct. The efficient frontier is the set of portfolios with the greatest expected return for a given level of risk as measured by standard deviation of returns. That is, for a given level of risk, an expected return greater than that of the portfolio on the efficient frontier is not attainable, and a portfolio with a lower expected return is inefficient. The efficient frontier applies for portfolios that include only risky assets.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "If an investor's ability to bear risk is low and willingness to bear risk is high, an investment manager should most appropriately consider the investor's overall financial risk tolerance to be:",
+      "options": {
+        "A": "moderate.",
+        "B": "low.",
+        "C": "high."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In general, an advisor should consider an investor's risk tolerance to be the lower of the investor's ability and willingness to bear risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Which of the following statements regarding type of risk is most likely correct?",
+      "options": {
+        "A": "VaR and Convexity are measures of tail risk.",
+        "B": "Legal risk, accounting risk, liquidity risk and solvency risk are types of nonfinancial risks.",
+        "C": "Rho and Duration are measures of interest rate sensitivity."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Duration measures the interest rate sensitivity of the value of a fixed-income security or portfolio. Rho measures the interest rate sensitivity of the value of a derivative. Convexity is not a measure of tail risk. Liquidity risk is a measure of financial risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following pooled investment products is most likely to trade at a price furthest from its NAV?",
+      "options": {
+        "A": "Exchange-traded fund shares.",
+        "B": "Closed-end mutual fund shares.",
+        "C": "Open-end mutual fund shares."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because closed-end funds can trade at a premium or discount to their NAV due to the fixed number of shares outstanding. That is, one consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current NAV per share, closed-end funds can sell for a premium or discount to NAV depending on the demand for the shares. A is incorrect because the market price of an ETF is likely to be close to the NAV of the underlying investments. C is incorrect because an open-end fund will accept new investment money and issue additional shares at a value equal to the NAV of the fund at the time of investment and funds can also be withdrawn at the NAV per share.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "All portfolios that lie on the capital market line:",
+      "options": {
+        "A": "contain the same mix of risky assets unless only the risk-free asset is held.",
+        "B": "have some unsystematic risk unless only the risk-free asset is held.",
+        "C": "contain at least some positive allocation to the risk-free asset."
+      },
+      "answer": "A",
+      "explanation": "A is correct. All portfolios on the CML include the same tangency portfolio of risky assets, except the intercept (all invested in risk-free asset). The tangency portfolio contains none of the risk-free asset and \"borrowing portfolios\" can be constructed with a negative allocation to the risk-free asset. Portfolios on the CML are efficient (well-diversified) and have no unsystematic risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Two assets are correctly priced according to the CAPM. If the assets have the same expected variance of returns but different expected returns, the two assets must have different levels of:",
+      "options": {
+        "A": "systematic risk only.",
+        "B": "both systematic risk and unsystematic risk.",
+        "C": "unsystematic risk only."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The CAPM asserts that the expected returns of assets vary only by their systematic risk as measured by beta. Hence, if the two assets have different expected returns and are correctly priced according to the CAPM, they must have different levels of systematic risk. Moreover, Total variance Systematic variance + Nonsystematic variance. Although the equality relationship is between variances, you will find frequent references to total risk as the sum of systematic risk and nonsystematic risk. The assets must have different levels of unsystematic risk since their total variances are the same but they each have different levels of systematic variance/risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "In equilibrium, an inefficient portfolio will plot:",
+      "options": {
+        "A": "below the CML and below the SML.",
+        "B": "below the CML and on the SML.",
+        "C": "on the CML and below the SML."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An inefficient portfolio will plot below the CML. In equilibrium, all portfolios will plot on the SML.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "The expected return for a security is equal to the market's risk premium. If the risk-free rate is positive and the CAPM holds, the beta of the security is:",
+      "options": {
+        "A": "equal to 1.",
+        "B": "less than 1.",
+        "C": "greater than 1."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The CAPM equation is E(Ri) = Rf + 𝛽 × [E(Rm) - Rf]. Therefore, the beta of the security has to be less than 1 in order for the security's return to be the same as the market risk premium [E(Rm) - Rf], given that the risk-free rate is positive.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "DOF is an asset management company that consists of three subsidiaries: one that focuses on mid-cap value stocks, one that focuses on alternative assets, and one that focuses on long-term emerging market sovereign debt. DOF is most accurately described as a:",
+      "options": {
+        "A": "full-service asset manager.",
+        "B": "specialist asset manager.",
+        "C": "multi-boutique firm."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A multi-boutique firm is a holding company that includes a number of different specialist asset managers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Information regarding the permissible use of derivatives in a portfolio is most likely found in which of the following sections of an investment policy statement?",
+      "options": {
+        "A": "Procedures",
+        "B": "Investment Guidelines",
+        "C": "Statement of Duties and Responsibilities"
+      },
+      "answer": "B",
+      "explanation": "B is correct. The Investment Guidelines section of an Investment Policy Statement (IPS) provides information about how policy should be executed (e.g., on the permissible use of leverage and derivatives) and on specific types of assets excluded from investment, if any. A is incorrect because the Procedures section of an Investment Policy Statement (IPS) explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies. C is incorrect because the Statement of Duties and Responsibilities section of an Investment Policy Statement (IPS) details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "When a risk-free asset is combined with a portfolio of risky assets, which of the following is least accurate?",
+      "options": {
+        "A": "The standard deviation of the return for the newly created portfolio is the standard deviation of the returns of the risky asset portfolio multiplied by its portfolio weight.",
+        "B": "The expected return for the newly created portfolio is the weighted average of the return on the risk- free asset and the expected return on the risky asset portfolio.",
+        "C": "The variance of the resulting portfolio is a weighted average of the returns variances of the risk-free asset and of the portfolio of risky assets."
+      },
+      "answer": "C",
+      "explanation": "C is correct. This statement is not correct; the standard deviation of returns for the resulting portfolio is a weighted average of the returns standard deviation of the risk-free asset (zero) and the returns standard deviation of the risky-asset portfolio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "The decision to divest from fossil fuels in a portfolio is most consistent with which of the following approaches to ESG investing?",
+      "options": {
+        "A": "Active ownership 13",
+        "B": "Negative screening",
+        "C": "Impact investing"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Negative screening refers to the practice of excluding certain sectors or excluding companies that deviate from accepted standards or norms. The example described in the stem is the practice of excluding the fossil fuels sector from Investment options. A is incorrect because investors engaging in active ownership use share ownership as a platform to promote improved ESG practices at a company, using share voting rights and by influencing management or board members. C is incorrect because while exclusionary screening and best-in-class eliminate investment options, thematic investing and impact investing focus on investment in objectives, themes, and trends that relate positively to ESG issues. In Impact investing, an investment is selected primarily on its expected social or environmental benefits with measurable investment returns. The divestment itself is a kind of elimination of investment options.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Which of the following is least consistent with effective risk governance?",
+      "options": {
+        "A": "Taking an enterprise-wide view.",
+        "B": "Following a bottom-up process to direct risk management activities.",
+        "C": "Defining the enterprise's risk tolerance."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Risk governance is the top-down [not bottom-up] process and guidance that directs risk management activities to align with and support the overall enterprise. A is incorrect because to achieve the best results for an organization, risk governance should take an enterprise-wide view. C is incorrect because good governance should include defining an organization's risk tolerance and providing risk oversight.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "The intercept of the security characteristic line is used to estimate:",
+      "options": {
+        "A": "Jensen’s alpha.",
+        "B": "Beta.",
+        "C": "A risk premium."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Security characteristic line (SCL) for a security is a plot of the excess return of the security on the excess return of the market. The intercept is Jensen’s alpha (∝). The slope of this line is our estimate of Beta (𝜷).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "With respect to capital market theory, which of the following statements is most accurate?",
+      "options": {
+        "A": "The optimal risky portfolio is dependent on the risk-free rate.",
+        "B": "The optimal risky portfolio is dependent on the investor's risk profile.",
+        "C": "The investor's optimal portfolio must lie on the Markowitz efficient frontier."
+      },
+      "answer": "A",
+      "explanation": "A is correct. For a given Markowitz efficient frontier, a different risk-free rate will result in a different tangent to the frontier, hence a different optimal risky portfolio CAL(P) is the optimal capital allocation line and Portfolio P is the optimal risky portfolio. Thus, with the addition of the risk-free asset, we are able to narrow our selection of risky portfolios to a single optimal risky portfoilo (P) which is at the tangent of CAL(P) and the efficient frontier of risky assets. B is incorrect because the optimal risky portfolio is selected from numerous risky portfolios without considering the investor's preferences. C is incorrect because all investors regardless of taste, risk preferences, and initial wealth will hold a combination of two portfolios or funds. a risk-free asset and an optimal portfolio of risky assets. The investor's optimal portfolio thus lies on the capital allocation line (CAL), not on the Markowitz efficient trontier. If it is optimal for an investor to allocate no wealth to the risk-free asset, the investor's optimal portfolio will lie on the Markowitz efficient frontier However, this is not 'always' the case.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "With respect to risk-adjusted return measures, the information ratio is calculated as Jensen’s alpha divided by a security’s:",
+      "options": {
+        "A": "total variance.",
+        "B": "systematic variance.",
+        "C": "nonsystematic variance."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the information ratio for a security is Jensen's alpha divided by nonsystematic variance. The information ratio, (i.e., alpha divided by nonsystematic risk), measures the abnormal return per unit of risk added by the security to a well-diversified portfolio. The larger the information ratio is, the more valuable the security.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "The execution step of the portfolio management process includes:",
+      "options": {
+        "A": "preparing the investment policy statement.",
+        "B": "finalizing the asset allocation.",
+        "C": "monitoring the portfolio performance."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Asset allocation occurs in the execution step. A is incorrect. Preparation of the investment policy statement occurs in the planning step. C is incorrect. Portfolio monitoring occurs in the feedback step.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Greg Brown receives new information regarding one of his stocks. This information appears to be reliable and conflicts with Brown's earlier forecast of what the stock should be trading for at this time. However, Brown does not revise his estimate of the stock's value. Brown is most likely exhibiting:",
+      "options": {
+        "A": "hindsight bias.",
+        "B": "confirmation bias.",
+        "C": "conservatism bias."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Conservatism bias refers to failing to change a view as new information becomes available, and may result in investors keeping assets too long because they are slow to update a view or forecast. Confirmation bias refers to when investors seek out information that supports their beliefs, while avoiding conflicting views. Hindsight bias refers to selective memory of past events resulting in individuals believing these events were more predictable than they seemed before they happened.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "The German firm IHK AG has entered into a three-month forward currency contract to purchase USD35 million versus euros from US firm GED Corp. to hedge a future payment obligation. The US dollar appreciates 5% in the coming three months. IHK should most likely focus on:",
+      "options": {
+        "A": "market risk.",
+        "B": "liquidity risk.",
+        "C": "counterparty risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. IHK’s potential risk is settlement risk, which is a type of counterparty risk. Settlement risk deals with the settling of payments that occur just before a default. If IHK wires the euros to GED and GED then declares bankruptcy, IHK will not be able to get the money back. A is incorrect. IHK would not face market risk since the forward contract would have become more valuable during the three months. B is incorrect. Liquidity risk is the risk of a significant downward valuation adjustment when selling a financial asset and is not applicable for a contract for which the price was fixed when the contract was initiated.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Information regarding Portfolio D and the market are as follows: • Risk-free rate 2.6% • Market premium 5.5% • Market standard deviation 10.8% • Portfolio D expected return 11.8% • Portfolio D standard deviation 12.9% If Portfolio D has a correlation with the market of 0.87, which of the following statements is least correct?",
+      "options": {
+        "A": "Portfolio D’s Sharpe ratio is 0.7.",
+        "B": "Portfolio D’s Treynor ratio is 8.9%.",
+        "C": "Portfolio D’s Jensen’s alpha is 2.2%."
+      },
+      "answer": "C",
+      "explanation": "C is correct. SR = (11.8% - 2.6%) / 12.9% = 0.7 TR = (11.8% - 2.6%) / 1.04 = 8.9%",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following least describes the implications of separation theorem? Under separation theorem:",
+      "options": {
+        "A": "optimal risky portfolio is same for all investors.",
+        "B": "optimal portfolio selection is separated into investing and financing decisions and both are independent of each other.",
+        "C": "investors cannot separate their risk aversion from choice of market portfolio."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Under separation theorem: • Optimal risky portfolio is same for all investors. • Investors can separate their risk aversion from choice of market portfolio. • Optimal portfolio selection is separated into investing and financing decisions and both are independent of each other.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An analyst gathers the following information about three stocks: Stock 1 has a beta of 0.9 and a standard deviation of return of 17%; Stock 2 has a beta of 1.1 and a standard deviation of return of 18%; Stock 3 has a beta of 1.2 and a standard deviation of return of 16%. If the standard deviation of market returns is equal to 10%, the stock with the highest nonsystematic risk is:",
+      "options": {
+        "A": "Stock 1.",
+        "B": "Stock 2.",
+        "C": "Stock 3."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Total variance = Systematic variance + Nonsystematic variance, which can be written as σi² = βi² × σm² + σe². Thus, σe² = σi² − βi² × σm². Nonsystematic variance for Stock 1 is equal to (0.17)² − (0.9)² × (0.1)² = 0.0208. Nonsystematic variance for Stock 2 is equal to (0.18)² − (1.1)² × (0.1)² = 0.0203. Nonsystematic variance for Stock 3 is equal to (0.16)² − (1.2)² × (0.1)² = 0.0112. Therefore, Stock 1 has the highest nonsystematic variance and the highest idiosyncratic risk. Nonsystematic risk is the risk that pertains to a single company or industry and is also known as company-specific, industry-specific, diversifiable, or idiosyncratic risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "The sensitivity of the derivative price to a small change in the value of the underlying asset is called:",
+      "options": {
+        "A": "delta.",
+        "B": "vega.",
+        "C": "gamma."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The sensitivity of the derivative price to a small change in the value of the underlying asset is called delta.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "The problem of investment managers taking offsetting active positions is most likely addressed by employing:",
+      "options": {
+        "A": "risk budgeting.",
+        "B": "tactical asset allocation.",
+        "C": "a core-satellite approach."
+      },
+      "answer": "C",
+      "explanation": "C is correct. With a core-satellite approach, a majority of the assets are invested passively (in the \"core\" portfolio) with a smaller proportion in actively managed \"satellite\" portfolios. This reduces the likelihood of excessive trading and offsetting active positions.",
+      "answer_source": "red"
+    }
+  ]
+}

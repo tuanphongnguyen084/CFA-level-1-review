@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "pm-review-test-1",
+  "name": "PM Review Test 1 — 40 câu",
+  "group": "2026 PM Review Tests",
+  "source": "2026 PM Lvl 1 Review Test 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Generating sufficient income and maintaining the real capital value of the fund are most likely the objectives of?",
+      "options": {
+        "A": "university endowments.",
+        "B": "insurance companies.",
+        "C": "investment companies."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The primary objectives of endowments and foundations are generating sufficient income to the fund the objectives and maintaining the real asset value of the fund.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Which of the following possible portfolios cannot lie on the efficient frontier? Portfolio A: expected return 7, standard deviation 5. Portfolio B: expected return 9, standard deviation 12. Portfolio C: expected return 11, standard deviation 10. Portfolio D: expected return 15, standard deviation 15.",
+      "options": {
+        "A": "Portfolio B.",
+        "B": "Portfolio C.",
+        "C": "Portfolio A."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Portfolio B has a lower expected return than Portfolio C with a higher standard deviation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "An investor who can lend and borrow at the risk-free rate builds a portfolio using the risk-free asset and the market portfolio. The risk-free rate is 3% and the expected market return is 15%. If the expected portfolio return is 16%, the investor's portfolio is:",
+      "options": {
+        "A": "a leveraged portfolio.",
+        "B": "a lending portfolio.",
+        "C": "the optimal risky portfolio."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Since the expected portfolio return (16%) > the expected market return (15%), the investor portfolio must be a leveraged portfolio.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Tom Dixon, CFA wrote the following statement in his article: “An investor’s expected income and time horizon helps in determining his willingness to take risk and his level of wealth relative to liabilities helps in determining his ability to take risk.” Dixon is most likely correct with respect to:",
+      "options": {
+        "A": "his statement.",
+        "B": "factors determining the willingness to take risk.",
+        "C": "factors determining the ability to take risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The ability to take risk is measured in terms of objective factors such as: • time horizon • expected income • level of wealth relative to liabilities However, willingness to take risk or risk attitude is a more subjective factor based on client’s psychology and his personality type.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "A bank determines that its value at risk (VAR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every:",
+      "options": {
+        "A": "20 business days.",
+        "B": "13 business days.",
+        "C": "5 business days."
+      },
+      "answer": "A",
+      "explanation": "A is correct. With a probability of 5% and a measurement period of 1 day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days (1 : 5% = 20). Based on a year with 250 to 260 business days, this should occur 12.5 to 13 times per year (roughly once per month).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "A risk-seeking investor most likely seeks to maximize:",
+      "options": {
+        "A": "return for a given level of risk.",
+        "B": "return irrespective of risk.",
+        "C": "both risk and return."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A risk-seeking investor would maximize both risk and return. Risk-neutral investor would maximize return irrespective of risk. This is because such an investor cares only about return and not about risk, so higher return investments are more desirable even if they come with higher risk. Risk- averse investors want to minimize their risk for the same amount of return, and maximize their return for the same amount of risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following statements about risk is most accurate?",
+      "options": {
+        "A": "The capital market line plots expected return against market risk.",
+        "B": "The efficient frontier plots expected return against unsystematic risk.",
+        "C": "The security market line plots expected return against systematic risk."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The capital market line plots expected return against standard deviation of returns for efficient portfolios. The efficient frontier plots expected return against the standard deviation of return, a measure of total risk.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "In a strategic asset allocation, assets within a specific asset class are least likely to have:",
+      "options": {
+        "A": "similar risk and return expectations.",
+        "B": "low correlations with other asset classes.",
+        "C": "low paired correlations."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In a strategic asset allocation, assets within a specific asset class have high paired correlations and low correlations with other asset classes. Assets within a specific asset class will have low correlations with assets in other asset classes. Assets within a specific asset class share similar risk and return expectations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "When constructing the optimal portfolios for investors with different risk preferences, the investor with the higher risk aversion is most likely to have a:",
+      "options": {
+        "A": "steeper indifference curve.",
+        "B": "flatter capital allocation line.",
+        "C": "higher expected return."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The indifference curve for a more risk averse investor steepens. The optimal portfolio is identified as the point at which the capital allocation line (CAL) is tangential to the investor’s indifference curve. As investor risk aversion increases, the optimal portfolio slides down the CAL to a point of lower expected risk and lower expected return. The capital allocation line is fixed, it does not change based on the preferences of different investors.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Two risk managers are discussing how an organization’s risk tolerance should be determined. The first manager says, “The risk tolerance must reflect the losses or shortfalls that will cause the organization to fail to meet critical objectives.” The second manager responds, “The risk tolerance must reflect the external forces that bring uncertainty to the organization.” Which of them is most likely correct?",
+      "options": {
+        "A": "The second risk manager",
+        "B": "The first risk manager",
+        "C": "Both risk managers"
+      },
+      "answer": "C",
+      "explanation": "C is correct. The risk tolerance of an organization should reflect both an “inside” view and an “outside” view. The inside view asks what level of loss will leave the organization unable to meet critical objectives. The outside view asks what sources of uncertainty or risk the organization faces. A and B are incorrect because both an “inside” and “outside” view must be reflected.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "An analyst gathers the following information about a portfolio and the market: the portfolio has a return of 11% and a standard deviation of 18%; the market has a return of 10% and a standard deviation of 20%. If the risk-free rate is 4%, the portfolio's M² alpha is closest to:",
+      "options": {
+        "A": "1.8%.",
+        "B": "0.8%.",
+        "C": "0.3%."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The difference between the risk-adjusted performance (M²) of the portfolio and the performance of the market is frequently referred to as M² alpha. M² alpha = (Rp – Rf) × (σm/σp) + Rf – Rm = (0.11 – 0.04) × (0.20/0.18) + 0.04 – 0.10 = 0.07 × 1.1111 – 0.06 = 1.778% ≈ 1.8%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following equity securities is most likely to have a beta greater than one?",
+      "options": {
+        "A": "Utility stock.",
+        "B": "Health care stock.",
+        "C": "Homebuilder stock."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Stocks of cyclical firms, such as homebuilders, tend to have high systematic risk (i.e., high beta). Stocks of noncyclical firms, such as utility or health care companies, tend to respond less to changes in systematic risk factors (i.e., they have low betas).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Which of the following best describes the outcome of the portfolio approach?",
+      "options": {
+        "A": "Portfolios generally reduce risk more than they increase returns.",
+        "B": "Portfolio diversification provides better risk-reduction benefits during severe market downturn.",
+        "C": "The standard deviation of an equally weighted portfolio can be greater than the average of the standard deviation of the individual components."
+      },
+      "answer": "A",
+      "explanation": "A is correct. • Portfolios generally reduce risk more than they increase returns. • Portfolio diversification does not provide better risk-reduction benefits during severe market downturn. • The standard deviation of an equally weighted portfolio can be less than or equal to the average of standard deviation of the individual portfolio components. Generally (S.D of equally weighted portfolio < S.D of individual components).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Harvey Woodman invests in modern art. Occasionally, he sells a piece from his collection, but the process is often difficult because he gets insulted when potential buyers offer what he believes to be too little. Which bias is Woodman most likely exhibiting?",
+      "options": {
+        "A": "Endowment bias.",
+        "B": "Overconfidence bias.",
+        "C": "Mental accounting bias."
+      },
+      "answer": "A",
+      "explanation": "A is correct. An individual who exhibits endowment bias considers an owned asset to be special and worth more than its actual market value. Overconfidence bias occurs when market participants overestimate their own reasoning. Mental accounting bias is viewing money from various sources differently when making investment decisions.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "The following table presents historical information for two stocks, RTF and KIU: variance of returns for RTF is 0.0625, variance of returns for KIU is 0.0900, and the correlation coefficient between RTF and KIU is 0.4500. The covariance between RTF and KIU is closest to:",
+      "options": {
+        "A": "0.0025.",
+        "B": "0.0675.",
+        "C": "0.0338."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Cov(i,j) = ρ(i,j) × σi × σj = 0.0625^(1/2) × 0.0900^(1/2) × 0.450 = 0.0338.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Which of the following statements best describes the availability bias? An investor:",
+      "options": {
+        "A": "bases a decision on how the information is presented.",
+        "B": "associates new information with an easily recalled past event.",
+        "C": "only notices information that agrees with their perceptions or beliefs."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investors who exhibit availability bias estimate future probabilities by how easily they recall a past event. An easily recalled event is more quickly associated with (fit to) new information. The problem is worsened by the fact that individuals' memories can be incomplete or biased. Investors who exhibit confirmation bias tend to notice only information that agrees with their perceptions or beliefs. They look for confirming evidence while discounting or even ignoring evidence that contradicts their beliefs or their perceptions. Investors who exhibit framing bias view information differently depending on the way it is presented and received.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Which of the following is least likely true for a separately managed account (SMA) compared with a mutual fund?",
+      "options": {
+        "A": "Assets are directly owned by the individual.",
+        "B": "The minimum investment required to open a SMA is lower than that of a mutual fund.",
+        "C": "Transactions can be tailored to the specific tax needs of the investor."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The minimum investment required to open a separately managed account is usually much higher than that to open a mutual fund. A is incorrect because SMA assets are directly owned by the individual. The investor has control over which assets are bought and sold as well as the timing of the transactions. C is incorrect because SMA transactions can be tailored to the specific tax needs of the investor.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Which of the following types of mutual funds most likely places the highest pressure on the portfolio manager to manage liquidity?",
+      "options": {
+        "A": "A no-load open-end fund",
+        "B": "A load open-end fund",
+        "C": "A no-load closed-end fund"
+      },
+      "answer": "A",
+      "explanation": "A is correct. A no-load open-end fund accepts new investment money and issues additional shares at a value equal to the net asset value of the fund at the time of investment. This structure makes it easy to grow in size but creates pressure on the portfolio manager to manage the cash inflows and outflows. Redemptions may create the need to liquidate assets that the portfolio manager might not want to sell at the time or to hold cash to meet redemptions. As a no-load fund, it charges no fee for investing in the fund or for redemption. B is incorrect because a load closed-end fund disallows new investment money into the fund and in addition to the annual fee, a percentage fee is charged to invest in the fund and/or for redemption from the fund. Therefore, needs for liquidity for the portfolio managers are low. C is incorrect because a no-load closed-end fund disallows new investment money into the fund and charges no fee for investing in the fund or for redemption. Therefore, there are no particular needs for liquidity for the portfolio managers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Which of the following statements about pension plans is least likely accurate?",
+      "options": {
+        "A": "Defined contribution plans typically have a lower cost to the company than defined benefit plans.",
+        "B": "The sponsor of a defined benefit plan specifies the obligation owed to participants.",
+        "C": "The employer in a defined contribution plan is responsible for adequately funding the plan."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because this applies for defined benefit (DB) plans, as generally, employers are responsible for the contributions made to a DB plan and bear the risk associated with adequately funding the benefits offered to employees. A is incorrect because DC (defined contribution) plans typically have lower costs/risk to the company. B is incorrect because defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following behavioral biases is most likely the hardest to correct?",
+      "options": {
+        "A": "Hindsight bias",
+        "B": "Loss-aversion bias",
+        "C": "Representativeness bias"
+      },
+      "answer": "B",
+      "explanation": "B is correct. Loss-aversion bias is an emotional bias, as opposed to a cognitive error, and cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to Correct because they stem from Impulses and intuitions. Thus, it is often possible only to recognize an emotional bias and adapt to it. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "An analyst gathers the following information about a portfolio and the market: the portfolio's Sharpe ratio is 0.8, the standard deviation of market returns is 10%, the correlation between portfolio returns and market returns is 0.7, and the risk-free rate of return is 2%. The portfolio's Treynor ratio is closest to:",
+      "options": {
+        "A": "0.060.",
+        "B": "0.114.",
+        "C": "0.413."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Treynor ratio = (Rp − Rf)/βp = Sharpe ratio × σp/(ρp,m × σp/σm) = Sharpe ratio × σm/ρp,m = 0.8 × 0.1/0.7 = 0.114.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "A portfolio consists of two securities with the following characteristics: Security 1 has an expected return of 17% and a standard deviation of returns of 24%; Security 2 has an expected return of 6% and a standard deviation of returns of 12%. If the portfolio has an expected return of 12.6% and the returns of the two securities are uncorrelated, the portfolio's standard deviation is closest to:",
+      "options": {
+        "A": "13.4%.",
+        "B": "15.2%.",
+        "C": "19.2%."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The portfolio's weights are calculated by setting the portfolio return equal to 12.6%. The portfolio return of a two-security portfolio is: Rp = w1R1 + w2R2 = w1R1 + (1 − w1)R2, so 12.6% = w1 × 17% + (1 − w1) × 6%, giving w1 = 0.6 and w2 = 1 − 0.6 = 0.4. Since the two securities' returns are uncorrelated, Cov(R1,R2) = 0, such that: σp² = (0.6² × 0.24² + 0.4² × 0.12²) = (0.0207 + 0.0023) = 0.023, so σp = √0.023 = 0.1518 ≈ 15.2%.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Relative to passive broad market index strategies, smart beta strategies typically have:",
+      "options": {
+        "A": "lower management fees and higher portfolio turnover.",
+        "B": "higher management fees and higher portfolio turnover.",
+        "C": "higher management fees and lower portfolio turnover."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive broad market index strategies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Consider the following statements: • Statement 1: A portfolio on the minimum variance frontier may have a positive or negative weight on the risk‐free asset. • Statement 2: An investor with a negative risk-aversion coefficient would have an indifference curve with a negative slope. Which of the following is most likely correct?",
+      "options": {
+        "A": "Both statements are correct.",
+        "B": "Only statement 1 is correct.",
+        "C": "Only statement 2 is correct."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Any portfolio on the minimum variance frontier only contains risky assets. The weight of the risk‐free asset is zero. A risk‐seeking investor has a negative risk aversion coefficient. Because utility increases with risk and return, the indifference curve for a risk‐seeking investor has a negative slope.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "In Fama and French's multifactor model, the expected return on a stock is explained by:",
+      "options": {
+        "A": "excess return on the market portfolio, book-to-market ratio, and price momentum.",
+        "B": "firm size, book-to-market ratio, and excess return on the market portfolio.",
+        "C": "firm size, book-to-market ratio, and price momentum."
+      },
+      "answer": "B",
+      "explanation": "B is correct. In the Fama and French model, the three factors that explain individual stock returns are firm size, the firm's book value-to-market value ratio, and the excess return on the market portfolio. The Carhart model added price momentum as a fourth factor.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Buying insurance is best described as a method for an organization to:",
+      "options": {
+        "A": "transfer a risk.",
+        "B": "prevent a risk.",
+        "C": "shift a risk."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Buying insurance transfers a risk to the insurance company. Shifting a risk is changing the distribution of outcomes, typically with a derivatives contract. Preventing a risk refers to taking steps such as strengthening security procedures.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "A pooled investment fund buys all the shares of a publicly traded company. The fund reorganizes the company and replaces its management team. Three years later, the fund exits the investment through an initial public offering of the company's shares. This pooled investment fund is best described as a:",
+      "options": {
+        "A": "hedge fund.",
+        "B": "venture capital fund.",
+        "C": "buyout fund."
+      },
+      "answer": "C",
+      "explanation": "C is correct. A buyout fund is one that acquires entire public companies, takes them private, and reorganizes the companies to increase their value. A hedge fund uses leverage, derivatives, and long & short investment strategies. Venture capital funds invest in start-up companies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "An analyst made the following statements regarding passive and active portfolios. • Statement 1: Passive portfolios are based on the assumption of unbiased market prices. • Statement 2: In an actively managed portfolio undervalued assets are over weighted relative to the market weight in the benchmark index. The analyst is most likely correct with respect to:",
+      "options": {
+        "A": "both Statement 1 and Statement 2.",
+        "B": "Statement 1 only",
+        "C": "Statement 2 only."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Passive portfolios are based on the assumption of unbiased market prices and in an actively managed portfolio undervalued assets are over weighted relative to the market weight in the benchmark index.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "The strategic asset allocation and portfolio rebalancing policy are most likely addressed in which section of an investment policy statement?",
+      "options": {
+        "A": "Appendices",
+        "B": "Investment objectives",
+        "C": "Procedures"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Information related to strategic asset allocation and portfolio rebalancing policy would be placed in the appendices of an investment policy statement. B is incorrect because this section contains information on the client’s objectives when investing. C is incorrect because this section contains information on the steps to take to keep the investment policy statement current and the procedures to follow to respond to various contingencies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following statements about investment constraints is least accurate?",
+      "options": {
+        "A": "Diversification efforts can increase tax liability.",
+        "B": "Investors concerned about time horizon are not likely to worry about liquidity.",
+        "C": "Unwillingness to invest in gambling stocks is a constraint."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Investors with a time horizon constraint may have little time for capital appreciation before they need the money. Need for money in the near term is a liquidity constraint. Time horizon and liquidity constraints often go hand in hand. Diversification often requires the sale of an investment and the purchase of another. Investment sales often trigger tax liability. Younger investors should take advantage of tax deferrals while they have time for the savings to compound, and while they are in their peak earning years. Many retirees have little income and face less tax liability on investment returns.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Jensen’s alpha is most appropriate in measuring portfolio performance when:",
+      "options": {
+        "A": "idiosyncratic risk is relevant for an investor.",
+        "B": "the investor holds a well-diversified portfolio with negligible diversifiable risk.",
+        "C": "evaluating the performance of real estate against equity investments."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because performance measures relative to beta risk-Treynor ratio and Jensen's alpha-are relevant when the investor holds a well-diversified portfolio with negligible diversifiable risk. A is incorrect because like the Treynor ratio, Jenson's alpha is based on systematic risk. It does not consider idiosyncratic risk. C is incorrect because the measures of performance evaluation assume that the benchmark market portfolio is the correct portfolio. As a result, an error in the benchmark may cause the results to be misleading. For example, evaluating a real estate fund against the S&P 500 is incorrect because real estate has different characteristics than equity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "According to the modern portfolio theory, a rational investor would be least likely to choose as his optimal portfolio:",
+      "options": {
+        "A": "a 100% allocation to the risk-free asset.",
+        "B": "the global minimum variance portfolio.",
+        "C": "a 150% allocation to the market portfolio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the modern portfolio theory, rational, risk-averse investors will optimally choose to hold a portfolio along the capital market line, which runs through the risk-free asset and the tangent (market) portfolio. This can range from a 100% allocation to the risk-free asset to a leveraged position in the market portfolio constructed by borrowing at the risk-free rate to invest more than 100% of the portfolio equity value in the market portfolio. The tangent portfolio cannot be the global minimum variance portfolio because the line tangent to the efficient frontier at the global minimum variance portfolio is vertical but the CML is not vertical. Therefore, the global minimum variance portfolio always lies below the CML and is not an efficient portfolio under the assumptions of the CAPM.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Portfolios that plot on the security market line in equilibrium:",
+      "options": {
+        "A": "must be well diversified.",
+        "B": "may be concentrated in only a few stocks.",
+        "C": "have only systematic (beta) risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the capital asset pricing model, in equilibrium all securities and portfolios plot on the SML. A security or portfolio is not priced in equilibrium if it plots above the SML (i.e., is undervalued) or below the SML (i.e., is overvalued).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which of the following is least likely an assumption underlying the capital asset pricing model (CAPM)?",
+      "options": {
+        "A": "Investors analyze securities according to their own future cash flow estimates and probability distributions.",
+        "B": "There are no restrictions on short selling assets.",
+        "C": "The amount invested in an asset can be as much or as little as the investor wants."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The CAPM requires that there are no restrictions on short selling (which is an assumption underlying frictionless markets) and that the amount invested in an asset can be as much or as little as the investor wants (that is, investments are infinitely divisible). The CAPM also assumes that all investors analyze securities in the same way using the same inputs for future cash flows and the same probability distributions; that is, it assumes that investors have homogenous expectations. B is incorrect because no restrictions on short selling assets (which is an assumption underlying frictionless markets) is an assumption of the CAPM. C is incorrect because an investor being able to invest as much or as little in an asset (that is, investments are infinitely divisible) is an assumption of the CAPM.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "An analyst gathered the following data about three stocks: Stock A has a beta of 1.5 and an estimated return of 18.1%; Stock B has a beta of 1.1 and an estimated return of 15.7%; Stock C has a beta of 0.6 and an estimated return of 12.5%. If the risk-free rate is 8% and the market risk premium is 7%, the analyst is least likely to recommend buying:",
+      "options": {
+        "A": "Stock A.",
+        "B": "Stock B.",
+        "C": "Stock C."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Stock A: k = 8% + 1.5 × (7%) = 18.5%. Because the estimated return of 18.1% is less than the required return of 18.5%, Stock A is overvalued. Stock B: k = 8% + 1.1 × (7%) = 15.7%. Because the estimated return of 15.7% equals the required return of 15.7%, Stock B is properly valued. Stock C: k = 8% + 0.6 × (7%) = 12.2%. Because the estimated return of 12.5% is greater than the required return of 12.2%, Stock C is undervalued.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The standard deviation of returns for a portfolio of risky assets is:",
+      "options": {
+        "A": "less than the standard deviation of the least risky asset.",
+        "B": "greater than the standard deviation of the least risky asset.",
+        "C": "less than or equal to the standard deviation of the most risky asset."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The standard deviation of return of a portfolio of many risky assets can be less than or greater than the standard deviation of the least risky asset, depending on the correlations of returns among the assets and their weights in the portfolio. However, the portfolio standard deviation must be less than or equal to the standard deviation of the most risky asset.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "In a good risk management process, the duties of Chief Risk Officer (CRO) least likely include:",
+      "options": {
+        "A": "setting the risk tolerance of the organization.",
+        "B": "participating in the key strategic decisions of the organization.",
+        "C": "building the risk framework for the organization."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The CRO will be appointed by the CEO and board to build and manage the risk management system, but the CEO and board remain responsible for determining the risk tolerance of the organization as a whole. B is incorrect because the CRO will participate in strategic decision making for the organization. C is incorrect because the CRO will build and manage the risk framework of the organization.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following portfolios will have the lowest diversification ratio? A portfolio of:",
+      "options": {
+        "A": "30 equally-weighted stocks with companies from the same industry.",
+        "B": "20 equally-weighted stocks with companies from different industries.",
+        "C": "30 equally-weighted stocks with companies from different industries."
+      },
+      "answer": "C",
+      "explanation": "C is correct. The diversification ratio of a portfolio equals its standard deviation of returns divided by the average standard deviation of the individual securities in the portfolio. Therefore, a more diversified portfolio will have a lower diversification ratio than a less diversified portfolio. A portfolio containing the highest number of securities from different industries will be the most diversified and will have the lowest diversification ratio. A portfolio of stocks from the same industry is likely to have a higher diversification ratio (reflecting less diversification) than a portfolio of stocks from different industries.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "An investor bears more risk than initially thought because of the failure to consider the interaction of credit risk and market risk. This type of risk interaction is best described as:",
+      "options": {
+        "A": "solvency risk.",
+        "B": "wrong-way risk.",
+        "C": "operational risk."
+      },
+      "answer": "B",
+      "explanation": "B is correct. because the investor's expected payoff is lower as a result of facing a credit risk that is compounded by market risk. Thus, the investor bears much more risk than initially thought as a result of the failure to consider the interaction of the two risks this sort of risk interaction is so common in markets that practitioners have given it a very fitting term-wrong-way risk. A is incorrect because solvency risk is the risk that the organization does not survive or succeed because it runs out of cash, even though it might otherwise be solvent. C is incorrect because operational risk is the risk that arises from inadequate or failed people, systems, and internal policies, procedures, and processes, as well as from external events that are beyond the control of the organization but that affect its operations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "The slope of the capital allocation line is the:",
+      "options": {
+        "A": "market price of risk.",
+        "B": "market risk premium.",
+        "C": "beta of the market."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because the capital allocation line has an intercept of Rf and a slope of (E(Ri)) – Rf)/σi, which is the additional required return for every increment in risk, and is sometimes referred to as the market price of risk. B is incorrect because the market risk premium is the slope of the security market line. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. The slope of this line is the market risk premium, Rm – Rf. C is incorrect because the SCL (security characteristic line) is a plot of the excess return of the security on the excess return of the market. Jensen's alpha is the intercept and the beta is the slope. Furthermore, the beta of the market is 1.",
+      "answer_source": "red"
+    }
+  ]
+}

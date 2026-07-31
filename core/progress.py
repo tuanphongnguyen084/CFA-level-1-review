@@ -36,10 +36,14 @@ Progress shape (keyed by ``"<subject_id>/<exam_id>"``)::
 """
 import json
 import os
+import time
 
 import streamlit as st
 
 _KEY = "cfa_progress_v1"
+
+# Let the browser actually perform a queued write before the caller reruns.
+_WRITE_SETTLE_S = 0.8
 
 # Escape hatch: set CFA_DISABLE_LOCALSTORAGE=1 to run session-only (no browser
 # component). Used by AppTest/headless checks where there is no frontend to
@@ -51,16 +55,43 @@ def _pkey(subject_id, exam_id):
     return f"{subject_id}/{exam_id}"
 
 
+def _component():
+    """Return streamlit_local_storage's raw component function, or None.
+
+    We deliberately bypass the library's ``LocalStorage`` class. Its
+    constructor ends with ``while st.session_state[key] is None:
+    time.sleep(0.1)`` — a blocking spin waiting for the browser to answer.
+    Calling the component function directly is non-blocking: it simply
+    returns ``default`` until the browser delivers a payload on a later run.
+
+    That distinction is why the deployed app went blank: Streamlit Community
+    Cloud upgraded itself to 1.60 (requirements only pinned >=1.40), the spin
+    never resolved there, so the script never finished its first run and no
+    UI was ever emitted — a hang, which is why the logs showed a healthy boot
+    and no traceback. Under 1.60 locally the same spin cost ~12s per load.
+    """
+    if _DISABLED:
+        return None
+    try:
+        from streamlit_local_storage import _st_local_storage
+        return _st_local_storage
+    except Exception:  # noqa: BLE001 — component optional
+        return None
+
+
+def _read_all(comp):
+    """Whole localStorage payload as a dict ({} while still mounting)."""
+    try:
+        got = comp(method="getAll", key="cfa_ls_read", default={})
+    except Exception:  # noqa: BLE001
+        return {}
+    return got if isinstance(got, dict) else {}
+
+
 def init():
-    """Build the localStorage component and hydrate progress (call once/run)."""
-    ls = None
-    if not _DISABLED:
-        try:
-            from streamlit_local_storage import LocalStorage
-            ls = LocalStorage()
-        except Exception:  # noqa: BLE001 — component optional
-            ls = None
-    st.session_state["_ls"] = ls
+    """Mount the storage component and hydrate progress (call once/run)."""
+    comp = _component()
+    st.session_state["_ls"] = comp
 
     if "progress" not in st.session_state:
         st.session_state.progress = {}
@@ -70,14 +101,11 @@ def init():
     if st.session_state.get("_prog_hydrated"):
         return
 
-    if ls is None:
+    if comp is None:
         st.session_state["_prog_hydrated"] = True   # session-only mode
         return
 
-    try:
-        raw = ls.getItem(_KEY)
-    except Exception:  # noqa: BLE001
-        raw = None
+    raw = _read_all(comp).get(_KEY)
 
     if raw not in (None, ""):
         try:
@@ -85,18 +113,23 @@ def init():
         except Exception:  # noqa: BLE001
             st.session_state.progress = {}
         st.session_state["_prog_hydrated"] = True
-    # else: component still mounting (or no saved data) — retry next run.
+    # else: component still mounting (or nothing saved) — a later run reads it.
 
 
 def save():
     """Write the working copy back to the browser."""
     st.session_state["_prog_hydrated"] = True   # we now own the state
-    ls = st.session_state.get("_ls")
-    if ls is None:
+    comp = st.session_state.get("_ls")
+    if comp is None:
         return
     try:
-        ls.setItem(_KEY, json.dumps(st.session_state.progress, ensure_ascii=False),
-                   key="cfa_prog_writer")
+        comp(method="setItem", itemKey=_KEY,
+             itemValue=json.dumps(st.session_state.progress, ensure_ascii=False),
+             key="cfa_prog_writer")
+        # The browser performs the write when it receives this element; every
+        # caller reruns immediately after saving, which would tear the script
+        # down first, so give the round-trip a moment to land.
+        time.sleep(_WRITE_SETTLE_S)
     except Exception:  # noqa: BLE001
         pass
 
@@ -105,10 +138,11 @@ def reset():
     """Clear all progress (session + browser)."""
     st.session_state.progress = {}
     st.session_state["_prog_hydrated"] = True
-    ls = st.session_state.get("_ls")
-    if ls is not None:
+    comp = st.session_state.get("_ls")
+    if comp is not None:
         try:
-            ls.deleteItem(_KEY, key="cfa_prog_del")
+            comp(method="deleteItem", itemKey=_KEY, key="cfa_prog_del")
+            time.sleep(_WRITE_SETTLE_S)
         except Exception:  # noqa: BLE001
             pass
 

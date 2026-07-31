@@ -42,7 +42,12 @@ def _local_storage():
     ls = None
     try:
         from streamlit_local_storage import LocalStorage
-        ls = LocalStorage()
+        # Explicit key: the library defaults every instance to the same
+        # internal key ("storage_init") unless told otherwise, which
+        # collides with core/progress.py's own LocalStorage() instance and
+        # crashes the app when both run in the same session (only visible
+        # live — AppTest mocks the component and doesn't catch it).
+        ls = LocalStorage(key="cfa_access_storage")
     except Exception:  # noqa: BLE001 — component optional
         ls = None
     st.session_state["_access_ls"] = ls

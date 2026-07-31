@@ -14,13 +14,16 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import streamlit as st  # noqa: E402
 
-from core import content, progress, ui  # noqa: E402
+from core import access, content, progress, ui  # noqa: E402
 from views import exam as exam_view  # noqa: E402
 from views import home, quiz, result, review, subject  # noqa: E402
 
 st.set_page_config(page_title="CFA Quiz", layout="centered",
                    initial_sidebar_state="expanded")
 ui.inject_css()
+
+# No-op unless st.secrets["access_emails"] is set — see core/access.py.
+access.require_access()
 
 # localStorage component + hydrate progress (must run every script run).
 progress.init()

@@ -1,31 +1,39 @@
 """
-Optional passkey gate for the whole app.
+Optional email-allowlist gate for the whole app.
 
-Design: off by default (local dev / AppTest never need a key). The gate only
-activates once at least one key exists in ``st.secrets["access_keys"]`` —
-that's the single switch for "this deployment is being sold" vs. "this is my
-own free instance". Unlock state persists in the browser (localStorage, same
-component/pattern as core/progress.py) so a returning buyer doesn't have to
-retype their key every visit; only a boolean flag is stored client-side, never
-the key itself.
+Design: off by default (local dev / AppTest never need this). The gate only
+activates once at least one address exists in ``st.secrets["access_emails"]``
+— that's the single switch for "this deployment is being sold" vs. "this is
+my own free instance". Using the buyer's own email (rather than an opaque
+key string) doubles as the record of who paid, and makes casual sharing feel
+more like handing out your own login than passing around a cheat code.
 
-Keys are a flat list, one per buyer, so a leaked/refunded key can be revoked
-by deleting just that line from the Secrets UI on Streamlit Cloud — no
-shared password, no accounts, no backend.
+Unlock state persists in the browser (localStorage, same component/pattern
+as core/progress.py) so a returning buyer doesn't have to retype their email
+every visit; only a boolean flag is stored client-side, never the email.
+
+Emails are a flat list, one per buyer, so a refunded/leaked address can be
+revoked by deleting just that line from the Secrets UI on Streamlit Cloud —
+no accounts, no backend. Comparison is case-insensitive.
+
+Note: this still doesn't bind a login to one device -- a buyer can retype
+their own email on a second browser and it will work there too. That's an
+accepted, low-effort tradeoff; real device-binding needs an external
+datastore since st.secrets is read-only from the running app.
 """
 import streamlit as st
 
 _KEY = "cfa_access_v1"
 
 
-def _valid_keys():
+def _valid_emails():
     try:
-        keys = st.secrets.get("access_keys", [])
+        emails = st.secrets.get("access_emails", [])
     except Exception:  # noqa: BLE001 — no secrets.toml at all locally
-        keys = []
-    if isinstance(keys, str):
-        keys = [keys]
-    return {str(k).strip() for k in keys if str(k).strip()}
+        emails = []
+    if isinstance(emails, str):
+        emails = [emails]
+    return {str(e).strip().lower() for e in emails if str(e).strip()}
 
 
 def _local_storage():
@@ -42,9 +50,9 @@ def _local_storage():
 
 
 def require_access():
-    """Block the rest of the script (st.stop()) until a valid key is entered.
-    No-op if no keys are configured in secrets."""
-    valid = _valid_keys()
+    """Block the rest of the script (st.stop()) until a known email is
+    entered. No-op if no emails are configured in secrets."""
+    valid = _valid_emails()
     if not valid:
         return
     if st.session_state.get("_unlocked"):
@@ -66,21 +74,21 @@ def require_access():
     st.markdown(
         "<h2 style='text-align:center;margin-top:12vh;'>🔒 CFA Quiz</h2>"
         "<p style='text-align:center;color:#b3b3b3;'>"
-        "Nhập mã truy cập để tiếp tục</p>",
+        "Nhập email đã đăng ký để tiếp tục</p>",
         unsafe_allow_html=True,
     )
     _, col, _ = st.columns([1, 2, 1])
     with col:
         with st.form("access_form"):
-            key_input = st.text_input(
-                "Mã truy cập", type="password",
-                label_visibility="collapsed", placeholder="Mã truy cập...",
+            email_input = st.text_input(
+                "Email", label_visibility="collapsed",
+                placeholder="you@email.com",
             )
             submitted = st.form_submit_button(
                 "Mở khóa", use_container_width=True, type="primary",
             )
         if submitted:
-            if key_input.strip() in valid:
+            if email_input.strip().lower() in valid:
                 st.session_state["_unlocked"] = True
                 if ls is not None:
                     try:
@@ -89,5 +97,5 @@ def require_access():
                         pass
                 st.rerun()
             else:
-                st.error("Mã truy cập không đúng.")
+                st.error("Email này chưa được cấp quyền truy cập.")
     st.stop()

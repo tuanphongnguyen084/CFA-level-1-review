@@ -21,9 +21,19 @@ their own email on a second browser and it will work there too. That's an
 accepted, low-effort tradeoff; real device-binding needs an external
 datastore since st.secrets is read-only from the running app.
 """
+import os
+import time
+
 import streamlit as st
 
 _KEY = "cfa_access_v1"
+# Reruns allowed while waiting for the browser to hand back its saved email.
+_MAX_HYDRATE_TRIES = 4
+
+# Same escape hatch core/progress.py uses: with no real frontend the storage
+# component blocks waiting for a round-trip that never comes, so headless
+# checks (AppTest) must skip it entirely.
+_DISABLED = bool(os.environ.get("CFA_DISABLE_LOCALSTORAGE"))
 
 
 def _valid_emails():
@@ -37,22 +47,19 @@ def _valid_emails():
 
 
 def _local_storage():
-    if "_access_ls" in st.session_state:
-        return st.session_state["_access_ls"]
-    ls = None
+    """Build a fresh instance every run. Deliberately NOT cached: the
+    library snapshots the browser payload at construction time, so a cached
+    instance would keep returning the empty first-run snapshot forever
+    (core/progress.py avoids caching for the same reason)."""
+    if _DISABLED:
+        return None
     try:
         from streamlit_local_storage import LocalStorage
-        # Explicit key: the library defaults every instance to the same
-        # internal session_state key ("storage_init"), which this gate
-        # would then share with core/progress.py's own instance. Verified
-        # in a real browser that sharing it does NOT break anything today,
-        # so this is defensive hygiene against future confusion, not a
-        # bug fix.
-        ls = LocalStorage(key="cfa_access_storage")
+        # Explicit key so this gate's component doesn't share the library's
+        # default session_state key ("storage_init") with progress.py's.
+        return LocalStorage(key="cfa_access_storage")
     except Exception:  # noqa: BLE001 — component optional
-        ls = None
-    st.session_state["_access_ls"] = ls
-    return ls
+        return None
 
 
 def require_access():
@@ -66,42 +73,74 @@ def require_access():
 
     ls = _local_storage()
 
-    if not st.session_state.get("_access_hydrated"):
+    # A custom component returns its default on the first script run and only
+    # delivers the real browser payload on a later run. Reading once would
+    # therefore always look like "nothing saved" and force every returning
+    # buyer to retype their email, so retry across a few reruns (bounded, so
+    # a genuinely-empty store still falls through to the form).
+    if ls is not None and not st.session_state.get("_access_hydrated"):
+        try:
+            raw = ls.getItem(_KEY)
+        except Exception:  # noqa: BLE001
+            raw = None
+        # What's stored is the email itself, re-checked against the current
+        # allowlist on every visit. Storing a bare "unlocked" flag instead
+        # would make revocation useless: deleting someone from secrets
+        # wouldn't lock out the browser that had already unlocked.
+        if raw and str(raw).strip().lower() in valid:
+            st.session_state["_unlocked"] = True
+            return
+        if raw:
+            # Known browser, but that email no longer has access.
+            st.session_state["_revoked"] = True
+        tries = st.session_state.get("_access_tries", 0)
+        if tries < _MAX_HYDRATE_TRIES:
+            st.session_state["_access_tries"] = tries + 1
+            time.sleep(0.3)
+            st.rerun()
         st.session_state["_access_hydrated"] = True
+
+    # The gate lives in a placeholder so a successful unlock can wipe it and
+    # let the app render in this same run. Doing it that way (instead of
+    # st.rerun()) is what makes the "remember me" write actually land: a
+    # rerun aborts the script before the writer component's JS has a chance
+    # to execute in the browser, so the flag was never saved and every
+    # refresh asked for the email again (verified by reading
+    # window.localStorage from a real browser).
+    gate = st.empty()
+    with gate.container():
+        st.markdown(
+            "<h2 style='text-align:center;margin-top:12vh;'>🔒 CFA Quiz</h2>"
+            "<p style='text-align:center;color:#b3b3b3;'>"
+            "Nhập email đã đăng ký để tiếp tục</p>",
+            unsafe_allow_html=True,
+        )
+        _, col, _ = st.columns([1, 2, 1])
+        with col:
+            if st.session_state.get("_revoked"):
+                st.warning("Quyền truy cập của email này đã hết hiệu lực.")
+            with st.form("access_form"):
+                email_input = st.text_input(
+                    "Email", label_visibility="collapsed",
+                    placeholder="you@email.com",
+                )
+                submitted = st.form_submit_button(
+                    "Mở khóa", use_container_width=True, type="primary",
+                )
+            if submitted and email_input.strip().lower() not in valid:
+                st.error("Email này chưa được cấp quyền truy cập.")
+
+    email_clean = email_input.strip().lower()
+    if submitted and email_clean in valid:
+        st.session_state["_unlocked"] = True
+        st.session_state.pop("_revoked", None)
+        gate.empty()
         if ls is not None:
             try:
-                raw = ls.getItem(_KEY)
+                # Rendered outside the emptied container so it stays mounted.
+                ls.setItem(_KEY, email_clean, key="cfa_access_writer")
             except Exception:  # noqa: BLE001
-                raw = None
-            if raw:
-                st.session_state["_unlocked"] = True
-                return
+                pass
+        return
 
-    st.markdown(
-        "<h2 style='text-align:center;margin-top:12vh;'>🔒 CFA Quiz</h2>"
-        "<p style='text-align:center;color:#b3b3b3;'>"
-        "Nhập email đã đăng ký để tiếp tục</p>",
-        unsafe_allow_html=True,
-    )
-    _, col, _ = st.columns([1, 2, 1])
-    with col:
-        with st.form("access_form"):
-            email_input = st.text_input(
-                "Email", label_visibility="collapsed",
-                placeholder="you@email.com",
-            )
-            submitted = st.form_submit_button(
-                "Mở khóa", use_container_width=True, type="primary",
-            )
-        if submitted:
-            if email_input.strip().lower() in valid:
-                st.session_state["_unlocked"] = True
-                if ls is not None:
-                    try:
-                        ls.setItem(_KEY, "1", key="cfa_access_writer")
-                    except Exception:  # noqa: BLE001
-                        pass
-                st.rerun()
-            else:
-                st.error("Email này chưa được cấp quyền truy cập.")
     st.stop()

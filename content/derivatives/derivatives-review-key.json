@@ -1,0 +1,953 @@
+{
+  "schema_version": 1,
+  "id": "derivatives-review-key",
+  "name": "Derivatives Review Key — 63 câu (theo Reading)",
+  "group": "2026 Derivatives Review",
+  "source": "2026 Level 1 Derivatives Review Key (by reading)",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following statements regarding exchange-traded derivatives is least accurate? Exchange-traded derivatives:",
+      "options": {
+        "A": "often trade in a physical location.",
+        "B": "are backed by a central clearinghouse.",
+        "C": "are illiquid."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-68"
+      ]
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "In futures markets, the primary role of the clearinghouse is to:",
+      "options": {
+        "A": "reduce transaction costs by making contract prices public.",
+        "B": "act as guarantor to both sides of a futures trade.",
+        "C": "prevent arbitrage and enforce federal regulations."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-68"
+      ]
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "For exchange-traded derivatives, the role of the central clearinghouse is to:",
+      "options": {
+        "A": "maintain private insurance that can be used to provide funds if a trader defaults.",
+        "B": "stabilize the market price fluctuations of the underlying commodity.",
+        "C": "guarantee that all obligations by traders will be honored."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-68"
+      ]
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "A futures investor receives a margin call. If the investor wishes to maintain her futures position, she must make a deposit that restores her account to the:",
+      "options": {
+        "A": "maintenance margin.",
+        "B": "daily margin.",
+        "C": "initial margin."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Basil, Inc., common stock has a market value of $47.50. A put available on Basil stock has a strike price of $55.00 and is selling for an option premium of $10.00. The put is:",
+      "options": {
+        "A": "out-of-the-money by $2.50.",
+        "B": "in-the-money by $7.50.",
+        "C": "in-the-money by $10.00."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following statements about options is most accurate?",
+      "options": {
+        "A": "The holder of a call option has the obligation to sell to the option writer if the stock's price rises above the strike price.",
+        "B": "The holder of a put option has the right to sell to the writer of the option.",
+        "C": "The writer of a put option has the obligation to sell the asset to the holder of the put option."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A financial instrument with a payoff that depends on a specified event occurring is most accurately described as:",
+      "options": {
+        "A": "an option.",
+        "B": "a default swap.",
+        "C": "a contingent claim."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "An agreement that gives the holder the right, but not the obligation, to sell an asset at a specified price on a specific future date is a:",
+      "options": {
+        "A": "swap.",
+        "B": "call option.",
+        "C": "put option."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "A put option has an exercise price of $65, and the stock price is $39 at expiration. The expiration day value of the put option is:",
+      "options": {
+        "A": "$0.",
+        "B": "$26.",
+        "C": "$65."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "A European call option on a stock has an exercise price of 42. On the expiration date, the stock price is 40. The value of the option at expiration is:",
+      "options": {
+        "A": "positive.",
+        "B": "negative.",
+        "C": "zero."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Ed Verdi has a long position in a European put option on a stock. At expiration, the stock price is greater than the exercise price. The value of the put option to Verdi on its expiration date is:",
+      "options": {
+        "A": "zero.",
+        "B": "negative.",
+        "C": "positive."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Credit default swaps are least accurately characterized as:",
+      "options": {
+        "A": "contingent claims.",
+        "B": "insurance.",
+        "C": "forward commitments."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "The payoff of a call option on a stock at expiration is equal to:",
+      "options": {
+        "A": "the minimum of zero and the stock price minus the exercise price.",
+        "B": "the maximum of zero and the stock price minus the exercise price.",
+        "C": "the maximum of zero and the exercise price minus the stock price."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "The settlement price for a futures contract is:",
+      "options": {
+        "A": "the price of the asset in the future for all trades made in the same day.",
+        "B": "an average of the trade prices over a period at the end of a trading session.",
+        "C": "the price of the last trade of a futures contract at the end of the trading day."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "A call option has an exercise price of $120, and the stock price is $105 at expiration. The expiration day value of the call option is:",
+      "options": {
+        "A": "$0.",
+        "B": "$15.",
+        "C": "$105."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "An investor buys a call option that has an option premium of $5 and an exercise price of $22.50. The current market price of the stock is $25.75. At expiration, the value of the stock is $23.00. The net profit/loss of the call position is closest to:",
+      "options": {
+        "A": "-$4.50.",
+        "B": "$4.50.",
+        "C": "-$5.00."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-69"
+      ]
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "A corporation that employs hedge accounting and uses an interest rate swap to offset changes in the value of fixed rate bond liability is said to be employing a:",
+      "options": {
+        "A": "cash flow hedge.",
+        "B": "net investment hedge.",
+        "C": "fair value hedge."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-70"
+      ]
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Hedge accounting with a net investment hedge most likely refers to a company that is using derivatives to reduce the volatility of:",
+      "options": {
+        "A": "a balance sheet liability.",
+        "B": "its net working capital.",
+        "C": "the value of a foreign subsidiary."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-70"
+      ]
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A bond portfolio manager who wants to decrease the duration of her portfolio would most appropriately:",
+      "options": {
+        "A": "enter an interest rate swap as the floating rate payer.",
+        "B": "enter an interest rate swap as the fixed rate payer.",
+        "C": "take a long position in government bond futures."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-70"
+      ]
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Other things equal, the no-arbitrage forward price of an asset will be higher if the asset has:",
+      "options": {
+        "A": "storage costs.",
+        "B": "dividend payments.",
+        "C": "convenience yield."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "A negative net cost of carry will:",
+      "options": {
+        "A": "increase the no-arbitrage forward price.",
+        "B": "decrease the no-arbitrage forward price.",
+        "C": "have no effect on the no-arbitrage forward price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Which of the following is most likely to increase the no-arbitrage forward price of an asset?",
+      "options": {
+        "A": "Higher dividends from a stock.",
+        "B": "Lower convenience yield for a commodity.",
+        "C": "Lower storage costs for a commodity."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "It is possible to profit from arbitrage when there are no costs or benefits to holding the underlying asset and the forward contract price is:",
+      "options": {
+        "A": "less than the future value of the spot price.",
+        "B": "less than the present value of the spot price.",
+        "C": "greater than the present value of the spot price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "For an underlying asset that has no holding costs or benefits, the no-arbitrage forward price at initiation of a forward contract is:",
+      "options": {
+        "A": "zero.",
+        "B": "the future value of the spot price.",
+        "C": "equal to the spot price."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "The calculation of derivatives values is based on an assumption that:",
+      "options": {
+        "A": "investors are risk neutral.",
+        "B": "arbitrage opportunities are exploited rapidly.",
+        "C": "arbitrage opportunities do not arise in real markets."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "A net benefit from holding the underlying asset of a forward contract will:",
+      "options": {
+        "A": "increase the value of the forward contract during its life.",
+        "B": "decrease the no-arbitrage forward price at initiation.",
+        "C": "decrease the value of the forward contract at expiration."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Other things equal, an increase in storage costs of the underlying asset will:",
+      "options": {
+        "A": "decrease the no-arbitrage forward price.",
+        "B": "not affect the no-arbitrage forward price.",
+        "C": "increase the no-arbitrage forward price."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-71"
+      ]
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "The most likely use of a forward rate agreement is to:",
+      "options": {
+        "A": "lock in an interest rate for future borrowing or lending.",
+        "B": "exchange a floating-rate obligation for a fixed-rate obligation.",
+        "C": "obtain the right, but not the obligation, to borrow at a certain interest rate."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-72"
+      ]
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "For an underlying asset that has no holding costs or benefits, the value of a forward contract to the long during the life of the contract is the:",
+      "options": {
+        "A": "spot price minus the present value of the forward price.",
+        "B": "difference between the spot price and the forward price.",
+        "C": "present value of the difference between the spot price and the forward price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-72"
+      ]
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "The value of a forward or futures contract is:",
+      "options": {
+        "A": "specified in the contract.",
+        "B": "typically zero at initiation.",
+        "C": "equal to the spot price at expiration."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-72"
+      ]
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "At time t, prior to its settlement date at time T, the value Vₜ of a long forward with a price of F will be related to the spot price, S, of an asset that has a zero net cost of carry by:",
+      "options": {
+        "A": "Vₜ = Sₜ − F₀(T)(1 + Rf)⁻⁽ᵀ⁻ᵗ⁾.",
+        "B": "Vₜ = F₀(T) − Sₜ(1 + Rf)⁻⁽ᵀ⁻ᵗ⁾.",
+        "C": "Vₜ = (Sₜ − F₀(T))(1 + Rf)⁻⁽ᵀ⁻ᵗ⁾."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-72"
+      ]
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Long futures contracts may be preferred to equivalent forward contracts without central clearing when interest rates are:",
+      "options": {
+        "A": "positively correlated with the price of the underlying.",
+        "B": "negatively correlated with the price of the underlying.",
+        "C": "uncorrelated with the price of the underlying."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Long forward contracts without central clearing may be preferred to equivalent futures contracts when interest rates are:",
+      "options": {
+        "A": "negatively correlated with the price of the underlying.",
+        "B": "uncorrelated with the price of the underlying.",
+        "C": "positively correlated with the price of the underlying."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Compared to an interest rate futures contract, an otherwise equivalent forward rate agreement will:",
+      "options": {
+        "A": "exhibit greater convexity.",
+        "B": "have greater payments for a given decrease in interest rates.",
+        "C": "have greater volatility."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "If the price of a forward contract is greater than the price of an identical futures contract, the most likely explanation is that:",
+      "options": {
+        "A": "the futures contract requires daily settlement and the forward contract does not.",
+        "B": "the futures contract is more difficult to exit than the forward contract.",
+        "C": "the forward contract is more liquid than the futures contract."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Bea Moran wants to establish a long derivatives position in a commodity she will need to acquire in six months. Moran observes that the six-month forward price is 45.20 and the six-month futures price is 45.10. This difference most likely suggests that for this commodity:",
+      "options": {
+        "A": "long investors should prefer futures contracts to forward contracts.",
+        "B": "futures prices are negatively correlated with interest rates."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "For a futures contract, the adjustment for the change in settlement price from one day to the next will result in:",
+      "options": {
+        "A": "no change in contract price but a change in contract value.",
+        "B": "a change in contract price but no change in contract value.",
+        "C": "changes in both the contract price and contract value."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-73"
+      ]
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following is typically equal to zero at the initiation of an interest rate swap contract?",
+      "options": {
+        "A": "Its value.",
+        "B": "Its price.",
+        "C": "Neither its value nor its price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-74"
+      ]
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "For a series of forward contracts to replicate a swap contract, the forward contracts must have:",
+      "options": {
+        "A": "values at swap initiation that sum to zero.",
+        "B": "values at swap expiration that sum to zero.",
+        "C": "values at swap initiation that are equal to zero."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-74"
+      ]
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "An investor could best replicate the position of the floating rate payer in a swap by:",
+      "options": {
+        "A": "borrowing at a fixed rate and entering a series of zero-value FRAs.",
+        "B": "borrowing at a floating rate and entering a series of zero-value FRAs.",
+        "C": "borrowing at a floating rate and buying a fixed-rate bond."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-74"
+      ]
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "The price of a fixed-for-floating interest rate swap contract:",
+      "options": {
+        "A": "may vary over the life of the contract.",
+        "B": "is established at contract initiation.",
+        "C": "is directly related to changes in the floating rate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-74"
+      ]
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Which of the following statements about moneyness is most accurate? When the stock price is:",
+      "options": {
+        "A": "below the strike price, a call option is in-the-money.",
+        "B": "above the strike price, a put option is in-the-money.",
+        "C": "above the strike price, a put option is out-of-the-money."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "An investor will exercise a European put option on a stock at its expiration date if the stock price is:",
+      "options": {
+        "A": "greater than the exercise price.",
+        "B": "equal to the exercise price.",
+        "C": "less than the exercise price."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "A decrease in the riskless rate of interest, other things equal, will:",
+      "options": {
+        "A": "decrease call option values and decrease put option values.",
+        "B": "increase call option values and decrease put option values.",
+        "C": "decrease call option values and increase put option values."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "An investor holds two options on the same underlying stock, a call option with an exercise price of 25 and a put option with an exercise price of 30. If the market price of the stock is 27:",
+      "options": {
+        "A": "only one of the options is in the money.",
+        "B": "neither option is in the money.",
+        "C": "both options are in the money."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "Other things equal, a short put position would become more valuable as a result of an increase in:",
+      "options": {
+        "A": "the time to expiration.",
+        "B": "the price of the underlying asset.",
+        "C": "the volatility of the price of the underlying asset."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "An investor has bought a European put option and written a European call option. Other things equal, a decrease in the risk-free rate will increase the value of:",
+      "options": {
+        "A": "both of these option positions.",
+        "B": "only one of these option positions.",
+        "C": "neither of these option positions."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "The time value of a European call option with 30 days to expiration will most likely be:",
+      "options": {
+        "A": "less than the current option premium if the option is currently in-the-money.",
+        "B": "greater than the current option premium if the option is currently out-of-the-money.",
+        "C": "equal to the intrinsic value if the exercise price is greater than the current spot price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "An increase in the riskless rate of interest, other things equal, will:",
+      "options": {
+        "A": "increase call option values and decrease put option values.",
+        "B": "decrease call option values and increase put option values.",
+        "C": "decrease call option values and decrease put option values."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "The value of a put option at expiration is most likely to be increased by:",
+      "options": {
+        "A": "a higher exercise price.",
+        "B": "a lower risk-free interest rate.",
+        "C": "higher volatility of the underlying asset price."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "The time value of an option is most accurately described as:",
+      "options": {
+        "A": "increasing as the option approaches its expiration date.",
+        "B": "the amount by which the intrinsic value exceeds the option premium.",
+        "C": "equal to the entire premium for an out-of-the-money option."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-75"
+      ]
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "The relationship referred to as put-call-forward parity states that at time = 0, if there is no arbitrage opportunity, the value of a call at X on an asset that has no holding costs or benefits plus the present value of X is equal to:",
+      "options": {
+        "A": "the asset price minus the value of a put option at X.",
+        "B": "the value of a put option at X plus the present value of the forward contract price.",
+        "C": "the forward contract price plus the value of a put option at X."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "A synthetic European call option includes a short position in:",
+      "options": {
+        "A": "the underlying asset.",
+        "B": "a risk-free bond.",
+        "C": "a European put option."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "A fiduciary call is a portfolio that is made up of:",
+      "options": {
+        "A": "a call option and a share of stock.",
+        "B": "a call that is synthetically created from other instruments.",
+        "C": "a call option and a bond that pays the exercise price of the call at option expiration."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "Which of the following instruments is a component of the put-call-forward parity relationship?",
+      "options": {
+        "A": "The spot price of the underlying asset.",
+        "B": "The present value of the forward price of the underlying asset.",
+        "C": "The future value of the forward price of the underlying asset."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "An investor calculates that the premium of a European put option is less than its value based on put-call parity. In exploiting this arbitrage opportunity, the investor is most likely to:",
+      "options": {
+        "A": "sell the underlying short.",
+        "B": "sell the call option.",
+        "C": "invest the present value of the exercise price at the risk-free rate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "Which of the following portfolios has the same future cash flows as a protective put?",
+      "options": {
+        "A": "Long call option, long risk-free bond.",
+        "B": "Long call option, long risk-free bond, short the underlying asset.",
+        "C": "Short call option, long risk-free bond."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "Consider a European call option and put option that have the same exercise price, and a forward contract to buy the same underlying asset as the two options. An investor buys a risk-free bond that will pay, on the expiration date of the options and the forward contract, the difference between the exercise price and the forward price. According to the put-call-forward parity relationship, this bond can be replicated by:",
+      "options": {
+        "A": "writing the call option and buying the put option.",
+        "B": "buying the call option and writing the put option.",
+        "C": "writing the call option and writing the put option."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "A synthetic European put option includes a short position in:",
+      "options": {
+        "A": "the underlying asset.",
+        "B": "a risk-free bond.",
+        "C": "a European call option."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-76"
+      ]
+    },
+    {
+      "id": "Q60",
+      "num": 60,
+      "question": "We can use the risk-free rate to value an option with a one-period binomial model because:",
+      "options": {
+        "A": "combining options with the underlying asset in a specific ratio will produce a risk-free future payment.",
+        "B": "combining put and call options in specific ratio can produce a risk-free future payment.",
+        "C": "options investors are risk-neutral, on average."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-77"
+      ]
+    },
+    {
+      "id": "Q61",
+      "num": 61,
+      "question": "One method of valuing a call option with a one-period binomial model involves:",
+      "options": {
+        "A": "finding a combination of the call option and the underlying that will have the same value regardless of the price of the underlying at expiration.",
+        "B": "discounting the average call value at expiration by the risk-free rate.",
+        "C": "using the probabilities of an up-move and a down-move to get the expected value of the payment at expiration."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-77"
+      ]
+    },
+    {
+      "id": "Q62",
+      "num": 62,
+      "question": "In order to value an option with a one-period binomial model, three things an analyst would need to know are:",
+      "options": {
+        "A": "the probability of an up-move, the option exercise price, and the current asset price.",
+        "B": "the risk-free rate, the volatility of the price of the underlying, and the current asset price.",
+        "C": "the risk-adjusted discount rate, the volatility of the price of the underlying asset, and option exercise price."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-77"
+      ]
+    },
+    {
+      "id": "Q63",
+      "num": 63,
+      "question": "Consider a stock that will have a value of either 22 or 14 one year from now. If the risk-free rate is 5%, what is the ratio of shares to short call options with an exercise price of 18 for a portfolio that will have the same value at expiration regardless of the stock price at the end of the year?",
+      "options": {
+        "A": "0.50.",
+        "B": "0.48.",
+        "C": "0.53."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "tags": [
+        "reading-77"
+      ]
+    }
+  ]
+}

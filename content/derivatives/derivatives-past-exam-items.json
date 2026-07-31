@@ -1,0 +1,776 @@
+{
+  "schema_version": 1,
+  "id": "derivatives-past-exam-items",
+  "name": "Derivatives — Câu hỏi đề thi thật (nhiều năm) — 59 câu",
+  "group": "2026 Derivatives Review",
+  "source": "2026 Level 1 Derivatives Review Key (past CFA exam items, 2011-2019)",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Valuation of a swap during its life will least likely involve the:",
+      "options": {
+        "A": "application of the principle of no arbitrage.",
+        "B": "use of replication.",
+        "C": "investor's risk aversion."
+      },
+      "answer": "C",
+      "explanation": "Risk neutrality, not risk aversion, is a key element of derivatives pricing, including swaps.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "If a forward contract requires no cash outlay at initiation, it is most likely true that at initiation:",
+      "options": {
+        "A": "value exceeds price.",
+        "B": "price exceeds value.",
+        "C": "price is equal to value."
+      },
+      "answer": "B",
+      "explanation": "At initiation, value is equal to zero. Price is a positive number that states the amount that must be paid when the purchase takes place.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "The pricing of forwards and futures will most likely differ if:",
+      "options": {
+        "A": "interest rates exhibit zero volatility.",
+        "B": "futures prices and interest rates are negatively correlated.",
+        "C": "futures prices and interest rates are uncorrelated."
+      },
+      "answer": "B",
+      "explanation": "The pricing of forwards and futures will differ if futures prices and interest rates are negatively correlated. A negative correlation between futures prices and interest rates makes forwards more desirable than futures in the long position.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "The price of an interest rate swap that involves the exchange of a fixed payment for a floating payment is most likely:",
+      "options": {
+        "A": "equal to its value at expiration.",
+        "B": "set at initiation and constant over time.",
+        "C": "affected by changes in the floating payment."
+      },
+      "answer": "B",
+      "explanation": "Swaps have both a price and a value. Price in the context of a swap is a reference to the fixed-rate payment on the swap, which is constant over time. The value of a swap is zero at initiation but can change over the life of the swap as market interest rates change.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Using put-call parity, a long call can best be replicated by going:",
+      "options": {
+        "A": "long the put, short the asset, and long the bond.",
+        "B": "short the put, long the asset, and short the bond.",
+        "C": "long the put, long the asset, and short the bond."
+      },
+      "answer": "C",
+      "explanation": "According to put-call parity, a long call is equal to long put, long asset, short bond.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Convenience yield is best described as a nonmonetary benefit of holding a(n):",
+      "options": {
+        "A": "option contract.",
+        "B": "asset.",
+        "C": "forward contract."
+      },
+      "answer": "B",
+      "explanation": "Convenience yield represents the nonmonetary advantage of holding the asset.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A swap that involves the exchange of a fixed payment for a floating payment is most likely equivalent to a series of:",
+      "options": {
+        "A": "off-market forward contracts.",
+        "B": "forward contracts that all have an initial positive value.",
+        "C": "forward contracts that all have an initial value equal to the fixed payment."
+      },
+      "answer": "A",
+      "explanation": "Because the cost of carrying an asset over different time periods will vary, the values of the implicit forward contracts embedded in the swap will not be equal: some may be positive, and some may be negative. Off-market forward contracts satisfy this condition because they can be set at any value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "At expiration, an option that is in the money will most likely have:",
+      "options": {
+        "A": "time value, but no exercise value.",
+        "B": "exercise value, but no time value.",
+        "C": "both time value and exercise value."
+      },
+      "answer": "B",
+      "explanation": "At expiration, options have no time value; if they are in the money, they have exercise value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "For a stock that pays no dividends, the value of an American call option is most likely:",
+      "options": {
+        "A": "the same as the value of a European call option with otherwise identical features.",
+        "B": "greater than the value of a European call option with otherwise identical features.",
+        "C": "less than the value of a European call option with otherwise identical features."
+      },
+      "answer": "A",
+      "explanation": "American call prices can differ from European call prices only if the underlying stock is dividend paying. In the absence of such cash payments, European and American call options have the same value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following attributes is least likely to be a requirement for the existence of riskless arbitrage? The underlying security:",
+      "options": {
+        "A": "can be sold short.",
+        "B": "is a financial asset.",
+        "C": "is relatively liquid."
+      },
+      "answer": "B",
+      "explanation": "For riskless arbitrage to exist, the underlying security that can be arbitraged may be either a financial or a non-financial security.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "How does the cost of holding the underlying asset affect option values?",
+      "options": {
+        "A": "Decreases both call and put values.",
+        "B": "Decreases call values and increases put values.",
+        "C": "Increases call values and decreases put values."
+      },
+      "answer": "C",
+      "explanation": "Carrying costs of holding the underlying asset increase the value of call options and decrease the value of put options.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Open interest in a futures market is most accurately described as the total number of:",
+      "options": {
+        "A": "contracts outstanding.",
+        "B": "contracts that change hands in a given period.",
+        "C": "buyers and sellers currently holding outstanding positions."
+      },
+      "answer": "A",
+      "explanation": "Open interest is the total number of contracts (long/short position pairs) outstanding. The number of contracts that change hands in a given period is volume, not open interest.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "The payoff diagram of a protective put option has the same shape as the payoff diagram for:",
+      "options": {
+        "A": "writing a put option.",
+        "B": "buying a call option.",
+        "C": "writing a call option."
+      },
+      "answer": "B",
+      "explanation": "The payoff diagram from owning stock and a long put on the stock is similar to that of a long call.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Under which of the following conditions does a forward contract have a positive value to the short party at expiration?",
+      "options": {
+        "A": "The forward price is less than the value of the forward contract.",
+        "B": "The spot price of the underlying asset is less than the forward price.",
+        "C": "The value of the forward contract is less than the spot price of the underlying asset."
+      },
+      "answer": "B",
+      "explanation": "At expiration, a forward contract has positive value to the short party (and an equal negative value to the long party) if the spot price of the underlying asset is less than the price specified in the forward contract.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "At expiration, exercise value is equal to time value for an:",
+      "options": {
+        "A": "in-the-money call or an out-of-the-money put.",
+        "B": "out-of-the-money call or an in-the-money put.",
+        "C": "out-of-the-money call or an out-of-the-money put."
+      },
+      "answer": "C",
+      "explanation": "The time value of an option is zero at expiration. For an out-of-the-money option, the exercise value is also zero at expiration -- so exercise value equals time value (both zero) only when the option is out of the money.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "A put on a stock with a strike price of $50 is priced at $4 per share, while a call with a strike price of $50 is priced at $6. What is the maximum per-share loss to the writer of the put?",
+      "options": {
+        "A": "$46.",
+        "B": "$50.",
+        "C": "Unlimited."
+      },
+      "answer": "A",
+      "explanation": "Writer of put's maximum loss = $50 - $4 = $46.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Jack Cheney, CFA, purchases a Swenson, Inc., October 80 put option for a premium of $5. Cheney holds the option until the expiration date when Swenson stock sells for $78 per share. At expiration, the loss on the contract is:",
+      "options": {
+        "A": "$2.",
+        "B": "$3.",
+        "C": "$5."
+      },
+      "answer": "B",
+      "explanation": "The intrinsic value of the put is the difference between the strike price and the stock price, since the price is less than the strike price (80 - 78 = 2). The loss is equal to the intrinsic value minus the premium paid (2 - 5 = -3).",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Which of the following statements about call options is least accurate?",
+      "options": {
+        "A": "The buyer of a call option has an obligation to perform.",
+        "B": "A call option is in the money when the strike price is below the stock price.",
+        "C": "The lower the strike price relative to the stock's underlying price, the more the call option is worth."
+      },
+      "answer": "A",
+      "explanation": "Call options represent an obligation to perform in the case of the seller. The owner (buyer) of the option has the right, but not an obligation, to purchase the underlying asset at a specified price for a specified time from the seller.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A bank borrows for 360 days and simultaneously lends the proceeds for 90 days. This transaction creates a synthetic forward rate agreement (FRA) closest to a:",
+      "options": {
+        "A": "long position in a 90-day FRA on 270-day LIBOR.",
+        "B": "long position in a 90-day FRA on 360-day LIBOR.",
+        "C": "short position in a 360-day FRA on 90-day LIBOR."
+      },
+      "answer": "A",
+      "explanation": "If a bank borrows for 360 days and simultaneously lends the proceeds for 90 days, it creates a synthetic long (borrower) position in a 90-day FRA on 270-day LIBOR: the bank has no net position for the first 90 days and a borrowing position for the subsequent 270 days.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "An investor buys a stock for $40 per share and simultaneously sells a call option on the stock with an exercise price of $42 for a premium of $3 per share. Ignoring dividends and transaction costs, what is the maximum profit the writer of this covered call can earn at expiration?",
+      "options": {
+        "A": "$2.",
+        "B": "$3.",
+        "C": "$5."
+      },
+      "answer": "C",
+      "explanation": "This is an out-of-the-money covered call. The net cost is $37 (40 - 3) and the maximum payoff on the position is the exercise price, $42. Thus, the maximum profit is $5.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Which of the following statements about futures and forwards is most accurate? Futures:",
+      "options": {
+        "A": "are subject to default risk, but forwards are not.",
+        "B": "are individualized contracts, but forwards are standardized.",
+        "C": "require that traders post margin in order to trade, but forwards typically require no cash transaction until the delivery date."
+      },
+      "answer": "C",
+      "explanation": "Forwards are subject to default risk, but futures are not. Forwards are individualized contracts, but futures are standardized.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Derivatives markets are most likely to:",
+      "options": {
+        "A": "reduce transactions costs.",
+        "B": "increase speculation and risk.",
+        "C": "provide arbitrage opportunities to investors."
+      },
+      "answer": "A",
+      "explanation": "The key advantages of derivatives markets are providing price information, reducing transaction costs, and shifting risks among market participants. Derivatives markets are highly efficient and arbitrage opportunities rarely exist or are quickly eliminated.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "A corporation issues 5-year fixed-rate bonds. Its treasurer expects interest rates to decline for all maturities for at least the next year. She enters into a 1-year agreement with a bank to receive quarterly fixed-rate payments and to make payments based on floating rates benchmarked on 3-month LIBOR. This agreement is best described as a:",
+      "options": {
+        "A": "swap.",
+        "B": "futures contract.",
+        "C": "forward contract."
+      },
+      "answer": "A",
+      "explanation": "A swap is a series of forward payments. Specifically, a swap is an agreement between two parties to exchange a series of future cash flows. The corporation receives fixed interest rate payments and makes variable interest rate payments. Given that the contract is for 1 year and the floating rate is based upon 3-month LIBOR, at least 4 payments will be made during the year.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "A portfolio manager is required to sell 31,250 shares of XYZ Inc. in two months. She is concerned the price of XYZ shares will decline during the 2-month period, so she enters into a deliverable equity forward contract to sell 31,250 shares of XYZ in two months for EUR 160 per share. When the contract expires, XYZ is trading at EUR 138 per share. The portfolio manager will most likely:",
+      "options": {
+        "A": "pay EUR 687,500 to the dealer.",
+        "B": "receive EUR 4,312,500 from the dealer.",
+        "C": "receive EUR 5,000,000 from the dealer."
+      },
+      "answer": "C",
+      "explanation": "The portfolio manager entered into a contract to sell the stock to the dealer at $160 per share in 2 months' time. 31,250 shares x EUR 160 = EUR 5,000,000.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "A trader takes a long position in 40 futures contracts on Day 1. The futures have a daily price limit of $5 and closes with a settlement price of $106. On Day 2, the futures trade at $111 and the bid and offer move to $113 and $115, respectively. The futures price remains at these price levels until the market closes. The marked-to-market amount the trader receives in his account at the end of Day 2 is closest to:",
+      "options": {
+        "A": "$200.",
+        "B": "$280.",
+        "C": "$320."
+      },
+      "answer": "A",
+      "explanation": "Because the future has a daily price limit of $5, the highest possible settlement price on Day 2 is $111. Therefore, the marked-to-market value would be ($111 - $106) x 40 = $200.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "An investor is long an in-the-money American call option on a dividend paying stock. Would this option most likely ever be exercised early?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, if its time value is high enough.",
+        "C": "Yes, if it pays a high enough dividend."
+      },
+      "answer": "C",
+      "explanation": "A cash flow such as a dividend payment is required for early exercise. A dividend payment doesn't guarantee early exercise, as the dividend also needs to be large enough to justify the early exercise.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "An investor with $5000 to invest believes that the price of ABC Corp. stock will appreciate by $7 to $95 in two months. The two-month at-the-money put on one share of ABC stock costs $1.76, while the two-month at-the-money call costs $1.56. In order to profit from his view on ABC stock, he will most likely:",
+      "options": {
+        "A": "sell calls on shares of ABC.",
+        "B": "sell puts on shares of ABC.",
+        "C": "buy calls on shares of ABC."
+      },
+      "answer": "C",
+      "explanation": "Buying a call gives the owner the right to buy the stock at the exercise price. The investor predicts that the stock will increase to $95 at the end of two months. He will likely be able to sell his calls for at least $7 and realize a profit.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following statements best describes an advantage of a forward contract over a futures contract? A forward contract:",
+      "options": {
+        "A": "is essentially free of default risk.",
+        "B": "can easily be offset prior to expiration.",
+        "C": "allows parties to enter into a customized transaction."
+      },
+      "answer": "C",
+      "explanation": "Unlike futures contracts, which have standardized features, forward contracts can be customized to suit the needs of the parties involved.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "An investor purchases a put option on AAA shares that has a strike price of EUR50 and expires in three months. One month later, AAA shares are trading at EUR54. At that time, the put most likely has:",
+      "options": {
+        "A": "positive intrinsic value but no time value.",
+        "B": "positive time value but no intrinsic value.",
+        "C": "positive time value and positive intrinsic value."
+      },
+      "answer": "B",
+      "explanation": "The put option has no intrinsic value because the share price is above the strike price. Because the option has a remaining life of two months, it has positive time value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "The tenor of a swap is best described as the:",
+      "options": {
+        "A": "size of the contract.",
+        "B": "original time to maturity.",
+        "C": "net amount owed by one party to the other."
+      },
+      "answer": "B",
+      "explanation": "The original time to maturity is referred to as the tenor of the swap.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "An investor purchases 100 shares of common stock at EUR50 each and simultaneously sells call options on 100 shares of the stock with a strike price of EUR55 at a premium of EUR1 per option. At the expiration date of the options, the share price is EUR58. The investor's profit is closest to:",
+      "options": {
+        "A": "EUR400.",
+        "B": "EUR600.",
+        "C": "EUR900."
+      },
+      "answer": "B",
+      "explanation": "Because the terminal share price exceeds the exercise price, the investor collects the premium plus the difference between strike price and purchase price: (X - S0 + c0), in this case 100 x (EUR55 - EUR50 + EUR1) = EUR600.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Which of the following is least likely one of the main purposes of derivative markets?",
+      "options": {
+        "A": "Reveal prices and volatility of the underlying assets.",
+        "B": "Improve market efficiency by lowering transaction costs.",
+        "C": "Enable companies to more easily practice risk management."
+      },
+      "answer": "B",
+      "explanation": "Derivative markets improve market efficiency for the underlying assets by increasing market fairness and competitiveness, not by lowering transaction costs. Low transaction costs are a characteristic of derivative markets, not one of their purposes.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "A futures trader takes a long position of 10 contracts. The initial margin requirement is $10 per contract and the maintenance margin requirement is $7 per contract. She deposits the required initial margin on the trade date. On Day 3, her margin account balance is $40. What is the variation margin on Day 4?",
+      "options": {
+        "A": "$30.",
+        "B": "$60.",
+        "C": "$70."
+      },
+      "answer": "B",
+      "explanation": "On any day when the balance in the margin account falls below the maintenance margin, the trader must deposit sufficient funds to bring the balance back up to the initial margin requirement. This additional amount is called the \"variation margin.\" Therefore, $100 - $40 = $60 variation margin.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "A portfolio manager enters into an equity swap with a swap dealer. The portfolio manager agrees to pay the return on the Value index and receive the return on the Growth index. The swap's notional principal is $50 million and the payments will be made semi-annually. The levels of the equity indices are as follows: Value index -- 5,460 at start of swap, 5,350 six months later; Growth index -- 1,190 at start of swap, 1,200 six months later. The net amount due to the portfolio manager after 6 months is closest to:",
+      "options": {
+        "A": "$587,158.",
+        "B": "$1,007,326.",
+        "C": "$1,427,494."
+      },
+      "answer": "C",
+      "explanation": "The portfolio manager pays the Value index return, which had a loss, and receives the Growth index return, which had a gain during the period. Value index payment = ((5350/5460) - 1) x $50,000,000 = -$1,007,326. Growth index payment = ((1200/1190) - 1) x $50,000,000 = $420,168. Net payment to portfolio manager = $420,168 - (-$1,007,326) = $1,427,494.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Epsilon Inc., a U.S. based company, must pay JPY1,000,000,000 to its Japanese component supplier in 3 months. Epsilon approaches a dealer and enters into a USD/JPY currency forward contract, containing a stipulation for physical delivery, to manage the foreign exchange risk associated with the payment to its supplier. Which of these best describes Epsilon's currency forward contract?",
+      "options": {
+        "A": "The dealer will deliver yen on expiration.",
+        "B": "The amount of USD exchanged for JPY is determined at expiration.",
+        "C": "Epsilon may receive or pay JPY, depending on the exchange rate at expiration."
+      },
+      "answer": "A",
+      "explanation": "This currency forward contract requires physical delivery; therefore, Epsilon receives 1,000,000,000 JPY from the dealer in exchange for paying USD.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The greater of either zero or the present value of the exercise price minus the underlying price is most likely the lower bound on the price of a(n):",
+      "options": {
+        "A": "European put option.",
+        "B": "American put option.",
+        "C": "American call option."
+      },
+      "answer": "A",
+      "explanation": "For a European put, the exercise price must be adjusted to the present value because the option can only be exercised on expiration.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "The least likely way to terminate a swap is to:",
+      "options": {
+        "A": "purchase and exercise a swaption.",
+        "B": "pay the market value to the counterparty.",
+        "C": "sell an offsetting swap listed on an exchange."
+      },
+      "answer": "C",
+      "explanation": "Swaps are not listed on an exchange, so selling an offsetting swap that is exchange-listed is not a way to terminate an existing swap.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "In contrast to over-the-counter options, futures contracts:",
+      "options": {
+        "A": "are not exposed to default risk.",
+        "B": "are private, customized transactions.",
+        "C": "represent a right rather than a commitment."
+      },
+      "answer": "A",
+      "explanation": "Over-the-counter options are exposed to default risk, but futures contracts are standardized transactions that take place on futures exchanges and are not exposed to default risk.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "An investor purchases 10 futures contracts priced at $100 each. The initial margin is $20 per contract and the maintenance margin requirement is $10 per contract. The investor will most likely be required to post variation margin if the end-of-day prices over the next three days are:",
+      "options": {
+        "A": "Day 1 $103, Day 2 $109, Day 3 $104.",
+        "B": "Day 1 $106, Day 2 $98, Day 3 $89.",
+        "C": "Day 1 $95, Day 2 $91, Day 3 $103."
+      },
+      "answer": "B",
+      "explanation": "Day 1 activity: $260 closing margin balance results from $200 initial margin plus $60 gain ($6 increase x 10 contracts). Day 2 activity: $180 closing margin balance results from $260 opening margin balance minus $80 loss ($8 decline x 10 contracts). Day 3 activity: $90 closing margin balance results from $180 opening margin balance minus $90 loss ($9 decline x 10 contracts) -- this Day-3 balance of $90 is below the $100 maintenance requirement (10 contracts x $10), triggering a variation margin call.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Based on put-call parity for European options, a synthetic put is most likely equivalent to a:",
+      "options": {
+        "A": "long call, short underlying asset, long bond.",
+        "B": "long call, long underlying asset, short bond.",
+        "C": "short call, long underlying asset, short bond."
+      },
+      "answer": "A",
+      "explanation": "A synthetic put is equivalent to a long call + short underlying + long bond.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "question": "Which of these statements is most likely correct for an option?",
+      "options": {
+        "A": "Market price equals intrinsic value less time value.",
+        "B": "Intrinsic value equals market price less time value.",
+        "C": "Time value equals intrinsic value less market price."
+      },
+      "answer": "B",
+      "explanation": "The market price of an option equals its intrinsic value plus its time value -- equivalently, intrinsic value equals market price less time value.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "question": "Which statement best describes option price sensitivities? The value of a:",
+      "options": {
+        "A": "call option increases as interest rates rise.",
+        "B": "put option increases as volatility decreases.",
+        "C": "put option decreases as interest rates decline."
+      },
+      "answer": "A",
+      "explanation": "Call options increase in value as interest rates rise.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q43",
+      "num": 43,
+      "question": "Two parties agree to a forward contract on a non-dividend paying stock at a price of $103.00. At contract expiration the stock trades at $105.00. In a cash-settled forward contract, the:",
+      "options": {
+        "A": "short pays the long $2.00.",
+        "B": "short pays the long $103.00.",
+        "C": "long pays the short $105.00."
+      },
+      "answer": "A",
+      "explanation": "A cash-settled forward permits the long and short to pay the net cash value of the position on the delivery date. The long is due to receive a stock from the short with a market value of $105.00. Through the forward contract, the long agreed to purchase the stock at $103.00. Therefore, the short must pay the net cash value of $2.00 to the long.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q44",
+      "num": 44,
+      "question": "A European call option on a non-dividend paying stock with a strike price of $25.00 expires in 3 months. The underlying stock currently trades at $29.00. The risk-free rate is 5.00%. The lower bound for the European call is closest to:",
+      "options": {
+        "A": "$0.00.",
+        "B": "$4.00.",
+        "C": "$4.30."
+      },
+      "answer": "C",
+      "explanation": "The lower bound on a European call price is either zero or the underlying price minus the present value of the exercise price, whichever is greater: c0 >= Max[0, S0 - X/(1+r)^T] = Max[0, 29 - 25/(1.05)^(3/12)] = 4.30.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q45",
+      "num": 45,
+      "question": "If the volatility of returns of an underlying security increases, then:",
+      "options": {
+        "A": "both call and put option prices increase.",
+        "B": "both call and put option prices decrease.",
+        "C": "call prices increase and put prices decrease."
+      },
+      "answer": "A",
+      "explanation": "Higher volatility increases the possible upside value of the underlying, which increases the price of calls and does not hurt puts. Higher volatility also increases the possible downside value of the underlying, which increases the price of puts and does not hurt calls.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q46",
+      "num": 46,
+      "question": "A swap in which the investor receives a variable payment in line with market conditions and makes a fixed payment can best be replicated by purchasing a:",
+      "options": {
+        "A": "set of long futures contracts which are matched with short forward contracts.",
+        "B": "series of forward contracts, each with an initial value of zero.",
+        "C": "floating rate bond financed using a fixed-rate bond."
+      },
+      "answer": "C",
+      "explanation": "The payment structure is replicated by being long the floating rate bond and being short the fixed-rate bond.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q47",
+      "num": 47,
+      "question": "During its life, the value of a forward contract is most likely equal to the price of the underlying minus the price of the:",
+      "options": {
+        "A": "forward.",
+        "B": "forward, discounted over the original term of the contract.",
+        "C": "forward, discounted over the remaining term of the contract."
+      },
+      "answer": "C",
+      "explanation": "The value of a forward contract is the spot price of the underlying minus the present value of the forward contract. Calculating the present value requires adjusting the time period to account for the remaining term of the contract.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q48",
+      "num": 48,
+      "question": "Which of the following statements best describes a feature of an American option? Early exercise of an American:",
+      "options": {
+        "A": "put option is optimal only if the underlying is dividend paying.",
+        "B": "call option is never optimal if the underlying is dividend paying.",
+        "C": "put option that is deep in the money may be optimal."
+      },
+      "answer": "C",
+      "explanation": "For a deep-in-the-money put option, early exercise may be optimal because the additional upside is limited.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q49",
+      "num": 49,
+      "question": "In a currency swap, the underlying principal amount is exchanged:",
+      "options": {
+        "A": "only at the start of the swap.",
+        "B": "only at the end of the swap.",
+        "C": "both at the start and at the end of the swap."
+      },
+      "answer": "C",
+      "explanation": "In a currency swap, the underlying principal is denominated in different currencies and is typically exchanged at the start and end of the swap.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q50",
+      "num": 50,
+      "question": "All else held equal, the value of a European call option is best characterized as having a:",
+      "options": {
+        "A": "negative relationship with the price of the underlying.",
+        "B": "negative relationship with the volatility of the underlying.",
+        "C": "positive relationship with the time to expiration."
+      },
+      "answer": "C",
+      "explanation": "The value of a European call option is directly related to the time to expiration. That is, all else held equal, the value of a European call option is higher the longer the time to expiration.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q51",
+      "num": 51,
+      "question": "Which of the following derivatives is least likely to be classified as a contingent claim?",
+      "options": {
+        "A": "A futures contract.",
+        "B": "A call option contract.",
+        "C": "A credit default swap."
+      },
+      "answer": "A",
+      "explanation": "A futures contract is classified as a forward commitment in which the buyer undertakes to purchase the underlying asset from the seller at a later date and at a price agreed on by the two parties when the contract is initiated -- not a contingent claim.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q52",
+      "num": 52,
+      "question": "Forward rate agreements are most likely used to hedge an exposure in the:",
+      "options": {
+        "A": "foreign exchange market.",
+        "B": "money market.",
+        "C": "equity market."
+      },
+      "answer": "B",
+      "explanation": "Forward rate agreements are used to hedge interest rate exposure present in the money market.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q53",
+      "num": 53,
+      "question": "An investor notices that the price of an American call option is above the price of a European call option with otherwise identical features. What is the most likely reason for this difference?",
+      "options": {
+        "A": "The options are close to expiration.",
+        "B": "The options are deep in the money.",
+        "C": "The underlying will go ex-dividend."
+      },
+      "answer": "C",
+      "explanation": "American call prices can differ from European call prices only if there are cash flows (dividends) on the underlying.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q54",
+      "num": 54,
+      "question": "If the exercise price of a European put option at expiration is below the price of the underlying, the value of the option is most likely:",
+      "options": {
+        "A": "equal to zero.",
+        "B": "less than zero.",
+        "C": "greater than zero."
+      },
+      "answer": "A",
+      "explanation": "If the exercise price of a European put option is below the underlying price at expiration, the option is worthless and has a value of zero.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q55",
+      "num": 55,
+      "question": "In efficient financial markets, risk-free arbitrage opportunities:",
+      "options": {
+        "A": "will not exist.",
+        "B": "may persist in the long run.",
+        "C": "may exist temporarily."
+      },
+      "answer": "C",
+      "explanation": "In efficient financial markets, risk-free arbitrage opportunities may exist temporarily, but their continuous exploitation will eliminate these arbitrage opportunities in the long run.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q56",
+      "num": 56,
+      "question": "For a forward contract with a value of zero, a situation where the spot price is above the forward price is best explained by high:",
+      "options": {
+        "A": "interest rates.",
+        "B": "storage costs.",
+        "C": "convenience yield."
+      },
+      "answer": "C",
+      "explanation": "If the convenience yield is high, holding the underlying confers large benefits, thus the spot price can exceed the forward price for a forward contract with a value of zero.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q57",
+      "num": 57,
+      "question": "According to put-call-forward parity, if the put in a protective put with forward contract expires out of the money, the payoff is most likely equal to:",
+      "options": {
+        "A": "the market value of the underlying asset.",
+        "B": "zero.",
+        "C": "the face value of a risk-free bond."
+      },
+      "answer": "A",
+      "explanation": "A protective put with a forward contract is defined as a long position in (1) a bond that has a face value equal to the forward contract, (2) a forward contract, and (3) a long position in a put. If the put expires out of the money, the value of the overall position is equal to the market value of the asset: +F0(t) (payoff of bond) + [ST - F0(t)] (payoff of forward) + 0 (payoff of option) = ST (payoff of strategy).",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q58",
+      "num": 58,
+      "question": "A derivative can best be described as a financial instrument that:",
+      "options": {
+        "A": "duplicates the underlying asset's performance.",
+        "B": "transforms the underlying asset's performance.",
+        "C": "passes through the underlying asset's returns."
+      },
+      "answer": "B",
+      "explanation": "The best characterization of a derivative is that it typically transforms the underlying asset's performance.",
+      "answer_source": "text"
+    },
+    {
+      "id": "Q59",
+      "num": 59,
+      "question": "In a credit default swap, the party that receives a series of cash payments in return for promising to pay compensation for credit losses resulting from a third party's default is most likely the:",
+      "options": {
+        "A": "clearinghouse.",
+        "B": "seller of the swap.",
+        "C": "buyer of the swap."
+      },
+      "answer": "B",
+      "explanation": "A credit default swap is a derivatives contract between a credit protection buyer and a credit protection seller in which the seller receives a series of cash payments from the buyer in return for a promise of compensation for credit losses resulting from a third party's default.",
+      "answer_source": "text"
+    }
+  ]
+}

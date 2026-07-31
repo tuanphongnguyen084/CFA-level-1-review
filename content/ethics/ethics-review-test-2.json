@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "ethics-review-test-2",
+  "name": "Ethics Review Test 2 — 40 câu",
+  "group": "2026 Ethics Review Tests",
+  "source": "2026 Ethics Lvl 1 Review Test 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "A requirement that investment professionals act in the best interests of their clients is a:",
+      "options": {
+        "A": "fair dealing standard.",
+        "B": "fiduciary standard.",
+        "C": "suitability standard."
+      },
+      "answer": "B",
+      "explanation": "B is correct. A fiduciary standard requires professionals to use their knowledge and expertise to act in the best interests of their clients.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Which of the following statements is most correct? An ethical decision-making framework:",
+      "options": {
+        "A": "can help reduce unexpected consequences.",
+        "B": "define a series of actions for each possible situation.",
+        "C": "ensure a decision or plan of action does not harm stakeholders."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The integration of ethics into the decision-making process enhances the ability and the motivation of employees to act ethically. An ethical decision-making framework is a tool to improve adherence to a code of ethics and can help to reduce unanticipated ethical lapses and unexpected consequences. B is incorrect because the ethical decision-making process helps facilitate the decision-making process but does not specifically define a series of actions for every possible situation that may arise. C is incorrect because a decision-making framework does not ensure that either a decision or a course of action will safeguard stakeholders. The framework helps one gain a broader perspective so as to create a plan of action that is less likely to harm stakeholders.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following activities would be following a component of the Code of Ethics explicitly?",
+      "options": {
+        "A": "Attending continuing education seminars on investing and inviting colleagues to come along.",
+        "B": "Consulting with colleagues about opinions you reach in your research.",
+        "C": "Maintaining a list of colleagues who have violated the CFA Institute standards."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The Code states that a member shall \"Maintain and improve their professional competence and strive to maintain and improve the competence of other investment professionals.\" None of the other answers qualify.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard relating to knowledge of the law? Members should encourage their firms to:",
+      "options": {
+        "A": "provide written protocols for reporting suspected legal or regulatory violations.",
+        "B": "distribute summaries of applicable security laws to clients at least annually.",
+        "C": "seek the advice of a regulatory agency when in doubt about which action to take regarding potential violations."
+      },
+      "answer": "A",
+      "explanation": "A is correct because recommended procedures for compliance with Standard I(A), Knowledge of the Law, state Establish procedures for reporting violations: Firms might provide written protocols for reporting suspected violations of laws, regulations, or company policies. B is incorrect because recommended procedures for compliance with Standard I(A), Knowledge of the Law, state that pertinent information that highlights applicable laws and regulations might be distributed to employees or made available in a central location. Thus, the recommended procedure is to provide such information to employees and not to clients. C is incorrect because recommended procedures for compliance with Standard I(A) Knowledge of the Law, state that when in doubt about the appropriate action to undertake, it is recommended that a member or candidate seek the advice of compliance personnel or legal counsel concerning legal requirements. If a potential violation is being committed by a fellow employee, it may also be prudent for the member or candidate to seek the advice of the firm's compliance department or legal counsel. The recommended procedures for compliance with Standard I(A) do not suggest seeking advice of regulatory agency personnel.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Tom Cruise, CFA, works in the trust department of a bank. The bank's trust account holds a large block of a particular company. Tom learns that this company is going to buy back one million shares at a 15% premium to the market price on a first-come-first-served basis. Tom immediately tells his mother-in- law to tender her shares but waits until the end of the day to tender the trust's shares. Tom has most likely violated:",
+      "options": {
+        "A": "Standard VI(B), Priority of Transactions.",
+        "B": "Standard IV(A), Loyalty to Employer.",
+        "C": "Standard II(A), Material Nonpublic Information."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard VI(B), Priority of Transactions, applies. If an analyst decides to make a recommendation about the purchase or sale of a security, he must give his customers or employer adequate opportunity to act on this recommendation before acting on his own behalf. Personal transactions include those made for the member's own account and family accounts. Here, Tom violated Standard VI(B) by acting on his mother-in-law's behalf and then waiting until the end of the day to act on his employer's behalf. Standard IV(A), Loyalty to Employer, does not apply. This standard concerns a member competing with his/her employer (independent practice), for example a member who engages in outside consulting. Standard II(A), Material Nonpublic Information, does not apply. The question does not indicate that the information is not public.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Once a supervisor learns that an employee under his supervision has violated the law or the CFA Institute Standards of Professional Conduct, his first step must be to:",
+      "options": {
+        "A": "Warn the employee to cease the activity and report the misconduct up the chain of command.",
+        "B": "Initiate an investigation to ascertain the extent of the wrongdoing.",
+        "C": "Take steps to ensure that the violation will not be repeated."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Once any violation is detected, a supervisor must immediately launch an investigation to determine the extent of the wrongdoing.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard relating to independence and objectivity? Members should encourage their firms to:",
+      "options": {
+        "A": "prohibit any employee participation in equity-related IPOs.",
+        "B": "impose limits on investment personnel acquiring securities in public offerings.",
+        "C": "remove a corporate client company from the research universe and put it on a restricted list if the firm is unwilling to disseminate adverse opinions about the company."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because according to the recommended procedures for compliance with Standard I(B), Independence and Objectivity, create a restricted list if the firm is unwilling to permit dissemination of adverse opinions about a corporate client, members and candidates should encourage the firm to remove the controversial company from the research universe and put it on a restricted list so that the firm disseminates only factual information about the company. A is incorrect because according to the recommended procedures for compliance with Standard I(B). Independence and Objectivity. Members and candidates should encourage their investment firms to develop formal policies related to employee purchases of equity or equity related IPOs. Firms should require prior approval for employee participation to IPOs with prompt disclosure of investment actions taken following the offering. So, the recommendation is to have regulation around IPOs: but not explicitly prohibit them. B is incorrect because according to the recommended procedures for compliance with Standard I(B). Independence and Objectivity. Members and candidates should impose limits on investment personnel acquiring securities in private placements, not in public offerings.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Dwayne Johnson, CFA, is an independent investment advisor. Johnson often makes investment recommendations to clients based on research from several third-party sources. The Code and Standards most likely require Johnson to:",
+      "options": {
+        "A": "disclose to his clients the sources of any third-party research that supports his recommendations.",
+        "B": "make a reasonable effort to verify that the third-party research is sound.",
+        "C": "perform his own research rather than relying on third-party research."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard V(A) Diligence and Reasonable Basis states that members and candidates who rely on third-party research must make reasonable efforts to ensure that the research has a sound basis. According to Standard I(C) Misrepresentation, if members and candidates use third-party research they should disclose this fact to clients, but the Standards do not require disclosure of the specific sources.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Rihanna, is a CFA candidate and an equity research analyst at an independent research firm. Rihanna is contacted by DC, Inc., to write an issuer-paid research report on the firm to increase awareness of DC’s stock amongst the investment community. Which statement best represents how Rihanna should respond to this assignment request? Rihanna should:",
+      "options": {
+        "A": "accept long-term warrants on DC’s stock in lieu of any cash compensation.",
+        "B": "decline to write the report as it will compromise her independence.",
+        "C": "negotiate a flat fee and disclose this relationship in her report."
+      },
+      "answer": "C",
+      "explanation": "C is correct. By negotiating a flat fee, her independence and objectivity would not be questioned as her fee would not be based on the results of her research. In addition, by fully disclosing the relationship in her report she allows the reader to determine if her judgment is compromised. As a result, Rihanna is maintaining compliance with Standard I(B), Independence and Objectivity. B is incorrect because although it needs to be appropriately disclosed, members and candidates are not prohibited from engaging in issuer-paid research. A is incorrect because accepting long-term warrants tied to DC’s stock price would increase the risk that Rihanna is compromising her ability to write an objective research report.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "According to the GIPS standards, a firm must include a terminated composite on the firm's list of composite descriptions for at least:",
+      "options": {
+        "A": "5 years after the composite termination date.",
+        "B": "7 years after the composite termination date.",
+        "C": "10 years after the composite termination date."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Firms must include terminated composites on the firm's list of composite descriptions for at least 5 years after the composite termination date.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "According to CFA Institute Standards of Professional Conduct, an analyst’s investment recommendation and opinions with regard to selling, purchasing and holding securities, disseminated to customers through oral communication is:",
+      "options": {
+        "A": "not allowed.",
+        "B": "only allowed if the information has already been disseminated through other communication channels as well.",
+        "C": "is allowed if the firm has such a dissemination policy for its customers."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard V(B) - Communication with Clients and Prospective Clients, an analyst’s investment recommendation and opinions with regard to selling, purchasing and holding securities may be disseminated to clients through oral communication. Member or candidate is obligated to ensure that information is disseminated in such a manner that all clients have fair opportunity to act on every recommendation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Chris Evans, CFA, an investment manager, is in an advisory relationship with Avenger Corporation. One day he receives a call from the local police, who require some information about Avenger Corporation, as they suspect it to be involved in money laundering. Chris gives them whatever information they required. At the time of the call, Chris was sitting with his coworker, Robert Downey, who overheard the conversation. After leaving Chris’s office, Robert immediately issued a sell recommendation for Avenger to all his clients. Which of the following statements is accurate?",
+      "options": {
+        "A": "Chris violated both Standard III(E): Preservation of Confidentiality and Standard II(A): Material, Non‐public Information.",
+        "B": "Robert violated both Standard III(E): Preservation of Confidentiality and Standard II(A): Material, Non‐public Information.",
+        "C": "Chris violated Standard III(E): Preservation of Confidentiality but did not violate Standard II(A): Material, Non‐public Information."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Chris violated Standard III(E), as he allowed confidential information about his client to reach a coworker. Chris violated Standard II(A), as he failed to prevent the transfer and misuse of material, non‐public information. Robert violated Standard II(A) by acting on material, non‐public information. Robert’s actions did not violate Standard III(E) as he didn’t divulge the client’s confidential information to anyone.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Bruno Mars, a Level I CFA candidate, has decided to enter into a long position of APT stock. Since APT is thinly traded, Bruno is concerned the order will overwhelm the liquidity of APT and the price will surge. Bruno engages in a series of block trades in order to accomplish the purchase. According to Standard II(B), Market Manipulation, Bruno has engaged in:",
+      "options": {
+        "A": "both transaction-based manipulation and information-based manipulation.",
+        "B": "neither transaction-based manipulation nor information-based manipulation.",
+        "C": "transaction-based manipulation, but not information-based manipulation."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Bruno is not in violation of Standard II(B), Market Manipulation. Transaction-based manipulation includes, but is not limited to, transactions that artificially distort prices or volume. Information-based manipulation includes, but is not limited to, spreading false rumors about a firm in order to induce others to trade.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "A member keeps all records supporting his decisions to buy or sell securities, but discards the records not leading to changes in positions. The member keeps some records in hard copy but others in electronic form. Has the member most likely violated the Standard relating to record retention:",
+      "options": {
+        "A": "Yes, by keeping some records in hard copy but others in electronic form.",
+        "B": "Yes, by discarding the records not leading to changes in positions.",
+        "C": "No."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Because according to Standard V (C), Record Retention, The retention requirement applies to decisions to buy or sell a security as well as reviews undertaken that do not lead to a change in position. A and C are incorrect because records may be maintained either in hard copy or electronic form.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Taylor Swift, a candidate in the CFA program, is an analyst for a mutual fund. As part of her job, she makes company visits to interview executives. On a recent trip she stayed with her sister instead of at a hotel. In her expenses Swift included a hotel charge of $100, which was less than the amount allowed by her employer. After receiving a check for her expenses, Swift disclosed to her supervisor that she had stayed with her sister instead of at a hotel. She also returned the $100 to her employer. According to CFA Institute Standards of Professional Conduct, which of the following statements best describes Swift’s professional conduct?",
+      "options": {
+        "A": "Swift engaged in professional misconduct.",
+        "B": "Swift did not engage in professional misconduct because she eventually disclosed this information and returned the $100 to her employer.",
+        "C": "Swift did not engage in professional misconduct because she did not meet all of the requirements to use the CFA designation."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Swift engaged in professional misconduct because her act involved dishonesty, fraud, and deceit.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "According to the CFA Institute Standards of Professional Conduct, who is most likely responsible for maintaining the records that support investment actions?",
+      "options": {
+        "A": "The chief compliance officer.",
+        "B": "Research analysts.",
+        "C": "The firm."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to the recommended procedures for compliance with CFA Institute Standard V(C): Record Retention, the responsibility to maintain records that support investment action generally lies with the firm, rather than individuals. Members and candidates must, however, archive research notes and documents that support their investment-related communications, all of which belong to the firm. Archiving will assist firms in complying with this requirement for preservation of internal or external records.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "To use a quantitative model in her investment research, a member is required by the Standards to:",
+      "options": {
+        "A": "have developed or co-developed the model.",
+        "B": "become an expert in every technical aspect of the model developed by others.",
+        "C": "understand the assumptions and limitations inherent in the model developed by others."
+      },
+      "answer": "C",
+      "explanation": "C is correct. According to Standard V(A), Diligence and Reasonable Basis, Members and candidates need to have an understanding of the parameters used in models and quantitative research that are incorporated into their investment recommendations. Although they are not required to become experts in every technical aspect of the models, they must understand the assumptions and limitations inherent in any model and how the results were used in the decision-making process. Therefore, to use quantitative models in her investment research, a member is required to understand the assumptions and limitations inherent in the model developed by others.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Katy Perry meets with a new client. During the meeting, Perry sees that the new client’s portfolio is heavily invested in one over-the-counter stock. Perry has been following the stock and thinks it will perform well in the long run. Perry arranges through a brokerage firm to simultaneously sell a large number of shares of the stock via a series of cross trades from the new client's portfolio to various existing clients. She arranges the trades to be executed at a price that approximates the current market price. This action is:",
+      "options": {
+        "A": "a violation of Standard III(A), Loyalty, Prudence, and Care.",
+        "B": "a violation of Standard III(B), Fair Dealing.",
+        "C": "not in violation of the Standards."
+      },
+      "answer": "C",
+      "explanation": "C is correct. It is in the best interest of the client to be diversified and selling via a series of cross trades will likely reduce price impact costs when compared to selling directly into the market. Perry appears to have reasonable basis for putting the securities in the accounts of other clients.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A member claims a professional designation she has not earned. This action most likely violates the Standard(s) relating to:",
+      "options": {
+        "A": "both misrepresentation and misconduct.",
+        "B": "misrepresentation only.",
+        "C": "misconduct only."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because actions involving unearned designations are violations of Standard I(C), Misrepresentation but also Standard I(D), Misconduct. The Standard relating to misrepresentation prohibits members from misrepresenting any aspect of their qualifications or credentials, their firm’s qualification and credentials, their performance record and the record of their firm, and the characteristics of an investment. Action regarding claiming unearned designations is misrepresenting their qualifications. The standard relating to misconduct requires, Members and Candidates must not engage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that reflects adversely on their professional reputation, integrity, or competence. Actions regarding unearned designations are dishonest, an act of fraud and deceitful and will reflect adversely on a person's professional reputation, integrity and competence.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Adam Levine, CFA, is an equity research analyst at Maroon 5 Research. Adam solely authors an annual automotive sector report. After Maroon 5 Research issues the report, Adam leaves Maroon 5 Research to become an independent research analyst. Adam intends to reissue the report for distribution to his new clients. According to Standard I(C), who has the right to re-issue the report?",
+      "options": {
+        "A": "Adam only.",
+        "B": "Maroon 5 Research only.",
+        "C": "Both Adam and Maroon 5 Research."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard I(C), Misrepresentation, the firm retains the right to continue using the work completed after a member or candidate has left the organization. The firm may issue future reports without providing attribution to the prior analysts.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Scarlett Johansson, CFA, works at Warner Bros Ltd. When presenting to Warner Bros’s prospective clients, Johansson uses a brief investment performance summary and makes available detailed supporting information only upon client request. Has Johansson violated the Standards?",
+      "options": {
+        "A": "Yes, the Standard relating to fair dealing.",
+        "B": "Yes, the Standard relating to performance presentation.",
+        "C": "No."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because according to Standard III(D), Performance Presentation, if the presentation is brief, the member or candidate must make available to clients and prospects, on request, the detailed information supporting that communication. By making available detailed supporting information on request, Johansson does not violate Standard III(D). In addition, Johansson does not violate Standard III(B), Fair Dealing, which states that members and Candidates must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "According to the recommended procedures for compliance with the Standard relating to diligence and reasonable basis, members should encourage their firms to:",
+      "options": {
+        "A": "evaluate the adequacy of subadvisors by customizing the evaluation criteria for each advisor.",
+        "B": "establish maximum levels of scenario testing of all computer-based models used in evaluating financial instruments.",
+        "C": "appoint a supervisory analyst to determine whether research reports have a reasonable and adequate basis prior to external circulation."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because according to the recommended procedures for compliance with Standard V (A), Diligence and Reasonable Basis, members and candidates should encourage their firms to establish a policy requiring that research reports, credit ratings, and investment recommendations have a basis that can be substantiated as reasonable and adequate. An individual employee (a supervisory analyst) or a group of employees (a review committee) should be appointed to review and approve such items prior to external circulation to determine whether the criteria established in the policy have been met. Therefore, appointing a supervisory analyst to determine whether research reports have a reasonable and adequate basis, before circulating the reports externally, is a recommended procedure for compliance with Standard V(A). A is incorrect because according to the recommended procedures for compliance with Standard V (A), Diligence and Reasonable Basis, members and candidates should encourage their firms to adopt a standardized set of criteria for evaluating the adequacy of subadvisors. Therefore, customizing the evaluation criteria for each subadvisor is not a recommended procedure for compliance wits Standard V (A). B is incorrect because according to the recommended procedures for compliance with Standard V (A). Diligence and Reasonable Basis, members and candidates should encourage their firms to develop derailed written guidance that establishes minimum levels of scenario testing of all computer-based models used in developing rating, and evaluating financial instruments. Therefore establishing maximum levels of scenario testing is incorrect.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "In accordance with Standard III (A) Loyalty, Prudence and Care, which of the following statements is NOT a required or recommended action?",
+      "options": {
+        "A": "Disclose the questionable matter in writing to the client and obtain client approval.",
+        "B": "Utilize client brokerage to the benefit of the client.",
+        "C": "Vote all proxies on behalf of clients in a responsible manner."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because of the time and expense involved in voting a proxy, Members and Candidates are not required to vote every proxy. A cost benefit analysis can be performed to determine if it is necessary to vote a proxy. Standard III(A) requires that client brokerage be used to benefit the client. Quarterly statements to clients are recommended.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "Brad Pitt is an investor-relations consultant for several small companies that are seeking greater exposure to investors. He is also the program chair for the CFA Institute society in the city where he works. Pitt schedules only companies that are his clients to make presentations to the society and excludes other companies. Has Pitt violated the Standards?",
+      "options": {
+        "A": "No.",
+        "B": "Yes, related to Standard VII(A) Conduct As Participants In CFA Institute Programs.",
+        "C": "Yes, related to Standard III(B) Fair Dealing."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Pitt, by using his volunteer position at CFA Institute to benefit himself and his clients, compromises the reputation and integrity of CFA Institute and thus violates Standard VII(A).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Which of the following statements is most accurate? In countries where regulations conflict with, or contradict, the GIPS standards, firms that claim compliance are required to comply with:",
+      "options": {
+        "A": "local regulations with full disclosure of the conflict.",
+        "B": "the stricter of local regulations or the GIPS standards.",
+        "C": "the GIPS standards with full disclosure of the conflict."
+      },
+      "answer": "A",
+      "explanation": "A is correct. because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Miley Cyrus, CFA, is a portfolio manager at a wealth management firm. Cyrus has an arrangement with a lawyer, whereby she refers clients who need legal advice to the lawyer, who in turn refers clients to Cyrus. Because no referral fees are involved, Cyrus does not disclose this arrangement to her existing or prospective clients. Has Cyrus most likely violated the Standards?",
+      "options": {
+        "A": "Yes, both by failing to disclose the arrangement to existing clients and to prospective clients.",
+        "B": "Yes, only by failing to disclose the arrangement to existing clients.",
+        "C": "No."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because according to Standard VI(C), Referral Fees, members must disclose to clients and potential clients any referral arrangements and must disclose all consideration. \"Consideration includes all fees, whether paid in cash, in soft dollars, or in-kind.\" Thus, Cyrus would need to disclose the full bi-lateral referral arrangement to both clients and prospective clients.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Adele, CFA, works as an equity analyst and has recently taken over the coverage of North American bank research. The previous analyst for the sector has been promoted to head of equity research and has asked Adele to maintain recommendations for most of the covered banks. As this is common practice in her firm, Adele agrees to this request. In maintaining the recommendations, which of the following statements is most correct? Adele has:",
+      "options": {
+        "A": "not violated CFA standards, as there is a reasonable basis for the recommendation.",
+        "B": "not violated CFA standards, as she is following company practices.",
+        "C": "violated CFA standards."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Adele should only issue recommendations based on her own independent judgement. In maintaining the recommendations, she is likely to be violating the Standard I(B) Independence and Objectivity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "G-Dragon, CFA, is an equity analyst. He recently left his job at Bigbang to join One Direction. G- Dragon obtains the express consent of Bigbang to take one of his historical research reports with him. At One Direction he diligently updates and publishes the report. Afterwards, he re-creates supporting records from memory for record keeping purposes. Has G-Dragon violated the Standards?",
+      "options": {
+        "A": "Yes, by re-creating supporting records from memory.",
+        "B": "Yes, by publishing the updated research report.",
+        "C": "No."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Because according to Standard V(C), Record Retention, a member must not re-create supporting records from memory. Standard V(C), Record Retention, states that the member or candidate cannot use historical recommendations or research reports created at the previous firm because the supporting documentation is unavailable. For future use, the member or candidate must re-create the supporting records at the new firm with information gathered through public sources or directly from the covered company and not from memory or sources obtained at the previous employer.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Leonardo DiCaprio is registered for the CFA Level I exam. A few weeks after registration, he realizes that he is unable to prepare for the exam due to work commitments, so he informs CFA Institute that he declines to sit for the exam. Afterwards, shortly before the exam date, he posts on social media that he is a CFA candidate. Separately, Vin Diesel, CFA, posts his investment views anonymously on social media and tags his post using “#CFAcharter.” Who has violated the Standards?",
+      "options": {
+        "A": "DiCaprio only.",
+        "B": "Diesel only.",
+        "C": "Both DiCaprio and Diesel."
+      },
+      "answer": "C",
+      "explanation": "C is correct. because according to Standard VII(B), Reference to CFA Institute, the CFA Designation and the CFA Program, Diesel violates Standard VII(B) because where individuals may anonymously express their opinions, pseudonyms or online profile names created to hide a member's identity should not be tagged with the CFA designation. DiCaprio violates Standard VII(B) because if an individual is registered for the CFA Program but declines to sit for an exam or otherwise does not meet the definition of a candidate as described in the CFA Institute Bylaws, then that individual is no longer considered an active candidate.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "To comply with Standard III(B): Fair Dealing, an investment manager is most likely required or recommend to:",
+      "options": {
+        "A": "Treat all clients equally when disseminating investment recommendations.",
+        "B": "Execute clients’ orders on a first-in, first-out basis, with consideration given to bundling orders for efficiency.",
+        "C": "Communicate material changes in investment advice to only the clients who the member knows have acted on the earlier advice."
+      },
+      "answer": "B",
+      "explanation": "B is correct. All clients cannot be treated equally because it is not possible for members to reach all clients at the same time. The investment manager is required to communicate material changes in investment advice to all current clients, not just those who may have acted on or been affected by earlier advice.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Lee Min Ho, CFA, a retail stock broker, notices that one client in particular, Song Hye Kyo, Ph.D., is especially adept at picking stocks. Lee decides to replicate Song’s trades in his own account after he enters them. By doing so, Lee:",
+      "options": {
+        "A": "is not in violation of any Standards.",
+        "B": "is in violation of the Standard on priority of transactions because he is front running the client’s account.",
+        "C": "is in violation of the Standard on misconduct because he has misappropriated confidential client information."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Lee is not in violation of the Standards. To comply with Standard VI(B) Priority of Transactions, members and candidates must give transactions for clients and employers priority over their personal transactions. In this instance, Lee did not adversely affect the client's interest because the client's trades were executed before Lee copied them. He has not acted fraudulently or deceitfully and, thus, has not violated Standard I(D) Misconduct.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Megan Fox, CFA, is a portfolio manager at Fox Investments. Her firm is allocated a very significant number of shares in the IPO of Marvel Ltd., a company that Fox is very bullish on. Excited by the prospect of earning an excellent return for her clients, Fox allocates the shares evenly across all accounts under management including those of her relatives. Fox most likely:",
+      "options": {
+        "A": "Violated Standard III(A): Loyalty, Prudence and Care.",
+        "B": "Violated Standard III(C): Suitability.",
+        "C": "Has not violated the Code and the Standards."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Fox violated Standard III(C) because she did not evaluate the suitability of the investment for each account under her management. Each investor has unique return objectives and risk tolerance levels.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "According to the Code and Standards, members and candidates who are involved in distributing an initial public offering (IPO) of equity shares and wish to participate in the IPO:",
+      "options": {
+        "A": "may participate unless the IPO is oversubscribed.",
+        "B": "may not participate because this creates a conflict of interest.",
+        "C": "must obtain pre-clearance from a supervisor before participating."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Standard VI(B) Priority of Transactions recommends, but does not require, that a member or candidate obtain pre-clearance from his or her supervisor before participating in an equity IPO. Guidance for Standard III(B) Fair Dealing states that members and candidates distributing IPO shares must distribute shares in an oversubscribed IPO to clients and may not withhold shares for themselves.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which of the following is least likely an appropriate use of the CFA designation?",
+      "options": {
+        "A": "Lady Gaga, as a CFA charterholder, expects to outperform the market because CFA charterholders have on average outperformed their peers.",
+        "B": "Beyonce states that the CFA designation, which is only awarded after passing three rigorous exams, represents a commitment to the highest standards of ethical and professional conduct.",
+        "C": "Britney Spears has earned the CFA designation by passing three exams, all three on her first attempts."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard VII(B), Reference to CFA Institute, the CFA Designation and the CFA Program, members may not over-promise their performance as CFA charterholders. They may follow their name with the designation and describe, factually, the requirements for becoming a charterholder.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Lisa is an investment manager at Blackpink Securities and often uses BTS brokerage services for her clients. Rose, Lisa’s client, has directed her to use the services of 2NE1 Brokerage House for her. Lisa believes that BTS offers best price and better research reports compared to 2NE1. The best course of action for Lisa is to use the services of:",
+      "options": {
+        "A": "BTS for all of her clients as she is obligated to seek best price and best execution.",
+        "B": "2NE1 for Rose and should disclose to her that she may not be getting best execution.",
+        "C": "BTS for all his clients as brokerage commission is the asset of the Blackpink and will be used to maximize the value of client’s portfolio."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Brokerage commission is an asset of the client and is used to benefit the client. Although members and candidates are obligated to seek best price and best execution, in the case of client directed brokerage arrangements, the client directs the manager to use services of a specific broker. The member or candidate should disclose to the client if the member or candidate believes that the brokerage is not offering best price and/or execution.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "Shakira has just approached Ed Sheeran, CFA, about purchasing 10,000 shares of The Beatles Co., a newly incorporated real estate development firm. Shakira is a retired schoolteacher living off the income from her late husband’s life insurance policy. This investment will represent a significant shift in her investment portfolio. Sheeran believes this trade is unsuitable with respect to Shakira’s investment policy statement. Consistent with the Standards, Sheeran should most appropriately:",
+      "options": {
+        "A": "discuss with Shakira whether she wishes to update her investment policy statement.",
+        "B": "follow his firm’s procedures for obtaining Shakira’s approval to carry out the unsolicited trade request.",
+        "C": "not accept the order, because it is not a suitable investment for Shakira."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the guidance for Standard III(C) Suitability, a member who receives an unsolicited trade request that is not suitable for the client should discuss the trade with the client before carrying it out. The nature of this discussion depends on whether the trade has a material effect on the client's portfolio. Because this trade will have a material effect, Sheeran's most appropriate action is to discuss with the client whether this trade request reflects a change in her investment objectives and risk tolerance and thus whether she wishes to update her IPS.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "According to the Standard relating to loyalty, members must:",
+      "options": {
+        "A": "place their employer's interest above their personal interests in all matters.",
+        "B": "never act against their employer's interests when complying with their duties to clients.",
+        "C": "notify their employer before engaging in an independent practice while still employed."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because although Standard IV(A) Loyalty does not preclude members or candidate from entering into independence practice while still employed, members and candidates who plan to engage in independent practice for compensation must notify their employer and describe the types of services they will render to prospective clients, the expected duration of the services, and the nature of the services. Members and candidates should not render services unless they receive consent from their employer to all of the terms of the arrangement. A is incorrect because according to Standard IV(A), Loyalty, this standard is not meant to be a blanket requirement to place employer interests ahead of personal interests in all matters. The standard does not require members and candidates to subordinate important personal and family obligations to the employer. B is incorrect because according to Standard IV(A), Loyalty, circumstances may arise (e.g., when an employer is engaged in illegal or unethical activity) in which members and candidates must act contrary to their employer's interests in order to comply with their duties to the market and clients. In such instances, activities that would normally violate a member's or candidate's duty to his or her employer (such as contradicting employer Instructions, violating certain policies and procedures, or preserving a record by copying employer records) may be justified.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following is least likely a violation of Standard V(B): Communication with Clients and Prospective Clients?",
+      "options": {
+        "A": "An analyst recommends an investment to a client without going into specific details because she feels that the client would not be able to understand the complex models involved.",
+        "B": "An analyst divulges confidential information about current clients to prospective clients.",
+        "C": "An analyst states his strong beliefs as facts in a research report."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Divulging confidential information about a client to prospective clients is a violation of Standard III(E): Preservation of Confidentiality. The other two statements describe violations of Standard V(B).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "The purpose of composites in a GIPS-compliant performance presentation is to:",
+      "options": {
+        "A": "present overall firm performance in a single statistic that is comparable across firms.",
+        "B": "provide information about a firm’s performance in various asset classes or investment strategies.",
+        "C": "clearly distinguish the entity that is presented to the public as a GIPS-compliant firm."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The purpose of composites is to give clients and prospects information about a firm's past performance managing investments in various asset classes or investment strategies.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Which of the following is not a key concept of the GIPS standards? The GIPS standards for firms:",
+      "options": {
+        "A": "require the use of composites.",
+        "B": "address every aspect of performance measurement.",
+        "C": "rely on the integrity of input data."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to the GIPS standards, the GIPS standards do not address every aspect of performance measurement. Therefore, it is not a key concept of the GIPS standards to address every aspect of performance measurement. A is incorrect because according to the GIPS standards one of the key concepts of the standards is the required uses of composites. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. Therefore, it is a key concept that the GIPS standards require to aggregate one or more portfolios managed according to similar investment strategies in a composite. C is incorrect because according to the GIPS standards, the GIPS standards rely on the integrity of input data, the quality of which is critical to creating accurate performance presentations. Therefore, it is a key concept to rely on the integrity of input data.",
+      "answer_source": "red"
+    }
+  ]
+}

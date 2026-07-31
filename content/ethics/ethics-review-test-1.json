@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "ethics-review-test-1",
+  "name": "Ethics Review Test 1 — 40 câu",
+  "group": "2026 Ethics Review Tests",
+  "source": "2026 Ethics Lvl 1 Review Test 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following best distinguishes ethical conduct from legal conduct? Ethical conduct typically:",
+      "options": {
+        "A": "is narrow in scope.",
+        "B": "follows an existing market practice.",
+        "C": "considers and benefits multiple stakeholders."
+      },
+      "answer": "C",
+      "explanation": "C is correct because ethical conduct typically considers and provides benefits to multiple stakeholders. Ethical conduct requires actively considering the interests of all stakeholders and tries to benefit multiple stakeholders, including clients, employers, and all market participants, and minimizes risks A is incorrect because as opposed to ethical conduct, legal conduct is based on legal requirements that are typically narrow in scope. Regulators' and legislatures' responses typically take significant time, during which the problematic practice may continue or even become more common. Once enacted, a new regulation or law may be vague, conflicting, or too narrow in scope. B is incorrect because legal conduct, as opposed to ethical conduct, typically follows market practices. Regulators may proactively design laws and regulations to address existing or anticipated practices that may adversely affect the fairness and efficiency of markets or reactively design laws and regulations in response to a crisis.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Ethics least likely refers to:",
+      "options": {
+        "A": "the study of good and bad behavior.",
+        "B": "a person’s beliefs about right and wrong behavior.",
+        "C": "moral principles to guide behavior."
+      },
+      "answer": "B",
+      "explanation": "B is correct. An individual's beliefs are not ethics as it is used in the Level I CFA curriculum. Ethics are described as commonly accepted principles of good and bad behavior and the study of good and bad behavior.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Common situational influences in the investment industry that can shape thinking and behavior least likely include:",
+      "options": {
+        "A": "loyalty.",
+        "B": "money.",
+        "C": "fear."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Money and prestige are common situational influences in the investment industry that can shape thinking and behavior. Another powerful situational influence is loyalty. Loyalty to supervisors, organizations, fellow employees or colleagues can also tempt individuals to narrowly focus on short-term factors.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "According to the Standard relating to avoid or disclose conflicts, a member must:",
+      "options": {
+        "A": "avoid all actual and potential conflicts of interest.",
+        "B": "place a company on a restricted list and issue factual information about the company if the member's firm holds options on the company's shares.",
+        "C": "provide clients and prospective clients with information needed to evaluate the objectivity of investment advice given by the member."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard VI(A), Disclosure of Conflicts requires members and candidates to make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer and protects investors and employers by requiring members and candidates to fully disclose to clients, potential clients, and employers all actual and potential conflicts of interest. Once a member or candidate has made full disclosure, the member's or candidate's employer, clients, and prospective clients will have the information needed to evaluate the objectivity of the investment advice or action taken on their behalf. A is incorrect because Standard VI(A), Disclosure of Conflicts requires members and candidates to make full and fair disclosure (not avoid) of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer and protects investors and employers by requiring members and candidates to fully disclose to clients, potential clients, and employers all actual and potential conflicts of interest. B is incorrect because according to the recommended procedure for compliance with Standard VI(A), Avoid or Disclose Conflicts, if a member, a candidate, or a member's or candidate's firm has outstanding agent options to buy stock as part of the compensation package for corporate financing activities, the amount and expiration date of these options should be disclosed as a footnote to any research report published by the member's or candidate's firm. Therefore, a member need not place the company on a restricted list and issue factual information about the company if the member's firm holds options on the company's shares.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following is least likely required by the CFA Institute Code of Ethics? Members and candidates must:",
+      "options": {
+        "A": "strive to maintain and improve the competence of their clients.",
+        "B": "practice and encourage others to practice in a professional and ethical manner.",
+        "C": "place the integrity of investment profession and interests of clients above their own personal interests."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The members and candidates must strive to maintain and improve the competence of other investment professionals.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard relating to loyalty, prudence, and care? Members should:",
+      "options": {
+        "A": "eliminate all actual and potential conflicts of interest.",
+        "B": "submit to each client, at least annually, an itemized statement showing the funds and securities in custody.",
+        "C": "make their clients aware of all forms of manager compensation."
+      },
+      "answer": "C",
+      "explanation": "C is correct because a recommended procedure for Standard III (A), Loyalty, Prudence, and Care is members and candidates should make their clients aware of all forms of manager compensation. A is incorrect because a recommended procedure for Standard III (A). Loyalty, Prudence, and Care is members and candidates must disclose all actual and potential conflicts of interest so that clients can evaluate those conflicts. They do not need to eliminate all actual and potential conflicts of interest. B is incorrect because a recommended procedure for Standard III (A), Loyalty, Prudence, and Care is members and candidates with control of client assets (1) should submit to each client, at least quarterly, an itemized statement showing the funds and securities in the custody. It is a recommended procedure to submit at least quarterly, not annually, itemized statements to clients.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Regarding non-public information, which one of the following statements is NOT correct?",
+      "options": {
+        "A": "Disclosing material non-public information would have an impact on the price of a security or be of interest to a reasonable investor.",
+        "B": "An analyst may use some types of non-public information.",
+        "C": "A member can be summarily suspended for having received material nonpublic information."
+      },
+      "answer": "C",
+      "explanation": "C is correct. All of these are true except that a member can be suspended for having received material non-public information. The member can receive such information as part of their regular duties or by accident. Neither is punishable in and of itself, and penalties only apply if the member trades or causes others to trade on the information. The member may have certain duties, such as trying to disseminate the information after receiving it. An analyst may use non-material non-public information.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "A member would most likely violate the Standard regarding duties to clients by:",
+      "options": {
+        "A": "adding a risky derivative security to the portfolio of a client with moderate risk tolerance.",
+        "B": "executing a client order for a security the member believes is greatly overvalued.",
+        "C": "recommending purchase of securities without a reasonable inquiry into the investment experience of the client."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard III(C) Suitability requires members acting as advisors to make a reasonable inquiry into the client's investment experience, risk and return objectives, and financial constraints before making investment recommendations. Investment decisions must be made based on a total portfolio approach, rather than the quality of an individual investment in isolation. Some members are not acting as investment advisors and may only have a duty to provide best execution of client orders.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "BlackRock recently had a trading error in a customer account that was subsequently discovered by BlackRock. The firm felt embarrassed by the disclosure of this error, and, in order to induce the client to continue its relationship, BlackRock offers the client preferential access to a new issue that is expected to be \"hot.\" Which Standard is violated, if any?",
+      "options": {
+        "A": "The Standard concerning Fiduciary Duty.",
+        "B": "The Standard concerning Fair Dealing.",
+        "C": "The Standard concerning Independence and Objectivity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. BlackRock is in violation of the Standard concerning Fair Dealing by offering the client preferential access to a \"hot\" new issue. There is no obvious violation of Fiduciary Duty, since there is no evidence that BlackRock is placing its own financial interest ahead of the client.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following activities violates the Standard relating to market manipulation? • Activity 1: A member secures a dominant position in futures contracts to influence the price of the underlying. The results in large losses for the member. • Activity 2: A member frequently trades a stock in multiple client stock accounts with an intent to increase the volume of the transaction. The transactions result in large gains for the clients.",
+      "options": {
+        "A": "Activity 1 only",
+        "B": "Activity 2 only",
+        "C": "Both Activity 1 and Activity 2"
+      },
+      "answer": "C",
+      "explanation": "C is correct. because according to Standard II(B), Market Manipulation, transaction-based manipulation includes, but is not limited to, the following: transactions that artificially affect prices or volume to give the impression of activity or price movement in a financial instrument, which represent a diversion from the expectations of a fair and efficient market, and securing a controlling, dominant position in a financial instrument to exploit and manipulate the price of a related derivative and/or the underlying asset. Also, the intent of the action is critical to determining whether it is a violation of this standard.\" Despite the losses, Activity 1 is a violation of Standard II(B) because the intent was to influence the price of the underlying. Activity 2 is also a violation as the intent was to increase the volume of the stock.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Elon Musk is a portfolio manager. He is planning to establish his own money management firm. He has already informed his employer, Tesla, about his plans. In his remaining time at Tesla, he can:",
+      "options": {
+        "A": "solicit Tesla colleagues but not Tesla clients.",
+        "B": "start the registration of his new company.",
+        "C": "inform his current clients about his resignation and let them know how to reach him, in case any problems arise in the future."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The only action that will not breach Standard IV(A) Loyalty to Employer, is to start the registration of his new company.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following is least likely to violate Standard VII (B): Reference to CFA Institute, the CFA Designation and the CFA Program?",
+      "options": {
+        "A": "A trader has passed CFA level 1 exam and referred to himself as a CFA level 2 candidate.",
+        "B": "An investment manager stating, “Completion of the CFA program has enhanced my portfolio management skills.”",
+        "C": "A Level III candidate referring to herself as CFA, Level II."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The other two choices are violations of Standard VII(B).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Vladimir Putin, CFA, is an investment advisor whose prospective client, Xi Jinping, presents special requirements. To construct an investment policy statement for Xi, Putin inquires about Xi’ investment experience, risk and return objectives, and financial constraints. Xi states that he has a great deal of investment experience in the capital markets and does not wish to answer questions about his tolerance for risk or his other holdings. Under Standard III(C), Suitability, Putin:",
+      "options": {
+        "A": "must decline to enter into an advisory relationship with Xi.",
+        "B": "may accept Xi’ account but may only manage his portfolio to a benchmark or index.",
+        "C": "is permitted to manage Xi’ account without any knowledge of his risk preferences."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Putin would not violate Standard III(C), Suitability, by managing Xi’ account without knowledge of his risk preferences. He made a reasonable inquiry into Xi’ investment experience, risk and return objectives, and financial constraints, as the Standard requires. If a client chooses not to provide some of this information, the member or candidate can only be responsible for assessing the suitability of investments based on the information the client does provide.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "If a CFA Institute member knows that a fellow member has violated the Code and Standards, according to Standard I(A) the member is:",
+      "options": {
+        "A": "required to report the activity.",
+        "B": "required to dissociate from the activity and strongly encouraged to report it.",
+        "C": "strongly encouraged to dissociate from the activity."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard I(A) does not require a CFA Institute member to report potential violations by others, but \"strongly encourages members and candidates to report potential violations of the Code and Standards committed by fellow members and candidates.\"",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Which of the following is a violation of the Standard relating to conduct as participants in CFA Institute Programs? A candidate:",
+      "options": {
+        "A": "discusses broad topic areas covered in the curriculum in an online forum.",
+        "B": "publishes on a social media website her disappointment about what she thinks is an overly academic CFA Program.",
+        "C": "tells her brother, after taking the exam, how glad she was that no questions about the binomial model were asked."
+      },
+      "answer": "C",
+      "explanation": "C is correct because according to Standard VII (A) Conduct as Participants in CFA Institute Programs, CFA Institute program rules, regulations, and policies prohibit candidates from disclosing confidential material gained during the exam process. Examples of information that cannot be disclosed by candidates sitting for an exam include but are not limited to broad topical areas and formulas tested or not tested on the exam. Therefore, the candidate has violated Standard VII (A) by telling her brother how glad she was that no questions about the binomial model were asked. A is incorrect because Standard VII (A), Conduct as Participants in CFA Institute Programs, does not prohibit candidates from discussing nonconfidential information or curriculum material with others or in study groups in preparation for the exam. Therefore, the candidate has not violated Standard VII(A) by discussing broad topic areas covered in the curriculum in an online forum. B is incorrect because Standard VII (A), Conduct as Participants in CFA Institute Programs, does not cover expressing opinions regarding CFA Institute, the CFA Program, or other CFA Institute programs. Members and candidates are free to disagree and express their disagreement with CFA Institute on its policies, its procedures, or any advocacy positions taken by the organization. When expressing a personal opinion, a candidate is prohibited from disclosing content-specific information, including any actual exam question and the information as to subject matter covered or not covered in the exam. Therefore, the candidate has not violated Standard VII (A) by publishing on a social media website her disappointment about what she thinks is an overly academic CFA. Program.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "Standard VI(C), Referral Fees, requires the member to do all of the following except:",
+      "options": {
+        "A": "disclose to the referred client how much the referral source was paid to refer the client.",
+        "B": "disclose to the referred client the percentage of the member's business that comes from referrals.",
+        "C": "make required disclosures to the referred client before an agreement is made to provide services to the referred client."
+      },
+      "answer": "B",
+      "explanation": "B is correct. The applicable Standard, VI(C), does not require a member to disclose the percentage of their business that comes from referrals. Standard VI(C) states, \"Members shall disclose to clients and prospects any consideration or benefit received by the member or delivered to others for the recommendation of any services to the client or prospect.\" Appropriate disclosure means telling the client or prospect, before agreeing to perform services, of any benefit given or received for recommending the member's services.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Jensen Huang, who is a member of CFA Institute, states that, \"Our aggressive growth fund produced a 12% annualized return last quarter. This illustrates the superior results our firm produces.\" The fund return stated by the manager is accurate. Is this a violation of Standard III(D) Performance Presentation?",
+      "options": {
+        "A": "No, because a brief summary of results is acceptable as long as more complete information is made available.",
+        "B": "No, because the manager has stated a fact.",
+        "C": "Yes."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard III(D) requires that members communicate performance in a fair, accurate, and complete fashion, and covers both written and oral communication. Implying that the return produced by a single fund during one quarter is typical of a firm's performance is a violation of this Standard.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "According to the Standards, which of the following is most likely considered material nonpublic information?",
+      "options": {
+        "A": "The recent execution of a large buy order from a hedge fund.",
+        "B": "Recent increases in a company's board remuneration discussed at the annual general meeting.",
+        "C": "Significant legal challenges revealed at an internal meeting of the company's management."
+      },
+      "answer": "C",
+      "explanation": "C is correct because according to Standard II(A) Material Nonpublic Information, material information may include, but is not limited to, information on the following: significant legal disputes. A is incorrect because according to Standard II(A) Material Nonpublic Information, information regarding orders before execution may be material, but not after execution. Material information may include, but is not limited to, information on the following: orders for large trades before they are executed. B is incorrect because according to Standard II(A) Material Nonpublic Information, information discussed at an annual general meeting is not nonpublic since the information is widely available. Information is 'nonpublic' until it has been disseminated or is available to the marketplace in general (as opposed to a select group of investors).",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Mark Zuckerberg, CFA, manages Meta fund with an objective to emphasize income over capital gains. Dell is a growth stock that pays no dividend, but Meta's research department believes the stock will dramatically outperform the S&P 500 over the next 12 to 18 months. Based on this strong recommendation, Zuckerberg adds Dell stock to his fund's portfolio. Zuckerberg has:",
+      "options": {
+        "A": "violated the Standards by relying on research that he did not perform himself.",
+        "B": "violated the Standards by failing to comply with his portfolio’s style mandate.",
+        "C": "not violated the Standards and improved the diversification of the fund."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Standard III(C) Suitability requires that members managing portfolios take investment actions that are consistent with their portfolio's stated objectives and constraints. The fund's mandate emphasizes income over capital gains. Adding a non-dividend paying stock to the portfolio is a departure from that mandate.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Tim Cook, CFA, develops a trading model while working for Apple, an investment management firm. By working on the model at home from his personal computer, Cook is able to devote additional work hours. Although the trading model is successful, Cook loses his job in a company restructuring, and decides to start his own practice using the trading model. Cook is most likely:",
+      "options": {
+        "A": "in violation of the Standards because he did not have permission to build the trading model using his home computer.",
+        "B": "in violation of the Standards because he did not receive permission from his employer to keep or use the files after employment ended.",
+        "C": "not in violation of the Standards because the trading model was created using his home computer."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Cook is in violation of Standard IV(A) \"Loyalty.\" Employer records include items stored in any medium including home computers.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "In the course of reviewing Starbuck, an analyst has received comments from management that, while not meaningful by themselves, when pieced together with data he has accumulated from outside sources, lead him to recommend placing Starbuck on his firm's sell list. What should the analyst do?",
+      "options": {
+        "A": "Not issue the report until the comments are publicly announced.",
+        "B": "The comments are non-material and the report can be issued as long as he maintains a file of the facts as supplied by management.",
+        "C": "Show his report to his own manager and counsel for their review since this information has become material once it was combined with his analysis."
+      },
+      "answer": "B",
+      "explanation": "B is correct. This is an example of the mosaic theory where separate pieces of nonmaterial information are pieced together to make an investment recommendation.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Donald Trump, CFA works for a large investment firm and Barack Obama is a client of his firm. They are also long-time friends since college. Through his friendship, Trump knows Obama is planning to buy a vacation home. Trump informs a colleague at his firm about Obama’s plan, because the colleague's wife is a licensed real estate broker. With respect to Standard III(E) Preservation of Confidentiality, this action:",
+      "options": {
+        "A": "violates the Standard unless Obama has given explicit permission to disclose his plans.",
+        "B": "does not violate the standards.",
+        "C": "violate the standards because he must not disclose any client’s information as required by applicable law."
+      },
+      "answer": "B",
+      "explanation": "B is correct. According to Standard III(E) Preservation of Confidentiality, Trump must keep client information confidential and limit the information to others in his firm that are involved in the work being performed for the client. The confidentiality standard applies to any information that a member has learned in the performance of his duties for the client. In this case, there is no evidence that Trump is serving for Obama and he knows Obama’s plan through his long-time friendship with Obama, not from the work he is performing for Obama.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Which of the following is a recommended procedure for compliance with the Standard relating to performance presentation? When presenting performance, members should:",
+      "options": {
+        "A": "disclose that investment results are simulated when model results are used.",
+        "B": "use a single representative account for each investment mandate.",
+        "C": "exclude terminated accounts."
+      },
+      "answer": "A",
+      "explanation": "A is correct because according to Standard III (D), Performance Presentation, \"[m]embers and candidates can also meet their obligations under Standard III (D) [relating to performance presentation] by...including disclosures that fully explain the performance results being reported (for example, stating, when appropriate, that results are simulated when model results are used, clearly indicating when the performance record is that of a prior entity, or disclosing whether the performance is gross of fees, net of fees, or after tax)...\" Hence, the use of simulated results should be disclosed. B is incorrect because members should present performance of weighted composite of similar portfolios rather than a single representative account. C is incorrect because members should include terminated accounts as part of historical performance.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "A CFA charterholder gathers the closing prices of a security from a widely read publication. The charterholder uses the data as part of a report she is preparing and fails to report the data source in the report. This is:",
+      "options": {
+        "A": "not a violation of Standard I(C) if the data can be gathered from several public sources.",
+        "B": "not a violation of Standard I(C) if the data cannot be gathered from several public sources.",
+        "C": "a violation of Standard I(C)."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Since the security prices represent factual information that can be verified from several sources, there is no violation. It could have been a violation had the information been exclusively published by the source.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "An investment advisor goes straight from a research seminar to a meeting with a prospective new client with whom she has never been in contact. The advisor is very excited about the information she just received in the seminar and begins showing the prospect the new ideas her firm is coming up with. This is most likely a violation of:",
+      "options": {
+        "A": "both of these.",
+        "B": "Standard III(B), Fair Dealing.",
+        "C": "Standard III(C), Suitability."
+      },
+      "answer": "A",
+      "explanation": "A is correct. It is a violation of Standard III(B) because the advisor should act first on behalf of existing clients whose needs and characteristics she already knows. It is a violation of Standard III(C) because she has never met the prospect and does not know if the new ideas are appropriate for the prospect. Thus, \"both of these\" is the best response.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Which of the following statements is least likely a required or recommended action of Standard V: Investment Analysis, Recommendations and Actions?",
+      "options": {
+        "A": "Archive research notes and other documents, either electronically or in hard copy, that support their current investment-related communications.",
+        "B": "Develop written guidance for analysts, supervisory analysts, and review committees that establishes the due diligence procedures.",
+        "C": "Account holdings should be diversified to minimize the risk of loss unless such an action is otherwise contrary to client objectives."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Statement 3 is consistent with the Standards III(A) - Loyalty, Prudence and Care which recommends members to diversify to reduce risk of loss unless diversification is not consistent with plan guidelines or is contrary to account object. Statement 1 is consistent with the Standards V(C) - Record Retention. Statement 2 is consistent with the Standards V(A) - Diligence & Reasonable Basis.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "Bill Gate, CFA, follows the Nvidia Company for his employer, Microsoft. Which of the following scenarios is Gate least likely to have to disclose?",
+      "options": {
+        "A": "The fact that Gate's son worked at Nvidia as a laborer during the summer while in school.",
+        "B": "Gate’s ownership of Nvidia securities.",
+        "C": "Microsoft’s broker-dealer relationship with Nvidia."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Members are required to disclose all matters that reasonably could interfere with their objectivity. Personal ownership of securities or a broker-dealer relationship with a covered firm could reasonably interfere with objectivity, but it is unlikely that a child's past employment would reasonably interfere with Gate's objectivity.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Larry Page, CFA, has been invited to join a group of analysts in touring the riverboats of Google LLC. For the tour, Google has arranged chartered flights since commercial flight schedules are not practical for the group's time schedule. Google has also arranged to pay for the analysts' lodging for the three nights of the tour. According to CFA Institute Standards of Professional Conduct, Page:",
+      "options": {
+        "A": "may accept the flight but is required to pay for his lodging.",
+        "B": "is required to pay for his flight and lodging.",
+        "C": "may accept the arrangements as they are."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because the itinerary required charter flights due to a lack of commercial transportation, Google can appropriately provide them. While Standard I(B) Independence and Objectivity recommends that members pay their own room costs, it is not required and it is not unusual for members to accept accommodations.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "Warren Buffet, CFA, recently joined Berkshire Hathaway as a senior analyst. Because of his extensive experience in the investments business and knowledge of the Code and Standards, Berkshire's management asked him to assume supervisory responsibility. Buffet reviewed Berkshire's existing compliance system and determined that it was inadequate to allow him to clearly discharge his supervisory responsibility. According to CFA Institute Standards, Buffet should:",
+      "options": {
+        "A": "agree to accept supervisory responsibility and to develop reasonable procedures to allow him to adequately exercise such responsibility.",
+        "B": "agree to accept supervisory responsibility provided that Berkshire adopts reasonable procedures to allow him to adequately exercise such responsibility.",
+        "C": "decline in writing to accept supervisory responsibility until Berkshire adopts reasonable procedures to allow him to adequately exercise such responsibility."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Buffet clearly cannot discharge supervisory responsibilities because of an inadequate compliance system, he should decline in writing to accept supervisory responsibility until Berkshire adopts reasonable procedures to allow him to adequately exercise such responsibility.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following would be a violation of Standard III(B), Fair Dealing?",
+      "options": {
+        "A": "Trading for regular accounts before discretionary accounts.",
+        "B": "Limiting the number of employees privy to recommendations and changes.",
+        "C": "Having well defined guidelines for pre-dissemination."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Do not discriminate against a client when disseminating investment recommendations. If the firm offers different levels of service, this fact must be offered and disclosed to all clients. The other choices are necessary parts of the Standard. The Standard actually says to have published personal guidelines for pre-dissemination, which implies that the guidelines be well-defined.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Jack Ma, CFA, is an analyst at Alibaba. He attends a meeting with management of one of the companies that he covers. During the meeting, management expresses great optimism about the company's recent acquisition of a new business. Ma is excited about these prospects and issues a research report that states that the company is about to achieve significant success with the new acquisition. Ma has:",
+      "options": {
+        "A": "not violated CFA Institute Standards of Professional Conduct because he had reasonable reason to believe that the statements in his report were true.",
+        "B": "violated CFA Institute Standards of Professional Conduct because he did not check the accuracy of the statements that management made.",
+        "C": "violated CFA Institute Standards of Professional Conduct because he misrepresented the optimism by turning it to certainty."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Standard V(B), Communication with Clients and Prospective Clients. Members must distinguish between fact and opinion in the presentation of a research report or investment recommendation. Ma violated the standard because he misrepresented management's enthusiasm by turning it into certainty.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "Jim Walton is the top-rated, sell-side analyst in the biotechnology industry. His recommendations significantly affect prices of industry stocks regularly. Yesterday Jim changed his rating on Walmart stock from \"hold\" to \"buy,\" and Jim's firm emailed the change to its clients although no public disclosure has yet been made. If Rob Walton, CFA, who heard about Jim's rating change for Walmart from his brother, purchases Walmart in his personal account, Rob will most likely:",
+      "options": {
+        "A": "violate the Standard concerning material nonpublic information.",
+        "B": "violate the Standard concerning diligence and reasonable basis.",
+        "C": "not violate the Standards."
+      },
+      "answer": "C",
+      "explanation": "C is correct. There is no requirement that a firm publicly release ratings changes by its analysts. Individuals outside the firm acting on this information after it is released to clients are not in violation of the Standard concerning nonpublic information. Purchases in a member's personal account are not subject to the requirements of the Standard concerning diligence and reasonable basis, so there is no violation indicated here.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "Jeff Bezos manages institutional portfolios on behalf of Amazon Group. Bezos also manages an account of a trust company named Amazon Trust. The trust offered Bezos a $50,000 cash gift as he succeeded in achieving a 20% return for the trust’s portfolio last year. The best practice for Bezos includes:",
+      "options": {
+        "A": "refusing the offer of Amazon trust.",
+        "B": "disclosing the offer to his employer and then accepting the offer.",
+        "C": "obtain written consent from his employer prior to accepting the cash offer proposed by the trust."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to the best practice of Standard I(B) – Independence and Objectivity, members and candidates should reject any offer of gift or entertainment that could be expected to threaten independence and objectivity. Therefore, Bezos should reject the offer from the Trust.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Phil Knight manages accounts at Nike Securities. Michael Bloomberg, one of his clients, e-mailed Knight to buy 300 shares in the IPO of KO stock. Few days later, despite being a hot issue, Knight succeeded prorating 500 shares of KO for his clients. After purchasing 500 shares for his clients and 300 shares for Bloomberg as per request, he purchased remaining 200 shares for his wife. Knight:",
+      "options": {
+        "A": "did not violate the standards by purchasing 200 shares for his wife and 300 shares for Bloomberg.",
+        "B": "violated the standards by purchasing 200 shares for his wife but is in compliance for purchasing 300 shares for Bloomberg as per his request.",
+        "C": "violated the standards by purchasing 200 shares for his wife and 300 shares for Bloomberg."
+      },
+      "answer": "C",
+      "explanation": "C is correct. In context of IPOs member or candidates are prohibited from purchasing securities for their own benefit and their duty of loyalty and fairness to clients cannot be overridden by client consent to patently unfair allocation procedure. If the IPO is suitable for clients and is a hot issue he should allocate shares to all his clients on a pro-rata basis.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Which of the following least likely violates the Standard concerning misconduct? Jerome Powell, a financial analyst:",
+      "options": {
+        "A": "is arrested for participating in a nonviolent protest.",
+        "B": "committed perjury in connection with a lawsuit against his firm.",
+        "C": "drinks excessively during business meetings with clients and returns to work under the influence of alcohol."
+      },
+      "answer": "A",
+      "explanation": "A is correct. Guidance for Standard I(D) Misconduct recognizes civil disobedience as an activity that is not a violation. The focus of the Standard is on professional conduct, not personal conduct, unless the personal conduct involves dishonesty, fraud, or deceit.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "An analyst finds a stock that has had a low beta given its historical return, but its total risk has been commensurate with its return. When writing a research report about the stock for clients with well- diversified portfolios, according to Standard V(B), Communication with Clients and Prospective Clients, the analyst needs to mention:",
+      "options": {
+        "A": "both the historical beta and total risk and return.",
+        "B": "the relationship of the historical beta and return only.",
+        "C": "the relationship of the historical total risk to return only."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Using reasonable judgment, an analyst may exclude certain factors from research reports. Since the report will be delivered to clients with well-diversified portfolios, total risk is not as important as beta. Given that the total risk has been only commensurate with historical return, furthermore, then the analyst is not negligent by not mentioning it.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "An analyst has a large personal holding of a security, and he has just determined that market conditions warrant selling this security. The analyst contacts clients who have a position in the security and advises them to sell some or all of the security. After waiting 24 hours, he sells the security from his personal accounts. This is a violation of:",
+      "options": {
+        "A": "Neither of the Standards.",
+        "B": "Standard III(B), Fair Dealing.",
+        "C": "Standard VI(B), Priority of Transactions."
+      },
+      "answer": "A",
+      "explanation": "A is correct. According to Standard VI(B), an analyst must give clients the first opportunity to buy or sell a security before the analyst acts on his own behalf. A 24-hour waiting period seems reasonable under the circumstances presented. The analyst seems to have a reasonable basis, and there is no reason to believe that he is violating Standard III(B) since he contacted all of the clients who have a position in the security.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Jim Ratcliffe, a portfolio management trainee for a money management firm, is trying to create a client base. He phones prospective clients, telling them that he is a portfolio manager. He informs prospective clients that based on the last five years of performance of his firm, he can guarantee the client at least a 75% return. He informs them that his firm can provide all of the services that they will ever need. How many misrepresentations Ratcliffe has made to the prospective clients in violation of Standard I(C), Misrepresentation?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4"
+      },
+      "answer": "B",
+      "explanation": "B is correct. There are at least three misrepresentations. First, that Ratcliffe is a portfolio manager, when he's really a trainee. Second, that the firm can provide all of the services they will ever need. Third, that he can guarantee a 75% return.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "If a firm opts for verification of its claim of compliance with the GIPS standards, the firm:",
+      "options": {
+        "A": "must perform its own verification only.",
+        "B": "can either use an independent third party or can voluntarily perform its own verification.",
+        "C": "is required to use an independent third party only."
+      },
+      "answer": "C",
+      "explanation": "C is correct. If a firm opts for verification of its claim of compliance with the GIPS standards, the firm must use an independent third party.",
+      "answer_source": "red"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Bernard Arnault has an account at LVMH Investments, a GIPS-compliant firm. Arnault invests in small-cap value stocks and pays LVMH a standard fee to execute his buy and sell orders, but does not permit his account manager to initiate trades on his behalf. According to GIPS, is LVMH required to include Arnault’s portfolio in their small-cap value stock composite?",
+      "options": {
+        "A": "Yes, because the portfolio is consistent with the defined strategy for this composite.",
+        "B": "No, because constructing composites is voluntary.",
+        "C": "No, because the portfolio is non-discretionary."
+      },
+      "answer": "C",
+      "explanation": "C is correct. Because this portfolio’s owner restricts the firm from implementing its own investment strategy, the firm should designate this portfolio as non-discretionary and should not include it in the firm’s composites.",
+      "answer_source": "red"
+    }
+  ]
+}

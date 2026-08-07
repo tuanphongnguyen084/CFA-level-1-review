@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "economics-practice-4",
+  "name": "Economics Practice 4",
+  "group": "2026 Economics Practice Sets",
+  "source": "2026 Economics Practice 4",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "The term \"automatic stabilizers\" refers to:",
+      "options": {
+        "A": "changes in taxes and expenditure programs legislators automatically enact in response to changes the level of economic activity in order to smooth economic cycles.",
+        "B": "increases in transfer payments and decreases in tax revenues that result from an economic contraction without new legislation.",
+        "C": "government expenditures and tax receipts that are required to balance over the course of the business cycle, although they may be out of balance in any single year."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Automatic stabilizers refers the increase (decrease) in transfer payments such as unemployment compensation and the decrease (increase) in tax revenue that result from a decrease (increase) in the level of economic activity. These effects tend to move the fiscal budget toward a deficit when economic activity decreases and toward surplus when economic activity increases, and tend to dampen economic cycles."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "The country of Zurkistan is experiencing both high interest rates and high inflation. The government passes laws that reduce government spending and increase taxes. It takes many months before interest rates fall and inflation is reduced. This is an example of:",
+      "options": {
+        "A": "impact lag in discretionary fiscal policy.",
+        "B": "recognition lag in discretionary fiscal policy.",
+        "C": "action lag and automatic stabilizers."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. This is an example of discretionary fiscal policy involving impact lag because it takes time for the impact of the change in taxing and spending to be felt throughout the economy."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "The government budget deficit of Country M is increasing. At the same time, the government budget surplus of Country N is decreasing. Are the fiscal policies of these countries expansionary or contractionary?",
+      "options": {
+        "A": "Both are contractionary.",
+        "B": "Both are expansionary.",
+        "C": "One is expansionary and one is contractionary."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Expansionary fiscal policy increases a budget deficit or decreases a budget surplus. Contractionary fiscal policy decreases a budget deficit or increases a budget surplus."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Arguments for being concerned about the size of a fiscal deficit least likely include:",
+      "options": {
+        "A": "a reduction in long-term economic growth.",
+        "B": "Ricardian equivalence.",
+        "C": "the crowding-out effect."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. If Ricardian equivalence holds, private savings will increase in anticipation of the future taxes required by a fiscal deficit. The crowding-out effect of government borrowing on private investment and the reduction in long-term economic growth due to higher future taxes argue in favor of being concerned about the size of a fiscal deficit."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following is least likely to be a function of the central bank?",
+      "options": {
+        "A": "Issue currency.",
+        "B": "Regulate the banking system.",
+        "C": "Collect tax payments."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. The three functions of a central bank are to issue a country's currency, regulate its banking system, and to manage the money supply. Tax collection is typically conducted by a government agency created specifically to carry out that function."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "A central bank has operational independence if it can independently determine:",
+      "options": {
+        "A": "the horizon over which to achieve its inflation target.",
+        "B": "the policy rate.",
+        "C": "how inflation is calculated."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. A central bank is said to have operational independence if it has the authority to determine the policy rate independently. Determining how inflation is calculated and the time horizon for achieving its target rate of inflation refer to a central bank that has target independence."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A central bank that wants to increase short-term interest rates is most likely to:",
+      "options": {
+        "A": "issue long-term bonds.",
+        "B": "sell government securities.",
+        "C": "decrease bank reserve requirements."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Open market operations to sell securities will decrease the outstanding supply of cash balances and increase short-term interest rates. The central bank does not issue long-term bonds but may buy and sell bonds issued by the government. Decreasing reserve requirements or purchasing government securities would tend to decrease short-term interest rates."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Which of the following policy combinations would most likely lead to private sector growth and a decreasing government share of GDP?",
+      "options": {
+        "A": "Contractionary fiscal policy and expansionary monetary policy.",
+        "B": "Contractionary fiscal policy and contractionary monetary policy.",
+        "C": "Expansionary fiscal policy and contractionary monetary policy."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Contractionary fiscal policy combined with expansionary monetary policy is more likely to increase private sector growth and decrease the government share of GDP than the other policy combinations."
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "A country is experiencing a core inflation rate of 7% during a recessionary period of real GDP growth. If the central bank has a single mandate to achieve price stability and uses inflation targeting with an acceptable range of zero to 4%, its monetary policy response is most likely to decrease:",
+      "options": {
+        "A": "GDP growth in the short run.",
+        "B": "short-term interest rates.",
+        "C": "the foreign exchange value of the country’s currency."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. If the central bank has a price stability mandate, it will most likely respond to the abovetarget inflation rate by decreasing the money supply, even though GDP growth is in a recessionary phase. Decreasing the money supply will result in higher short-term interest rates and appreciation of the currency, but will likely cause GDP growth to decrease further in the short run."
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "Which of the following international trade organizations regulates cross-border exchange among nations on a global scale?",
+      "options": {
+        "A": "World Bank Group (World Bank)",
+        "B": "World Trade Organization (WTO)",
+        "C": "International Monetary Fund (IMF)"
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The WTO provides the legal and institutional foundation of the multinational trading system and is the only international organization that regulates cross-border trade relations among nations on a global scale. The WTO’s mission is to foster free trade by providing a major institutional and regulatory framework of global trade rules. Without such global trading rules, today’s global transnational corporations would be hard to conceive."
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "For the following contrasting pairs of archetypes of globalization and cooperation, which one reflects the greatest differences in country behavior?",
+      "options": {
+        "A": "Bilateralism versus autarky",
+        "B": "Multilateralism versus autarky",
+        "C": "Multilateralism versus hegemony"
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Multilateralism describes countries that participate in mutually beneficial trade relationships and extensive rules harmonization. Autarky describes countries seeking political self-sufficiency with little or no external trade or finance. In the Exhibit 7 display of these behavior patterns, these choices are most widely separated on both the globalization and cooperation continuums. A is incorrect because bilateral or regional approaches describe those countries leveraging regional trade relationships and may face the world as a group. Bilateralism shares with autarky a bias against globalization. These approaches diverge, however, regarding cooperation, with autarky being more non-cooperative. C is incorrect because multilateralism describes countries that participate in mutually beneficial trade relationships and extensive rules harmonization. Hegemony represents countries exerting political or economic influence of others to control resources. Multilateralism shares with hegemony an inclination toward globalization, as shown in Exhibit 7, but diverges from hegemony regarding cooperation; hegemony is more non- cooperative."
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Which of the following types of risks are not known in advance?",
+      "options": {
+        "A": "Event risk",
+        "B": "Exogenous risk",
+        "C": "Thematic risk"
+      },
+      "answer": "B",
+      "answer_source": "highlight"
+    }
+  ]
+}

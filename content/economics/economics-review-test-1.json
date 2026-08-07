@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "economics-review-test-1",
+  "name": "Economics Review Test 1",
+  "group": "2026 Economics Review Tests",
+  "source": "2026 Economics Review Test 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "The law of diminishing returns states that at some point as:",
+      "options": {
+        "A": "more of a resource is devoted to production, holding the quantity of other inputs constant, at some point output will begin to decrease.",
+        "B": "less of a resource are devoted to production, holding the quantity of other inputs constant, the output will decrease, but at an increasing rate.",
+        "C": "more of a resource is devoted to production, holding the quantity of other inputs constant, the output will increase, but at a decreasing rate."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. At low levels of output, increasing marginal returns will exist corresponding to the downward sloping portion of the marginal cost curve. As marginal costs begin to increase diminishing marginal returns will occur."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "A country whose actions reflect nationalism is least likely to behave in ways that exhibit:",
+      "options": {
+        "A": "bilateralism.",
+        "B": "autarky.",
+        "C": "hegemony."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Hegemony refers to behavior that reflects globalization and noncooperation. Autarky and bilateralism both refer to behavior that reflects nationalism."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Regional trade agreements exist primarily to:",
+      "options": {
+        "A": "improve economic welfare for their members.",
+        "B": "lower currency volatility for their members.",
+        "C": "protect their members from unfair trading practices by non-members."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The primary reason countries join regional trade agreements is to improve economic welfare by reducing or eliminating trade restrictions."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "If the spot exchange rate between the British pound and the U.S. dollar is GBP/USD 0.7775, and the spot exchange rate between the Canadian dollar and the British pound is CAD/GBP 1.8325, what is the USD/CAD spot cross exchange rate?",
+      "options": {
+        "A": "0.42428.",
+        "B": "1.42477.",
+        "C": "0.70186."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. First, convert GBP/USD 0.7775 to 1/0.7775 = USD/GBP 1.28617. Then, divide USD/GBP 1.28617 by CAD/GBP 1.8325 = USD/CAD 0.70187."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Manufacturing and trade sales are best described as a:",
+      "options": {
+        "A": "leading indicator.",
+        "B": "coincident indicator.",
+        "C": "lagging indicator."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Manufacturing and trade sales are a coincident indicator that generally reflects the current phase of the business cycle."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Policies that can be used as tools for redistribution of wealth and income include:",
+      "options": {
+        "A": "both fiscal policy and monetary policy.",
+        "B": "fiscal policy only.",
+        "C": "monetary policy only."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Fiscal policy can be used as a tool for redistribution of income and wealth, through a variety of taxation and spending policies."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "To determine whether monetary policy is expansionary or contractionary, an analyst should compare the central bank's policy rate to the:",
+      "options": {
+        "A": "neutral interest rate.",
+        "B": "target inflation rate.",
+        "C": "trend rate of real growth."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The neutral interest rate is the sum of the trend rate of real economic growth and the target inflation rate. Monetary policy is expansionary if the policy rate is less than the neutral interest rate and contractionary if the policy rate is greater than the neutral interest rate."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "Which of the items below is NOT a valid reason why nations adopt trade restrictions? To:",
+      "options": {
+        "A": "protect industries in which they have a comparative advantage.",
+        "B": "prohibit foreign firms from increasing market share by selling products below cost.",
+        "C": "protect industries that are highly sensitive to national security."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. If a particular country enjoys a comparative advantage in a particular industry, no protection is needed."
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "A key difference in oligopoly price setting between the Cournot model and the Stackelberg model is that the latter assumes:",
+      "options": {
+        "A": "a strategic game model versus the former, which is a rule-based model.",
+        "B": "sequential rather than simultaneous pricing by market participants.",
+        "C": "competitors’ prices will not change."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The Stackelberg model assumes pricing decisions are made sequentially, where the leader firm chooses the price first, and with the other firm choosing its price based on the leader's price. The Cournot model assumes competitors' prices will not change. Both Cournot and Stackelberg models are rule-based (strategic game) models."
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "In what way does a tariff differ from a quota? A tariff is imposed:",
+      "options": {
+        "A": "by a single government, and a quota is a worldwide agreement on the total amount of trade allowed.",
+        "B": "as a tax on imports, and a quota limits the quantity that can be imported.",
+        "C": "by world organizations, and quotas are imposed by individual countries."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The difference between a tariff and a quota is that a tariff is a tax imposed on imported goods, while a quota is an import quantity limitation. Both are imposed by individual countries."
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "If the current spot exchange rate for quotes of JPY/GBP is greater than the no-arbitrage 3- month forward exchange rate, the 3-month GBP interest rate is:",
+      "options": {
+        "A": "equal to the 3-month JPY interest rate.",
+        "B": "greater than the 3-month JPY interest rate.",
+        "C": "less than the 3-month JPY interest rate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. If the no-arbitrage forward JPY/GBP rate is less than the spot rate, the interest rate for JPY must be less than the interest rate for GBP."
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "Assume the U.S. economy is undergoing a recession. In its efforts to stimulate the economy by trying to influence short-term interest rates the Fed is most likely to take which two actions?",
+      "options": {
+        "A": "Buy Treasury securities and decrease bank reserve requirements.",
+        "B": "Sell Treasury securities and decrease bank reserve requirements.",
+        "C": "Sell Treasury securities and increase bank reserve requirements."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. If the economy is in a recession, the Fed is likely to attempt to decrease short-term interest rates. Thus, the Fed will buy Treasury securities and decrease bank reserve requirements."
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "During an economic contraction:",
+      "options": {
+        "A": "inflation pressures are typically decreasing.",
+        "B": "real GDP growth is greater than its sustainable long-term rate.",
+        "C": "the unemployment rate typically decreases."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. An economic contraction (recession) is typically characterized by decreasing inflationary pressures, increasing unemployment, and low or negative real GDP growth."
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "As an economic expansion approaches its peak, the economy is most likely to show:",
+      "options": {
+        "A": "a decrease in inventory levels.",
+        "B": "accelerating sales growth.",
+        "C": "an increase in the inventory-to-sales ratio."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. As the economy approaches its peak, sales growth begins to slow, unsold inventories begin to accumulate, and the inventory-to-sales ratio increases."
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "The upward sloping segment of a long-run average total cost curve represents the existence of:",
+      "options": {
+        "A": "diseconomies of scale.",
+        "B": "economies of scale.",
+        "C": "efficiencies of scale."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Diseconomies of scale occur along the upward sloping segment of the long-run average total cost curve where costs rise as output increases. The flat portion at the bottom of the long-run average total costs curve represents constant returns to scale."
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "The primary goals of the International Monetary Fund (IMF) include:",
+      "options": {
+        "A": "promoting exchange rate stability.",
+        "B": "reducing global poverty.",
+        "C": "resolving trade-related disputes among nations."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The primary goals of the IMF are to promote international monetary cooperation, facilitate growth of international trade, promote exchange rate stability, assist in establishing a multilateral payment system, and provide resources to members with balance of payments difficulties. Reducing global poverty is a role of the World Bank. Resolving trade disputes is a role of the World Trade Organization."
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "Which of the following statements about the costs and benefits of international trade is most accurate?",
+      "options": {
+        "A": "Increased international trade benefits all groups in the trading countries.",
+        "B": "The costs of trade are greater than the benefits with regard to domestic employment.",
+        "C": "The costs of trade primarily affect those in domestic industries that compete with imports."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. The benefits of trade are greater than the costs for the overall economy, but those in domestic industries competing with imports may suffer costs in the form of reduced profits or employment."
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "Which of the following is least likely a common objective of governmental capital restrictions?",
+      "options": {
+        "A": "Keep domestic interest rates high.",
+        "B": "Maintain fixed exchange rates.",
+        "C": "Reduce the volatility of domestic asset prices."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. A common objective of capital restrictions is to keep domestic interest rates low (not high), by eliminating competition by other countries for investor funds. The other two choices are common objectives of capital restrictions."
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "Which of the following statements about achieving proper timing in fiscal policy is least accurate?",
+      "options": {
+        "A": "Improvements in quantitative methods have made the occurrence of recessions or expansions quite predictable.",
+        "B": "Policy errors are inevitable due to unpredictable events.",
+        "C": "There is usually a time lag between when a change in policy is needed and when the need is recognized by policy makers."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. One problem in achieving proper timing in fiscal policy is the inability to accurately predict a recession or expansion."
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "Which of the following statements about credit cycles is most accurate?",
+      "options": {
+        "A": "Credit cycles are a potential cause of asset price bubbles.",
+        "B": "A typical business cycle includes two or more credit cycles.",
+        "C": "Credit cycles tend to dampen business cycles."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Credit cycles tend to amplify business cycles and are a potential cause of asset price bubbles. Credit cycles have tended to be longer, on average, than business cycles."
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "A market has the following characteristics: • There is a large number of independent sellers. • Each produces a differentiated product. • There are low barriers to entry. • Producers face downward-sloping demand curves. • Demand is highly elastic. This market is best characterized as:",
+      "options": {
+        "A": "a monopoly.",
+        "B": "an oligopoly.",
+        "C": "monopolistic competition."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. These conditions characterize monopolistic competition. By contrast, monopolies and oligopolies have high barriers to entry and involve either a single seller (monopoly) or a small number of interdependent sellers (oligopoly)."
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "Discretionary fiscal policy refers to:",
+      "options": {
+        "A": "buying or selling securities in the open market to influence interest rates.",
+        "B": "active decisions regarding spending and taxing to affect economic growth.",
+        "C": "government spending programs that counteract the business cycle without the intervention of policymakers."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Discretionary fiscal policy, in contrast to automatic stabilizers, refers to active decisions by the government to affect economic growth through changes in government spending and taxation. Buying or selling securities in the open market is an example of monetary policy."
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "Which of the following conditions is difficult for monetary policy to address because a central bank cannot reduce its nominal policy rate much below zero?",
+      "options": {
+        "A": "Deflation.",
+        "B": "Inflation.",
+        "C": "Stagflation."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Deflation is difficult for central banks to address when policy rates cannot be lowered any further. Inflation can be addressed by contractionary monetary policy. Stagflation is difficult to address because monetary policy cannot pursue higher growth and lower inflation at the same time."
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "A country's central bank announces a monetary policy goal of a stable exchange rate with the euro, which it defines as deviations of no more than 3% from its current exchange rate of 2.5000. The country's exchange rate regime is best described as a:",
+      "options": {
+        "A": "crawling band.",
+        "B": "fixed peg.",
+        "C": "target zone."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. This exchange rate regime is best described as a target zone, or a system of pegged exchange rates within horizontal bands. A target zone allows wider exchange rate fluctuations than a conventional fixed peg arrangement, which typically limits the permitted range to within 1% of the pegged exchange rate. Management of exchange rates within crawling bands allows the percentage deviation from the pegged exchange rate to increase over time."
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "What are the three essential qualities an effective central bank should possess?",
+      "options": {
+        "A": "Transparency, independence, and consistency.",
+        "B": "Independence, credibility, and transparency.",
+        "C": "Credibility, relevance, and reliability."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. A central bank that is independent from political interference, possesses credibility, and exhibits transparency is more likely to achieve its monetary policy objectives than a central bank that lacks these qualities. The other characteristics listed in the answer choices relate to financial statements and financial reporting standards."
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Arguments for being concerned with the size of a fiscal deficit relative to GDP least likely include:",
+      "options": {
+        "A": "a likely need for higher future taxes.",
+        "B": "higher interest rates due to government borrowing.",
+        "C": "a high proportion of government debt owed to the country’s citizens."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. That a government owes its own citizens much of its outstanding debt is an argument against being concerned about fiscal deficits. Arguments for being concerned about fiscal deficits include the need for higher future taxes and the potential for government borrowing to increase interest rates and crowd out private investment."
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "An industry characterized by monopolistic competition contains approximately 25 different companies. Each individual company is most likely to:",
+      "options": {
+        "A": "focus on average market price rather than individual competitor prices.",
+        "B": "have significant power over pricing.",
+        "C": "attempt to engage in price-fixing, as it will generate reasonable profits."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. In a monopolistically competitive market structure, there will be a large number of independent sellers who will each have small market shares (so no one company has a lot of power over pricing), collusion or price-fixing will not be possible because of the sheer volume of companies, and each company will focus more on average market price than on the prices individual competitors are charging."
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following statements best explains how automatic stabilizers work? Even without a change in fiscal policy, automatic stabilizers tend to promote:",
+      "options": {
+        "A": "a budget deficit during a recession but do not promote a budget surplus during an inflationary expansion.",
+        "B": "a budget surplus during a recession and a budget deficit during an inflationary expansion.",
+        "C": "a budget deficit during a recession and a budget surplus during an inflationary expansion."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Automatic stabilizers such as unemployment compensation, corporate profits tax, and the progressive income tax run a deficit during a business slowdown but run a surplus during an economic expansion. Therefore, they automatically implement countercyclical fiscal policy without the delays associated with policy changes that require legislative action."
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "The exchange rate for Chinese yuan (CNY) per euro (EUR) changed from CNY/EUR 8.1588 to CNY/EUR 8.3378 over a 3-month period. It is most accurate to state that the:",
+      "options": {
+        "A": "CNY has depreciated 2.19% relative to the EUR.",
+        "B": "EUR has appreciated 2.15% relative to the CNY.",
+        "C": "EUR has appreciated 2.19% relative to the CNY."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. The percentage change in the CNY value of one EUR is (8.3378 / 8.1588) – 1 = 0.0219. The EUR has appreciated 2.19% relative to the CNY. This is not the same as CNY depreciating by 2.19% relative to the EUR. The percentage change in the CNY is [(1 / 8.3378) / (1 / 8.1588)] – 1 = –0.0215 = –2.15%."
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "An exchange rate at which two parties agree to trade a specific amount of one currency for another a year from today is best described as a:",
+      "options": {
+        "A": "future exchange rate.",
+        "B": "forward exchange rate.",
+        "C": "real exchange rate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. A forward exchange rate specifies the amount of two currencies that will be exchanged at a specific point of time in the future. A transaction that uses the spot exchange rate is one that would occur immediately. A real exchange rate is one that has been adjusted for the relative inflation rates in two countries, and could be referring to an exchange rate that prevails at any given time."
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Firms' initial responses to an emerging economic contraction are most likely to be:",
+      "options": {
+        "A": "reducing overtime hours.",
+        "B": "laying off workers.",
+        "C": "deferring maintenance of machinery."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Early in an economic contraction, firms typically reduce output by using capital and labor less intensively than during an expansion (e.g., by reducing overtime). When they believe a contraction is likely to persist, firms decrease capacity by laying off workers and reducing their physical capital, often by deferring maintenance or not replacing worn-out equipment."
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "A venture capitalist is interested in providing funding for a new company. The company wants to enter an industry where the market structure is best described as monopolistic competition. The venture capitalist can expect to find an industry where:",
+      "options": {
+        "A": "the products are homogeneous.",
+        "B": "firms compete regularly on price.",
+        "C": "the costs to enter the market are low."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. In a monopolistically competitive market structure, the products are differentiated (not homogeneous), firms compete more on feature differences and quality than on price, and the barriers to entry (the costs of entering and exiting the market) are low."
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "The most likely reason for deflation to persist despite expansionary monetary policy is:",
+      "options": {
+        "A": "a liquidity trap.",
+        "B": "bond market vigilantes.",
+        "C": "inelastic demand for money."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Deflation is often associated with liquidity trap conditions. A liquidity trap is a situation in which demand for money becomes highly elastic. Expanding the money supply has little effect on economic activity under these conditions because individuals and firms choose to hold the additional money in cash. \"Bond market vigilantes\" is an expression referring to the fact that expansionary monetary policy may cause long-term interest rates to increase, instead of decreasing as intended, if bond market participants expect the expansionary policy to increase future inflation rates."
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "The spot exchange rate between the U.S. dollar and the euro is 1.2749 USD/EUR. The 90- day forward exchange rate is quoted as +12.4 points. The forward exchange rate is closest to:",
+      "options": {
+        "A": "1.2761 USD/EUR.",
+        "B": "1.3989 USD/EUR.",
+        "C": "1.4329 USD/EUR."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Each \"point\" is 0.0001. Thus, +12.4 points would add 0.00124 to the spot exchange rate: 1.2749 + 0.00124 = 1.27614."
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Two countries trade freely with each other and have agreed to specific tariffs on imports from other countries. The workers in either country may freely cross the common border to work in the other country. The two countries have agreed to common economic policies, but they use separate currencies. This type of cooperation is best described as a(n):",
+      "options": {
+        "A": "economic union.",
+        "B": "monetary union.",
+        "C": "customs union."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The two countries are a part of an economic union. In an economic union, there is (1) free trade among members, (2) common restrictions (tariffs) on imports from non-members, (3) free movement of production factors (labor), and (4) common economic institutions and coordination of economic policies. While a customs union has common tariffs on imports from non-union countries and free trade, it does not allow workers to cross the borders freely and does not have common economic institutions. A monetary union requires all of the listed items and a common currency."
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "A high-net-worth investor has a long-time horizon of approximately 25 years before he will shift his allocations more in favor of safer, low-risk investments. The likelihood of this investor reacting to an event categorized as a black swan risk by changing his allocations is:",
+      "options": {
+        "A": "high.",
+        "B": "low.",
+        "C": "moderate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. A black swan risk is an exogenous risk with a low likelihood of occurrence, but a high short- term impact. If an investor has a long time horizon (and 25 years is considered long) before he plans to shift allocations, an event that would be categorized as a black swan risk would not cause the investor to react in any way. Reactions to these events are much more likely for investors with short time horizons."
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "A firm is operating in a perfectly competitive market. Market price is greater than average variable cost (AVC) but lower than average total cost (ATC). Which of the following statements is most accurate?",
+      "options": {
+        "A": "The firm should continue to produce and sell its product in the short run but not in the long run, unless the price increases.",
+        "B": "The firm should decrease its production in the short run in order to increase price and either reduce losses or produce profits.",
+        "C": "If the owner thinks the price eventually will exceed ATC, the firm should shut down its operations temporarily and resume when price exceeds ATC."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Because the price exceeds the average variable cost, each item sold covers part of the firm's fixed cost, so in the short run the firm should continue to produce and sell its product. If the firm shuts down temporarily, the costs incurred (fixed costs) will not be recovered partially. In the long run, however, the firm should shut down unless the price is greater than average total cost. Since the firm is a price taker, reducing the firm's output will have no effect on the price since each firm is small relative to the market."
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "An economy has been producing at its full-employment level of output and the price level has been stable. Businesses then begin experiencing unintended decreases in their inventory levels. What does this most likely imply about the short-run outlook for economic growth and inflation? Economic growth Inflation",
+      "options": {
+        "A": "Increasing Increasing",
+        "B": "Increasing Decreasing",
+        "C": "Decreasing Increasing"
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Starting from conditions of long-run equilibrium, unintended decreases in inventory levels suggest that aggregate demand has increased. Producers will respond in the short run by increasing output and prices, so economic growth and inflation will increase."
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "Robert Necco and Nelson Packard are economists at Economic Research Associates. ERA asks Necco and Packard for their opinions about the effects of fiscal policy on real GDP for an economy currently experiencing a recession. Necco states that real GDP is likely to increase if both government spending and taxes are increased by the same amount. Packard states that if both government spending and taxes are increased by the same amount, there is no expected net effect on real GDP. Are the statements made by Necco and Packard CORRECT? Necco Packard",
+      "options": {
+        "A": "Correct Incorrect",
+        "B": "Incorrect Correct",
+        "C": "Incorrect Incorrect"
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Necco is correct because the multiplier effect is stronger for government expenditures versus government taxes. All of the increase in government spending enters the economy as increased expenditure, whereas only a portion of the tax increase results in lessened expenditure (determined by the marginal propensity to consume), because part of the tax increase will come from the savings of the taxpayer (determined by the marginal propensity to save). Packard is incorrect; the effect on real GDP of an increase in government spending combined with equal increase in taxes will be positive because the multiplier effect is stronger for government spending versus the tax increase."
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "Silvano Jimenez, an analyst at Banco del Rey, is reviewing recent actions taken by the U.S. Federal Reserve (the Fed) in setting monetary policy. Recently, the Fed decided to increase the money supply, which has resulted in a decrease in real interest rates. At a staff meeting, Jimenez brings this matter to the attention of his colleagues and makes the following statements: • Statement 1: Although the money supply increase has led to a decrease in real interest rates, we should begin to see U.S. investors decrease their investments abroad and the U.S. dollar will appreciate in the foreign exchange market. • Statement 2: The Fed's increase in the money supply will increase the amount of imports into the U.S. Are Statement 1 and Statement 2 as made by Jimenez CORRECT? Statement 1 Statement 2",
+      "options": {
+        "A": "Incorrect Correct",
+        "B": "Correct Incorrect",
+        "C": "Incorrect Incorrect"
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. If the Fed increases the money supply and real interest rates decline, U.S. investors will seek higher real rates of return abroad and the U.S. dollar will depreciate as the dollar will be exchanged for foreign currencies in order to buy the foreign investments. Likewise, the decrease in real interest rates will reduce the inflow of funds from abroad as foreign investors seek higher rates of return outside the U.S. With a dollar that has depreciated, U.S. exports should increase, as U.S. products will become cheaper for foreign buyers. As such, both statements are incorrect."
+    }
+  ]
+}

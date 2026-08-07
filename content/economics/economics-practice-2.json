@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "economics-practice-2",
+  "name": "Economics Practice 2",
+  "group": "2026 Economics Practice Sets",
+  "source": "2026 Economics Practice 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "Which of the following is least likely a characteristic of an oligopoly?",
+      "options": {
+        "A": "Products can either be similar or differentiated.",
+        "B": "Relatively small economies of scale.",
+        "C": "There are few sellers."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Oligopolies have large economies of scale and interdependence among competitors."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "The most likely limitation of the N-firm and Herfindahl-Hirschman concentration measures in assessing market power is that they:",
+      "options": {
+        "A": "are both backward looking.",
+        "B": "are insensitive to mergers within the industry.",
+        "C": "do not explicitly include the effects of potential competition."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Because potential competition from new entrants is not considered in the calculation of industry concentration measures, market power (pricing power) may be low even though the market shares of the top firms in the industry are quite large."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following statements about price takers and price searchers is most accurate?",
+      "options": {
+        "A": "In the long run, both price takers and price searchers will have zero economic profits.",
+        "B": "Price takers maximize profits at the point price = marginal revenue = marginal cost.",
+        "C": "In the long run, both price takers and price searchers maximize profits at the quantity corresponding to the minimum point on the average total cost curve."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Because price takers face a horizontal demand curve, they must take price as given and thus maximize profits when P = MR = MC. The other statements are false. Although firms engaged in pure competition (price takers) maximize profits at the quantity corresponding to the minimum point on the average total cost curve (ATC) (in the long run), this is not necessarily true for price searchers. Price searchers face a downward-sloping demand curve. They produce at the quantity MR = MC and take price from the demand curve. The demand curve may be above the ATC curve. The potential allocative inefficiency of a price searcher engaged in monopolistic competition includes the social cost of not producing where P = MC. This potential allocative inefficiency may be outweighed by the benefits of product diversity. Some price searchers, (monopolists, for example), can earn positive economic profits in the long run."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "A firm operating under perfect competition will experience economic losses under which of the following conditions?",
+      "options": {
+        "A": "Marginal revenue is greater than average total cost.",
+        "B": "Market price is less than average total cost.",
+        "C": "Marginal cost is less than average total cost."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. A firm will experience economic losses when its selling price is less than average total cost."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Statement 1: \"The kinked demand curve model of oligopoly assumes that a decrease in price will not be followed by other firms in the industry, but a price increase will.\" Statement 2: \"Firms in monopolistic competition have high advertising expenses because they want to create the perception that their product is different from their competitors' products when the competing products are actually quite similar.\" With respect to these statements:",
+      "options": {
+        "A": "both are correct.",
+        "B": "both are incorrect.",
+        "C": "only one is correct."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Statement 1 is incorrect because the kinked demand curve model contends that each firm in oligopoly competition believes that an increase (not decrease) in its price will not be followed by the competition, but a decrease (not increase) in price will. Each firm believes that it faces a demand curve that is more elastic (flatter) above a given price, i.e., the kink, than it is below the given price."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Collusion is less likely in a market when:",
+      "options": {
+        "A": "the product is homogeneous.",
+        "B": "companies have similar market shares.",
+        "C": "the cost structures of companies are similar."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. When companies have similar market shares, competitive forces tend to outweigh the benefits of collusion."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "SigmaSoft and ThetaTech are the dominant makers of computer system software. The market has two components: a large mass-market component in which demand is price sensitive, and a smaller performance-oriented component in which demand is much less price sensitive. SigmaSoft’s product is considered to be technically superior. Each company can choose one of two strategies: Open architecture (Open): Mass market focus allowing other software venders to develop products for its platform. Proprietary (Prop): Allow only its own software applications to run on its platform. Depending upon the strategy each company selects, their profits would be: The Nash equilibrium for these companies is:",
+      "options": {
+        "A": "proprietary for SigmaSoft and proprietary for ThetaTech.",
+        "B": "open architecture for SigmaSoft and proprietary for ThetaTech.",
+        "C": "proprietary for SigmaSoft and open architecture for ThetaTech."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. In the Nash model, each company considers the other’s reaction in selecting its strategy. In equilibrium, neither company has an incentive to change its strategy. ThetaTech is better off with open architecture regardless of what SigmaSoft decides. Given this choice, SigmaSoft is better off with a proprietary platform. Neither company will change its decision unilaterally."
+    }
+  ]
+}

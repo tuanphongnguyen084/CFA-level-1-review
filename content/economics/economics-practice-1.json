@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "economics-practice-1",
+  "name": "Economics Practice 1",
+  "group": "2026 Economics Practice Sets",
+  "source": "2026 Economics Practice 1",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "The law of diminishing returns states that for a given production process, as more and more of a resource (such as labor) are added, holding the quantities of other resources fixed:",
+      "options": {
+        "A": "output increases at a decreasing rate.",
+        "B": "cost declines at a decreasing rate.",
+        "C": "cost declines at an increasing rate."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "The law of diminishing returns states that for a given production process, as more and more resources (such as labor) are added holding the quantities of other resources fixed, output increases at a decreasing rate. This occurs because, at some point, adding more workers results in inefficiencies."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "A firm operating as a price taker will produce the quantity at which:",
+      "options": {
+        "A": "revenue is maximized.",
+        "B": "it earns long-run economic profit.",
+        "C": "marginal revenue equals marginal cost."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "A firm operating as a price taker will produce the quantity where MC = MR. It will maximize profit and not revenue. In the long run, it will make zero economic profit."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following is most likely a characteristic of perfect competition?",
+      "options": {
+        "A": "Different firms sell their output at different prices.",
+        "B": "Barriers to entry are not a significant factor.",
+        "C": "The number of firms in the market is small."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "Under perfect competition there are no significant barriers to entry into the market. An industry that can be characterized as perfect competition typically consists of a large number of firms, each of which can sell its entire output at the market price, and none of which are large enough to affect the market price."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "The demand curve for a firm in a perfectly competitive market is:",
+      "options": {
+        "A": "downward sloping.",
+        "B": "horizontal.",
+        "C": "upward sloping."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "The demand curve for a firm is horizontal. The demand curve for a market is downward sloping."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "In the long run, a perfectly competitive firm will earn:",
+      "options": {
+        "A": "sustainable economic profits.",
+        "B": "zero economic profits.",
+        "C": "incremental economic profits."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "In the long run, a perfectly competitive firm will make zero economic profit."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Which of the following is most likely a characteristic of monopolistic competition?",
+      "options": {
+        "A": "Producer decisions are interdependent.",
+        "B": "Each producer offers a differentiated product.",
+        "C": "Producers face horizontal demand curves."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "Differentiated products are a feature of monopolistic competition markets. Interdependence is a characteristic of oligopoly markets. Horizontal demand curves facing producers are a feature of perfect competition"
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following is least accurate with regard to advertising for firms operating under monopolistic competition?",
+      "options": {
+        "A": "Advertising expenses are high relative to perfect competition.",
+        "B": "Advertising may decrease average total cost.",
+        "C": "The increase to average total costs associated with advertising increases as output increases."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "Advertising expenses are high for firms in monopolistic competition. Not only because firms need to inform consumers about the unique features of a firm's products, but also to create or increase a perception of differences between products that are actually quite similar. Advertising costs increase average total costs, but the increase to average total cost attributable to advertising decreases as output increases because more fixed advertising dollars are being averaged over a larger quantity. If advertising increases output (sales) significantly, it can actually decrease a firm's average total cost if there are economies of scale."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "The demand schedule in a perfectly competitive market is given by P = 93 – 1.5Q (for Q ≤ 62) and the long-run cost structure of each company is: Total cost: 256 + 2Q + 4Q2 Average cost: 256/Q + 2 + 4Q Marginal cost: 2 + 8Q New companies will enter the market at any price greater than:",
+      "options": {
+        "A": "8.",
+        "B": "66.",
+        "C": "81."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The long-run competitive equilibrium occurs where MC = AC = P for each company. Equating MC and AC implies 2 + 8Q = 256/Q + 2 + 4Q. Solving for Q gives Q = 8. Equating MC with price gives P = 2 + 8Q = 66. Any price above 66 yields an economic profit because P = MC > AC, so new companies will enter the market."
+    }
+  ]
+}

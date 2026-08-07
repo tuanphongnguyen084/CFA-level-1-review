@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "economics-practice-5",
+  "name": "Economics Practice 5",
+  "group": "2026 Economics Practice Sets",
+  "source": "2026 Economics Practice 5",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "If the exchange rate value of the CAD goes from USD 0.60 to USD 0.80, then the CAD:",
+      "options": {
+        "A": "appreciated and Canadians will find U.S. goods cheaper.",
+        "B": "depreciated and Canadians will find U.S. goods cheaper",
+        "C": "depreciated and Canadians will find U.S. goods more expensive."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "Đáp án A, coi CAD như là 1 hàng hóa thì thời điểm ban đầu giá của nó là 0.6 USD và sau đó tăng lên 0.8 USD."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "In the currency market, traders quote the:",
+      "options": {
+        "A": "base currency rate.",
+        "B": "nominal exchange rate.",
+        "C": "real exchange rate."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "Đáp án B. Trên market, các trader nói chuyện với nhau bằng tiền (nominal exchange rate)."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "An exchange rate at which two parties agree to trade a specific amount of one currency for another a year from today is best described as a:",
+      "options": {
+        "A": "real exchange rate.",
+        "B": "future exchange rate.",
+        "C": "forward exchange rate."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "Đáp án C. 2 bên thỏa thuận với nhau về 1 mức tỷ giá cụ thể được giao dịch trong 1 năm tới => forward exchange rate."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "The difference between Country D's nominal and real exchange rates with Country F is most closely related to:",
+      "options": {
+        "A": "Country D’s inflation rate",
+        "B": "The ratio of the two countries’ price levels.",
+        "C": "The risk-free interest rates of the two countries."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "Đáp án B. Lưu ý rằng khi tính real exchange rate thì đồng nào ở dưới, CPI ở trên. Khác biệt giữa nominal và real exchange rate là khác biệt giữa CPI của 2 nước hay nói cách khác là price level của 2 nước."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Akor is a country that has chosen to use a conventional fixed peg arrangement as the country's exchange rate regime. Under this arrangement, Akor's exchange rate against the currency to which it pegs:",
+      "options": {
+        "A": "is market-determined.",
+        "B": "will be equal to the peg rate.",
+        "C": "may fluctuate around the peg rate."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "Đáp án C. Conventional fixed peg arrangement là hệ thống tỷ giá hối đoái kiểm soát tỷ giá quanh mức peg rate với mức biến động nhỏ ±1%."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "With respect to exchange rate regimes, crawling bands are most likely used in a transition toward:",
+      "options": {
+        "A": "a fixed peg arrangement.",
+        "B": "a monetary union.",
+        "C": "Floating exchange rates."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "Đáp án C. crawling bands là hệ thống tỷ giá hối đoái sẽ tăng dần band biến động lên đến một lúc nào đó sẽ chuyển sang tỷ giá thả nổi (floating exchange rate)."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "A government that imposes restrictions on capital flows into or out of its country is most likely attempting to:",
+      "options": {
+        "A": "reduce the volatility of domestic asset prices.",
+        "B": "encourage competition among domestic industries.",
+        "C": "implement floating exchange rates."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "Đáp án A. 1 quốc gia hạn chế việc dòng vốn đầu tư ra vào quốc gia để kiểm soát cung tiền dễ hơn và từ đó cũng tránh sự biến động mạnh của các tài sản bên trong quốc gia đó."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "The USD/EUR spot exchange rate is 1.3500 and 6-month forward points are -75. The 6- month forward exchange rate is:",
+      "options": {
+        "A": "1.3425, and the USD is at a forward discount.",
+        "B": "1.3425, and the USD is at a forward premium.",
+        "C": "1.3575, and the USD is at a forward discount."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "Đáp án B. For an exchange rate quoted to four decimal places, each forward point represents 0.0001. The 6- month forward exchange rate is 1.3500 - 0.0075 = 1.3425 USD/EUR. Ở đây thì forward USD/EUR thấp hơn spot thể hiện đồng EUR tương lai sẽ giảm giá => EUR is at a forward discount và ngược lại USD is at a forward premium."
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "If the no-arbitrage forward exchange rate for a euro in Japanese yen is less than the spot rate, then the interest rate in:",
+      "options": {
+        "A": "Japan is less than in the eurozone.",
+        "B": "Japan is the same as in the eurozone.",
+        "C": "the eurozone is less than in Japan."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "Đáp án A. Đề bài cho là a euro in Japanese yen => EUR là base currency còn Japanese là price currency. Như vậy tỷ giá sẽ là JPY/EUR. Đề bài cho forward < spot => lãi suất của đồng price < lãi suất của đồng base => Interest rate in Japan is less than in the eurozone."
+    }
+  ]
+}

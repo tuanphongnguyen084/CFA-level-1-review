@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "economics-review-test-2",
+  "name": "Economics Review Test 2",
+  "group": "2026 Economics Review Tests",
+  "source": "2026 Economics Review Test 2",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "The market structure in which a firm's optimal pricing strategy depends on the responses of other firms is:",
+      "options": {
+        "A": "Oligopoly.",
+        "B": "Monopolistic competition.",
+        "C": "Perfect competition."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Interdependence of firms is a characteristic of an oligopoly market. Optimal pricing for a firm in an oligopoly market depends on expectations of how its competitors will respond."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "Given an exchange rate of USD/CAD 0.9250 and USD/CHF 1.6250, what is the cross rate for CAD/CHF?",
+      "options": {
+        "A": "0.5692.",
+        "B": "1.5032.",
+        "C": "1.7568."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. (USD/CHF 1.6250) / (USD/CAD 0.9250) = CAD/CHF 1.7568."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following is least likely to be a function of the central bank?",
+      "options": {
+        "A": "Collect tax payments.",
+        "B": "Issue currency.",
+        "C": "Regulate the banking system."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The three functions of a central bank are to issue a country's currency, regulate its banking system, and to manage the money supply. Tax collection is typically conducted by a government agency created specifically to carry out that function."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "Unemployment compensation is an example of:",
+      "options": {
+        "A": "a discretionary fiscal policy stabilizer.",
+        "B": "an automatic fiscal policy stabilizer.",
+        "C": "an automatic monetary policy stabilizer."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Unemployment compensation automatically rises and falls with the business cycle, therefore it is an example of an automatic fiscal policy stabilizer."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Average weekly initial claims for unemployment insurance are classified as a:",
+      "options": {
+        "A": "lagging indicator.",
+        "B": "leading indicator.",
+        "C": "coincident indicator."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Initial claims for unemployment insurance are considered a leading indicator."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Exogenous geopolitical risk factors are best described as those that are:",
+      "options": {
+        "A": "known or anticipated long-term effects.",
+        "B": "unanticipated.",
+        "C": "known in terms of timing but not outcome."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Exogenous risk refers to unanticipated geopolitical events. Thematic risk refers to factors with known or anticipated long-term effects. Event risk refers to factors that are known in terms of timing but not outcome."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Country P begins importing goods from Country Q. In the long run, benefits from this trade relationship will most likely accrue to:",
+      "options": {
+        "A": "Country P only.",
+        "B": "Country Q only.",
+        "C": "both Country P and Country Q."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Both countries in an international trade relationship benefit in the long run. Costs of international trade tend to be short-run effects in specific domestic industries."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "In the foreign exchange markets, transactions by households and small institutions for tourism, cross-border investment, or speculative trading comprise the:",
+      "options": {
+        "A": "real money market.",
+        "B": "retail market.",
+        "C": "sovereign wealth market."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The retail foreign exchange market refers to transactions by households and relatively small institutions and may be for tourism, cross-border investment, or speculative trading."
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "If the country of Smithia enacts sanctions against the political leaders of Jonesia, Smithia is said to be using:",
+      "options": {
+        "A": "a financial tool of geopolitics.",
+        "B": "an economic tool of geopolitics.",
+        "C": "a national security tool of geopolitics."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Sanctions refer to restrictions on the financial interests of specific geopolitical actors and are considered a financial tool of geopolitics."
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "An analyst has determined the projected trend rate of real GDP growth is 2.5% and the central bank's inflation target is 2.5%. If the central bank policy rate is 5.0%, monetary policy is most likely:",
+      "options": {
+        "A": "neutral.",
+        "B": "expansionary.",
+        "C": "contractionary."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The neutral rate of interest is real trend rate of economic growth plus the inflation target. In this example, the neutral rate = 2.5% + 2.5% = 5.0%. Because the policy rate is the same as the neutral rate of interest, monetary policy is neither contractionary nor expansionary."
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "question": "Assuming the economy currently is experiencing high inflation, an example of appropriate discretionary fiscal policy is:",
+      "options": {
+        "A": "increase the federal funds target rate.",
+        "B": "reduce government expenditures on major government construction projects.",
+        "C": "reduce the money supply."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Discretionary fiscal policy refers to the federal government's decisions regarding government spending and taxing. A reduction in government spending on major government construction projects is likely to lead to a reduction in aggregate demand and less pressure on prices, reducing inflation."
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "question": "A diffusion index:",
+      "options": {
+        "A": "measures growth.",
+        "B": "reflects the consensus change in economic indicators.",
+        "C": "is roughly analogous to the indexes used to measure industrial production."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The diffusion indexes are constructed to reflect the common trends embedded in the movements of all the indicators included in such an index."
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "question": "Monopolistic competition differs from pure monopoly in that:",
+      "options": {
+        "A": "monopolistic competitors are price takers, monopolists are not.",
+        "B": "monopolists maximize profit; monopolistic competitors do not.",
+        "C": "barriers to entry are high under monopoly, but low under monopolistic competition."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Monopolistic competition is characterized by the low barriers to enter its competitive markets. In contrast, a monopoly exists only where there are high barriers to market entry."
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "question": "Which of the following statements regarding a fiscal stimulus is most accurate?",
+      "options": {
+        "A": "Accommodative monetary policy reduces the impact of a fiscal stimulus.",
+        "B": "Different statistical models will predict different impacts for a fiscal stimulus.",
+        "C": "It is always possible to precisely predict the impact of a fiscal stimulus on employment."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Different models embrace differing views on how the economy works, including differing views on the impact of fiscal stimuli."
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "question": "Which of the following is the most likely result of a central bank's shift to an expansionary monetary policy?",
+      "options": {
+        "A": "Domestic currency appreciates.",
+        "B": "Exports increase.",
+        "C": "Interest rates increase."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Expansionary monetary policy decreases interest rates. This should cause the domestic currency to depreciate, which should increase foreign demand for the country's exports."
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "question": "If a country imposes a tariff on an imported good, which groups will most likely be harmed by the tariff?",
+      "options": {
+        "A": "Foreign consumers.",
+        "B": "Domestic producers.",
+        "C": "Domestic consumers."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Domestic consumers in the country that imposes a tariff are harmed because they must pay higher prices for the good. Tariffs benefit domestic producers of the good by effectively imposing a price increase on competing imports. A tariff does not affect foreign consumers of the good."
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "question": "With respect to exchange rate regimes, crawling bands are most likely used in a transition toward:",
+      "options": {
+        "A": "a fixed peg arrangement.",
+        "B": "a monetary union.",
+        "C": "floating exchange rates."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. When exchange rates are managed within crawling bands, the margin around a target exchange rate increases over time. This technique is sometimes used in a transition from fixed exchange rates to freely floating exchange rates."
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "question": "When forward currency exchange-rate contracts are available, the difference between the spot and forward exchange rates for a pair of currencies is most likely to reflect the difference between the two countries':",
+      "options": {
+        "A": "economic growth rates.",
+        "B": "risk-free interest rates.",
+        "C": "annual inflation rates."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Investing the domestic currency at the domestic interest rate should earn the same return as buying a foreign currency at the spot exchange rate, investing at the foreign interest rate, and selling the foreign currency proceeds at the forward exchange rate. If both currencies trade freely and participants can enter forward contracts, arbitrage trading will cause the percentage difference between the forward and spot exchange rates to be approximately equal to the difference between interest rates in the two countries."
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "question": "A central bank is said to have credibility if:",
+      "options": {
+        "A": "economic actors base decisions on the central bank’s stated inflation targets.",
+        "B": "it issues inflation reports monthly.",
+        "C": "it determines both the policy rate and the method for computing the inflation rate."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. If a central bank has credibility, economic actors come to believe the inflation rate will be near the central bank's target and factor this inflation rate into their decisions. Periodic inflation reports enhance the transparency of a central bank. A central bank that determines both the policy rate and the method for computing the inflation rate is said to have independence."
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "question": "The expansion phase of a business cycle is most likely characterized by:",
+      "options": {
+        "A": "increasing employment.",
+        "B": "decreasing inflationary pressures.",
+        "C": "the rate of economic growth changing from negative to positive."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Employment is typically increasing during the expansion phase of a business cycle. Inflationary pressures are typically decreasing during a contraction phase. The rate of economic growth changes from negative to positive in the trough phase."
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "question": "Which of the following most accurately describes economies of scale? Economies of scale:",
+      "options": {
+        "A": "are dependent on short-run average costs.",
+        "B": "increase at a decreasing rate.",
+        "C": "occur when long-run unit costs fall as output increases."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Economies of scale occur when the percentage increase in output is greater than the percentage increase in the cost of all inputs. Economies of scale occur over the range where the long-run average cost curve slopes downward."
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "question": "A firm's most likely initial response to a cyclical increase in the inventory-to-sales ratio is to adjust their utilization of labor by:",
+      "options": {
+        "A": "adding new workers.",
+        "B": "laying off employees.",
+        "C": "reducing overtime."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. As a cyclical indicator, an increase in the inventory-to-sales ratio is a sign of slowing economic growth. When decreasing their utilization of labor in response to a slowing economy, firms typically first reduce overtime. Firms tend to be slow to lay off workers until it is clear that an economic contraction is underway."
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "question": "An argument against being concerned with the size of a fiscal deficit is that a deficit can:",
+      "options": {
+        "A": "aid in increasing GDP and employment if the economy is operating at less than potential GDP.",
+        "B": "lead to higher future taxes that will increase government revenues.",
+        "C": "cause government borrowing to crowd out private borrowing."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. One potential argument against being concerned about the size of fiscal deficits is that a deficit can help increase GDP and employment if output is below potential GDP and the spending does not divert capital from productive uses. Higher deficits that lead to crowding out or higher future taxes that result in lower long-term economic growth are arguments for concern about the size of fiscal deficits."
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "question": "If a central bank's targeted inflation rate is above the current rate, the central bank is most likely to:",
+      "options": {
+        "A": "increase the overnight lending rate.",
+        "B": "buy government securities.",
+        "C": "increase the reserve requirement."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Buying government securities is an expansionary policy that would increase the money supply and allow the inflation rate to increase to the targeted range. Increasing reserve requirements and overnight lending rates are contractionary and would have the opposite effects."
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "question": "Geopolitical risks are best described as having:",
+      "options": {
+        "A": "broad impacts on countries or regions, rather than discrete impacts on specific companies.",
+        "B": "impacts that are not typically captured by scenario analysis.",
+        "C": "greater impacts during recessionary phases of business cycles."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Geopolitical risks often have greater impacts during recessions than they would likely have during expansions. Geopolitical risks may have discrete impacts on specific companies or industries as well as broad impacts on countries and regions. Scenario analysis is a technique for modeling the potential impacts of geopolitical risks."
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "question": "Costs of international trade are most likely borne by:",
+      "options": {
+        "A": "consumers who have fewer choices of goods.",
+        "B": "consumers who pay higher prices for consumer goods.",
+        "C": "industries competing with imported goods."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Industries competing with imported goods may experience lower profit and employment due to international trade."
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "question": "A government that wishes to reduce the volatility of domestic asset prices and protect domestic industries is most likely to:",
+      "options": {
+        "A": "adopt voluntary export restraints.",
+        "B": "impose capital restrictions.",
+        "C": "participate in regional trading agreements."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Objectives commonly cited for imposing capital restrictions include reducing the volatility of domestic asset prices, protecting domestic industries, maintaining fixed exchange rates, and keeping domestic interest rates low."
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "question": "Which of the following arguments in favor of trade restrictions is least likely to be supported by economists?",
+      "options": {
+        "A": "Infant industries should be protected.",
+        "B": "National defense industries should be protected.",
+        "C": "Trade with low-wage countries depresses wage rates in high-wage countries."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Trade with low-wage countries does not in itself depress wage rates since productivity must be considered. The other arguments have some support among economists."
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "question": "The sale price per unit that would maximize profits for a monopolist is equal to $25 per unit. The sale price that would exist in a perfectly competitive market structure is equal to $18 per unit. The most likely price for a firm in an oligopoly to charge will be closest to:",
+      "options": {
+        "A": "$30.",
+        "B": "$20.",
+        "C": "$25."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The limiting outcomes in an oligopoly situation mean that price will fall somewhere between where a monopolist would maximize profits ($25) and the price that would result from perfect competition ($18). So, the most likely price out of the options given will be $20."
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "question": "Which of the following statements gives the best description of nowcasting?",
+      "options": {
+        "A": "This method is used to forecast future trends in economic variables based on their past and current values.",
+        "B": "This method is used for real-time monitoring of economic and financial variables to continuously assess current conditions and provide an estimate of the current state.",
+        "C": "This method is used to study past relationships between variables to determine which ones have explained the path of a particular variable of interest."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Nowcasting involves the use of techniques to estimate the present state. A is incorrect because nowcasting aims to estimate the present, not forecast the future. C is incorrect because the focus of nowcasting is to estimate the current, present value of a variable, such as GDP."
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "question": "Which of the following statements is most accurate?",
+      "options": {
+        "A": "Direct taxes are useful for discouraging alcohol consumption.",
+        "B": "Because indirect taxes cannot be changed quickly, they are of no use in fiscal policy.",
+        "C": "Government capital spending decisions are slow to plan, implement, and execute and hence are of little use for short-term economic stabilization."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Capital spending is much slower to implement than changes in indirect taxes; and indirect taxes affect alcohol consumption more directly than direct taxes."
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "question": "In which of the following exchange rate regimes can a country participate without giving up its own currency?",
+      "options": {
+        "A": "Crawling peg or formal dollarization.",
+        "B": "Monetary union or currency board.",
+        "C": "Target zone or conventional fixed peg."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. With formal dollarization or a monetary union, a country does not have its own currency. With a currency board, conventional fixed peg, target zone, or crawling peg, a country has its own currency and manages its exchange rate with another currency or basket of currencies."
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "question": "A key difference between the short-run and long-run outputs under monopolistic competition is that in the long run, the price is:",
+      "options": {
+        "A": "above average total cost, such that economic profits are positive.",
+        "B": "equal to average total cost, such that economic profits are zero.",
+        "C": "below average total cost, such that economic profits are negative."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. In the short run, a firm in a monopolistically competitive market structure can earn a positive economic profit because the price charged exceeds average total cost. However, competitors see this opportunity and are able to enter the market because the barriers to entry are low. Over the long run, the demand curve for each individual firm falls such that price is driven down to the level of average total cost, thereby reducing economic profits down to zero."
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "question": "Which of the following fiscal and monetary policy scenarios is most likely to increase the size of the public sector relative to the private sector?",
+      "options": {
+        "A": "Contractionary fiscal and monetary policy.",
+        "B": "Expansionary fiscal policy and contractionary monetary policy.",
+        "C": "Expansionary monetary policy and contractionary fiscal policy."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Expansionary fiscal policy tends to expand the public sector. Contractionary monetary policy tends to contract the private sector."
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "question": "Black swan risk refers to exogenous geopolitical risks that have substantial:",
+      "options": {
+        "A": "short-term effects and a low probability of occurrence.",
+        "B": "long-term effects and a low probability of occurrence.",
+        "C": "long-term effects and a high probability of occurrence."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Exogenous risks relate to unanticipated geopolitical risk. A black swan risk is an exogenous risk with a low likelihood of occurrence, but a high short-term impact."
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "question": "The spot exchange rate for Canadian dollars (CAD) per Swiss franc (CHF) is 1.1350 CAD/CHF and the 12-month forward exchange rate is 1.1460 CAD/CHF. The forward quote is a:",
+      "options": {
+        "A": "discount of 110 points and the CAD is at a forward discount to the CHF.",
+        "B": "premium of 11 points and the CAD is at a forward premium to the CHF.",
+        "C": "premium of 110 points and the CAD is at a forward discount to the CHF."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Because the forward CAD/CHF exchange rate is higher than the spot rate, the quote is a forward premium. Forward points represent 0.0001 for an exchange rate quoted to four decimal places. Here, the forward discount is 1460 - 1350 = 110 points. The base currency, the CHF, is at a forward premium to the CAD, therefore the CAD is at a forward discount to the CHF."
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "question": "Which of the following is least accurate regarding product development and marketing for firms under monopolistic competition?",
+      "options": {
+        "A": "Brand names can provide consumers with information regarding the quality of firm’s products.",
+        "B": "Firms that bring new and innovative products to the market face relatively more elastic demand curves than their competitors.",
+        "C": "Relative to other types of competition, product innovation is critical to the pursuit of economic profits."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Firms under monopolistic competition face less elastic demand curves when they introduce new and innovative products. This enables them to increase price and earn economic profits. However, close substitutes and imitations will eventually erode the economic profit from a new product. So, firms must constantly seek innovative product features that make their products relatively more desirable than their competitors."
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "question": "Which of the following statements is most accurate?",
+      "options": {
+        "A": "An increase in the budget deficit is always expansionary.",
+        "B": "An increase in government spending is always expansionary.",
+        "C": "The structural deficit is always larger than the deficit below full employment."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Note that increases in government spending may be accompanied by even bigger rises in tax receipts and hence may not be expansionary."
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "question": "David Forsythe and Linda Novak are discussing the advantages and disadvantages of tariffs. They state the following: • Forsythe: One of the groups that benefits from tariffs is often the government that imposes them. • Novak: Tariffs impose costs on specific groups, such as the country's import industries, but these costs are more than offset by the benefits to other groups and to the economy as a whole. With respect to these statements:",
+      "options": {
+        "A": "both are correct.",
+        "B": "both are incorrect.",
+        "C": "only one is correct."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Forsythe is correct. A primary reason why trade restrictions remain widespread is the revenue that governments receive from tariffs. Novak is incorrect. Trade restrictions benefit specific groups, such as workers in the protected industries, but those benefits are most often less than the costs imposed on consumers and other industries as a whole."
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "question": "The following table shows the trends in various economic indicators in the two most recent quarters — Interest rate spread between long-term government bonds and overnight borrowing rate: narrowing; New orders for capital goods: declining; Residential building permits: declining; Employees on non-agricultural payrolls: turned from rising to falling; Manufacturing and trade sales: stable; Average duration of unemployment: small decline; Change in unit labor costs: rising. Given the information, this economy is most likely experiencing a:",
+      "options": {
+        "A": "continuing recession.",
+        "B": "peak in the business cycle.",
+        "C": "strong recovery out of a trough."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. The first three indicators are leading indicators, and all of them are indicating an impending recession, which means the economy has reached the peak in this cycle. Non-agricultural payrolls and manufacturing and trade sales are coincident indicators. The trends in these two variables further indicate that the economy may begin to decline. The trends in the last two indicators—both lagging indicators— indicate that the economy may either continue to grow or it may be close to a peak. Aggregating the signals given by all three groups of economic indicators, it appears the economy may be near the peak of a business cycle."
+    }
+  ]
+}

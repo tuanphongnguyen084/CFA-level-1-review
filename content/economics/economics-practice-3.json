@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "economics-practice-3",
+  "name": "Economics Practice 3",
+  "group": "2026 Economics Practice Sets",
+  "source": "2026 Economics Practice 3",
+  "questions": [
+    {
+      "id": "Q1",
+      "num": 1,
+      "question": "The expansion phase of a business cycle is most likely characterized by:",
+      "options": {
+        "A": "the rate of economic growth changing from negative to positive.",
+        "B": "decreasing inflationary pressures.",
+        "C": "increasing employment."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Employment is typically increasing during the expansion phase of a business cycle. Inflationary pressures are typically decreasing during a contraction phase. The rate of economic growth changes from negative to positive in the trough phase."
+    },
+    {
+      "id": "Q2",
+      "num": 2,
+      "question": "The inventory-to-sales ratio for manufacturing and trade is classified as a:",
+      "options": {
+        "A": "lagging indicator.",
+        "B": "leading indicator.",
+        "C": "coincident indicator."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The inventory-to-sales ratio for manufacturing and trade is considered a lagging indicator because it peaks after the economy does, even though it is sometimes used in forecasting economic activity."
+    },
+    {
+      "id": "Q3",
+      "num": 3,
+      "question": "Which of the following economic indicators is classified as a leading indicator for the United States economy?",
+      "options": {
+        "A": "Average duration of unemployment.",
+        "B": "Index of consumer expectations.",
+        "C": "Industrial production."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Consumer expectations are a leading indicator. Industrial production is a coincident indicator. Average duration of unemployment is a lagging indicator."
+    },
+    {
+      "id": "Q4",
+      "num": 4,
+      "question": "A peak in the business cycle is most likely associated with:",
+      "options": {
+        "A": "payroll employment turning from positive to negative.",
+        "B": "decreasing inflation pressure.",
+        "C": "the highest level of economic output during the cycle."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. The peak phase of a business cycle represents the highest level of economic output (real GDP) reached during that cycle. Inflation pressure that built during the expansion may continue into the early part of the contraction that follows the peak. Employment typically does not begin to decline until sometime after the peak."
+    },
+    {
+      "id": "Q5",
+      "num": 5,
+      "question": "Which of the following statements about credit cycles is most accurate?",
+      "options": {
+        "A": "Credit cycles are a potential cause of asset price bubbles.",
+        "B": "A typical business cycle includes two or more credit cycles.",
+        "C": "Credit cycles tend to dampen business cycles."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Credit cycles tend to amplify business cycles and are a potential cause of asset price bubbles. Credit cycles have tended to be longer, on average, than business cycles."
+    },
+    {
+      "id": "Q6",
+      "num": 6,
+      "question": "Firms' initial responses to an emerging economic contraction are most likely to be:",
+      "options": {
+        "A": "reducing overtime hours.",
+        "B": "deferring maintenance of machinery.",
+        "C": "laying off workers."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. Early in an economic contraction, firms typically reduce output by using capital and labor less intensively than during an expansion (e.g., by reducing overtime). When they believe a contraction is likely to persist, firms decrease capacity by laying off workers and reducing their physical capital, often by deferring maintenance or not replacing worn-out equipment."
+    },
+    {
+      "id": "Q7",
+      "num": 7,
+      "question": "Which of the following is most likely to increase after an increase in aggregate real personal income?",
+      "options": {
+        "A": "Equity prices.",
+        "B": "Building permits for new private housing units.",
+        "C": "The ratio of consumer installment debt to income."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Aggregate real personal income is a coincident indicator of the business cycle, and the ratio of consumer installment debt to income is a lagging indicator. Increases in the ratio of consumer installment debt follow increases in average aggregate income during the typical business cycle."
+    },
+    {
+      "id": "Q8",
+      "num": 8,
+      "question": "A distinction between fiscal policy and monetary policy is that fiscal policy:",
+      "options": {
+        "A": "concerns taxes and government spending, while monetary policy concerns the money supply.",
+        "B": "is typically expansionary, while monetary policy is typically contractionary.",
+        "C": "is aimed at promoting economic growth, while monetary policy is aimed at promoting price stability."
+      },
+      "answer": "A",
+      "answer_source": "highlight",
+      "explanation": "A is correct. The distinction between fiscal and monetary policy is that a country's government determines fiscal policy through taxes and spending, but its central bank determines monetary policy by controlling the money supply. Both fiscal and monetary policy can be used to promote economic growth and price stability. Either fiscal policy or monetary policy can be expansionary or contractionary."
+    },
+    {
+      "id": "Q9",
+      "num": 9,
+      "question": "Promoting economic growth and price stability are the goals of:",
+      "options": {
+        "A": "monetary policy, but not fiscal policy.",
+        "B": "fiscal policy, but not monetary policy.",
+        "C": "both fiscal and monetary policy."
+      },
+      "answer": "C",
+      "answer_source": "highlight",
+      "explanation": "C is correct. Both monetary and fiscal policies are used by policymakers with the goals of maintaining stable prices and producing positive economic growth."
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "question": "The crowding-out model implies that a:",
+      "options": {
+        "A": "budget surplus will retard aggregate demand and trigger an economic downturn.",
+        "B": "budget deficit will increase the real interest rate and thereby retard private investment.",
+        "C": "budget deficit will stimulate aggregate demand and trigger a multiplier effect which will lead to inflation."
+      },
+      "answer": "B",
+      "answer_source": "highlight",
+      "explanation": "B is correct. Increased budget deficits will increase the demand for loanable funds and lead to higher interest rates and thus lower private investment. Crowding-out implies that an increase in government spending will choke off private investment and reduce the intended impact of fiscal policy changes on aggregate demand."
+    }
+  ]
+}

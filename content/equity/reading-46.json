@@ -6,14 +6,14 @@
   "questions": [
     {
       "id": "R46-Q1",
-      "question": "A stock has a required rate of return of 15%, a constant growth rate of 10%, and a dividend payout ratio of 45%. The stock's justi fied price-earnings ratio is closest to:",
+      "question": "A stock has a required rate of return of 15%, a constant growth rate of 10%, and a dividend payout ratio of 45%. The stock's justified price-earnings ratio is closest to:",
       "options": {
         "A": "4.5 times.",
         "B": "9.0 times.",
         "C": "3.0 times."
       },
       "answer": "B",
-      "explanation": "The constant growth dividend discount model can be stated in terms of a company's priceearnings ratio: P0/E1 = (D1/E1) / (k - g) where P0/E1 is the justi fied P/E ratio and D1/E1 is the expected dividend payout ratio. Here, D1/E1 = 0.45, the required rate of return k = 0.15, and the constant growth rate of dividends g = 0.10. P0/E1 = 0.45 / (0.15 - 0.10) = 0.45 / 0.05 = 9.0",
+      "explanation": "The constant growth dividend discount model can be stated in terms of a company's price-earnings ratio: P0/E1 = (D1/E1) / (k - g) where P0/E1 is the justified P/E ratio and D1/E1 is the expected dividend payout ratio. Here, D1/E1 = 0.45, the required rate of return k = 0.15, and the constant growth rate of dividends g = 0.10. P0/E1 = 0.45 / (0.15 - 0.10) = 0.45 / 0.05 = 9.0",
       "answer_source": "bold"
     },
     {

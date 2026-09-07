@@ -177,7 +177,7 @@
       "question": "Compared to S&P 500 index weighting, an equities index that is weighted based on a fundamental factor, such as earnings, will most likely:",
       "options": {
         "A": "have a valuetilt.",
-        "B": "have a momentumtilt.",
+        "B": "have a momentum tilt.",
         "C": "overweight firms with high EPS."
       },
       "answer": "A",
@@ -186,7 +186,7 @@
     },
     {
       "id": "R40-Q16",
-      "question": "An equity index comprised of value stocks, identi fied by their price-to-earnings ratios, is best described as a:",
+      "question": "An equity index comprised of value stocks, identified by their price-to-earnings ratios, is best described as a:",
       "options": {
         "A": "sector index.",
         "B": "style index.",

@@ -282,14 +282,14 @@
     },
     {
       "id": "R43-Q24",
-      "question": "A company's income statement for the previous year reflects the following amounts: Revenue: $1,500,000 Cost of sales: $900,000 Operating expenses: $250,000 Depreciation and amortiza tion: $50,000 The company's EBITDA is closest to:",
+      "question": "A company's income statement for the previous year reflects the following amounts: Revenue: $1,500,000 Cost of sales: $900,000 Operating expenses: $250,000 Depreciation and amortization: $50,000 The company's EBITDA is closest to:",
       "options": {
         "A": "$350,000.",
         "B": "$600,000.",
         "C": "$300,000."
       },
       "answer": "A",
-      "explanation": "EBITDA is equal to earnings before interest, taxes, depreciation, and amortiza tion. It is calculated by subtracting the cost of sales and operating expenses from revenue. EBITDA for this company = $1,500,000 - $900,000 - $250,000 = $350,000-$300,000 subtracts depreciation and amortiza tion of $50,000, which produces EBIT (earnings before interest and taxes), and $600,000 is just revenue less cost of sales.",
+      "explanation": "EBITDA is equal to earnings before interest, taxes, depreciation, and amortization. It is calculated by subtracting the cost of sales and operating expenses from revenue. EBITDA for this company = $1,500,000 - $900,000 - $250,000 = $350,000-$300,000 subtracts depreciation and amortization of $50,000, which produces EBIT (earnings before interest and taxes), and $600,000 is just revenue less cost of sales.",
       "answer_source": "bold"
     },
     {

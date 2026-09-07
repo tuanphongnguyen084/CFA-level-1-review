@@ -104,12 +104,12 @@
       "id": "R45-Q9",
       "question": "Sandra Page, CFA, is preparing a pro forma balance sheet for a company. Page is planning to incorporate several ad hoc additions into her forecast that are not currently accounted for on the company's recently published balance sheet from the prior year. Which of the following items will Page most likely need to add?",
       "options": {
-        "A": "A potential gain stemming from a lawsuit in which the company was the plainti ff.",
+        "A": "A potential gain stemming from a lawsuit in which the company was the plaintiff.",
         "B": "Unrealized gains on equity securities since the date of the previous balance sheet.",
-        "C": "Forecasted losses due to exchange ratefluctua tions over the course of the year."
+        "C": "Forecasted losses due to exchange rate fluctuations over the course of the year."
       },
       "answer": "A",
-      "explanation": "Contingent gains (e.g., those stemming from lawsuits) are not recorded on the financial statements until they have occurred. So, Page may want to incorporate these gains as a receivable (for the amount to be paid to the company) on the balance sheet and a gain on the income statement. Exchange ratefluctua tions are unpredictable and would not likely be accounted for in a pro forma. Market value changes cause unrealized gains or losses on equity securities, and these are unlikely to qualify as ad hoc items incorporated into a forecasted balance sheet.",
+      "explanation": "Contingent gains (e.g., those stemming from lawsuits) are not recorded on the financial statements until they have occurred. So, Page may want to incorporate these gains as a receivable (for the amount to be paid to the company) on the balance sheet and a gain on the income statement. Exchange rate fluctuations are unpredictable and would not likely be accounted for in a pro forma. Market value changes cause unrealized gains or losses on equity securities, and these are unlikely to qualify as ad hoc items incorporated into a forecasted balance sheet.",
       "answer_source": "bold"
     },
     {
@@ -177,7 +177,7 @@
       "question": "In estima ting sales for future years, an analyst will most likely account for which of the following potential assumptions?",
       "options": {
         "A": "Tax rate changes.",
-        "B": "Reductions in fixed costs due to new negotia tions with warehouse landlords.",
+        "B": "Reductions in fixed costs due to new negotiations with warehouse landlords.",
         "C": "New product launches by the competition."
       },
       "answer": "C",

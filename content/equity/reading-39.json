@@ -213,11 +213,11 @@
       "question": "An electronic crossing network is best described as:",
       "options": {
         "A": "an order-driven market.",
-        "B": "a quotedriven market.",
+        "B": "a quote-driven market.",
         "C": "a price-driven market."
       },
       "answer": "A",
-      "explanation": "A crossing network is an example of an order-driven market. Orders are batched together and crossed (matched) at specific times during the trading day at prices based on those of another exchange. Price-driven markets and quotedriven markets are other terms for dealer or over-the-counter markets.",
+      "explanation": "A crossing network is an example of an order-driven market. Orders are batched together and crossed (matched) at specific times during the trading day at prices based on those of another exchange. Price-driven markets and quote-driven markets are other terms for dealer or over-the-counter markets.",
       "answer_source": "bold"
     },
     {
@@ -226,7 +226,7 @@
       "options": {
         "A": "brokered market.",
         "B": "order-driven market.",
-        "C": "quotedriven market"
+        "C": "quote-driven market"
       },
       "answer": "A",
       "explanation": "Brokered markets are typically the best market structure for unique items. A broker adds value by locating a counterparty to take the opposite side of a trade of such an item.",

@@ -255,7 +255,7 @@
         "C": "frequent extreme losses and a few small gains."
       },
       "answer": "A",
-      "explanation": "A is correct. A return distribution with negative skew has frequent small gains and a few extreme losses. B is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses. C is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A eturn distribution with negative skew has frequent small gains and a few extreme losses.",
+      "explanation": "A is correct. A return distribution with negative skew has frequent small gains and a few extreme losses. B is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses. C is incorrect because a return distribution with positive skew has frequent small losses and a few extreme gains. A return distribution with negative skew has frequent small gains and a few extreme losses.",
       "answer_source": "red",
       "tags": [
         "interpret and evaluate measures of skewness and kurtosis to address an investment problem"

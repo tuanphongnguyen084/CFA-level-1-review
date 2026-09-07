@@ -162,7 +162,7 @@
     },
     {
       "id": "R40-Q14",
-      "question": "Compared to a value-weighted index, the type of index most likely to have a valuetilt is a(n):",
+      "question": "Compared to a value-weighted index, the type of index most likely to have a value tilt is a(n):",
       "options": {
         "A": "equal-weighted index.",
         "B": "fundamental-weighted index.",
@@ -176,12 +176,12 @@
       "id": "R40-Q15",
       "question": "Compared to S&P 500 index weighting, an equities index that is weighted based on a fundamental factor, such as earnings, will most likely:",
       "options": {
-        "A": "have a valuetilt.",
+        "A": "have a value tilt.",
         "B": "have a momentum tilt.",
         "C": "overweight firms with high EPS."
       },
       "answer": "A",
-      "explanation": "Compared to the S&P 500 index, which is market cap weighted, an index that is weighted based on fundamentals will have a valuetilt. Firms that have a higher earnings weight than market cap weight will be those with higher earnings yields. Weights are based on firm earnings, not earnings per share.",
+      "explanation": "Compared to the S&P 500 index, which is market cap weighted, an index that is weighted based on fundamentals will have a value tilt. Firms that have a higher earnings weight than market cap weight will be those with higher earnings yields. Weights are based on firm earnings, not earnings per share.",
       "answer_source": "bold"
     },
     {

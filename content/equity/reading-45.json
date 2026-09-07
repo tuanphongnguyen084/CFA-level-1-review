@@ -201,11 +201,11 @@
       "question": "Which of the following represents a benefit to an analyst incorporating scenario analysis into her forecasting?",
       "options": {
         "A": "Accounting for potential changes in the company's economic environment.",
-        "B": "Adjusting past results for unidenti fied errors.",
+        "B": "Adjusting past results for unidentified errors.",
         "C": "Solidifying a single forecasted number for bottom-line profits."
       },
       "answer": "A",
-      "explanation": "Because analysts must use estimates and assumptions in forecasting future financial statements, scenario analysis accounts for the reality that unforeseen changes may impact line items in a positive or negative way. The analyst will, therefore, be able to produce a range of estimates based on potential changes in the economy, rather than having to stick to one point estimate. Past results are not adjusted for unidenti fied errors, and a single forecasted number is not \"solidified\" through scenario analysis",
+      "explanation": "Because analysts must use estimates and assumptions in forecasting future financial statements, scenario analysis accounts for the reality that unforeseen changes may impact line items in a positive or negative way. The analyst will, therefore, be able to produce a range of estimates based on potential changes in the economy, rather than having to stick to one point estimate. Past results are not adjusted for unidentified errors, and a single forecasted number is not \"solidified\" through scenario analysis",
       "answer_source": "bold"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "id": "R45-Q21",
-      "question": "An analyst a ttends a management call where the CEO projects revenue and operating expense growth of 4%-6% next year, respectively. Understanding the natural tendency of management when communicating these numbers, an analyst will most likely project which of the following?",
+      "question": "An analyst attends a management call where the CEO projects revenue and operating expense growth of 4%-6% next year, respectively. Understanding the natural tendency of management when communicating these numbers, an analyst will most likely project which of the following?",
       "options": {
         "A": "Revenue growth of 5%- 7%.",
         "B": "Operating expense growth of 4%-6%.",

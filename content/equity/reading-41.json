@@ -85,7 +85,7 @@
         "C": "Low returns over a three-year period are followed by high returns over the following three years."
       },
       "answer": "C",
-      "explanation": "The overreaction effect refers to stocks with poor returns over three tofive-year periods that had higher subsequent performance than stocks with high returns in the prior period. The result is a ttributed to overreaction in stock prices that reverses over longer periods of time. Stocks with high previous short-term returns that have high subsequent returns show a momentum effect",
+      "explanation": "The overreaction effect refers to stocks with poor returns over three tofive-year periods that had higher subsequent performance than stocks with high returns in the prior period. The result is attributed to overreaction in stock prices that reverses over longer periods of time. Stocks with high previous short-term returns that have high subsequent returns show a momentum effect",
       "answer_source": "bold"
     },
     {
@@ -210,7 +210,7 @@
     },
     {
       "id": "R41-Q18",
-      "question": "Investor overreaction that has been documented in securities markets is most likely a ttributable to investors exhibiting:",
+      "question": "Investor overreaction that has been documented in securities markets is most likely attributable to investors exhibiting:",
       "options": {
         "A": "conservatism.",
         "B": "loss aversion.",
@@ -286,7 +286,7 @@
       "options": {
         "A": "buying and holding a broad market portfolio is the preferred investment strategy.",
         "B": "share prices adjust rapidly when companies announce results in line with expectations.",
-        "C": "the conditions exist for active investment strategies to achieve superior riskadjusted returns."
+        "C": "the conditions exist for active investment strategies to achieve superior risk-adjusted returns."
       },
       "answer": "A",
       "explanation": "",
@@ -306,7 +306,7 @@
     },
     {
       "id": "R41-Q26",
-      "question": "The statement, \"Stock prices fully reflect all information from public and private sources,\" can be a ttributed to which form of the efficient market hypothesis (EMH)?",
+      "question": "The statement, \"Stock prices fully reflect all information from public and private sources,\" can be attributed to which form of the efficient market hypothesis (EMH)?",
       "options": {
         "A": "Strong-form EMH.",
         "B": "Semistrong-form EMH.",

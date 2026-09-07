@@ -27,6 +27,8 @@ buyers-only material (review tests, practice sets, reading drills — see
 ``owner_emails`` configured nobody is an owner and that material is hidden
 from everyone, so a missing key can never leak it.
 """
+import html
+
 import streamlit as st
 
 
@@ -138,7 +140,10 @@ def require_access():
     _shell(
         "No access yet",
         "<p style='text-align:center;color:#b3b3b3;'>"
-        f"<b>{email or 'This account'}</b> is not on the access list. "
+        # Escaped: it lands in an unsafe_allow_html block, and an identity
+        # claim is still outside data even when the provider is trusted.
+        f"<b>{html.escape(email) or 'This account'}</b> is not on the "
+        "access list. "
         "Please get in touch to be added.</p>",
     )
     _, col, _ = st.columns([1, 2, 1])

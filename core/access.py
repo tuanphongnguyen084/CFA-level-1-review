@@ -51,17 +51,46 @@ def _auth_configured():
 
 
 def _valid_emails():
-    emails = _secrets_section("access_emails") or []
-    if isinstance(emails, str):
-        emails = [emails]
-    return {str(e).strip().lower() for e in emails if str(e).strip()}
+    emails = _as_email_set(_secrets_section("access_emails"))
+    if emails:
+        return emails
+    auth = _secrets_section("auth")          # same [auth]-placement trap
+    if auth:
+        try:
+            return _as_email_set(auth.get("access_emails"))
+        except Exception:  # noqa: BLE001
+            return set()
+    return set()
+
+
+def _as_email_set(value):
+    """Accept a list, or one address, or a comma-separated string."""
+    if not value:
+        return set()
+    if isinstance(value, str):
+        value = value.split(",")
+    return {str(e).strip().lower() for e in value if str(e).strip()}
 
 
 def _owner_emails():
-    emails = _secrets_section("owner_emails") or []
-    if isinstance(emails, str):
-        emails = [emails]
-    return {str(e).strip().lower() for e in emails if str(e).strip()}
+    """Owner addresses, read from the top level or from inside ``[auth]``.
+
+    TOML puts every key written after a ``[auth]`` header inside that table,
+    so pasting ``owner_emails`` below it silently produces
+    ``auth.owner_emails`` and the owner locks themselves out of their own
+    material. Reading both spellings can't widen access — an address still
+    has to be listed — so it is worth being forgiving here.
+    """
+    emails = _as_email_set(_secrets_section("owner_emails"))
+    if emails:
+        return emails
+    auth = _secrets_section("auth")
+    if auth:
+        try:
+            return _as_email_set(auth.get("owner_emails"))
+        except Exception:  # noqa: BLE001
+            return set()
+    return set()
 
 
 def is_owner():

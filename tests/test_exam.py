@@ -30,6 +30,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, REPO_ROOT)
 
 from streamlit.testing.v1 import AppTest  # noqa: E402
+from core import content  # noqa: E402
 from core.exam import _grade, remaining  # noqa: E402
 
 # Deliberately out of source order, to prove start() sorts by "num" rather
@@ -79,7 +80,14 @@ def fixture_content_dir(tmp_path, monkeypatch):
         "timed_minutes": 2, "questions": FIXTURE_QUESTIONS,
     }))
     monkeypatch.setenv("_FIXTURE_CONTENT_DIR", str(tmp_path))
-    return str(tmp_path)
+    # The scripts below assign content.CONTENT_DIR directly, which would leak
+    # into every later test in the session (they would then read this fixture
+    # folder instead of the real content/). Registering it through monkeypatch
+    # records the original so it is restored on teardown either way.
+    monkeypatch.setattr(content, "CONTENT_DIR", str(tmp_path))
+    content.load_library.clear()
+    yield str(tmp_path)
+    content.load_library.clear()
 
 
 def _run(script_fn):

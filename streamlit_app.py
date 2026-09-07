@@ -29,11 +29,22 @@ access.require_access()
 # localStorage component + hydrate progress (must run every script run).
 progress.init()
 
-library = content.load_library()
+# Everyone signed in may study; only owner accounts see the buyers-only
+# material, and for everyone else it is absent rather than locked.
+library = content.visible_library(content.load_library(), access.is_owner())
 ui.sidebar(library)
 access.sidebar_account()
 
 if "view" not in st.session_state:
+    st.session_state.view = "home"
+
+# A session carried over from an owner account (or from before an exam was
+# hidden) can still point at content this viewer may no longer open, and the
+# views would fail on the missing exam. Send those back home.
+_open = (st.session_state.get("quiz") or st.session_state.get("exam") or {})
+if _open and not library.exam(_open.get("subject_id"), _open.get("exam_id")):
+    for key in ("quiz", "exam", "review_exam"):
+        st.session_state.pop(key, None)
     st.session_state.view = "home"
 
 VIEWS = {

@@ -19,6 +19,13 @@ With ``[auth]`` present the gate fails CLOSED: an empty or missing
 ``access_emails`` admits nobody, because for a paid app "misconfigured"
 must never mean "free for everyone". The message on that screen says what
 to fix.
+
+There is a second, narrower tier: ``owner_emails``. Everyone in
+``access_emails`` may use the app, but only these addresses see the
+buyers-only material (review tests, practice sets, reading drills — see
+``core.content.is_private_exam``). It also fails closed: with no
+``owner_emails`` configured nobody is an owner and that material is hidden
+from everyone, so a missing key can never leak it.
 """
 import streamlit as st
 
@@ -46,6 +53,31 @@ def _valid_emails():
     if isinstance(emails, str):
         emails = [emails]
     return {str(e).strip().lower() for e in emails if str(e).strip()}
+
+
+def _owner_emails():
+    emails = _secrets_section("owner_emails") or []
+    if isinstance(emails, str):
+        emails = [emails]
+    return {str(e).strip().lower() for e in emails if str(e).strip()}
+
+
+def is_owner():
+    """Whether the signed-in account may see buyers-only material.
+
+    Fails closed on purpose: with the gate switched off (no ``[auth]``) or
+    with no ``owner_emails`` configured this returns False, so hidden
+    material stays hidden rather than being exposed by a missing key.
+    """
+    if not _auth_configured():
+        return False
+    try:
+        if not st.user.is_logged_in:
+            return False
+        email = (getattr(st.user, "email", "") or "").strip().lower()
+    except Exception:  # noqa: BLE001
+        return False
+    return bool(email) and email in _owner_emails()
 
 
 def decide(logged_in, email, valid_emails):

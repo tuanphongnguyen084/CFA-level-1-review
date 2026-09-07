@@ -10,12 +10,28 @@ code change needed. Malformed files are skipped and reported (see
 import json
 import os
 import re
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 
 import streamlit as st
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT_DIR = os.path.join(REPO_ROOT, "content")
+
+
+# Anyone may browse the 1000-question bank and the mock exams; everything
+# else (review tests, practice sets, reading drills) is for signed-in buyers
+# only. A file can opt out either way with a "private": true/false field.
+PUBLIC_EXAM_PREFIXES = ("1000-",)
+PUBLIC_SUBJECTS = frozenset({"mock"})
+
+
+def is_private_exam(subject_id, exam_id, data=None):
+    """Whether an exam is buyers-only. Pure, so it is directly testable."""
+    if data and "private" in data:
+        return bool(data["private"])
+    if subject_id in PUBLIC_SUBJECTS:
+        return False
+    return not exam_id.startswith(PUBLIC_EXAM_PREFIXES)
 
 
 @dataclass
@@ -27,6 +43,7 @@ class Exam:
     questions: list
     path: str
     timed_minutes: int | None = None   # set => exam-mode; None => practice-quiz mode
+    private: bool = False              # hidden from visitors who aren't buyers
 
     @property
     def n(self):
@@ -135,6 +152,7 @@ def _load_subject(subject_id, sdir, errors):
             questions=good,
             path=fpath,
             timed_minutes=data.get("timed_minutes"),
+            private=is_private_exam(subject_id, exam_id, data),
         ))
 
     subject.exams.sort(key=lambda e: (e.group, _natural_key(e.name)))
@@ -157,3 +175,27 @@ def load_library():
 
     subjects.sort(key=lambda s: (s.order, s.name))
     return Library(subjects=subjects, errors=errors)
+
+
+def visible_library(library, privileged):
+    """The library as a given viewer may see it.
+
+    Buyers-only exams are removed for everyone else, and every view reaches
+    content through ``library.exam()``, so filtering here also makes a hidden
+    exam unreachable by a stale session or a hand-crafted state — not merely
+    absent from the listings.
+
+    Removed rather than shown-but-locked: an ordinary viewer should have no
+    way to tell a higher tier exists. That is also why the loader's error
+    list is dropped here — it names files, and a complaint about
+    ``ethics-review-test-1.json`` would advertise exactly what it hides.
+    """
+    if privileged:
+        return library
+    subjects = []
+    for s in library.subjects:
+        visible = [e for e in s.exams if not e.private]
+        if not visible:
+            continue          # nothing left worth showing this topic for
+        subjects.append(replace(s, exams=visible))
+    return Library(subjects=subjects, errors=[])

@@ -212,8 +212,8 @@
       "id": "Q138",
       "question": "The earnings multiplier model, derived from the dividend discount model, expresses a stock's P/E ratio (P 0 /E 1 ) as the :",
       "options": {
-        "A": "expected dividend in one year divided by the difierence between the required return on equity and the expected dividend growth rate.",
-        "B": "expected dividend payout ratio divided by the difierence between the required return on equity and the expected dividend growth rate.",
+        "A": "expected dividend in one year divided by the difference between the required return on equity and the expected dividend growth rate.",
+        "B": "expected dividend payout ratio divided by the difference between the required return on equity and the expected dividend growth rate.",
         "C": "expected dividend payout ratio divided by the sum of the expected dividend growth rate and the required return on equity."
       },
       "answer": "B",

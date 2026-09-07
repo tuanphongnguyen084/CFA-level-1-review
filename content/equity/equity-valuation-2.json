@@ -69,7 +69,7 @@
       "question": "The required rate of return on equity used as an input to the dividend discount model is influenced by each of the following factors EXCEPT:",
       "options": {
         "A": "the stock's appropriate risk premium.",
-        "B": "the expected infiation rate.",
+        "B": "the expected inflation rate.",
         "C": "the stock's dividend payout ratio."
       },
       "answer": "C",
@@ -117,7 +117,7 @@
       "question": "Of the following types of firm, which is most suitable for P/B ratio analysis?",
       "options": {
         "A": "A service industry firm without significant fixed assets.",
-        "B": "A firm with accounting standards difierent from other firms.",
+        "B": "A firm with accounting standards different from other firms.",
         "C": "A firm with accounting standards consistent to other firms."
       },
       "answer": "C",
@@ -190,7 +190,7 @@
       "options": {
         "A": "product of the retention ratio and the return on equity.",
         "B": "product of the return on equity and the dividend payout ratio.",
-        "C": "difierence between the retention ratio and the return on equity."
+        "C": "difference between the retention ratio and the return on equity."
       },
       "answer": "A",
       "explanation": "Assuming past investments are stable and earnings are calculated to allow for maintenance of past earnings power, then the firm's expected dividend growth rate (g) can be defined as the firm's earnings plowback or retention rate (RR) times the return on the equity (ROE) portion of new investments. This growth rate is also called the sustainable growth rate. (Module 48.2, LOS 48.h)",

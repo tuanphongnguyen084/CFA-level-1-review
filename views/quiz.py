@@ -31,7 +31,8 @@ def render(library):
         st.progress(idx / total)
 
     cur = questions[idx]
-    render_question(f"Question {idx + 1} / {total}", cur["question"])
+    render_question(f"Question {idx + 1} / {total}", cur["question"],
+                    key=f'{q["exam_id"]}-{cur["id"]}')
 
     letters = quiz.option_letters(cur)
     chosen = q["answers"].get(cur["id"])

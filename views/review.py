@@ -19,7 +19,8 @@ def render(library):
 
     for i, c in enumerate(exam.questions, 1):
         with st.container(border=True):
-            render_question(f"Question {i}", c["question"])
+            render_question(f"Question {i}", c["question"],
+                            key=f'answers-{c["id"]}')
             for L in quiz.option_letters(c):
                 mark = "  (correct)" if L == c["answer"] else ""
                 st.write(f"{L}) {md(c['options'][L])}{mark}")

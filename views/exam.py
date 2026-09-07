@@ -148,7 +148,8 @@ def render(library):
     _timer(library)
     _question_grid(ex, questions)
 
-    render_question(f"Question {idx + 1} / {total}", cur["question"])
+    render_question(f"Question {idx + 1} / {total}", cur["question"],
+                    key=f'{ex["exam_id"]}-{cur["id"]}')
 
     letters = exam_core.option_letters(cur)
     chosen = ex["answers"].get(cur["id"])
@@ -236,7 +237,8 @@ def render_result(library):
         icon = "❌" if q["id"] in wrong_set else "✅"
         stem_preview = q["question"][:80] + ("…" if len(q["question"]) > 80 else "")
         with st.expander(f"Q{q.get('num', '?')}. {stem_preview}", icon=icon):
-            render_question(f"Question {q.get('num', '?')}", q["question"])
+            render_question(f"Question {q.get('num', '?')}", q["question"],
+                            key=f'review-{q["id"]}')
             for L in exam_core.option_letters(q):
                 marks = []
                 if L == q["answer"]:

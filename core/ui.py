@@ -159,12 +159,23 @@ def md(text):
     return str(text).replace("\\", "\\\\").replace("$", "\\$")
 
 
-def render_question(no_text, body):
+def render_question(no_text, body, key=None):
+    """Draw the question card.
+
+    ``key`` should identify the question. Streamlit otherwise reuses the same
+    DOM node for every question and only swaps its contents, which breaks
+    browser note-taking extensions: a note anchored while reading question 1
+    stays attached to that node, so it reappears inside question 2's text.
+    Keying the container gives each question its own node instead.
+    """
     safe = _html.escape(str(body)).replace("$", "&#36;")
-    st.markdown(
-        f'<div class="q-card"><span class="q-no">{no_text}</span>{safe}</div>',
-        unsafe_allow_html=True,
-    )
+    html_block = (f'<div class="q-card"><span class="q-no">{no_text}</span>'
+                  f'{safe}</div>')
+    if key is None:
+        st.markdown(html_block, unsafe_allow_html=True)
+        return
+    with st.container(key=f"q-{key}"):
+        st.markdown(html_block, unsafe_allow_html=True)
 
 
 def go(view, **kwargs):

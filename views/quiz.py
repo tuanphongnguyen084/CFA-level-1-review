@@ -5,6 +5,14 @@ from core import quiz
 from core.ui import md, render_question
 
 
+def _go_to(q, new_idx):
+    """Move to another question, re-deriving whether it has been answered."""
+    q["idx"] = new_idx
+    q["checked"] = q["order"][new_idx] in q["answers"]
+    quiz.persist_in_progress()
+    st.rerun()
+
+
 def render(library):
     q = st.session_state.get("quiz")
     if not q:
@@ -45,11 +53,31 @@ def render(library):
     )
 
     if not q["checked"]:
-        if st.button("Check", type="primary", disabled=pick is None):
-            q["answers"][cur["id"]] = pick.split(")")[0]
-            q["checked"] = True
-            quiz.persist_in_progress()
-            st.rerun()
+        # Checking used to be the only way forward, so a question you couldn't
+        # answer stopped the round dead. Skipping leaves it unanswered, which
+        # grades as wrong and therefore comes back in "Retry wrong" — exactly
+        # where a question you couldn't do belongs.
+        act = st.columns([2, 1, 1]) if idx > 0 else st.columns([2, 1])
+        with act[0]:
+            if st.button("Check", type="primary", disabled=pick is None,
+                         use_container_width=True):
+                q["answers"][cur["id"]] = pick.split(")")[0]
+                q["checked"] = True
+                quiz.persist_in_progress()
+                st.rerun()
+        with act[1]:
+            last = idx + 1 >= total
+            if st.button("Skip" if not last else "Skip & finish",
+                         use_container_width=True):
+                if last:
+                    quiz.finish(library)
+                else:
+                    _go_to(q, idx + 1)
+        if idx > 0:
+            with act[2]:
+                if st.button("Previous", use_container_width=True,
+                             key="prev_unchecked"):
+                    _go_to(q, idx - 1)
         return
 
     chosen = q["answers"][cur["id"]]
@@ -66,17 +94,15 @@ def render(library):
 
     nav = st.columns(2)
     with nav[0]:
+        # Must re-derive "checked" rather than assume True: going back to a
+        # question that was skipped would otherwise try to show an answer
+        # that was never given.
         if idx > 0 and st.button("Previous", use_container_width=True):
-            q["idx"] -= 1
-            q["checked"] = True
-            st.rerun()
+            _go_to(q, idx - 1)
     with nav[1]:
         if idx + 1 < total:
             if st.button("Next", type="primary", use_container_width=True):
-                q["idx"] += 1
-                q["checked"] = q["order"][q["idx"]] in q["answers"]
-                quiz.persist_in_progress()
-                st.rerun()
+                _go_to(q, idx + 1)
         else:
             if st.button("Submit & see results", type="primary",
                          use_container_width=True):

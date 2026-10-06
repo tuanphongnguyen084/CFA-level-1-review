@@ -446,7 +446,7 @@
     {
       "id": "S1Q31",
       "num": 31,
-      "question": "The following table represents the history of an investment in a company: Time Activity Price per Share Dividends Paid per Share Beginning of Year 1 Purchase 10 shares €160 ….. End of Year 1 Purchase 5 shares €168 €3.00 End of Year 2 …. €175 €4.00 End of Year 3 Sell 15 shares €166 €0.00 The investor does not reinvest: the dividends received. Ignoring taxes, the time-weighted rate of return on this investment is closest to:",
+      "question": "The following table represents the history of an investment in a company. Beginning of Year 1: purchase 10 shares at €160 per share, no dividend. End of Year 1: purchase 5 shares at €168 per share, dividend €3.00 per share. End of Year 2: no transaction, price €175 per share, dividend €4.00 per share. End of Year 3: sell 15 shares at €166 per share, dividend €0.00. The investor does not reinvest the dividends received. Ignoring taxes, the time-weighted rate of return on this investment is closest to:",
       "options": {
         "A": "1.93%.",
         "B": "2.40%.",

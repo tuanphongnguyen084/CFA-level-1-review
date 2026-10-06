@@ -210,7 +210,7 @@
     {
       "id": "Q14",
       "num": 14,
-      "question": "An analyst gathers the following year-end information from a company's financial statements Year 1 Year 2 Accounts receivable €3 million €1 million Accounts payable €2 million €5 million Based only on this information, if Year 2 net income is €3 million and the Year 1 ending cash balance is €10 million the Year 2 ending cash balance is:",
+      "question": "An analyst gathers the following year-end information from a company's financial statements. Accounts receivable: €1 million in Year 1 and €3 million in Year 2. Accounts payable: €5 million in Year 1 and €2 million in Year 2. Based only on this information, if Year 2 net income is €3 million and the Year 1 ending cash balance is €10 million, the Year 2 ending cash balance is:",
       "options": {
         "A": "€8 million",
         "B": "€12 million",

@@ -178,7 +178,7 @@
     {
       "id": "Q34",
       "num": 34,
-      "question": "An analyst gathers the following data for three companies in the same industry (in millions): Company Enterprise Value (EV) Earnings Before Interest, Taxes, Depreciation, & Amortization (EBITDA) 1 $100 $8 2 $150 $10 3 $200 $15 Q. Based on enterprise value multiples, which of the three companies is likely the most undervalued?",
+      "question": "An analyst gathers the following data for three companies in the same industry (in millions). Company 1: enterprise value (EV) $100, EBITDA $8. Company 2: EV $150, EBITDA $10. Company 3: EV $200, EBITDA $15. Based on enterprise value multiples, which of the three companies is likely the most undervalued?",
       "options": {
         "A": "Company 1",
         "B": "Company 2",

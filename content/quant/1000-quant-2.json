@@ -40,7 +40,7 @@
     {
       "id": "Q26",
       "num": 26,
-      "question": "An investor records the following information and transactions for a stock: Year Price per Share at Beginning of Year Cash Flow at Beginning of Year 1 $100 $100 used to purchase one share 2 $100 $9 received in dividends and not reinvested 3 $100 $100 received from selling one share The investor's money-weighted rate of return is closest to:",
+      "question": "An investor records the following information and transactions for a stock. Year 1: price per share at the beginning of the year $100, and $100 used to purchase one share. Year 2: price $100, and $9 received in dividends and not reinvested. Year 3: price $100, and $100 received from selling one share. The investor's money-weighted rate of return is closest to:",
       "options": {
         "A": "4.4%.",
         "B": "4.5%.",

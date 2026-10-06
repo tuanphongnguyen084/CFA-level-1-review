@@ -24,7 +24,7 @@
     {
       "id": "Q86",
       "num": 86,
-      "question": "An investor gathers the following information about a bond portfolio comprised of two option-free bonds: Bond Par Value Market Value Duration 1 $100,000 $120,000 5 2 $200,000 $180,000 4 The duration of the portfolio is closest to:",
+      "question": "An investor gathers the following information about a bond portfolio comprised of two option-free bonds. Bond 1: par value $100,000, market value $120,000, duration 5. Bond 2: par value $200,000, market value $180,000, duration 4. The duration of the portfolio is closest to:",
       "options": {
         "A": "4.33.",
         "B": "4.40.",

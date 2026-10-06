@@ -104,7 +104,7 @@
     {
       "id": "Q53",
       "num": 53,
-      "question": "A tree diagram contains the following information about the dividend per share payable by a company under two scenarios: Scenario Probability of Scenario Dividend per Share Probability of Dividend Favorable 0.60 $2.00 $1.50 0.80 0.20 Unfavorable 0.40 $0.75 $0.50 0.30 0.70 The expected dividend per share under the favorable scenario is closest to:",
+      "question": "A tree diagram contains the following information about the dividend per share payable by a company under two scenarios. Favorable scenario — probability of the scenario 0.60; dividend per share $2.00 with probability 0.80, or $1.50 with probability 0.20. Unfavorable scenario — probability of the scenario 0.40; dividend per share $0.75 with probability 0.30, or $0.50 with probability 0.70. The expected dividend per share under the favorable scenario is closest to:",
       "options": {
         "A": "$1.14.",
         "B": "$1.37.",

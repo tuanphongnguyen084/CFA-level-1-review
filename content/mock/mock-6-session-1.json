@@ -1431,7 +1431,7 @@
     },
     {
       "num": 90,
-      "question": "Hazel Edwards, CFA, is analyzing Collins Footwear, Inc. and obtains the following data for the company's major geographic segments: Asia Europe North America Sales (U.S. dollars) $200 million $300 million $500 million Net profit margin 4.5% 3.0% 1.5% Asset turnover 1.5× 2.5× 4.0× Based on these data, Edwards should conclude that Collins's:",
+      "question": "Hazel Edwards, CFA, is analyzing Collins Footwear, Inc. and obtains the following data for the company's major geographic segments. Asia: sales $200 million, net profit margin 4.5%, asset turnover 1.5×. Europe: sales $300 million, net profit margin 3.0%, asset turnover 2.5×. North America: sales $500 million, net profit margin 1.5%, asset turnover 4.0×. Based on these data, Edwards should conclude that Collins's:",
       "options": {
         "A": "smallest segment by assets is Asia.",
         "B": "most profitable segment by return on assets is Europe.",

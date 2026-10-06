@@ -606,7 +606,7 @@
     {
       "id": "S2Q47",
       "num": 47,
-      "question": "An analyst gathers the following information about two companies' non-callable, non-convertible perpetual preference shares: Preference Share 1 Preference Share 2 Par value $100 $100 Required rate of return 8% 11% Annual dividend per share $6 $8 Q. The value of Preference Share 1 is:",
+      "question": "An analyst gathers the following information about two companies' non-callable, non-convertible perpetual preference shares. Preference Share 1: par value $100, required rate of return 8%, annual dividend per share $6. Preference Share 2: par value $100, required rate of return 11%, annual dividend per share $8. The value of Preference Share 1 is:",
       "options": {
         "A": "less than the value of Preference Share 2.",
         "B": "equal to the value of Preference Share 2.",

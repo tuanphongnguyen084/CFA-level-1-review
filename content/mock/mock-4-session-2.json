@@ -437,7 +437,7 @@
     {
       "id": "S2Q34",
       "num": 34,
-      "question": "A manager gathers the following information about two non-dividend paying stocks that constitute a market-capitalization weighted index: Stock Market Capitalization Price per Share 1 $100 million $90 2 $200 million $30 Q. If there are no other securities in the index and the price of each stock increases by 10%, the index's return will most likely be:",
+      "question": "A manager gathers the following information about two non-dividend paying stocks that constitute a market-capitalization weighted index. Stock 1: market capitalization $100 million, price per share $90. Stock 2: market capitalization $200 million, price per share $30. If there are no other securities in the index and the price of each stock increases by 10%, the index's return will most likely be:",
       "options": {
         "A": "less than the return of an equal-weighted index.",
         "B": "equal to the return of an equal-weighted index.",
@@ -671,7 +671,7 @@
     {
       "id": "S2Q52",
       "num": 52,
-      "question": "A portfolio manager holds the following three option-free bonds Bond Par Value Owned Market Value Owned Duration 1 $8 million $12 million 3 2 $8 million $6 million 7 3 $4 million $6 million 6 Q. The portfolio's duration is closest to:",
+      "question": "A portfolio manager holds three option-free bonds. Bond 1: par value owned $8 million, market value owned $12 million, duration 3. Bond 2: $8 million, $6 million, duration 7. Bond 3: $4 million, $6 million, duration 6. The portfolio's duration is closest to:",
       "options": {
         "A": "4.15",
         "B": "5.20",

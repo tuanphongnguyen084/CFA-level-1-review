@@ -1000,7 +1000,7 @@
     {
       "id": "S1Q63",
       "num": 63,
-      "question": "Selected year-end values for Able, Inc., which reports under U.S. GAAP, are presented in the following tables: Balance Sheet Items December 31, 20X2 December 31, 20X1 Accounts receivable $19 million $21 million Trade payables $14 million $16 million Inventory $31 million $28 million Income Statement Items December 31, 20X2 Net income $42 million Loss on sale $3 million Depreciation $2 million Dividends paid $1 million Based only on the data in the tables, 20X2 cash flow for operations for Able, Inc., is:",
+      "question": "Selected year-end values for Able, Inc., which reports under U.S. GAAP, are presented below. Balance sheet items — accounts receivable: $21 million at 31 December 20X1 and $19 million at 31 December 20X2; trade payables: $16 million and $14 million; inventory: $28 million and $31 million. Income statement items for 20X2 — net income $42 million; loss on sale $3 million; depreciation $2 million; dividends paid $1 million. Based only on these data, 20X2 cash flow for operations for Able, Inc., is:",
       "options": {
         "A": "$43 million.",
         "B": "$44 million.",

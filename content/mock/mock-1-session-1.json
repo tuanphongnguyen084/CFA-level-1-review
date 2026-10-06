@@ -528,7 +528,7 @@
     {
       "id": "S1Q41",
       "num": 41,
-      "question": "An analyst gathers the following information about two projects with the same discount rate: Year Project 1 Cash Flows Project 2 Cash Flows 0 -$1,000 -$1,300 1 $400 $500 2 $400 $500 3 $400 $500 If the NPV of Project 1 is $0, the NPV of Project 2 is:",
+      "question": "An analyst gathers the following information about two projects with the same discount rate. Project 1 cash flows: Year 0 −$1,000; Year 1 $400; Year 2 $400; Year 3 $400. Project 2 cash flows: Year 0 −$1,300; Year 1 $500; Year 2 $500; Year 3 $500. If the NPV of Project 1 is $0, the NPV of Project 2 is:",
       "options": {
         "A": "negative.",
         "B": "zero.",
@@ -619,7 +619,7 @@
     {
       "id": "S1Q48",
       "num": 48,
-      "question": "An analyst gathers the following annual information on three companies: Company A Company B Company C Sales $40,000 $200,000 $450,000 Cost of sales $21,000 $110,000 $240,000 Selling, general and administrative $6,000 $24,000 $48,000 All other operating expenses $1,000 $2,000 $5,000 Operating income $12,000 $64,000 $157,000 Interest and other expense $2,000 $0 $14,000 Taxes $4,000 $26,000 $58,000 Net income $6,000 $38,000 $85,000 The company with the highest gross profit margin is:",
+      "question": "An analyst gathers the following annual information on three companies. Company A — sales $40,000; cost of sales $21,000; selling, general and administrative $6,000; all other operating expenses $1,000; operating income $12,000; interest and other expense $2,000; taxes $4,000; net income $6,000. Company B — sales $200,000; cost of sales $110,000; SG&A $24,000; all other operating expenses $2,000; operating income $64,000; interest and other expense $0; taxes $26,000; net income $38,000. Company C — sales $450,000; cost of sales $240,000; SG&A $48,000; all other operating expenses $5,000; operating income $157,000; interest and other expense $14,000; taxes $58,000; net income $85,000. The company with the highest gross profit margin is:",
       "options": {
         "A": "Company A.",
         "B": "Company B.",
@@ -918,7 +918,7 @@
     {
       "id": "S1Q71",
       "num": 71,
-      "question": "An analyst gathers the following information about a company: Year 2 Year 1 Revenue € 725,000 € 720,000 EBIT € 93,500 € 91,500 Net income € 57,500 € 58,000 Weighted average common shares outstanding during the year 650,000 635,000 Which of the following increased from Year 1 to Year 2?",
+      "question": "An analyst gathers the following information about a company. Revenue: €720,000 in Year 1 and €725,000 in Year 2. EBIT: €91,500 in Year 1 and €93,500 in Year 2. Net income: €58,000 in Year 1 and €57,500 in Year 2. Weighted average common shares outstanding during the year: 635,000 in Year 1 and 650,000 in Year 2. Which of the following increased from Year 1 to Year 2?",
       "options": {
         "A": "Basic EPS",
         "B": "EBIT margin",
@@ -1009,7 +1009,7 @@
     {
       "id": "S1Q78",
       "num": 78,
-      "question": "The following data apply to a firm operating in perfect competition. Quantity Total Revenue Total Cost 21 $210 $138 22 $220 $145 23 $230 $154 24 $240 $165 The firm's profit maximizing output (in units) is most likely:",
+      "question": "The following data apply to a firm operating in perfect competition. At a quantity of 21 units: total revenue $210, total cost $138. At 22 units: $220 and $145. At 23 units: $230 and $154. At 24 units: $240 and $165. The firm's profit maximizing output (in units) is most likely:",
       "options": {
         "A": "21.",
         "B": "23.",

@@ -967,7 +967,7 @@
     },
     {
       "num": 61,
-      "question": "Chris Renburg owns the following portfolio of option-free bonds: Par value Full price Duration $3,000,000 $2,400,000 4.625 $3,500,000 $3,600,000 7.322 $1,500,000 $1,200,000 9.300 $8,000,000 $7,200,000 The duration of Renburg's bond portfolio is closest to:",
+      "question": "Chris Renburg owns the following portfolio of option-free bonds. Bond 1: par value $3,000,000, full price $2,400,000, duration 4.625. Bond 2: par value $3,500,000, full price $3,600,000, duration 7.322. Bond 3: par value $1,500,000, full price $1,200,000, duration 9.300. Totals: par value $8,000,000, full price $7,200,000. The duration of Renburg's bond portfolio is closest to:",
       "options": {
         "A": "6.6.",
         "B": "6.8.",

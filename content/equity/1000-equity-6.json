@@ -38,7 +38,7 @@
     {
       "id": "Q115",
       "num": 115,
-      "question": "An analyst gathers the following information about an equal-weighted index composed of three stocks: Stock Beginning of Period Price End of Period Price 1 $10 8$ 2 $20 $24 3 $30 30$ Q. If there is a 2% return from dividends for each of the three stocks, the total return of the index is:",
+      "question": "An analyst gathers the following information about an equal-weighted index composed of three stocks. Stock 1: beginning-of-period price $10, end-of-period price $8. Stock 2: $20 and $24. Stock 3: $30 and $30. If there is a 2% return from dividends for each of the three stocks, the total return of the index is:",
       "options": {
         "A": "0%.",
         "B": "2%.",

@@ -232,7 +232,7 @@
     {
       "id": "Q78",
       "num": 78,
-      "question": "A bond portfolio consists of the following option-free annual-pay coupon bonds: Bond 1 Bond 2 Par value $300,000 $450,000 Market value $200,000 $400,000 Yield to maturity 4% 3% Macaulay duration 7.5 5.4 The modified duration of this portfolio is closest to:",
+      "question": "A bond portfolio consists of two option-free annual-pay coupon bonds. Bond 1: par value $300,000, market value $200,000, yield to maturity 4%, Macaulay duration 7.5. Bond 2: par value $450,000, market value $400,000, yield to maturity 3%, Macaulay duration 5.4. The modified duration of this portfolio is closest to:",
       "options": {
         "A": "5.9.",
         "B": "6.0.",

@@ -592,7 +592,7 @@
     {
       "id": "S2Q39",
       "num": 39,
-      "question": "An analyst gathers the following information about an equal-weighted index with three securities: Security Shares Outstanding (Millions) Beginning-of-Period Price End-of-Period Price 1 15 $5 $6 2 20 $2 $2 3 25 $3 $4 The price return of the index is closest to:",
+      "question": "An analyst gathers the following information about an equal-weighted index with three securities. Security 1: 15 million shares outstanding, beginning-of-period price $5, end-of-period price $6. Security 2: 20 million shares, $2 and $2. Security 3: 25 million shares, $3 and $4. The price return of the index is closest to:",
       "options": {
         "A": "17.8%.",
         "B": "20.0%.",
@@ -1263,7 +1263,7 @@
     {
       "id": "S2Q83",
       "num": 83,
-      "question": "An analyst gathers the following information about the current order book for a stock: Bids Offers … €48 … €47 … €46 €44 … €42 … €41 … A buy order placed at which of the following prices would most likely make a new market?",
+      "question": "An analyst gathers the following information about the current order book for a stock. Offers: €48, €47 and €46. Bids: €44, €42 and €41. A buy order placed at which of the following prices would most likely make a new market?",
       "options": {
         "A": "€43",
         "B": "€44",

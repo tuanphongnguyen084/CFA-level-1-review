@@ -567,7 +567,7 @@
     {
       "id": "S1Q44",
       "num": 44,
-      "question": "A project has the following annual cash flows: Year 0 Year 1 Year 2 Year 3 -$606,061 $2,151,515 -$2,542,424 $1,000,000 Q. Which discount rate most likely provides a positive NPV?",
+      "question": "A project has the following annual cash flows: Year 0 −$606,061; Year 1 $2,151,515; Year 2 −$2,542,424; Year 3 $1,000,000. Which discount rate most likely provides a positive NPV?",
       "options": {
         "A": "15%",
         "B": "18%",

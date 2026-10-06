@@ -40,7 +40,7 @@
     {
       "id": "Q48",
       "num": 48,
-      "question": "A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions): Initial Outlay Year 1 Year 2 Cash flow: -£150 £8 £175 The expected IRR for this project is most likely.",
+      "question": "A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions): initial outlay −£150; Year 1 £8; Year 2 £175. The expected IRR for this project is most likely:",
       "options": {
         "A": "less than 12%.",
         "B": "equal to 12%.",
@@ -342,7 +342,7 @@
     {
       "id": "Q67",
       "num": 67,
-      "question": "A company is evaluating the following mutually exclusive capital projects: Project 1 Project 2 NPV $180,000 $100,000 IRR 10% 15% If the hurdle rate is 8%, the company should invest in:",
+      "question": "A company is evaluating two mutually exclusive capital projects. Project 1: NPV $180,000, IRR 10%. Project 2: NPV $100,000, IRR 15%. If the hurdle rate is 8%, the company should invest in:",
       "options": {
         "A": "Project 1 only.",
         "B": "Project 2 only.",

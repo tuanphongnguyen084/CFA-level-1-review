@@ -687,7 +687,7 @@
     {
       "id": "S1Q47",
       "num": 47,
-      "question": "An analyst gathers the following information (in € millions) about a company: Year 2 Year 1 Total assets 90 100 Total liabilities 36 40 Total net assets 54 60 Using vertical common-size balance sheet analysis, the company's total liabilities in Year 2 are closest to",
+      "question": "An analyst gathers the following information (in € millions) about a company. Total assets: 100 in Year 1 and 90 in Year 2. Total liabilities: 40 in Year 1 and 36 in Year 2. Total net assets: 60 in Year 1 and 54 in Year 2. Using vertical common-size balance sheet analysis, the company's total liabilities in Year 2 are closest to:",
       "options": {
         "A": "40%,",
         "B": "67%.",

@@ -21,7 +21,7 @@
     {
       "id": "Q90",
       "num": 90,
-      "question": "An analyst gathers the following Information (in thousands) about a manufacturing company. Year 2 Year 1 Average total assets 500 450 Average total liabilities 400 330 Average total shareholders’ equity 100 120 EBIT 35 40 Interest payments 6 8 Based only on this information, which of the following ratios(s) may indicate improved solvency from Year 1 to Year 2?",
+      "question": "An analyst gathers the following information (in thousands) about a manufacturing company. Average total assets: 450 in Year 1 and 500 in Year 2. Average total liabilities: 330 in Year 1 and 400 in Year 2. Average total shareholders' equity: 120 in Year 1 and 100 in Year 2. EBIT: 40 in Year 1 and 35 in Year 2. Interest payments: 8 in Year 1 and 6 in Year 2. Based only on this information, which of the following ratio(s) may indicate improved solvency from Year 1 to Year 2?",
       "options": {
         "A": "Interest coverage ratio only",
         "B": "Financial leverage ratio only",

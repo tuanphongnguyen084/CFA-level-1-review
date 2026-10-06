@@ -102,7 +102,7 @@
     {
       "id": "Q29",
       "num": 29,
-      "question": "An analyst gathers the following information about an industry and three comparable companies within the industry: Company 1 Company 2 Company 3 Average Price/sales 8.9 3.2 5.7 6.2 Price/book 5.7 2.6 2.3 4.7 Q. Based only on this information, the most overvalued company is:",
+      "question": "An analyst gathers the following information about an industry and three comparable companies within the industry. Price/sales — Company 1: 8.9; Company 2: 3.2; Company 3: 5.7; industry average: 6.2. Price/book — Company 1: 5.7; Company 2: 2.6; Company 3: 2.3; industry average: 4.7. Based only on this information, the most overvalued company is:",
       "options": {
         "A": "Company 1.",
         "B": "Company 2.",

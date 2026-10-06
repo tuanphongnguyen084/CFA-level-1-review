@@ -398,7 +398,7 @@
     {
       "id": "S1Q31",
       "num": 31,
-      "question": "An analyst gathers the following information (in € thousands) about a company: Year 2 Year 1 Revenue 2,400 2,000 Cost of sales 1,800 1,400 Ending accounts receivable 240 160 Q. The number of days of sales outstanding for Year 2, based on a 365-day year, is closest to:",
+      "question": "An analyst gathers the following information (in € thousands) about a company. Revenue: 2,000 in Year 1 and 2,400 in Year 2. Cost of sales: 1,400 in Year 1 and 1,800 in Year 2. Ending accounts receivable: 160 in Year 1 and 240 in Year 2. The number of days of sales outstanding for Year 2, based on a 365-day year, is closest to:",
       "options": {
         "A": "30 days.",
         "B": "33 days.",

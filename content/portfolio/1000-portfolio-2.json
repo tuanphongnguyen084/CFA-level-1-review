@@ -72,10 +72,10 @@
     {
       "id": "Q27",
       "num": 27,
-      "question": "An analyst gathers the following information about a portfolio and the market: Portfolio return 7.0% Market return 5.0% Risk-free return 1.0% Portfolio beta 1.2 Jensen's alpha for the portfolio is:",
+      "question": "An analyst gathers the following information about a portfolio and the market: portfolio return 7.0%; market return 5.0%; risk-free return 1.0%; portfolio beta 1.2. Jensen's alpha for the portfolio is:",
       "options": {
         "A": "0.0%.",
-        "B": "1.2%.>",
+        "B": "1.2%.",
         "C": "2.2%."
       },
       "answer": "B",

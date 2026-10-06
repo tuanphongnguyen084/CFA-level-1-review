@@ -177,7 +177,7 @@
     {
       "id": "Q58",
       "num": 58,
-      "question": "An analyst gathers the following information (in millions) about an automobile manufacturer's inventory: Year 2 Year 1 Cost of goods sold 600 700 Cost of inventory 100 90 Net realizable value of inventory 120 80 The Inventory turnover (calculated using average inventory in Year 2) is closest to:",
+      "question": "An analyst gathers the following information (in millions) about an automobile manufacturer's inventory. Cost of goods sold: 700 in Year 1 and 600 in Year 2. Cost of inventory: 90 in Year 1 and 100 in Year 2. Net realizable value of inventory: 80 in Year 1 and 120 in Year 2. The inventory turnover (calculated using average inventory in Year 2) is closest to:",
       "options": {
         "A": "6.0",
         "B": "6.3",
@@ -203,9 +203,9 @@
     {
       "id": "Q60",
       "num": 60,
-      "question": "For leases with a term of twelve months or less, the lessee",
+      "question": "For leases with a term of twelve months or less, the lessee:",
       "options": {
-        "A": "may recognize lease payments on a straight-line",
+        "A": "may recognize lease payments on a straight-line basis.",
         "B": "must report at lease inception a \"right-of-use” asset and a lease liability, which are both equal to the present value of future lease payments",
         "C": "must report at lease inception a right-of-use asset and a lease liability, which are both equal to the undiscounted value of future lease payments"
       },

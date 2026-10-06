@@ -264,7 +264,7 @@
     {
       "id": "Q38",
       "num": 38,
-      "question": "An analyst gathers the following information about three option-free bonds: Bond 1 Bond 2 Bond 3 Coupon rate 5% 3% 3% Maturity (years) 15 10 15 All else being equal, if the market discount rate decreases by 50 basis points, the bond most likely to experience the greatest percentage price change is:",
+      "question": "An analyst gathers the following information about three option-free bonds. Bond 1: coupon rate 5%, maturity 15 years. Bond 2: coupon rate 3%, maturity 10 years. Bond 3: coupon rate 3%, maturity 15 years. All else being equal, if the market discount rate decreases by 50 basis points, the bond most likely to experience the greatest percentage price change is:",
       "options": {
         "A": "Bond 1.",
         "B": "Bond 2.",

@@ -126,11 +126,11 @@
     },
     {
       "id": "R42-Q11",
-      "question": "Participa ting preference shares most likely:",
+      "question": "Participating preference shares most likely:",
       "options": {
-        "A": "give the shareholder the right to sell the shares back to the firm at a specific pr",
+        "A": "give the shareholder the right to sell the shares back to the firm at a specific price.",
         "B": "can be exchanged for common stock at a ratio determined at issuance.",
-        "C": "receive extra dividends if firm profits exceed a predetermined thresh"
+        "C": "receive extra dividends if firm profits exceed a predetermined threshold."
       },
       "answer": "C",
       "explanation": "Participa ting preference shares receive extra dividends if firm profits exceed a predetermined threshold. Convertible preference shares can be exchanged for common stock at a conversion ratio determined at issuance. Putable common shares give the shareholder the right to sell the shares back to the firm at a specific price.",

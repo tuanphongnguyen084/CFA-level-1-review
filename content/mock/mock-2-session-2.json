@@ -85,7 +85,7 @@
     {
       "id": "S2Q6",
       "num": 6,
-      "question": "An analyst gathers the following information to evaluate the effect of dividends and leverage on future growth: Scenario 1 Scenario 2 Dividend payout ratio 60% 40% Financial leverage 3.0 2.5 If return on assets is the same for each scenario, the sustainable growth rate is:",
+      "question": "An analyst gathers the following information to evaluate the effect of dividends and leverage on future growth. Scenario 1: dividend payout ratio 60%, financial leverage 3.0. Scenario 2: dividend payout ratio 40%, financial leverage 2.5. If return on assets is the same for each scenario, the sustainable growth rate is:",
       "options": {
         "A": "higher under Scenario 1.",
         "B": "higher under Scenario 2.",

@@ -164,7 +164,7 @@
     {
       "id": "Q123",
       "num": 123,
-      "question": "An analyst gathers the following information (in € thousands) about a company Year 2 Year 1 Revenue 2,400 2,000 Cost of sales 1,800 1,400 Ending accounts payable 180 220 Based only on this information, the payables turnover ratio for Year 2 is",
+      "question": "An analyst gathers the following information (in € thousands) about a company. Revenue: 2,000 in Year 1 and 2,400 in Year 2. Cost of sales: 1,400 in Year 1 and 1,800 in Year 2. Ending accounts payable: 220 in Year 1 and 180 in Year 2. Based only on this information, the payables turnover ratio for Year 2 is:",
       "options": {
         "A": "9.",
         "B": "10",
@@ -177,7 +177,7 @@
     {
       "id": "Q124",
       "num": 124,
-      "question": "An analyst gathers the following information about a company Year 2 Year 1 Days of inventory on hand 11 13 Days of sales outstanding 24 22 Payables turnover 36 18 Based only on the cash conversion cycle, the company's liquidity position from Year 1 to Year 2 has",
+      "question": "An analyst gathers the following information about a company. Days of inventory on hand: 13 in Year 1 and 11 in Year 2. Days of sales outstanding: 22 in Year 1 and 24 in Year 2. Payables turnover: 18 in Year 1 and 36 in Year 2. Based only on the cash conversion cycle, the company's liquidity position from Year 1 to Year 2 has:",
       "options": {
         "A": "deteriorated.",
         "B": "remained the same.",
@@ -255,7 +255,7 @@
     {
       "id": "Q130",
       "num": 130,
-      "question": "An analyst gathers the following information (in € millions) about a company Year 2 Year 1 Revenues 2,100 2,000 Accounts receivable 230 200 Cash 70 50 Cash received from customers (in € millions) in Year 2 is:",
+      "question": "An analyst gathers the following information (in € millions) about a company. Revenues: 2,000 in Year 1 and 2,100 in Year 2. Accounts receivable: 200 in Year 1 and 230 in Year 2. Cash: 50 in Year 1 and 70 in Year 2. Cash received from customers (in € millions) in Year 2 is:",
       "options": {
         "A": "2,070",
         "B": "2,120.",

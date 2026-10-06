@@ -775,7 +775,7 @@
     {
       "id": "S2Q60",
       "num": 60,
-      "question": "An analyst gathers the following information (in $ millions) about three companies: Company 1 Company 2 Company 3 Total Debt 1,125 1,360 1,562 EBITDA 590 680 750 Interest Expense 71 60 63 Q. Which company's leverage contributes most adversely to its credit risk?",
+      "question": "An analyst gathers the following information (in $ millions) about three companies. Company 1 — total debt 1,125; EBITDA 590; interest expense 71. Company 2 — total debt 1,360; EBITDA 680; interest expense 60. Company 3 — total debt 1,562; EBITDA 750; interest expense 63. Which company's leverage contributes most adversely to its credit risk?",
       "options": {
         "A": "Company 1",
         "B": "Company 2",

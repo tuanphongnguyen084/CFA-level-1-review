@@ -358,7 +358,7 @@
       "options": {
         "A": "Processing new information entails costs and takes at least some time, so security prices are not always immediately affected",
         "B": "Stock prices adjust to their new efficient levels within hours of the release of new information.",
-        "C": "Technical analysis has been rendered useless by many academics who have shown that analyzing market trends, past volume and trading data will not lead to abnormal returns. The End!"
+        "C": "Technical analysis has been rendered useless by many academics who have shown that analyzing market trends, past volume and trading data will not lead to abnormal returns."
       },
       "answer": "A",
       "explanation": "",

@@ -476,7 +476,7 @@
     {
       "id": "S1Q37",
       "num": 37,
-      "question": "The following table summarizes income statement data for a manufacturing company: Year 2 Year 1 (in € Thousands) (in € Thousands) Net revenue 2,611 2,325 Cost of goods sold 1,700 1,550 Gross profit 930 775 Selling, general & administrative expense 295 260 Operating income. 635 515 Interest expense 55 55 Pre-tax income 580 460 Income tax 155 120 Net income 425 340 Q. Compared with Year 1, the Year 2 common-size income statement most likely indicates:",
+      "question": "The following data summarize income statement items for a manufacturing company (in € thousands). Net revenue: 2,325 in Year 1 and 2,611 in Year 2. Cost of goods sold: 1,550 in Year 1 and 1,700 in Year 2. Gross profit: 775 in Year 1 and 930 in Year 2. Selling, general & administrative expense: 260 in Year 1 and 295 in Year 2. Operating income: 515 in Year 1 and 635 in Year 2. Interest expense: 55 in Year 1 and 55 in Year 2. Pre-tax income: 460 in Year 1 and 580 in Year 2. Income tax: 120 in Year 1 and 155 in Year 2. Net income: 340 in Year 1 and 425 in Year 2. Compared with Year 1, the Year 2 common-size income statement most likely indicates:",
       "options": {
         "A": "a lower tax rate.",
         "B": "sale of a new, differentiated product.",
@@ -957,7 +957,7 @@
     {
       "id": "S1Q74",
       "num": 74,
-      "question": "An analyst gathers the following information about two companies in the same industry: Company 1 Company 2 ROE 12% 18% Average total assets/Average shareholders' equity 2 3 Revenue/Average total assets 1 2 Q. Based only on this information, Company 2:",
+      "question": "An analyst gathers the following information about two companies in the same industry. Company 1 — ROE 12%; average total assets / average shareholders' equity 2; revenue / average total assets 1. Company 2 — ROE 18%; average total assets / average shareholders' equity 3; revenue / average total assets 2. Based only on this information, Company 2:",
       "options": {
         "A": "is less efficient than Company 1.",
         "B": "has a higher ROA than Company 1.",
@@ -1139,7 +1139,7 @@
     {
       "id": "S1Q88",
       "num": 88,
-      "question": "An analyst gathers the following information (in € thousands) about an electronics manufacturing company: Year 2 Year 1 Cost of sales 1,000 800 Cost of ending inventory 150 120 Net realizable value of inventory 125 160 Q. Changes to the allowance for inventory obsolescence have already been reflected in cost of sales. The days of inventory on hand (based on average inventory and 365-day year) for Year 2 is closest to:",
+      "question": "An analyst gathers the following information (in € thousands) about an electronics manufacturing company. Cost of sales: 800 in Year 1 and 1,000 in Year 2. Cost of ending inventory: 120 in Year 1 and 150 in Year 2. Net realizable value of inventory: 160 in Year 1 and 125 in Year 2. Changes to the allowance for inventory obsolescence have already been reflected in cost of sales. The days of inventory on hand (based on average inventory and a 365-day year) for Year 2 is closest to:",
       "options": {
         "A": "45.",
         "B": "49.",

@@ -242,7 +242,7 @@
     {
       "id": "Q85",
       "num": 85,
-      "question": "An analyst gathers the following information about three companies (In € millions) Company 1 Company 2 Company 3 Total assets 100 200 400 Total debt 20 50 60 Total equity 80 150 320 Earnings before interest and taxes (EBIT) 8 10 12 Interest payments 4 4 4 Based on this information, which company is most solvent?",
+      "question": "An analyst gathers the following information about three companies (in € millions). Company 1 — total assets 100; total debt 20; total equity 80; earnings before interest and taxes (EBIT) 8; interest payments 4. Company 2 — total assets 200; total debt 50; total equity 150; EBIT 10; interest payments 4. Company 3 — total assets 400; total debt 60; total equity 320; EBIT 12; interest payments 4. Based on this information, which company is most solvent?",
       "options": {
         "A": "Company 1",
         "B": "Company 2",

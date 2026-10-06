@@ -60,11 +60,11 @@
     {
       "id": "Q49",
       "num": 49,
-      "question": "An analyst gathers the following Information about a company's non-depreciable asset reported under the revaluation model Original cost €25,000 Reported value after initial evaluation €27.600 Reported value after second revelation 22.500 The revaluation surplus after the second revaluation is:",
+      "question": "An analyst gathers the following Information about a company's non-depreciable asset reported under the revaluation model Original cost €25,000 Reported value after initial evaluation €27,600 Reported value after second revelation 22.500 The revaluation surplus after the second revaluation is:",
       "options": {
         "A": "€2,500",
         "B": "€0",
-        "C": "€2.600"
+        "C": "€2,600"
       },
       "answer": "B",
       "explanation": "B is correct. Under the revaluation model, when an asset's value increases, the surplus goes directly to equity. Any subsequent decrease in the asset's value will decrease the revaluation surplus and then affect the income statement. Therefore, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. Out of the subsequent decrease of €5,000 (€22,500 - €27,500) in fair value, €2,500 is used to decrease the revaluation surplus, while the remaining €2,500 goes to the income statement. Thus, the revaluation surplus ends up at €0. A is incorrect because as a result of the revaluations, the €2,500 increase in the value of the asset during the first year (€27,500 - €25,000) is recorded in the revaluation surplus account in equity. The subsequent decrease in fair value by €5,000 (€22,500 - €27,500) in the second year is assumed to be applied only to the revaluation surplus account, resulting in a balance of -€2,500 (-€25,000 - €5,000). C is incorrect because , as a result of the revaluations, the initial increase of €2,500 (€27,500 - €25,000) goes to the revaluation surplus account in equity. The subsequent decrease of €5,000 (€22,500 - €27,500) in fair value is accounted for in the income statement and does not directly affect the revaluation surplus account.",
@@ -76,8 +76,8 @@
       "question": "An analyst gathers the following information about an electronics manufacturing company's inventory. Cost: €100,000 in Year 1 and €100,000 in Year 2. Net realizable value: €97,000 in Year 1 and €105,000 in Year 2. As a result of the reversal of the write-down, the company's Year 2 financial statements should report a decrease in cost of sales of:",
       "options": {
         "A": "€0",
-        "B": "€3.000",
-        "C": "€6.000"
+        "B": "€3,000",
+        "C": "€6,000"
       },
       "answer": "B",
       "explanation": "B is correct. According to IFRS, inventories are measured at the lower of cost and net realizable value. With each subsequent period, a new assessment of net realizable value is made. Reversal of any write-down of inventories, limited to the original write-down amount, is recognized as a reduction in cost of sales (i.e., a reduction in the amount of inventories recognized as an expense). • On December 31 of Year 1, the inventory is carried on the balance sheet at the lower of cost and net realizable value: min(€100,000, €97,000) = €97,000. • The write-down of inventory equals the Cost of inventory minus the Net realizable value: €100,000 - (€97,000) = €3,000. • On December 31 of Year 2, the Net realizable value (€105,000) is higher than the previous level (exceeding the cost of inventory). The reversal of any write-down of inventories is recognized as a reduction in cost of sales and is limited to the amount of the original write-down, which is €3,000. A is incorrect because US GAAP prohibits the reversal of write-downs, but not IFRS. C is incorrect because it computes the reversal of inventory write-down as the difference between the net realizable value at the next assessment date and its previous level (€105,000 - €97,000 = €8,000), while the reversal of any write-down of inventories is limited to the amount of the original write-down, which is €3,000.",
@@ -229,7 +229,7 @@
     {
       "id": "Q62",
       "num": 62,
-      "question": "An analyst gathers the following Information about a company's equipment Carrying value prior to impairment €20,000 Undiscounted expected future cash flows €22,000 Value in use €17,400 Fair value if sold €19,100 Costs to sell €1.900 The carrying value of the equipment should be",
+      "question": "An analyst gathers the following Information about a company's equipment Carrying value prior to impairment €20,000 Undiscounted expected future cash flows €22,000 Value in use €17,400 Fair value if sold €19,100 Costs to sell €1,900 The carrying value of the equipment should be",
       "options": {
         "A": "€17,200",
         "B": "€17,400.",

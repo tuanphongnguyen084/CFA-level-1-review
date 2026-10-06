@@ -1281,7 +1281,7 @@
     {
       "id": "S1Q86",
       "num": 86,
-      "question": "An investor gathers the following spot exchange rate information: AUD/CHF 1,4024 USD/CHF 1.0943 AUD/CHF is the amount of AUD per 1 CHF. USD/CHF is the amount of USD per 1 CHF. The AUD/USD spot rate is closest to:",
+      "question": "An investor gathers the following spot exchange rate information: AUD/CHF 1.4024 USD/CHF 1.0943 AUD/CHF is the amount of AUD per 1 CHF. USD/CHF is the amount of USD per 1 CHF. The AUD/USD spot rate is closest to:",
       "options": {
         "A": "0.7803.",
         "B": "1.2815.",

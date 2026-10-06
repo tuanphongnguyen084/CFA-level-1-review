@@ -736,7 +736,7 @@
     {
       "id": "S1Q57",
       "num": 57,
-      "question": "An analyst gathers the following information about a company: Cash flow from operating activities €600,000 Preferred dividends declared and paid €30.000 Total dividends declared and paid €120,000 Number of common shares outstanding 100,000 Q. The company did not issue or repurchase common shares during the year. If the company reports total dividends paid as cash flows used in operating activities, cash flow per share is:",
+      "question": "An analyst gathers the following information about a company: Cash flow from operating activities €600,000 Preferred dividends declared and paid €30,000 Total dividends declared and paid €120,000 Number of common shares outstanding 100,000 Q. The company did not issue or repurchase common shares during the year. If the company reports total dividends paid as cash flows used in operating activities, cash flow per share is:",
       "options": {
         "A": "€5.70.",
         "B": "€6.30.",
@@ -843,7 +843,7 @@
       "question": "An investor will receive $50,000 at the end of Year 10. If the discount rate is 5%, the present value of the cash flow at the end of Year 5 is closest to:",
       "options": {
         "A": "$30,696.",
-        "B": "$37.311.",
+        "B": "$37,311.",
         "C": "$39,176."
       },
       "answer": "C",

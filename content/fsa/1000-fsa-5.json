@@ -38,7 +38,7 @@
       "options": {
         "A": "€0",
         "B": "€73,000",
-        "C": "€77.000"
+        "C": "€77,000"
       },
       "answer": "C",
       "explanation": "C is correct. The gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value e The historical cost minus accumulated depreciation), unless the assets carrying amount has been changed to reflect imparentador revaluation, as previously discussed Ignoring taxes, the cash flow from the sale would appear as a cash inflow from investing Thus gain on sale of long lived asset sales proceeds - carrying amount. Rearranging, sales proceeds = gain on sale of long-lived asset + carrying amount -2+75-77. A is incorrect because it assumes the cash proceeds from the sale of PP&E went towards either cash flow from operating or cash flow from financing, and not cash flow from investing. B is incorrect because it incorrectly subtracts the gain from the carrying amount to calculate the sales proceeds. Thus, sales proceeds = carrying amount-gain on sale = 75-2 = 73.",
@@ -112,7 +112,7 @@
     {
       "id": "Q97",
       "num": 97,
-      "question": "An analyst gathers the following Information (in millions) about a company! Total assets 400 Total liabilities 200 Total debt 100 Total equity 200 The total debt ratio is:",
+      "question": "An analyst gathers the following Information (in millions) about a company: Total assets 400 Total liabilities 200 Total debt 100 Total equity 200 The total debt ratio is:",
       "options": {
         "A": "0.25",
         "B": "0.50.",
@@ -138,7 +138,7 @@
     {
       "id": "Q99",
       "num": 99,
-      "question": "A company entered into a 5 year construction contract with a total sales price of €3.000.000. The estimated total costs are €2,000,000 and the company incurred €500,000 actual costs in the first year. The company has extensive experience with similar types of contracts. Costs incurred provide an appropriate measure of progress toward completing the contract. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized under the contract in Year 1 is most likely",
+      "question": "A company entered into a 5 year construction contract with a total sales price of €3,000,000. The estimated total costs are €2,000,000 and the company incurred €500,000 actual costs in the first year. The company has extensive experience with similar types of contracts. Costs incurred provide an appropriate measure of progress toward completing the contract. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized under the contract in Year 1 is most likely",
       "options": {
         "A": "€500,000.",
         "B": "€600,000.",

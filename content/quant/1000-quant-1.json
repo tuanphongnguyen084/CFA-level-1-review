@@ -280,7 +280,7 @@
     {
       "id": "Q19",
       "num": 19,
-      "question": "A portfolio manager will invest €100,000 and is presented with the following information about three portfolios with normally distributed returns: Expected Annual Return Standard Deviation of Returns • Portfolio 1 23% 15% • Portfolio 2 12% 6% • Portfolio 3 15% 8% If the manager wants to withdraw €5,000 in one year without invading initial capital, the safety-first optimal portfolio Is",
+      "question": "A portfolio manager will invest €100,000 and is presented with the following information about three portfolios with normally distributed returns. Portfolio 1: expected annual return 23%, standard deviation of returns 15%. Portfolio 2: 12% and 6%. Portfolio 3: 15% and 8%. If the manager wants to withdraw €5,000 in one year without invading initial capital, the safety-first optimal portfolio is:",
       "options": {
         "A": "Portfolio 1.",
         "B": "Portfolio 2.",

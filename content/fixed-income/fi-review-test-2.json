@@ -99,7 +99,7 @@
     {
       "id": "Q8",
       "num": 8,
-      "question": "A hedge fund manager is estimating a value for a non-traded bond of Yoder Company. The bond has an annual-pay 6% coupon, matures in six years, and has a CCC credit rating. Actively traded annual-pay bonds with similar credit ratings include the following: Coupon Maturity Yield to maturity 8% 5 years 9.45% 5% 5 years 9.55% 7% 10 years 10.00% Based on matrix pricing, the value of the Yoder bond as a percentage of par is closest to:",
+      "question": "A hedge fund manager is estimating a value for a non-traded bond of Yoder Company. The bond has an annual-pay 6% coupon, matures in six years, and has a CCC credit rating. Actively traded annual-pay bonds with similar credit ratings include the following: 8% coupon, 5 years, yield to maturity 9.45%; 5% coupon, 5 years, yield to maturity 9.55%; 7% coupon, 10 years, yield to maturity 10.00%. Based on matrix pricing, the value of the Yoder bond as a percentage of par is closest to:",
       "options": {
         "A": "83.9.",
         "B": "84.1.",
@@ -203,7 +203,7 @@
     {
       "id": "Q16",
       "num": 16,
-      "question": "A five-year corporate bond and its benchmark government bond had the following yields over a one-month period: Maturity Beginning of Month End of Month Corporate bond yield 6.75% 7.00% Government bond yield 4.25% 4.75% Over this month, the price of the corporate bond most likely experienced:",
+      "question": "A five-year corporate bond and its benchmark government bond had the following yields over a one-month period. Corporate bond yield: 6.75% at the beginning of the month and 7.00% at the end. Government bond yield: 4.25% at the beginning and 4.75% at the end. Over this month, the price of the corporate bond most likely experienced:",
       "options": {
         "A": "unfavorable macroeconomic and microeconomic factors.",
         "B": "unfavorable macroeconomic factors and favorable microeconomic factors.",

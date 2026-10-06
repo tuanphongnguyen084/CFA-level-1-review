@@ -21,7 +21,7 @@
     {
       "id": "Q2",
       "num": 2,
-      "question": "An analyst gathers the following information about a security and the market for a 12-month period: Realized Return Beta Security 10.5% 0.8 Market 12.0% 1.0 The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
+      "question": "An analyst gathers the following information about a security and the market for a 12-month period. Security: realized return 10.5%, beta 0.8. Market: realized return 12.0%, beta 1.0. The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
       "options": {
         "A": "–1.1%",
         "B": "2.5%",

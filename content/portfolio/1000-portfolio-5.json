@@ -168,7 +168,7 @@
     {
       "id": "Q93",
       "num": 93,
-      "question": "An analyst gathers the following information: Standard Deviation of Returns Beta Asset 70% 1.8 Market portfolio 35% 1.0 The covariance between the returns of the asset and the market is closest to:",
+      "question": "An analyst gathers the following information. Asset: standard deviation of returns 70%, beta 1.8. Market portfolio: standard deviation of returns 35%, beta 1.0. The covariance between the returns of the asset and the market is closest to:",
       "options": {
         "A": "0.22.",
         "B": "0.40.",

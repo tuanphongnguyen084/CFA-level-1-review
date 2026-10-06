@@ -463,7 +463,7 @@
     {
       "id": "S1Q36",
       "num": 36,
-      "question": "An analyst gathers the following information (in € millions) about a company's land that is valued under the model: Purchase cost 20 Carrying amount after first revaluation at 31 December Year 1 18 Carrying amount after second revaluation at 31 December Year 2 23 Q. As a result of the second revaluation, the revaluation surplus increases (in € millions) by:",
+      "question": "An analyst gathers the following information (in € millions) about a company's land that is valued under the revaluation model: purchase cost 20; carrying amount after the first revaluation at 31 December of Year 1 is 18; carrying amount after the second revaluation at 31 December of Year 2 is 23. As a result of the second revaluation, the revaluation surplus increases (in € millions) by:",
       "options": {
         "A": "2.",
         "B": "3.",
@@ -515,7 +515,7 @@
     {
       "id": "S1Q40",
       "num": 40,
-      "question": "An investor observed the following hedge fund return data. Year Beginning of Year Net Return of the Fund Account Balance 1 $30 million 10% 2 $40 million -5% 3 $30 million -5% Q. The money-weighted return is closest to",
+      "question": "An investor observed the following hedge fund data. Year 1: beginning-of-year account balance $30 million, net return of the fund 10%. Year 2: $40 million and −5%. Year 3: $30 million and −5%. The money-weighted return is closest to:",
       "options": {
         "A": "-1.523%",
         "B": "-0.749%",
@@ -1009,7 +1009,7 @@
     {
       "id": "S1Q78",
       "num": 78,
-      "question": "An analyst computes the following analysis of variance (ANOVA) table for a simple linear regression: Source Sum of Squares Degrees of Freedom Mean Square Regression 144 1 144 Error 48 4 12 Total 192 5 …. Q. The standard error of the estimate for the regression is closest to:",
+      "question": "An analyst computes the following analysis of variance (ANOVA) table for a simple linear regression. Regression: sum of squares 144, degrees of freedom 1, mean square 144. Error: sum of squares 48, degrees of freedom 4, mean square 12. Total: sum of squares 192, degrees of freedom 5. The standard error of the estimate for the regression is closest to:",
       "options": {
         "A": "3.5.",
         "B": "6.9.",

@@ -264,7 +264,7 @@
     {
       "id": "Q59",
       "num": 59,
-      "question": "An analyst observes the following yields to maturity on zero-coupon government bonds: Maturity Yield to Maturity 1 year 1.5% 2 years 2.5% 3 years 3.5% The 2y1y implied forward rate is closest to:",
+      "question": "An analyst observes the following yields to maturity on zero-coupon government bonds: 1 year 1.5%; 2 years 2.5%; 3 years 3.5%. The 2y1y implied forward rate is closest to:",
       "options": {
         "A": "4.5%.",
         "B": "5.5%.",

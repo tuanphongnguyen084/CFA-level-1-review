@@ -56,7 +56,7 @@
     {
       "id": "Q66",
       "num": 66,
-      "question": "A portfolio consists of two securities with the following characteristics: Expected Return Standard Deviation of Returns Security 1 17% 24% Security 2 6% 12% If the portfolio has an expected return of 12.6% and the returns of the two securities are uncorrelated, the portfolio's standard deviation is closest to:",
+      "question": "A portfolio consists of two securities with the following characteristics: Security 1 has an expected return of 17% and a standard deviation of returns of 24%; Security 2 has an expected return of 6% and a standard deviation of returns of 12%. If the portfolio has an expected return of 12.6% and the returns of the two securities are uncorrelated, the portfolio's standard deviation is closest to:",
       "options": {
         "A": "13.4%.",
         "B": "15.2%.",
@@ -264,7 +264,7 @@
     {
       "id": "Q79",
       "num": 79,
-      "question": "An analyst gathers the following information about three stocks: Beta Standard Deviation of Returns Stock 1 0.9 17% Stock 2 1.1 18% Stock 3 1.2 16% If the standard deviation of market returns is equal to 10%, the stock with the highest nonsystematic risk is:",
+      "question": "An analyst gathers the following information about three stocks: Stock 1 has a beta of 0.9 and a standard deviation of returns of 17%; Stock 2 has a beta of 1.1 and a standard deviation of 18%; Stock 3 has a beta of 1.2 and a standard deviation of 16%. If the standard deviation of market returns is equal to 10%, the stock with the highest nonsystematic risk is:",
       "options": {
         "A": "Stock 1.",
         "B": "Stock 2.",

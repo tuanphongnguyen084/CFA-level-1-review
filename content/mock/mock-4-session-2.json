@@ -125,7 +125,7 @@
     {
       "id": "S2Q10",
       "num": 10,
-      "question": "An analyst gathers the following information about a security and the market for a 12-month period: Realized Return Beta Security 10.5% 0.8 Market 12.0% 1.0 Q. The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
+      "question": "An analyst gathers the following information about a security and the market for a 12-month period. Security: realized return 10.5%, beta 0.8. Market: realized return 12.0%, beta 1.0. The risk-free rate is 2.0%. According to the market model, the security's abnormal return for the period is closest to:",
       "options": {
         "A": "–1.1%",
         "B": "0.5%",
@@ -658,7 +658,7 @@
     {
       "id": "S2Q51",
       "num": 51,
-      "question": "An analyst gathers the following information: Time to Maturity Yield to Maturity Bond 1 4 years 3.3% Bond 2 7 years 5.1% Q. Based only on this information, the estimated market discount rate for a 6-year bond with similar credit quality is:",
+      "question": "An analyst gathers the following information. Bond 1: time to maturity 4 years, yield to maturity 3.3%. Bond 2: time to maturity 7 years, yield to maturity 5.1%. Based only on this information, the estimated market discount rate for a 6-year bond with similar credit quality is:",
       "options": {
         "A": "3.9%",
         "B": "4.2%",

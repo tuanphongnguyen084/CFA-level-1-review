@@ -390,7 +390,7 @@
     {
       "id": "S2Q26",
       "num": 26,
-      "question": "An investor gathers the following information about a portfolio and the market: Return Standard Deviation of Returns Beta Portfolio 11% 4% 1.2 Market 10% 3% 1.0 If the risk-free rate is 3%, Jensen's alpha for the portfolio is:",
+      "question": "An investor gathers the following information about a portfolio and the market. Portfolio: return 11%, standard deviation of returns 4%, beta 1.2. Market: return 10%, standard deviation of returns 3%, beta 1.0. If the risk-free rate is 3%, Jensen's alpha for the portfolio is:",
       "options": {
         "A": "-4.0%.",
         "B": "-0.4%.",
@@ -1154,7 +1154,7 @@
     {
       "id": "S2Q76",
       "num": 76,
-      "question": "Using the following information and assuming coupons are paid annually, the G-spread of the Steel Co. bond is closest to: Bond Maturity Coupon Price Steel Co.0020 2 Years 5.00% 101.70 Treasury bond 2 Years 4.00% 100.50",
+      "question": "Assuming coupons are paid annually, and using the following information, the G-spread of the Steel Co. bond is closest to: Steel Co. bond — maturity 2 years, coupon 5.00%, price 101.70. Treasury bond — maturity 2 years, coupon 4.00%, price 100.50.",
       "options": {
         "A": "36 bps.",
         "B": "94 bps.",

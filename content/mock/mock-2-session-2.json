@@ -53,7 +53,7 @@
     {
       "id": "S2Q4",
       "num": 4,
-      "question": "An analyst gathers the following information: Standard Deviation of Returns Beta Portfolio 10% 0.5 Market 20% 1.0 The covariance between the returns of the portfolio and the market is closest to:",
+      "question": "An analyst gathers the following information. Portfolio: standard deviation of returns 10%, beta 0.5. Market: standard deviation of returns 20%, beta 1.0. The covariance between the returns of the portfolio and the market is closest to:",
       "options": {
         "A": "0.005.",
         "B": "0.010.",
@@ -69,7 +69,7 @@
     {
       "id": "S2Q5",
       "num": 5,
-      "question": "An analyst gathers the following information about three securities: Total Variance of Returns Nonsystematic Variance of Returns Security 1 0.20 0.05 Security 2 0.30 0.25 Security 3 0.35 0.22 According to capital market theory, which security has the highest expected return?",
+      "question": "An analyst gathers the following information about three securities. Security 1: total variance of returns 0.20, nonsystematic variance 0.05. Security 2: 0.30 and 0.25. Security 3: 0.35 and 0.22. According to capital market theory, which security has the highest expected return?",
       "options": {
         "A": "Security 1",
         "B": "Security 2",
@@ -220,7 +220,7 @@
     {
       "id": "S2Q15",
       "num": 15,
-      "question": "An analyst gathers the following information about a portfolio and the market: Return Standard Deviation of Returns Portfolio 11% 18% Market 10% 20% If the risk-free rate is 4%, the portfolio's M alpha is closest to:",
+      "question": "An analyst gathers the following information about a portfolio and the market. Portfolio: return 11%, standard deviation of returns 18%. Market: return 10%, standard deviation of returns 20%. If the risk-free rate is 4%, the portfolio's M² alpha is closest to:",
       "options": {
         "A": "0.3%.",
         "B": "0.8%.",
@@ -1131,7 +1131,7 @@
     {
       "id": "S2Q74",
       "num": 74,
-      "question": "An analyst gathers the following information about spot rates: Time to Maturity Sequence 1 Sequence 2 1 year 2.0% 4.7% 2 years 3.5% 3.5% 3 years 4.7% 2.0% For a 3-year, 2% annual coupon payment bond, the price using Sequence 1 is:",
+      "question": "An analyst gathers the following information about spot rates. 1 year: Sequence 1 2.0%, Sequence 2 4.7%. 2 years: Sequence 1 3.5%, Sequence 2 3.5%. 3 years: Sequence 1 4.7%, Sequence 2 2.0%. For a 3-year, 2% annual coupon payment bond, the price using Sequence 1 is:",
       "options": {
         "A": "less than the price using Sequence 2.",
         "B": "the same as the price using Sequence 2.",

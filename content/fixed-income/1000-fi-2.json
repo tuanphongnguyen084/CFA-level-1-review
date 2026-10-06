@@ -216,7 +216,7 @@
     {
       "id": "Q35",
       "num": 35,
-      "question": "An analyst gathers the following information about a spot curve: Term to Maturity Spot Rate 1 year 6% 2 years 5% 3 years 4% If the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest to:",
+      "question": "An analyst gathers the following information about a spot curve: 1-year spot rate 6%; 2-year spot rate 5%; 3-year spot rate 4%. If the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest to:",
       "options": {
         "A": "97.28.",
         "B": "99.86.",

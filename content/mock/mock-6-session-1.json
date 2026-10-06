@@ -967,7 +967,7 @@
     },
     {
       "num": 61,
-      "question": "Bivac Corp. has been experiencing a declining return on equity over the past few years. Selected financial statement ratios for Bivac appear below: Prior Year Current Year Tax Burden 0.60 0.62 Interest Burden 0.80 0.81 EBIT Margin 0.26 0.26 Asset Turnover 1.06 1.06 ROE 0.15 0.14 What is the most likely reason for the decline in Bivac's ROE?",
+      "question": "Bivac Corp. has been experiencing a declining return on equity over the past few years. Selected financial statement ratios for Bivac, prior year then current year, are: tax burden 0.60 and 0.62; interest burden 0.80 and 0.81; EBIT margin 0.26 and 0.26; asset turnover 1.06 and 1.06; ROE 0.15 and 0.14. What is the most likely reason for the decline in Bivac's ROE?",
       "options": {
         "A": "Leverage has declined.",
         "B": "The tax rate has increased.",

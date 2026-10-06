@@ -24,7 +24,7 @@
     {
       "id": "Q2",
       "num": 2,
-      "question": "All else being equal, which of the following European put options on the same underlying most likely has the highest value? Time to Expiration Exercise Price Option 1 2 months $52 Option 2 4 months $52 Option 3 4 months $58",
+      "question": "All else being equal, which of the following European put options on the same underlying most likely has the highest value? Option 1: time to expiration 2 months, exercise price $52. Option 2: time to expiration 4 months, exercise price $52. Option 3: time to expiration 4 months, exercise price $58.",
       "options": {
         "A": "Option 1",
         "B": "Option 2",

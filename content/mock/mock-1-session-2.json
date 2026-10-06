@@ -8,7 +8,7 @@
     {
       "id": "S2Q1",
       "num": 1,
-      "question": "An analyst gathers the following information (in $ millions) about a hedge fund: Initial investment cost 100 Profit, Year 1 25 Loss, Year 2 10 If the incentive fee is 20% and there is a clawback provision, the total incentive fee (in $ millions) for Years 1 and 2 is:",
+      "question": "An analyst gathers the following information (in $ millions) about a hedge fund: initial investment cost 100; profit in Year 1 of 25; loss in Year 2 of 10. If the incentive fee is 20% and there is a clawback provision, the total incentive fee (in $ millions) for Years 1 and 2 is:",
       "options": {
         "A": "0.",
         "B": "3.",

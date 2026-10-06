@@ -648,7 +648,7 @@
     {
       "id": "S1Q41",
       "num": 41,
-      "question": "An investor is considering three new portfolios for her holdings. The details on the three portfolios are: Expected Annual Return Standard Deviation of Returns Portfolio 1 17% 15% Portfolio 2 12% 10% Portfolio 3 8% 6% According to Roy's Safety-First criterion, the portfolio she would prefer is:",
+      "question": "An investor is considering three new portfolios for her holdings. Portfolio 1: expected annual return 17%, standard deviation of returns 15%. Portfolio 2: 12% and 10%. Portfolio 3: 8% and 6%. According to Roy's safety-first criterion, the portfolio she would prefer is:",
       "options": {
         "A": "Portfolio 1.",
         "B": "Portfolio 2.",

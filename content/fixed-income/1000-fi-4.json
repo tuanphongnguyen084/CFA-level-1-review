@@ -296,7 +296,7 @@
     {
       "id": "Q82",
       "num": 82,
-      "question": "An analyst gathers the following information about a callable bond that pays interest annually: Current price 105 per 100 of par value Time-to-maturity 4 years Coupon rate 4% Call price at year 2 103 per 100 of par value Call price at year 3 101 per 100 of par value This bond's yield to worst is the:",
+      "question": "An analyst gathers the following information about a callable bond that pays interest annually: current price 105 per 100 of par value; time-to-maturity 4 years; coupon rate 4%; call price at year 2 is 103 per 100 of par value; call price at year 3 is 101 per 100 of par value. This bond's yield to worst is the:",
       "options": {
         "A": "yield to maturity.",
         "B": "yield to first call.",
@@ -312,7 +312,7 @@
     {
       "id": "Q83",
       "num": 83,
-      "question": "An analyst gathers the following information about three option-free bonds, each trading at a premium: Coupon Yield to Maturity Time to Maturity Bond 1 4% 4% 10 years Bond 2 4% 5% 11 years Bond 3 5% 5% 9 years All else being equal, the bond with the lowest Macaulay duration is most likely.",
+      "question": "An analyst gathers the following information about three option-free bonds, each trading at a premium. Bond 1: coupon 4%, yield to maturity 4%, time to maturity 10 years. Bond 2: coupon 4%, yield to maturity 5%, time to maturity 11 years. Bond 3: coupon 5%, yield to maturity 5%, time to maturity 9 years. All else being equal, the bond with the lowest Macaulay duration is most likely:",
       "options": {
         "A": "Bond 1.",
         "B": "Bond 2.",

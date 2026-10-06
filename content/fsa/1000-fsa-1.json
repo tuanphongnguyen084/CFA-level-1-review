@@ -149,7 +149,7 @@
     {
       "id": "Q10",
       "num": 10,
-      "question": "An analyst uses the following information to forecast a company's gross profit margin: Current Amount (in $ millions) Forecasted Growth Sales 1200 8% Cost of sales 300 4% The analysts forecasted gross profit margin should be closest to a(n)",
+      "question": "An analyst uses the following information to forecast a company's gross profit margin (current amounts in $ millions). Sales: current amount 1,200, forecasted growth 8%. Cost of sales: current amount 300, forecasted growth 4%. The analyst's forecasted gross profit margin should be closest to a(n):",
       "options": {
         "A": "decrease of 1%.",
         "B": "increase of 1%",

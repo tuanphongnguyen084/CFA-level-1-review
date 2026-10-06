@@ -112,7 +112,7 @@
     {
       "id": "Q53",
       "num": 53,
-      "question": "An analyst collects the following information (in € millions) about a manufacturing company's inventory Original cost 2,000 Net realizable value at end of Year 1 1,700 Net realizable value at end of Year 2 2,500 At the end of Year 2, thee balance sheet should reflect inventory (in € millions) of",
+      "question": "An analyst collects the following information (in € millions) about a manufacturing company's inventory: original cost 2,000; net realizable value at the end of Year 1 is 1,700; net realizable value at the end of Year 2 is 2,500. At the end of Year 2, the balance sheet should reflect inventory (in € millions) of:",
       "options": {
         "A": "1,700.",
         "B": "2,000.",
@@ -138,7 +138,7 @@
     {
       "id": "Q55",
       "num": 55,
-      "question": "An analyst gathers the following information (in € thousands) about a company's non-depreciable asset Historical cost 50 Carrying value after impairment, 31 December of Year 1 40 Recoverable amount, 31 December of Year 2 60 The maximum allowable carrying amount (in € thousands) on the Year 2 balance sheet is",
+      "question": "An analyst gathers the following information (in € thousands) about a company's non-depreciable asset: historical cost 50; carrying value after impairment at 31 December of Year 1 is 40; recoverable amount at 31 December of Year 2 is 60. The maximum allowable carrying amount (in € thousands) on the Year 2 balance sheet is:",
       "options": {
         "A": "40",
         "B": "50",

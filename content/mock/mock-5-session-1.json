@@ -619,7 +619,7 @@
     {
       "id": "S1Q48",
       "num": 48,
-      "question": "An analyst gathers the following information about three companies in the same industry but at different stages of their life cycles: Year 1 Revenue Year 2 Revenue Year 3 Revenue Year 3 Debt/Capital (in S Millions) (in $ Millions) (in S Millions) Company1 10 11 9 0% Company 2 30 36 44 8% Company 3 100 95 97 25% Q. Based only on this information, the company with the greatest capacity to absorb additional leverage in Year 4 is most likely.",
+      "question": "An analyst gathers the following information about three companies in the same industry but at different stages of their life cycles (revenue in $ millions). Company 1 — Year 1 revenue 10, Year 2 revenue 11, Year 3 revenue 9, Year 3 debt/capital 0%. Company 2 — 30, 36, 44, and 8%. Company 3 — 100, 95, 97, and 25%. Based only on this information, the company with the greatest capacity to absorb additional leverage in Year 4 is most likely:",
       "options": {
         "A": "Company 1.",
         "B": "Company 2.",
@@ -1126,7 +1126,7 @@
     {
       "id": "S1Q87",
       "num": 87,
-      "question": "An investor gathers the following information about three potential investment portfolios with normally distributed returns: Portfolio 1Portfolio 2Portfolio 3 Expected annual return 20% 14% 17% Standard deviation of returns 17% 10% 13% Q. The investor wants to withdraw $25,000 at year end without withdrawing any of their initial $500,000 capital. According to Roy's safety-first criterion, the optimal portfolio is:",
+      "question": "An investor gathers the following information about three potential investment portfolios with normally distributed returns. Portfolio 1: expected annual return 20%, standard deviation of returns 17%. Portfolio 2: 14% and 10%. Portfolio 3: 17% and 13%. The investor wants to withdraw $25,000 at year end without withdrawing any of their initial $500,000 capital. According to Roy's safety-first criterion, the optimal portfolio is:",
       "options": {
         "A": "Portfolio 1.",
         "B": "Portfolio 2.",

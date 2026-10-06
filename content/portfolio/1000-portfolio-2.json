@@ -24,7 +24,7 @@
     {
       "id": "Q24",
       "num": 24,
-      "question": "Two assets have the following characteristics: Variance of returns for Asset 1 0.05 Variance of returns for Asset 2 0.06 Correlation of returns between Asset 1 and Asset 2 0.75 The variance of returns for an equally weighted portfolio of the two assets is closest to:",
+      "question": "Two assets have the following characteristics: the variance of returns for Asset 1 is 0.05; the variance of returns for Asset 2 is 0.06; the correlation of returns between Asset 1 and Asset 2 is 0.75. The variance of returns for an equally weighted portfolio of the two assets is closest to:",
       "options": {
         "A": "0.038.",
         "B": "0.048.",

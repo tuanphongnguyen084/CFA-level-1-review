@@ -1149,7 +1149,7 @@
     {
       "id": "S1Q77",
       "num": 77,
-      "question": "An investor's transactions in a mutual fund and the fund's returns over a 4-year period are provided in the following table: Year 1 2 3 4 New investment at the beginning of the year (USD) 2,500 1,500 1,000 0 Investment return for the year -20% 5% -25% 10% Withdrawal by investor at the end of the year (USD) 0 -500 -500 0 Based on this data, the money-weighted return (or internal rate of return) for the investor is closest to:",
+      "question": "An investor's transactions in a mutual fund and the fund's returns over a 4-year period are as follows. New investment at the beginning of the year (USD): Year 1 2,500; Year 2 1,500; Year 3 1,000; Year 4 0. Investment return for the year: Year 1 −20%; Year 2 5%; Year 3 −25%; Year 4 10%. Withdrawal by the investor at the end of the year (USD): Year 1 0; Year 2 −500; Year 3 −500; Year 4 0. Based on this data, the money-weighted return (or internal rate of return) for the investor is closest to:",
       "options": {
         "A": "2.15%.",
         "B": "3.96%.",
@@ -1297,7 +1297,7 @@
     {
       "id": "S1Q87",
       "num": 87,
-      "question": "An analyst considers the following scenarios for the economy and the sales growth of a company: Scenario Probability of Scenario Sales Growth Probability of Sales Economic boom 0.65 15% 0.70 -5% 0.30 Economic downturn 0.35 4% 0.30 -10% 0.70 Based on this information, the probability of an economic downturn and negative sales growth is closest to:",
+      "question": "An analyst considers the following scenarios for the economy and the sales growth of a company. Economic boom — probability of the scenario 0.65; sales growth of 15% with probability 0.70, or −5% with probability 0.30. Economic downturn — probability of the scenario 0.35; sales growth of 4% with probability 0.30, or −10% with probability 0.70. Based on this information, the probability of an economic downturn and negative sales growth is closest to:",
       "options": {
         "A": "0.195.",
         "B": "0.210.",

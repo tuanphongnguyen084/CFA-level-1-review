@@ -723,7 +723,7 @@
     {
       "id": "S2Q56",
       "num": 56,
-      "question": "An analyst gathers the following historical information about two stocks: Variance of returns for Stock 1 0.0625 Variance of returns for Stock 2 0.0900 Correlation coefficient between Stock 1 and Stock 2 0.4500 Q. The covariance between Stock 1 and Stock 2 is closest to:",
+      "question": "An analyst gathers the following historical information about two stocks: variance of returns for Stock 1 is 0.0625; variance of returns for Stock 2 is 0.0900; the correlation coefficient between Stock 1 and Stock 2 is 0.4500. The covariance between Stock 1 and Stock 2 is closest to:",
       "options": {
         "A": "0.0025",
         "B": "0.0338",
@@ -879,7 +879,7 @@
     {
       "id": "S2Q68",
       "num": 68,
-      "question": "An analyst gathers the following information about Canadian bonds: Bond Coupon Rate Price Years to Maturity Canadian government benchmark bond 3.0% 101 2 Canadian corporate bond 5.0% 102 2 Q. Assuming annual compounding, the G-spread is closest to:",
+      "question": "An analyst gathers the following information about Canadian bonds. Canadian government benchmark bond: coupon rate 3.0%, price 101, 2 years to maturity. Canadian corporate bond: coupon rate 5.0%, price 102, 2 years to maturity. Assuming annual compounding, the G-spread is closest to:",
       "options": {
         "A": "146 bps.",
         "B": "200 bps.",

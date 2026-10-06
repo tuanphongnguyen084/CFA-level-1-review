@@ -1160,7 +1160,7 @@
     {
       "id": "S2Q73",
       "num": 73,
-      "question": "A credit analyst determines the following selected financial ratios for three firms in an industry after making all appropriate adjustments: Johnson Knight Lawrence EBIT/revenue 0.25 0.30 0.35 EBIT/interest 12.5 14.0 10.5 Debt/capital 0.55 0.70 0.35 Revenue/assets 0.20 0.15 0.10 In evaluating the creditworthiness of these firms, the analyst should conclude that:",
+      "question": "A credit analyst determines the following selected financial ratios for three firms in an industry after making all appropriate adjustments. Johnson — EBIT/revenue 0.25; EBIT/interest 12.5; debt/capital 0.55; revenue/assets 0.20. Knight — 0.30; 14.0; 0.70; 0.15. Lawrence — 0.35; 10.5; 0.35; 0.10. In evaluating the creditworthiness of these firms, the analyst should conclude that:",
       "options": {
         "A": "Knight has the most favorable leverage and Johnson has the most favorable coverage.",
         "B": "Lawrence has the most favorable leverage and Knight has the most favorable coverage.",

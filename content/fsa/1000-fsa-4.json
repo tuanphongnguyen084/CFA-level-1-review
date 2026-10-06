@@ -229,7 +229,7 @@
     {
       "id": "Q84",
       "num": 84,
-      "question": "An analyst gathers The following information (in € thousands) about a company whose fiscal year ends on 31 December Earnings for the six months ended 30 June of Year 1 2,000 Earnings for the year ended 31 December of Year 1 1,500 Earnings for the six months ended 30 June of Year 2 2.200 The company's trailing 12 months (in € thousands) for the period ended 30 one of Year 2 is",
+      "question": "An analyst gathers the following information (in € thousands) about a company whose fiscal year ends on 31 December: earnings for the six months ended 30 June of Year 1 were 2,000; earnings for the year ended 31 December of Year 1 were 1,500; earnings for the six months ended 30 June of Year 2 were 2,200. The company's trailing 12 months' earnings (in € thousands) for the period ended 30 June of Year 2 is:",
       "options": {
         "A": "1,700",
         "B": "3,700",

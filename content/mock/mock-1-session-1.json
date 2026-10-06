@@ -411,7 +411,7 @@
     {
       "id": "S1Q32",
       "num": 32,
-      "question": "A technology company, reporting under US GAAP, has three classes of intangible assets. The table below shows information on each of the three classes (in USD thousands): Goodwill Licenses Computer Software 31 December of Year 1 65,321 8,243 5.257 Exchange movements in Year 2 7,324 821 334 Amortization charge for Year 2 --- 1,244 2,102 Net additions (disposals) in Year 2 --- (25) --- 31 December of Year 2 73,194 10,856 8.214 Based on the data provided, the intangible asset that has the largest absolute impairment charge for the period ended 31 December of Year 2 is:",
+      "question": "A technology company, reporting under US GAAP, has three classes of intangible assets (in USD thousands). Goodwill — 31 December of Year 1: 65,321; exchange movements in Year 2: 7,324; amortization charge for Year 2: none; net additions (disposals) in Year 2: none; 31 December of Year 2: 73,194. Licenses — 8,243; 821; 1,244; (25); 10,856. Computer software — 5,257; 334; 2,102; none; 8,214. Based on the data provided, the intangible asset that has the largest absolute impairment charge for the period ended 31 December of Year 2 is:",
       "options": {
         "A": "goodwill.",
         "B": "licenses.",

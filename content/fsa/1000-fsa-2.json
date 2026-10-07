@@ -304,7 +304,7 @@
     {
       "id": "Q43",
       "num": 43,
-      "question": "An analyst gathers the following information about a company's fiscal year ended 31 December Interest payable on 1 January €45,000 Cash interest paid during the year €15,000 Interest expense during the year €50,000 Interest payable on 31 December is:",
+      "question": "An analyst gathers the following information about a company's fiscal year ended 31 December: interest payable on 1 January €45,000; cash interest paid during the year €15,000; interest expense during the year €50,000. Interest payable on 31 December is:",
       "options": {
         "A": "€30,000",
         "B": "€80,000",

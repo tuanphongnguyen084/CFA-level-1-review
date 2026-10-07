@@ -177,9 +177,41 @@ def status(subject_id, exam_id, total):
         return "Not started", "off"
     wrong = len(e.get("wrong_ids", []))
     if wrong == 0:
-        return f"Completed — all correct ({total}/{total})", "done"
+        return f"Completed — 100% ({total}/{total})", "done"
+    # Previously this line showed only "N wrong left", so the one thing a
+    # student actually wants from a list of finished exams — how well they
+    # did — was only visible by opening each one.
+    right = max(total - wrong, 0)
+    pct = round(right / total * 100) if total else 0
     mode_txt = "full" if e.get("last_mode", "full") == "full" else "wrong"
-    return f"Done ({mode_txt}) — {wrong} wrong left", "todo"
+    return (f"Done ({mode_txt}) — {pct}% ({right}/{total}) · "
+            f"{wrong} wrong left"), "todo"
+
+
+def score(subject_id, exam_id, total):
+    """(right, total, pct) for a finished exam, or None if not finished."""
+    e = entry(subject_id, exam_id)
+    if not e or not e.get("finished"):
+        return None
+    right = max(total - len(e.get("wrong_ids", [])), 0)
+    return right, total, (round(right / total * 100) if total else 0)
+
+
+def subject_score(subject_id, exams):
+    """(right, total, pct) summed over this subject's finished exams.
+
+    None when nothing is finished yet, so the caller can stay quiet rather
+    than print a meaningless 0%.
+    """
+    right = tot = 0
+    for ex in exams:
+        s = score(subject_id, ex.exam_id, ex.n)
+        if s:
+            right += s[0]
+            tot += s[1]
+    if not tot:
+        return None
+    return right, tot, round(right / tot * 100)
 
 
 def is_finished(subject_id, exam_id):

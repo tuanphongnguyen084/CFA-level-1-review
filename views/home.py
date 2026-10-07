@@ -27,8 +27,14 @@ def render(library):
                 if s.exams:
                     done = sum(1 for e in s.exams
                                if progress.is_finished(s.subject_id, e.exam_id))
-                    st.progress(done / len(s.exams),
-                                text=f"{done}/{len(s.exams)} done")
+                    label = f"{done}/{len(s.exams)} done"
+                    # Carry the score up to this level too, so a glance at the
+                    # home page answers "how am I doing in Ethics?" without
+                    # opening the topic and reading every exam.
+                    sc = progress.subject_score(s.subject_id, s.exams)
+                    if sc:
+                        label += f" · {sc[2]}% correct"
+                    st.progress(done / len(s.exams), text=label)
                 else:
                     st.caption("Coming soon")
             with c3:

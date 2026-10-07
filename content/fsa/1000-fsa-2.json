@@ -233,14 +233,14 @@
     {
       "id": "Q38",
       "num": 38,
-      "question": "An analyst gathers the following information (in € millions) about a company's fiscal year: Cost of goods sold 5,000 Increase in inventory 3,000 Increase in accounts payable 2.500 Case paid to suppliers (in € millions) is",
+      "question": "An analyst gathers the following information (in € millions) about a company's fiscal year: cost of goods sold 6,000; increase in inventory 3,000; increase in accounts payable 2,500. Cash paid to suppliers (in € millions) is:",
       "options": {
         "A": "6,500.",
         "B": "9,000.",
         "C": "11,500."
       },
       "answer": "A",
-      "explanation": "A is correct. Cash paid to suppliers = Cost of goods sold + Increase in inventory - Increase in accounts payable = €5,000 + €3,000 - €2,500 = €5,500 - €2,500 = €6,500. B is incorrect because it excludes the increase in accounts payable and miscalculates Purchases from suppliers instead of Cash paid to suppliers. C is incorrect because it mistakenly added, rather than subtracted the increase in accounts payable in the calculation of Cash paid to suppliers.",
+      "explanation": "A is correct. Cash paid to suppliers = cost of goods sold + increase in inventory − increase in accounts payable = €6,000 + €3,000 − €2,500 = €9,000 − €2,500 = €6,500. B is incorrect because it excludes the increase in accounts payable and so calculates purchases from suppliers instead of cash paid to suppliers. C is incorrect because it adds, rather than subtracts, the increase in accounts payable.",
       "answer_source": "red",
       "tags": [
         "demonstrate the conversion of cash flows from the indirect to direct method"

@@ -14,7 +14,7 @@
         "B": "50% debt and 50% equity.",
         "C": "100% debt."
       },
-      "answer": "A",
+      "answer": "C",
       "explanation": "If MM's other assumptions are maintained, removing the no tax assumption means that the value of the firm is maximized when the value of the tax shield is maximized, which occurs with a capital structure of 100% debt.",
       "answer_source": "text"
     },

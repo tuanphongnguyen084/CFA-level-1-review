@@ -8,12 +8,12 @@
       "id": "R45-Q1",
       "question": "Pam Jones, CFA, creates pro forma financial statements for a company she is analyzing. In developing the income statements, she needs to forecast growth for the selling, general, and administrative (SG&A) line item. Her forecasted number will most likely be driven by:",
       "options": {
-        "A": "infla tion forecasts for fixed SG&A, and sales growth for variable SG&A.",
-        "B": "sales growth for fixed SG&A, and infla tion forecasts for variable SG&A.",
+        "A": "inflation forecasts for fixed SG&A, and sales growth for variable SG&A.",
+        "B": "sales growth for fixed SG&A, and inflation forecasts for variable SG&A.",
         "C": "sales growth for both fixed and variable SG&A."
       },
       "answer": "A",
-      "explanation": "SG&A costs are both fixed and variable. The fixed portion will be less impacted by sales, which means an infla tion growth factor would be appropriate. Variable SG&A will have a higher correlation to sales, so sales growth is appropriate as a driving factor.",
+      "explanation": "SG&A costs are both fixed and variable. The fixed portion will be less impacted by sales, which means an inflation growth factor would be appropriate. Variable SG&A will have a higher correlation to sales, so sales growth is appropriate as a driving factor.",
       "answer_source": "bold"
     },
     {
@@ -90,14 +90,14 @@
     },
     {
       "id": "R45-Q8",
-      "question": "Based on growth strategies outlined by the company's CEO, an analyst forecasts overall growth of 5%. With infla tion forecasted by economists at 3%, an analyst will likely forecast capital expenditures related to maintenance to grow by what percentage next year?",
+      "question": "Based on growth strategies outlined by the company's CEO, an analyst forecasts overall growth of 5%. With inflation forecasted by economists at 3%, an analyst will likely forecast capital expenditures related to maintenance to grow by what percentage next year?",
       "options": {
         "A": "5%.",
         "B": "3%.",
         "C": "8%."
       },
       "answer": "B",
-      "explanation": "Maintenance-related capital expenditures are typically forecasted to grow by the infla tion rate (3%, in this case). Capital expenditures related to growth will align with the overall forecasted growth rate of the company (5% here). The 8% answer choice incorrectly sums the two forecasts.",
+      "explanation": "Maintenance-related capital expenditures are typically forecasted to grow by the inflation rate (3%, in this case). Capital expenditures related to growth will align with the overall forecasted growth rate of the company (5% here). The 8% answer choice incorrectly sums the two forecasts.",
       "answer_source": "bold"
     },
     {
@@ -265,7 +265,7 @@
         "C": "administrative expenses."
       },
       "answer": "C",
-      "explanation": "General and administrative expenses are often more fixed than variable and can be modeled using a fixed growth rate that includes expected infla tion. Cost of goods sold and selling expenses are related to sales volumes and are more appropriately modeled based on expected revenues.",
+      "explanation": "General and administrative expenses are often more fixed than variable and can be modeled using a fixed growth rate that includes expected inflation. Cost of goods sold and selling expenses are related to sales volumes and are more appropriately modeled based on expected revenues.",
       "answer_source": "bold"
     },
     {

@@ -483,7 +483,7 @@
         "C": "A DLT consensus mechanism requires nodes in a network to agree on a common state of the ledger"
       },
       "answer": "C",
-      "explanation": "C is correct. Consensus mechanism is the process by which the computer entities (or nodes) in a network agree on a common state of the ledger. A is incorrect because the processes underlying DLT generally require massive amounts of energy to verify transaction activity, and also DLT requires huge amounts of computer power normally associated with high electricity usage. B is incorrect because DLT features enable the creation of records that are, for the most part, considered immutable, or unchangeable, and immutability of transactions means accidental or canceled trades can be undone ortly by submitting an equal and offsetting trade.",
+      "explanation": "C is correct. Consensus mechanism is the process by which the computer entities (or nodes) in a network agree on a common state of the ledger. A is incorrect because the processes underlying DLT generally require massive amounts of energy to verify transaction activity, and also DLT requires huge amounts of computer power normally associated with high electricity usage. B is incorrect because DLT features enable the creation of records that are, for the most part, considered immutable, or unchangeable, and immutability of transactions means accidental or canceled trades can be undone only by submitting an equal and offsetting trade.",
       "answer_source": "red"
     },
     {

@@ -285,11 +285,11 @@
       "question": "The required rate of return on equity used as an input to the dividend discount model is influenced by each of the following factors EXCEPT:",
       "options": {
         "A": "the stock's appropriate risk premium.",
-        "B": "the expected infla tion rate.",
+        "B": "the expected inflation rate.",
         "C": "the stock's dividend payout ratio."
       },
       "answer": "C",
-      "explanation": "A stock's required rate of return is equal to the nominal risk-free rate plus a risk premium. The nominal risk-free rate is approximately equal the real risk-free rate plus expected infla tion.",
+      "explanation": "A stock's required rate of return is equal to the nominal risk-free rate plus a risk premium. The nominal risk-free rate is approximately equal the real risk-free rate plus expected inflation.",
       "answer_source": "bold"
     },
     {

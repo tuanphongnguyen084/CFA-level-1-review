@@ -246,7 +246,7 @@
       "options": {
         "A": "temporary difference resulting in a deferred tax asset",
         "B": "permanent difference resulting in a deferred tax asset.",
-        "C": "temporary difference resulting in a deferred tax ability"
+        "C": "temporary difference resulting in a deferred tax liability"
       },
       "answer": "C",
       "explanation": "C is correct. The carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. Deferred tax liabilities arise when the carrying amount of an asset exceeds its tax base, leading to taxable amounts in future periods when the temporary difference reverses. These differences affect accounting profit and taxable income, resulting in deferred tax liabilities, which are recognized on the balance sheet. A is incorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. B is incorrect because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability.",

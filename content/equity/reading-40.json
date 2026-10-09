@@ -25,7 +25,7 @@
         "C": "Price-weighted series."
       },
       "answer": "C",
-      "explanation": "Firms that split their stock price will have the identical weight before and after the split in both the unweighted and the market value-weighted series. However, in the price weighted series, large successful firms will lose weight within the index due to simply splittng their stock. This creates a downward bias in a price-weighted series. Standard and Poor's 500 Index is a market value-weighted index.",
+      "explanation": "Firms that split their stock price will have the identical weight before and after the split in both the unweighted and the market value-weighted series. However, in the price weighted series, large successful firms will lose weight within the index due to simply splitting their stock. This creates a downward bias in a price-weighted series. Standard and Poor's 500 Index is a market value-weighted index.",
       "answer_source": "bold"
     },
     {

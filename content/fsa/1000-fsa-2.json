@@ -224,7 +224,7 @@
         "C": "financial accounting income tax expense exceeds income tax payable"
       },
       "answer": "C",
-      "explanation": "C is correct. Deferred tax liabilities arise when a financial accounting income tax expense exceeds income taxes payable. A is incorrect because deferred tax assets, rather than deferred tax liabilities arise when the tax base of an assets greater than its carrying amount. B is incorrect because deferred tax assets, rather than deferred tax abilities arise when the carrying amount of a liability is greater than its tax base.",
+      "explanation": "C is correct. Deferred tax liabilities arise when a financial accounting income tax expense exceeds income taxes payable. A is incorrect because deferred tax assets, rather than deferred tax liabilities arise when the tax base of an assets greater than its carrying amount. B is incorrect because deferred tax assets, rather than deferred tax liabilities arise when the carrying amount of a liability is greater than its tax base.",
       "answer_source": "red",
       "tags": [
         "contrast accounting profit, taxable income taxes payable, and income tax expense and temporary versus permanent differences between accounting profit and taxable income"

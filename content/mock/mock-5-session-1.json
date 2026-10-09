@@ -502,7 +502,7 @@
     {
       "id": "S1Q39",
       "num": 39,
-      "question": "An analyst gathers the following information (in € thousands) about a company's equipment: Carrying amount prior to impairment 20,000 Undiscounted expected future cash flows 19,000 Present value of expected future cash flows 17,000 Fair value if sold 18,000 Costs to sell 2,000 Q. Based only on this information, the impairment loss under IFRS is:",
+      "question": "An analyst gathers the following information (in € thousands) about a company's equipment: carrying amount prior to impairment 20,000; undiscounted expected future cash flows 19,000; present value of expected future cash flows 17,000; fair value if sold 18,000; costs to sell 2,000. Based only on this information, the impairment loss under IFRS is:",
       "options": {
         "A": "less than the impairment loss under US GAAP.",
         "B": "the same as the impairment loss under US GAAP.",

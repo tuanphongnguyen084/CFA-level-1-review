@@ -979,7 +979,7 @@
     {
       "id": "S1Q67",
       "num": 67,
-      "question": "An analyst gathers the following information (in € thousands) about a machine: Carrying amount prior to impairment 50 Present value of expected future cash flows 46 Fair value 48 Costs to sell 3 Impairment loss (in € thousands) is:",
+      "question": "An analyst gathers the following information (in € thousands) about a machine: carrying amount prior to impairment 50; present value of expected future cash flows 46; fair value 48; costs to sell 3. The impairment loss (in € thousands) is:",
       "options": {
         "A": "2",
         "B": "4",

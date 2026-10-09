@@ -13,7 +13,7 @@
         "C": "25%."
       },
       "answer": "C",
-      "explanation": "The forecast year-end price, P , is: (Module 48.3, LOS 48.k)",
+      "explanation": "The forecast year-end price, P, is: P = EPS × (P/E) = 10(12) = $120. Expected return = [dividend + (ending price - beginning price)] / beginning price = ($5 + $120 - $100) / $100 = 0.25, or 25%. (Module 48.3, LOS 48.k)",
       "answer_source": "green"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "id": "Q83",
-      "question": "All of the following factors affects the firm's P/E ratio EXCEPT: P = EPS × ( P / E ) = 10 ( 12 ) = 120 expected return = = = 0.25 or 25 % dividend + ( ending price - beginning price ) beginning price $ 5 + $ 120 - $ 100 $ 100",
+      "question": "All of the following factors affects the firm's P/E ratio EXCEPT:",
       "options": {
         "A": "the expected interest rate on the bonds of the firm.",
         "B": "the required rate of return.",

@@ -60,7 +60,7 @@
     {
       "id": "Q72",
       "num": 72,
-      "question": "In calculating basic and basic EPS, the numerators are the same but the denominators are different, the company.",
+      "question": "In calculating basic and diluted EPS, the numerators are the same but the denominators are different if the company:",
       "options": {
         "A": "split its stock during the year",
         "B": "had stock options outstanding at year end.",

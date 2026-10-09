@@ -1014,7 +1014,7 @@
     {
       "id": "S1Q68",
       "num": 68,
-      "question": "An analyst gathers the following company P/E ratios: For the data given, the: 8 13 3 12 8 10",
+      "question": "An analyst gathers the following company P/E ratios: 8, 13, 3, 12, 8, 10. For the data given, the:",
       "options": {
         "A": "median is greater than the mode.",
         "B": "mode is greater than the arithmetic mean.",

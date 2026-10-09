@@ -328,9 +328,9 @@
     {
       "id": "Q42",
       "num": 42,
-      "question": "According to the Standard relating to suitability, a member who manages a mutual fund \nis required: fund's stated mandate.",
+      "question": "According to the Standard relating to suitability, a member who manages a mutual fund is required:",
       "options": {
-        "A": "only to invest in a manner consistent with the",
+        "A": "only to invest in a manner consistent with the fund's stated mandate.",
         "B": "only to determine the suitability of the fund for investors who may be purchasing shares in \nthe fund.",
         "C": "both to invest in a manner consistent with the fund's stated mandate and to determine the \nsuitability of the fund for investors who may be purchasing shares in the fund."
       },

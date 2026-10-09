@@ -73,7 +73,7 @@
     {
       "id": "Q73",
       "num": 73,
-      "question": "An analyst gathers the following Information about a company's given fiscal year ended 31 December. Net income $1,200,000 Number of common shares outstanding on 1 January 1,000,000 Number of common shares issued on 1 April 100.000 Number of common shares outstanding on 31 December 1,100 000 Face value of convertible bonds outstanding for the year $2,000,000 Coupon rate on convertible bonds outstanding 8% Tax rate 30% the bonds are convertible into 200,000 common shares and there are no other potentially dilutive securities outstanding, The company's reported diluted EPS is closest to",
+      "question": "An analyst gathers the following information about a company's given fiscal year ended 31 December. Net income $1,200,000 Number of common shares outstanding on 1 January 1,000,000 Number of common shares issued on 1 April 100,000 Number of common shares outstanding on 31 December 1,100,000 Face value of convertible bonds outstanding for the year $2,000,000 Coupon rate on convertible bonds outstanding 8% Tax rate 30% the bonds are convertible into 200,000 common shares and there are no other potentially dilutive securities outstanding, The company's reported diluted EPS is closest to",
       "options": {
         "A": "$1.01.",
         "B": "$1.03.",

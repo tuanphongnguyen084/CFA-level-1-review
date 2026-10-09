@@ -188,7 +188,7 @@
     {
       "id": "Q35",
       "num": 35,
-      "question": "An analyst gathers the following information about a company's Fiscal year ended 31 December Net income $210,000 Common shares outstanding on 1 January 50.000 Common shares repurchased on 1 April 20.000 If a 2-for-1 stock split took effect on 1 July, basic EPS for the year is",
+      "question": "An analyst gathers the following information about a company's Fiscal year ended 31 December Net income $210,000 Common shares outstanding on 1 January 50,000 Common shares repurchased on 1 April 20,000 If a 2-for-1 stock split took effect on 1 July, basic EPS for the year is",
       "options": {
         "A": "$3.00.",
         "B": "$3.50.",
@@ -249,7 +249,7 @@
     {
       "id": "Q39",
       "num": 39,
-      "question": "An analyst gathers the following information about a company for its fiscal year ended 31 December: Net income €3 000 000 Common shares outstanding, January 3.500,000 Common shares issued, 1 April 1,000,000 Common shares outstanding 31 December 4,500,000 Convertible preferred shares outstanding 400,000 Convertible preformed dividend per share €1.00 Each convertible preferred share is convertible into two common shares, if there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
+      "question": "An analyst gathers the following information about a company for its fiscal year ended 31 December: Net income €3,000,000 Common shares outstanding, January 3,500,000 Common shares issued, 1 April 1,000,000 Common shares outstanding 31 December 4,500,000 Convertible preferred shares outstanding 400,000 Convertible preferred dividend per share €1.00 Each convertible preferred share is convertible into two common shares, if there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to",
       "options": {
         "A": "€0.51",
         "B": "€0.57",

@@ -13,12 +13,12 @@
         "C": "17.6."
       },
       "answer": "C",
-      "explanation": "D 1 = 1.5 × 1.1 = 1.65 (Module 48.3, LOS 48.k)",
+      "explanation": "D 1 = 1.5 × 1.1 = 1.65. Leading P/E = (D 1 / E 1 ) / (k - g) = (1.65 / 4.70) / (0.12 - 0.10) = 0.351 / 0.02 = 17.6. (Module 48.3, LOS 48.k)",
       "answer_source": "green"
     },
     {
       "id": "Q42",
-      "question": "= = ( ( ) ) = ( ) = 17.6 P 0 E 1 ( ) D 1 E 1 ( k - g ) 1.65 4.70 ( 0.12 - 0.10 ) 0.351 0.02 A company last paid a $1.00 dividend, the current market price of the stock is $20 per share and the dividends are expected to grow at 5 percent forever. What is the required rate of return on the stock?",
+      "question": "A company last paid a $1.00 dividend, the current market price of the stock is $20 per share and the dividends are expected to grow at 5 percent forever. What is the required rate of return on the stock?",
       "options": {
         "A": "10.00%.",
         "B": "10.25%.",

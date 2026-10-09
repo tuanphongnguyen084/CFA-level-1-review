@@ -60,7 +60,7 @@
     {
       "id": "Q49",
       "num": 49,
-      "question": "An analyst gathers the following Information about a company's non-depreciable asset reported under the revaluation model Original cost €25,000 Reported value after initial evaluation €27,600 Reported value after second revelation 22.500 The revaluation surplus after the second revaluation is:",
+      "question": "An analyst gathers the following information about a company's non-depreciable asset reported under the revaluation model Original cost €25,000 Reported value after initial evaluation €27,600 Reported value after second revaluation €22,500 The revaluation surplus after the second revaluation is:",
       "options": {
         "A": "€2,500",
         "B": "€0",
@@ -271,7 +271,7 @@
     {
       "id": "Q65",
       "num": 65,
-      "question": "An analyst gathers the following information (in € thousands) about a company Revenue 5,000 Cash balance, beginning of year 2,000 Cash balance, end of year 2,000 Increase in accounts receivable 1.200 Cash received from customers (in € thousands) is:",
+      "question": "An analyst gathers the following information (in € thousands) about a company Revenue 5,000 Cash balance, beginning of year 2,000 Cash balance, end of year 2,000 Increase in accounts receivable 1,200 Cash received from customers (in € thousands) is:",
       "options": {
         "A": "3,800.",
         "B": "5,000",

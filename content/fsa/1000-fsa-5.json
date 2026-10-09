@@ -99,7 +99,7 @@
     {
       "id": "Q96",
       "num": 96,
-      "question": "An analyst gathers the following information (in thousands) about a company's current assets and liabilities: Cash and equivalents 800 Short-term marketable securities 500 Inventory 700 Accounts receivable 2.000 Current liabilities 10.000 The company's quick ratio is",
+      "question": "An analyst gathers the following information (in thousands) about a company's current assets and liabilities: Cash and equivalents 800 Short-term marketable securities 500 Inventory 700 Accounts receivable 2,000 Current liabilities 10,000 The company's quick ratio is",
       "options": {
         "A": "0.13.",
         "B": "0.33.",
@@ -281,7 +281,7 @@
     {
       "id": "Q110",
       "num": 110,
-      "question": "An analyst gathers the following Information (in millions) about a company: Net cash flow from operating activities (750) Total cash inflows 1,500 Total cash outflows 2,500 Net increase (decrease) in cash (1.000) On a common-sze statement of cash flows presented using the indirect method, net operating cash flow is:",
+      "question": "An analyst gathers the following information (in millions) about a company: net cash flow from operating activities (750); total cash inflows 1,500; total cash outflows 2,500; net increase (decrease) in cash (1,000). On a common-size statement of cash flows presented using the indirect method, net operating cash flow is:",
       "options": {
         "A": "30%",
         "B": "50%",

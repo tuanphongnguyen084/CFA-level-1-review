@@ -59,15 +59,34 @@ def resume(library, subject_id, exam_id):
         # rather than crashing.
         start(library, subject_id, exam_id, ip.get("mode", "full"))
         return
-    answers = dict(ip.get("answers", {}))
+
+    # A question can be withdrawn while a round is saved mid-flight. The views
+    # walk current_questions(), which silently drops ids the exam no longer
+    # has, so leaving them in "order" makes the two lists disagree from the
+    # gap onwards: "checked" is read off order[idx] while the card on screen
+    # is questions[idx], one place further along. That mismatch crashed the
+    # quiz on a question the student had not answered yet. Prune here instead,
+    # keeping their place and their work.
+    exam = library.exam(subject_id, exam_id)
+    live = {x["id"] for x in exam.questions} if exam else set()
+    kept = [qid for qid in order if qid in live]
+    if not kept:
+        start(library, subject_id, exam_id, ip.get("mode", "full"))
+        return
+    # Land on the same question when it survived, otherwise on the one that
+    # now occupies its place.
+    idx = min(sum(1 for qid in order[:ip["idx"]] if qid in live), len(kept) - 1)
+    order = kept
+    answers = {k: v for k, v in (ip.get("answers") or {}).items() if k in live}
+
     st.session_state.quiz = {
         "subject_id": subject_id,
         "exam_id": exam_id,
         "mode": ip["mode"],
         "order": order,
-        "idx": ip["idx"],
+        "idx": idx,
         "answers": answers,
-        "checked": order[ip["idx"]] in answers,
+        "checked": order[idx] in answers,
     }
     st.session_state.view = "quiz"
     st.rerun()

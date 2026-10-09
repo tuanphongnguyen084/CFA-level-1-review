@@ -64,3 +64,12 @@ def render(library):
                 if st.button("View answers", key=f"rev_{exam.exam_id}",
                              use_container_width=True):
                     go("review", subject_id=s.subject_id, review_exam=exam.exam_id)
+
+            if e.get("in_progress"):
+                # "Continue" was the only way back into a half-finished round,
+                # so an unwanted one could not be abandoned — including a round
+                # left shorter than it started by a withdrawn question.
+                if st.button("Start over", key=f"restart_{exam.exam_id}"):
+                    e.pop("in_progress", None)
+                    progress.save()
+                    quiz.start(library, s.subject_id, exam.exam_id, "full")

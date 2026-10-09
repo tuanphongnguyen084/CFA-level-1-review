@@ -44,15 +44,20 @@ def render(library):
 
     letters = quiz.option_letters(cur)
     chosen = q["answers"].get(cur["id"])
+    # Read "revealed?" off the question on screen rather than the stored flag.
+    # The two can disagree — they did when a withdrawn question shortened the
+    # round under a saved order — and then the flag says an answer exists for
+    # a question that was never answered.
+    checked = chosen is not None
     opts = [f"{L}) {md(cur['options'][L])}" for L in letters]
     pick = st.radio(
         "Choose an answer:", opts,
         index=letters.index(chosen) if chosen in letters else None,
         key=f"radio_{cur['id']}_{idx}",
-        disabled=q["checked"],
+        disabled=checked,
     )
 
-    if not q["checked"]:
+    if not checked:
         # Checking used to be the only way forward, so a question you couldn't
         # answer stopped the round dead. Skipping leaves it unanswered, which
         # grades as wrong and therefore comes back in "Retry wrong" — exactly
@@ -80,7 +85,6 @@ def render(library):
                     _go_to(q, idx - 1)
         return
 
-    chosen = q["answers"][cur["id"]]
     correct = cur["answer"]
     if chosen == correct:
         st.success(f"Correct! Answer: **{correct})**")

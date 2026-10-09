@@ -48,7 +48,7 @@
         "B": "10.73%.",
         "C": "8.78%."
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "g = (ROE)(RR) g = (19.5)(1 - 0.45) g = (0.195)(0.55) = 0.1073 or 10.73% (Module 48.2, LOS 48.h)",
       "answer_source": "green"
     },
@@ -181,7 +181,7 @@
         "C": "$14.21."
       },
       "answer": "A",
-      "explanation": "First solve for D 5 : D 5 = (D 1 )(1 + g) n = $1(1.05) 4 = $1.216 (Module 48.2, LOS 48.h)",
+      "explanation": "First solve for D 5 : D 5 = (D 1 )(1 + g) n = $1(1.05) 4 = $1.216 P 4 = D 5 / (k - g) = $1.216 / (0.15 - 0.05) = $12.16 (Module 48.2, LOS 48.h)",
       "answer_source": "green"
     },
     {
@@ -200,11 +200,11 @@
       "id": "Q57",
       "question": "A firm has an expected dividend payout ratio of 50%, a required rate of return of 12% and a constant growth rate of 6%. If earnings for the next year are expected to be $4.50, the value of the stock today is closest to :",
       "options": {
-        "A": "$33.50. P 4 = = = $ 12.16 or P 0 = = 10 P 4 = 10 ( 1.05 ) 4 = $ 12.16 D 5 ( k - g ) $ 1.216 ( 0.15 - 0.05 ) 1 0.15 - 0.05",
+        "A": "$33.50.",
         "B": "$37.50.",
         "C": "$39.75."
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "Expected dividend = $4.50 × 0.50 = $2.25 Value today = $2.25 / (0.12 - 0.06) = $37.50 (Module 48.2, LOS 48.h)",
       "answer_source": "green"
     },

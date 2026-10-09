@@ -24,7 +24,7 @@
         "B": "$90.91.",
         "C": "$5.00."
       },
-      "answer": "A",
+      "answer": "B",
       "explanation": "Preferred stock yield (K p ) = bond yield - 0.75% = 6.25% - 0.75% = 5.5% Value = dividend / K p = $5 / 0.055 = $90.91. (Module 48.2, LOS 48.g)",
       "answer_source": "green"
     },

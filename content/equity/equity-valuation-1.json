@@ -180,7 +180,7 @@
         "B": "$13.66.",
         "C": "$20.00."
       },
-      "answer": "C",
+      "answer": "B",
       "explanation": "Dividend in year 5 = (EPS)(payout ratio) = 2.4 × 0.5 = 1.2 P 4 = 1.2 / (0.1 - 0.04) = 1.2 / 0.06 = $20 P 0 = PV (P 4 ) = $20 / (1.10) 4 = $13.66 (Module 48.2, LOS 48.h)",
       "answer_source": "green"
     },

@@ -31,7 +31,18 @@ progress.init()
 
 # Everyone signed in may study; only owner accounts see the buyers-only
 # material, and for everyone else it is absent rather than locked.
-library = content.visible_library(content.load_library(), access.is_owner())
+_full = content.load_library()
+library = content.visible_library(_full, access.is_owner())
+
+# Progress saved before a question was withdrawn still names it. Clean that up
+# once the browser has handed back the stored copy, and against the full
+# library — pruning against the filtered one would read every buyers-only exam
+# as missing and wipe that history for ordinary visitors.
+if st.session_state.get("_prog_hydrated") and not st.session_state.get("_prog_pruned"):
+    st.session_state["_prog_pruned"] = True
+    if progress.prune_missing_questions(_full):
+        progress.save()
+
 ui.sidebar(library)
 access.sidebar_account()
 

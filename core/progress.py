@@ -217,3 +217,38 @@ def subject_score(subject_id, exams):
 def is_finished(subject_id, exam_id):
     e = entry(subject_id, exam_id)
     return bool(e and e.get("finished"))
+
+
+def prune_missing_questions(library):
+    """Forget wrong-answer ids whose question no longer exists.
+
+    A question can be withdrawn after people have already answered it: FSA
+    Q70 was, because the accumulated-depreciation figures the vendor printed
+    make it unanswerable by the correct method. Its id lives on in whoever
+    had it wrong, where it would promise a "Retry 1 wrong" round that
+    ``quiz.start`` then builds empty, and would count as a miss against an
+    exam that is now one question shorter.
+
+    Only ids inside exams the library actually has are touched, so this must
+    be given the *unfiltered* library: pruning against a visitor's filtered
+    view would read every buyers-only exam as missing and erase that
+    progress. Entries for exams that are absent are left alone too — a file
+    that failed to load for one run should not cost anyone their history.
+
+    Returns True when something changed, so the caller can decide to save.
+    """
+    prog = st.session_state.get("progress") or {}
+    changed = False
+    for key, entry in prog.items():
+        if not isinstance(entry, dict) or "wrong_ids" not in entry:
+            continue
+        subject_id, _, exam_id = key.partition("/")
+        exam = library.exam(subject_id, exam_id)
+        if exam is None:
+            continue
+        live = {q["id"] for q in exam.questions}
+        kept = [qid for qid in entry["wrong_ids"] if qid in live]
+        if len(kept) != len(entry["wrong_ids"]):
+            entry["wrong_ids"] = kept
+            changed = True
+    return changed

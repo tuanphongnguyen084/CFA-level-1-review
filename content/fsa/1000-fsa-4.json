@@ -45,19 +45,6 @@
       "answer_source": "red"
     },
     {
-      "id": "Q70",
-      "num": 70,
-      "question": "An analyst gathers she following information about a company's equipment base: Beginning balance accumulated depreciation €7,000,000 Ending balance accumulated depreciation €3,000,000 Depreciation expense of equipment €4,000,000 The company sold equipment having a historical cost of €5,000,000 and reported a loss on sale of €250,000. The cash received from the sale of equipment is",
-      "options": {
-        "A": "€750,000.",
-        "B": "€1,750.000",
-        "C": "€4,700.000."
-      },
-      "answer": "B",
-      "explanation": "B is correct. The cash received from the sale of equipment is determined by subtracting the book value of the equipment sold (calculated as the historical cost minus the accumulated depreciation) from the loss on sale reported. The formula is: Cash received from the sale of equipment = Book value of the equipment sold - Loss on sale = €2,000,000 - €250,000 = €1,750,000. A is incorrect because the cash received from the sale of equipment is calculated as follows: Historical cost of equipment sold (€5,000,000) - Accumulated depreciation on the equipment sold (€3,000,000) = Book value of the equipment sold (€2,000,000) - Loss on sale (€250,000) = €1,750,000. C is incorrect because the calculation for cash received from the sale of equipment as Historical cost of equipment sold (€5,000,000) - Loss on sale (€250,000) equals €4,750,000, which is not accurate in this context.",
-      "answer_source": "red"
-    },
-    {
       "id": "Q71",
       "num": 71,
       "question": "An analyst gathers the following information (in millions) about a company. EBIT 150 Earnings before taxes 130 Net income 110 Total average asset 1,000 ROA is",

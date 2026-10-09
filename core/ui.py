@@ -70,6 +70,17 @@ _CSS = """
       transition: transform .1s ease, background .2s ease,
                   color .2s ease, border-color .2s ease;
   }
+  /* The wide letter-spacing is what makes these labels long, and a row of
+     four (an exam being worked on offers Continue / Start over / Retry /
+     View) is the first thing to run out of room. Tighten the type before
+     letting a label wrap: one two-line pill in a row makes the whole row
+     look misaligned. */
+  @media (max-width: 1000px) {
+      .stButton > button, .stDownloadButton > button {
+          padding: 0.55rem 0.7rem;
+          letter-spacing: 0.04em;
+      }
+  }
   .stButton > button[kind="primary"], .stDownloadButton > button {
       background: var(--sp-green) !important;
       color: #000000 !important;

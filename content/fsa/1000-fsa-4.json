@@ -197,7 +197,7 @@
         "C": "days of sales outstanding increases."
       },
       "answer": "A",
-      "explanation": "A is correct. The Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. If payables turnover were to decrease, it would increase the Number of days of payables, thereby increasing the CCC. B is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. A decrease in inventory turnover would increase the Days of Inventory on hand, thereby increasing the cash conversion cycle. C is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. An increase in the Days of sales outstanding would increase, not decrease, the cash conversion cycle.",
+      "explanation": "A is correct. The Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. If payables turnover were to decrease, it would increase the Number of days of payables, which is subtracted, thereby shortening the CCC. B is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. A decrease in inventory turnover would increase the Days of Inventory on hand, thereby increasing the cash conversion cycle. C is incorrect because the Cash conversion cycle = Days of Inventory on hand + Days of sales outstanding - Number of days of payables. An increase in the Days of sales outstanding would increase, not decrease, the cash conversion cycle.",
       "answer_source": "red"
     },
     {

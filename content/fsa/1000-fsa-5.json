@@ -203,14 +203,14 @@
     {
       "id": "Q104",
       "num": 104,
-      "question": "An analyst gathers the following Information (in € millions) about a manufacturing company's land reported under the revaluation model Purchase price and fair value on 1 January Year 23 Fair value at initial revaluation on 31 December Year 1 25 All else being equal and ignoring taxes, the revaluation at 31 December Year 1 leads in a",
+      "question": "An analyst gathers the following information (in € millions) about a manufacturing company's land reported under the revaluation model: purchase price and fair value on 1 January Year 1, 23; fair value at initial revaluation on 31 December Year 1, 25. All else being equal and ignoring taxes, the revaluation at 31 December Year 1 leads to a:",
       "options": {
         "A": "higher quick ratio",
         "B": "higher total asset turnover",
         "C": "lower debt-to-assets ratio"
       },
-      "answer": "B",
-      "explanation": "B is correct. The upward revaluation increases the fixed asset value causing an increased total asset value. Total assets in the denominator increase while the numerator (net sales) remains the same. This results in a higher total asset turnover. A is incorrect because an upward asset revaluation only affects the fixed assets on the asset side and the surplus account in equity; the numerator remains unchanged. It leads to an increased total asset value and therefore has a direct relationship only with the PP&E on the asset side and the surplus account in equity; the numerator is unaffected, and only the denominator increased. This leads to a decreased total asset turnover. C is incorrect because the upward revaluation increases the fixed asset value, therefore increasing the denominator (total assets) but the total debt remains unchanged in the numerator. This leads to a decrease in the debt-to-assets ratio.",
+      "answer": "C",
+      "explanation": "C is correct. The upward revaluation raises the carrying amount of the land by €2 million, so total assets increase while total debt is unchanged; the debt-to-assets ratio therefore falls. A is incorrect because land is a non-current asset. The quick ratio compares cash, short-term marketable securities and receivables with current liabilities, and the revaluation touches none of them. B is incorrect because total asset turnover is net sales divided by average total assets. The revaluation raises the denominator while net sales are unchanged, so turnover falls rather than rises.",
       "answer_source": "red"
     },
     {

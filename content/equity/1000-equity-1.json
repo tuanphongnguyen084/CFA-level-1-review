@@ -256,6 +256,19 @@
       ]
     },
     {
+      "id": "Q17",
+      "num": 17,
+      "question": "With respect to behavioral finance, which of the following is least likely a behavioral bias used to explain pricing anomalies?",
+      "options": {
+        "A": "Risk aversion",
+        "B": "Loss aversion",
+        "C": "Overconfidence"
+      },
+      "answer": "A",
+      "explanation": "A is correct. Risk aversion is an assumption of standard finance, not a behavioral bias: it describes a rational preference for less uncertainty at a given expected return and is built into traditional asset pricing models. B is incorrect because loss aversion — feeling a loss more keenly than an equivalent gain — is a behavioral bias offered as an explanation for pricing anomalies. C is incorrect because overconfidence, in which investors overestimate the precision of their own forecasts, is likewise a behavioral bias used to explain anomalies.",
+      "answer_source": "recovered"
+    },
+    {
       "id": "Q18",
       "num": 18,
       "question": "Q. The voting method that allows shareholders to cast all their votes for a single candidate is best described as:",

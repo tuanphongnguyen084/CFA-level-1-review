@@ -134,6 +134,19 @@
       ]
     },
     {
+      "id": "Q9",
+      "num": 9,
+      "question": "An investor purchased a stock for $450 and then sold the stock immediately after receiving a dividend of $2. If the holding period return is a loss of 10.2%, the investor sold the stock at a price closest to:",
+      "options": {
+        "A": "$402.",
+        "B": "$404.",
+        "C": "$406."
+      },
+      "answer": "A",
+      "explanation": "A is correct. The holding period return is (ending price + dividend − beginning price) / beginning price. Setting (P + $2 − $450) / $450 = −0.102 gives P + $2 = $450 × 0.898 = $404.10, so P = $402.10, closest to $402. B is incorrect because $404.10 is the sale price plus the dividend, before the dividend is removed. C is incorrect because it omits the dividend altogether: $450 × 0.898 rounded up ignores the $2 received.",
+      "answer_source": "recovered"
+    },
+    {
       "id": "Q10",
       "num": 10,
       "question": "An investor considers the following certificates of deposit (CDs) available for purchase at face value: CD Interest Rate • 1 2.2% • 2 3.3% • 3 4.4% If each CD has the same maturity and default risk, the opportunity cost of investing in CD 1 is closest to",

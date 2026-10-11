@@ -84,6 +84,19 @@
       ]
     },
     {
+      "id": "Q73",
+      "num": 73,
+      "question": "An analyst gathers the following book value information about a company and its common shares: inventories €20 million; net fixed assets €80 million; total assets €150 million; total liabilities €90 million; shares outstanding 4 million. The analyst estimates the market value of net fixed assets to be 125% of book value and the market value of inventories to be 90% of book value. If the stock is currently trading at €19.50 per share, the asset-based value per share is most likely:",
+      "options": {
+        "A": "less than the market price.",
+        "B": "equal to the market price.",
+        "C": "greater than the market price."
+      },
+      "answer": "B",
+      "explanation": "B is correct. Restate the assets at market value: net fixed assets €80 million × 125% = €100 million, inventories €20 million × 90% = €18 million, and the remaining assets (€150 − €80 − €20 = €50 million) at book value. Total assets are therefore €168 million. Subtracting total liabilities of €90 million leaves €78 million of net asset value, and €78 million / 4 million shares = €19.50 per share — exactly the market price. A and C are incorrect because the asset-based value is neither below nor above €19.50.",
+      "answer_source": "recovered"
+    },
+    {
       "id": "Q74",
       "num": 74,
       "question": "Q. The book value of a company's equity is:",

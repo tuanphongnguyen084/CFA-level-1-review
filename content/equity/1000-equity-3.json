@@ -24,7 +24,7 @@
     {
       "id": "Q46",
       "num": 46,
-      "question": "Q. If the index's value is 100 at the beginning of Period 1, the index's value at the end of Period 3 is closest to:",
+      "question": "An analyst gathers the following returns for an index: Period 1, 12%; Period 2, −8%; Period 3, 2%. If the index's value is 100 at the beginning of Period 1, the index's value at the end of Period 3 is closest to:",
       "options": {
         "A": "103.",
         "B": "105.",
@@ -134,7 +134,7 @@
     {
       "id": "Q53",
       "num": 53,
-      "question": "Q. If the required rate of return is 10%, using the Gordon growth model, the intrinsic value per share of the stock is closest to:",
+      "question": "An analyst gathers the following information about a company: dividend just paid $1.00 per share; dividend growth rate 4.8%; return on equity 12%. If the required rate of return is 10%, using the Gordon growth model, the intrinsic value per share of the stock is closest to:",
       "options": {
         "A": "$14.56.",
         "B": "$19.23.",

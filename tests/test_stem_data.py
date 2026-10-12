@@ -21,8 +21,13 @@ import re
 CONTENT = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "content")
 
+# The first version of this list left out "index", and missed two questions in
+# the very next exam the owner opened. Err wide: a noun too many costs nothing,
+# a noun missing costs a silent pass.
 REFERS = re.compile(
-    r"\bthe (company|portfolio|bond|fund|firm|stock|investor|security|issuer)'?s?\b",
+    r"\bthe (company|portfolio|bond|fund|firm|stock|investor|security|issuer|"
+    r"index|analyst|trader|manager|project|asset|machine|equipment|loan|option|"
+    r"swap|contract|position|account|business|bank|economy|issue|note|share)'?s?\b",
     re.I)
 NUMBER = re.compile(r"\d+(?:\.\d+)?")
 

@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import streamlit as st  # noqa: E402
 
-from core import access, content, progress, ui  # noqa: E402
+from core import access, content, drill, progress, ui  # noqa: E402
 from views import exam as exam_view  # noqa: E402
 from views import home, quiz, result, review, subject  # noqa: E402
 
@@ -33,6 +33,13 @@ progress.init()
 # material, and for everyone else it is absent rather than locked.
 _full = content.load_library()
 library = content.visible_library(_full, access.is_owner())
+
+# A mixed drill is a synthetic exam assembled from every subject, so it has no
+# file on disk and must be put back into the library on each rerun before any
+# view tries to look it up.
+_drill_exam = drill.rebuild(library)
+if _drill_exam is not None:
+    drill.inject(library, _drill_exam)
 
 # Progress saved before a question was withdrawn still names it. Clean that up
 # once the browser has handed back the stored copy, and against the full

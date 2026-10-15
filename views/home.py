@@ -1,8 +1,45 @@
-"""Home: grid of subjects with per-subject progress."""
+"""Home: the mixed drill, then a grid of subjects with per-subject progress."""
 import streamlit as st
 
-from core import progress
+from core import drill, progress
 from core.ui import go
+
+
+def _mixed_drill(library):
+    """Entry point for a timed set drawn from every subject at once.
+
+    Lives above the subject list because it is the one thing here that is not
+    organised by topic — which is the point of it.
+    """
+    seen, total, cycle = drill.cycle_progress(library)
+    if not total:
+        return
+
+    with st.container(border=True):
+        st.markdown(f"**Mixed drill — {drill.DEFAULT_N} questions · "
+                    f"{round(drill.DEFAULT_N * drill.MINUTES_PER_QUESTION)} min**")
+        st.caption("All ten subjects at once, apportioned by exam weight, "
+                   "timed at 1.5 minutes a question. Nothing repeats until "
+                   "the whole bank has been served.")
+
+        c1, c2 = st.columns([3, 2], vertical_alignment="center")
+        with c1:
+            left = total - seen
+            st.progress(seen / total,
+                        text=f"Round {cycle} — {seen}/{total} used, "
+                             f"{left} left")
+        with c2:
+            label = "Start drill" if left >= drill.DEFAULT_N else \
+                    (f"Start drill ({left} left)" if left else "Start new round")
+            if st.button(label, key="start_drill", type="primary",
+                         use_container_width=True):
+                drill.begin(library)
+
+        past = drill.history()
+        if past:
+            recent = " · ".join(
+                f"{h['correct']}/{h['n']}" for h in past[-5:])
+            st.caption(f"Last drills: {recent}")
 
 
 def render(library):
@@ -14,7 +51,11 @@ def render(library):
                 "(see `docs/ADD_EXAM.md`).")
         return
 
+    _mixed_drill(library)
+
     for s in library.subjects:
+        if s.subject_id == drill.DRILL_SUBJECT:
+            continue   # synthetic; it has its own card above
         with st.container(border=True):
             c1, c2, c3 = st.columns([5, 3, 2], vertical_alignment="center")
             with c1:

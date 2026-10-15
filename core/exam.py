@@ -39,7 +39,7 @@ import time
 
 import streamlit as st
 
-from core import progress
+from core import drill, progress
 
 
 def option_letters(question):
@@ -162,6 +162,12 @@ def finish(library, auto=False):
         "elapsed_s": now - ex["start_ts"],
     }
     e["wrong_ids"] = wrong_ids
+
+    # A mixed drill burns its questions out of the cycle only once it has
+    # actually been submitted, so walking away from one costs nothing.
+    if ex["subject_id"] == drill.DRILL_SUBJECT:
+        drill.record(exam, e["exam_result"])
+
     progress.save()
 
     st.session_state.subject_id = ex["subject_id"]

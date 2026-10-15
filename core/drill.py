@@ -176,11 +176,15 @@ def build(library, n=DEFAULT_N, rng=None):
     return picked, reset
 
 
-def as_exam(picked):
+def as_exam(picked, exam_id=None, seq=None):
     """Wrap the picked questions as an Exam the timed machinery can run.
 
     Each question is copied with its full key as the id: core/exam.py indexes
     answers by question id, and the raw ids collide across source exams.
+
+    Each drill gets its own exam_id so that finishing one does not erase the
+    last. That is what makes a drill reviewable afterwards exactly like any
+    other exam, wrong answers and all.
     """
     questions = []
     for key, q, _sid in picked:
@@ -190,24 +194,25 @@ def as_exam(picked):
     minutes = max(1, round(len(questions) * MINUTES_PER_QUESTION))
     return content.Exam(
         subject_id=DRILL_SUBJECT,
-        exam_id=DRILL_EXAM,
-        name=f"Luyện trộn — {len(questions)} câu",
-        group="Luyện trộn",
+        exam_id=exam_id or DRILL_EXAM,
+        name=f"Drill {seq} — {len(questions)} questions" if seq
+             else f"Mixed drill — {len(questions)} questions",
+        group="Mixed drills",
         questions=questions,
         path="(drill)",
         timed_minutes=minutes,
     )
 
 
-def inject(library, exam):
-    """Add the synthetic drill exam to the library, in place."""
+def inject(library, exams):
+    """Put the drill exams into the library, in place, newest first."""
     s = library.subject(DRILL_SUBJECT)
     if s is None:
-        s = content.Subject(subject_id=DRILL_SUBJECT, name="Luyện trộn",
+        s = content.Subject(subject_id=DRILL_SUBJECT, name="Mixed drills",
                             icon="", order=-1, weight="", description="",
                             exams=[])
         library.subjects.append(s)
-    s.exams = [exam]
+    s.exams = list(exams)
     return library
 
 
@@ -242,22 +247,41 @@ def record(exam, result):
 # --------------------------------------------------------------------------- #
 # Session wiring                                                               #
 # --------------------------------------------------------------------------- #
-def rebuild(library):
-    """Re-create the live drill's Exam from the keys held in the session.
+# Keep a bounded history. Each entry is twenty keys, so fifty drills is a few
+# tens of KB in localStorage — small, but not unbounded.
+MAX_KEPT = 50
 
-    Streamlit reruns the script on every interaction, so the synthetic exam
-    cannot simply be kept in memory as an object graph: the keys are the
-    durable part, and the questions are looked up again from the real
-    library each run.
+
+def _drills():
+    return _state().setdefault("drills", [])
+
+
+def rebuild(library):
+    """Re-create every stored drill as an Exam, newest first.
+
+    Streamlit keeps no object graph between reruns, and the drill has no file
+    on disk, so the questions are looked up again from the real library each
+    run. The keys live in progress rather than session state: a drill left
+    half-finished has to survive a closed tab, a sleeping app or a redeploy,
+    which session state does not.
     """
-    keys = st.session_state.get("drill_keys")
-    if not keys:
-        return None
     index = {k: (k, q, sid) for k, q, sid in pool(library)}
-    picked = [index[k] for k in keys if k in index]
-    if not picked:
-        return None
-    return as_exam(picked)
+    exams = []
+    for d in reversed(_drills()):
+        picked = [index[k] for k in d["keys"] if k in index]
+        if picked:
+            exams.append(as_exam(picked, d["id"], d.get("seq")))
+    return exams
+
+
+def active_id():
+    """The drill with a timed session still open, if there is one."""
+    prog = st.session_state.get("progress", {})
+    for d in reversed(_drills()):
+        e = prog.get(f"{DRILL_SUBJECT}/{d['id']}")
+        if e and e.get("exam_session") and not e.get("finished"):
+            return d["id"]
+    return None
 
 
 def begin(library, n=DEFAULT_N):
@@ -265,11 +289,20 @@ def begin(library, n=DEFAULT_N):
     from core import exam as exam_core
 
     picked, reset = build(library, n)
-    st.session_state["drill_keys"] = [p[0] for p in picked]
+    state = _state()
+    seq = state.get("next_seq", len(_drills()) + 1)
+    state["next_seq"] = seq + 1
+    exam_id = f"d{seq}"
+
+    _drills().append({"id": exam_id, "seq": seq,
+                      "keys": [p[0] for p in picked]})
+    # Drop the oldest once past the cap, and with them the progress entries
+    # that would otherwise linger with nothing to resolve against.
+    while len(_drills()) > MAX_KEPT:
+        gone = _drills().pop(0)
+        st.session_state.get("progress", {}).pop(
+            f"{DRILL_SUBJECT}/{gone['id']}", None)
+
     st.session_state["drill_reset_notice"] = reset
-    inject(library, as_exam(picked))
-    # A previous drill's result sits under the same id; clear it so the new
-    # attempt starts from nothing rather than resuming the old one.
-    st.session_state.get("progress", {}).pop(
-        f"{DRILL_SUBJECT}/{DRILL_EXAM}", None)
-    exam_core.start(library, DRILL_SUBJECT, DRILL_EXAM)
+    inject(library, rebuild(library))
+    exam_core.start(library, DRILL_SUBJECT, exam_id)

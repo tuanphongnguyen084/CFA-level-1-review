@@ -37,9 +37,9 @@ library = content.visible_library(_full, access.is_owner())
 # A mixed drill is a synthetic exam assembled from every subject, so it has no
 # file on disk and must be put back into the library on each rerun before any
 # view tries to look it up.
-_drill_exam = drill.rebuild(library)
-if _drill_exam is not None:
-    drill.inject(library, _drill_exam)
+_drill_exams = drill.rebuild(library)
+if _drill_exams:
+    drill.inject(library, _drill_exams)
 
 # Progress saved before a question was withdrawn still names it. Clean that up
 # once the browser has handed back the stored copy, and against the full

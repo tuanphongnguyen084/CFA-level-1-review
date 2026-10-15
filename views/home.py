@@ -1,7 +1,7 @@
 """Home: the mixed drill, then a grid of subjects with per-subject progress."""
 import streamlit as st
 
-from core import drill, progress
+from core import drill, exam as exam_core, progress
 from core.ui import go
 
 
@@ -22,24 +22,43 @@ def _mixed_drill(library):
                    "timed at 1.5 minutes a question. Nothing repeats until "
                    "the whole bank has been served.")
 
+        left = total - seen
+        open_id = drill.active_id()
+
         c1, c2 = st.columns([3, 2], vertical_alignment="center")
         with c1:
-            left = total - seen
             st.progress(seen / total,
                         text=f"Round {cycle} — {seen}/{total} used, "
                              f"{left} left")
         with c2:
-            label = "Start drill" if left >= drill.DEFAULT_N else \
-                    (f"Start drill ({left} left)" if left else "Start new round")
-            if st.button(label, key="start_drill", type="primary",
-                         use_container_width=True):
-                drill.begin(library)
+            if open_id:
+                # An interrupted drill is resumable from here; without this the
+                # only way back was the subject page, which this card replaces.
+                if st.button("Continue drill", key="resume_drill",
+                             type="primary", use_container_width=True):
+                    exam_core.resume(library, drill.DRILL_SUBJECT, open_id)
+            else:
+                label = "Start drill" if left >= drill.DEFAULT_N else \
+                        (f"Start drill ({left} left)" if left
+                         else "Start new round")
+                if st.button(label, key="start_drill", type="primary",
+                             use_container_width=True):
+                    drill.begin(library)
 
         past = drill.history()
-        if past:
-            recent = " · ".join(
-                f"{h['correct']}/{h['n']}" for h in past[-5:])
-            st.caption(f"Last drills: {recent}")
+        if past or open_id:
+            cols = st.columns([3, 2], vertical_alignment="center")
+            with cols[0]:
+                if past:
+                    recent = " · ".join(f"{h['correct']}/{h['n']}"
+                                        for h in past[-5:])
+                    st.caption(f"Last drills: {recent}")
+            with cols[1]:
+                # Past drills keep their questions and wrong answers, so they
+                # are reviewable like any other exam.
+                if st.button("Past drills", key="past_drills",
+                             use_container_width=True):
+                    go("subject", subject_id=drill.DRILL_SUBJECT)
 
 
 def render(library):

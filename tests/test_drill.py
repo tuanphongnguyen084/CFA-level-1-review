@@ -137,3 +137,83 @@ def test_history_records_each_submitted_drill(session, library):
     picked, _ = drill.build(library, 20, rng=random.Random(7))
     drill.record(drill.as_exam(picked), {"total": 20, "correct": 14})
     assert drill.history()[-1]["correct"] == 14
+
+
+# --- surviving an interruption ------------------------------------------- #
+#
+# A drill is timed, so being pulled away mid-attempt is the normal case, not
+# the edge case. Three things have to hold: each drill keeps its own slot, the
+# questions are recoverable from progress rather than from session state, and
+# finishing one never erases the last.
+
+def test_each_drill_gets_its_own_slot(session, library):
+    ids = []
+    for _ in range(3):
+        picked, _ = drill.build(library, 20, rng=random.Random(len(ids)))
+        state = drill._state()
+        seq = state.get("next_seq", 1)
+        state["next_seq"] = seq + 1
+        drill._drills().append({"id": f"d{seq}", "seq": seq,
+                                "keys": [p[0] for p in picked]})
+        drill.record(drill.as_exam(picked, f"d{seq}", seq), {"total": 20})
+        ids.append(f"d{seq}")
+    assert ids == ["d1", "d2", "d3"]           # no slot reused
+
+
+def test_a_drill_is_rebuilt_from_progress_not_session(session, library):
+    """The questions must come back after the tab is closed."""
+    picked, _ = drill.build(library, 20, rng=random.Random(1))
+    drill._drills().append({"id": "d1", "seq": 1,
+                            "keys": [p[0] for p in picked]})
+    exams = drill.rebuild(library)
+    assert len(exams) == 1
+    assert [q["id"] for q in exams[0].questions] == [p[0] for p in picked]
+    assert exams[0].exam_id == "d1" and exams[0].timed_minutes == 30
+
+
+def test_rebuild_lists_newest_first(session, library):
+    for seq in (1, 2):
+        picked, _ = drill.build(library, 20, rng=random.Random(seq))
+        drill._drills().append({"id": f"d{seq}", "seq": seq,
+                                "keys": [p[0] for p in picked]})
+        drill.record(drill.as_exam(picked), {"total": 20})
+    assert [e.exam_id for e in drill.rebuild(library)] == ["d2", "d1"]
+
+
+def test_an_open_drill_is_found_a_finished_one_is_not(session, library):
+    drill._drills().extend([{"id": "d1", "seq": 1, "keys": []},
+                            {"id": "d2", "seq": 2, "keys": []}])
+    prog = session["progress"]
+    prog["drill/d1"] = {"finished": True, "exam_result": {}}
+    assert drill.active_id() is None
+    prog["drill/d2"] = {"exam_session": {"order": ["x"], "idx": 0}}
+    assert drill.active_id() == "d2"
+
+
+def test_a_question_missing_from_the_library_does_not_sink_the_drill(
+        session, library):
+    """A withdrawn question should shorten a stored drill, not break it."""
+    picked, _ = drill.build(library, 20, rng=random.Random(2))
+    keys = [p[0] for p in picked]
+    drill._drills().append({"id": "d1", "seq": 1,
+                            "keys": keys + ["ethics/gone/Q99"]})
+    assert len(drill.rebuild(library)[0].questions) == 20
+
+
+def test_history_is_capped_and_old_slots_are_cleaned_up(
+        session, library, monkeypatch):
+    from core import exam as exam_core
+
+    drill._state()["drills"] = [{"id": f"d{i}", "seq": i, "keys": []}
+                                for i in range(1, drill.MAX_KEPT + 1)]
+    drill._state()["next_seq"] = drill.MAX_KEPT + 1
+    session["progress"]["drill/d1"] = {"finished": True}
+    # Stop short of the UI. monkeypatch, not assignment: a bare assignment
+    # here leaked into every later test in the suite.
+    monkeypatch.setattr(st, "rerun", lambda *a, **k: None, raising=False)
+    monkeypatch.setattr(exam_core, "start", lambda *a, **k: None)
+    drill.begin(library)
+    kept = [d["id"] for d in drill._drills()]
+    assert len(kept) == drill.MAX_KEPT
+    assert "d1" not in kept                       # oldest dropped
+    assert "drill/d1" not in session["progress"]  # and its slot released

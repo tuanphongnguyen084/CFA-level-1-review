@@ -199,6 +199,9 @@ def go(view, **kwargs):
 
 def sidebar(library):
     with st.sidebar:
+        if st.button("Error log", use_container_width=True):
+            go("stats")
+
         st.download_button(
             "Download progress",
             data=json.dumps(st.session_state.get("progress", {}),

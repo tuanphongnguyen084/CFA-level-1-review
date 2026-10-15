@@ -25,6 +25,7 @@ is handed over as a synthetic Exam injected into the library (see
 grid or the submit flow.
 """
 import random
+from collections import Counter
 
 import streamlit as st
 
@@ -220,12 +221,20 @@ def record(exam, result):
     seen = set(state["seen"])
     seen.update(q["id"] for q in exam.questions)
     state["seen"] = sorted(seen)
+    # Which subject each miss came from is free here and nowhere else: the
+    # drill's question ids carry their source, and the per-exam record under
+    # "drill/current" is overwritten by the next drill. Count it now or lose it.
+    served = Counter(q["id"].split("/")[0] for q in exam.questions)
+    missed = Counter(w.split("/")[0] for w in result.get("wrong_ids", []))
     state["history"].append({
         "n": result.get("total", len(exam.questions)),
         "correct": result.get("correct", 0),
         "elapsed_s": result.get("elapsed_s"),
         "duration_s": (exam.timed_minutes or 0) * 60,
         "cycle": state["cycle"],
+        "served": dict(served),
+        "missed": dict(missed),
+        "at": result.get("submitted_at"),
     })
     state["history"] = state["history"][-20:]
 

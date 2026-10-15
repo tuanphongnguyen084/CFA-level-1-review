@@ -16,7 +16,7 @@ import streamlit as st  # noqa: E402
 
 from core import access, content, drill, progress, ui  # noqa: E402
 from views import exam as exam_view  # noqa: E402
-from views import home, quiz, result, review, subject  # noqa: E402
+from views import home, quiz, result, review, stats, subject  # noqa: E402
 
 st.set_page_config(page_title="CFA Quiz", layout="centered",
                    initial_sidebar_state="expanded")
@@ -73,5 +73,6 @@ VIEWS = {
     "review": review.render,
     "exam": exam_view.render,
     "exam_result": exam_view.render_result,
+    "stats": stats.render,
 }
 VIEWS.get(st.session_state.view, home.render)(library)

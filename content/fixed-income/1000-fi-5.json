@@ -174,8 +174,8 @@
         "B": "Subordinated debt",
         "C": "Senior unsecured debt"
       },
-      "answer": "B",
-      "explanation": "B is correct. The yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond. A is incorrect because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I- spread. C is incorrect because the yield spread over a specific benchmark is referred to as the benchmark spread. A constant yield spread over a government (or interest rate swap) spot curve is known as the zero-volatility spread (Z- spread) of a bond over the benchmark rate.",
+      "answer": "A",
+      "explanation": "A is correct. Second lien debt is secured debt and therefore has higher priority than any unsecured debt. In the event of default, unsecured debtholders' claims rank below — that is, get paid after — those of secured creditors, under what is known as the priority of claims. First lien debt refers to a pledge of certain assets that could include buildings but might also include property and equipment, licences, patents or brands; there can also be second lien, or even third lien, secured debt, which has a secured interest in the pledged assets but ranks below first lien debt in both collateral protection and priority of payment. B is incorrect because within unsecured debt there are finer gradations of seniority. The highest-ranked unsecured debt is senior unsecured debt; lower-ranked debt includes subordinated and junior subordinated debt, which have among the lowest priority of claims and frequently little or no recovery in the event of default. C is incorrect because senior unsecured debt, while the highest-ranked of the unsecured debts, still ranks below secured creditors in the priority of claims.",
       "answer_source": "red",
       "tags": [
         "compare, calculate, and interpret yield and yield spread measures for fixed-rate bonds"

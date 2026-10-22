@@ -152,11 +152,11 @@
     {
       "id": "Q94",
       "num": 94,
-      "question": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments most likely.",
+      "question": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments most likely:",
       "options": {
-        "A": "122.20.",
-        "B": "122.41.",
-        "C": "122.53."
+        "A": "decreases and the market price of the bond increases.",
+        "B": "increases and the market price of the bond decreases.",
+        "C": "increases and the market price of the bond increases."
       },
       "answer": "A",
       "explanation": "A is correct. There are two offsetting types of interest rate risk that affect the bond investor coupon reinvestment risk and market price risk. The future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up and decreases when rates go down. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up and increases when rates go down. B is incorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on boods that mature before the horizon date) increases when interest rates go up. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up. C is incorrect because the future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up. The sale price on a band that matures after the horizon date (and thus needs to be sold) decreases when interest rates go pp.",
@@ -328,7 +328,7 @@
     {
       "id": "Q106",
       "num": 106,
-      "question": "A bond has the following characteristics: Time to maturity 3 years Coupon rate 12% Payment period Semiannual For a yield to maturity of 4%, the price of the bond per 100 of par value is closest to:",
+      "question": "A bond has the following characteristics: time to maturity 3 years; coupon rate 12%; payment period semiannual. For a yield to maturity of 4%, the price of the bond per 100 of par value is closest to:",
       "options": {
         "A": "122.20.",
         "B": "122.41.",

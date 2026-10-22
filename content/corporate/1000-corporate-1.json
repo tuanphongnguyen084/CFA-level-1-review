@@ -164,19 +164,6 @@
       ]
     },
     {
-      "id": "Q12",
-      "num": 12,
-      "question": "Which of the following pricing models is most likely used when a firm willingly sacrifices margins to build market share?",
-      "options": {
-        "A": "Dynamic pricing",
-        "B": "Freemium pricing",
-        "C": "Penetration pricing"
-      },
-      "answer": "C",
-      "explanation": "C is correct. Penetration pricing is an example of discount pricing and is used when a firm willingly sacrifices margins in order to build scale and market share. A is incorrect because dynamic pricing charges different prices at different times, for example off-peak pricing for hotel rooms, advertising, airline tickets, electricity or matinee movie tickets, and 'surge' or 'congestion' pricing for ride sharing and toll roads. B is incorrect because freemium pricing allows customers a certain level of usage or functionality at no charge — news content, a software application or a game — a model widely used in digital content and services where the provider benefits from wide adoption, often through network effects.",
-      "answer_source": "recovered"
-    },
-    {
       "id": "Q13",
       "num": 13,
       "question": "A company manufacturing and selling a product using someone else's brand name in return for a royalty most likely operates:",

@@ -22,27 +22,35 @@ def render(library):
     prog = st.session_state.get("progress", {})
     rows = stats.by_subject(library, prog)
 
-    if not rows:
+    # Drills recorded before the per-subject counts existed contribute no rows,
+    # so bail only when there is genuinely nothing — otherwise their score is
+    # still worth showing further down.
+    if not rows and not stats.drill_count(prog):
         st.info("Nothing to report yet — finish an exam or a drill first.")
         return
 
+    if not rows:
+        st.caption("No per-subject breakdown yet — the drills on record "
+                   "predate it. The next one will appear here.")
     answered, wrong, rate = stats.totals(rows)
     c1, c2, c3 = st.columns(3)
     c1.metric("Answered", answered)
     c2.metric("Wrong", wrong)
     c3.metric("Error rate", f"{rate * 100:.0f}%")
 
-    st.markdown("### Where the marks are going")
-    st.caption("Ranked by error rate × exam weight — the top row is where "
-               "study pays most, which is not always the worst percentage.")
-    st.dataframe(
-        [{"Subject": _label(library, r["subject_id"]),
-          "Answered": r["answered"],
-          "Wrong": r["wrong"],
-          "Error rate": f"{r['rate'] * 100:.0f}%",
-          "Exam weight": f"{r['weight']:.1f}%",
-          "Marks at risk": f"{r['risk']:.1f}%"} for r in rows],
-        hide_index=True, width="stretch")
+    if rows:
+        st.markdown("### Where the marks are going")
+        st.caption("Ranked by error rate × exam weight — the top row is "
+                   "where study pays most, which is not always the worst "
+                   "percentage.")
+        st.dataframe(
+            [{"Subject": _label(library, r["subject_id"]),
+              "Answered": r["answered"],
+              "Wrong": r["wrong"],
+              "Error rate": f"{r['rate'] * 100:.0f}%",
+              "Exam weight": f"{r['weight']:.1f}%",
+              "Marks at risk": f"{r['risk']:.1f}%"} for r in rows],
+            hide_index=True, width="stretch")
 
     weak = stats.weak_exams(library, prog)
     st.markdown("### Below checkpoint")
@@ -61,14 +69,23 @@ def render(library):
     trend = stats.drill_trend(prog)
     if trend:
         st.markdown("### Mixed drills")
+        correct, answered, rate = stats.drill_summary(prog)
+        st.write(f"**{correct}/{answered} = {rate * 100:.0f}%** "
+                 f"across {stats.drill_count(prog)} drill(s)")
+        st.caption("Pooled over every question, not averaged per drill — the "
+                   "last drill of a round is short, and would otherwise count "
+                   "as much as a full one.")
         line = " · ".join(f"{d['correct']}/{d['n']}" for d in trend)
-        st.write(line)
+        st.write(f"Recent: {line}")
         paced = [d for d in trend if d.get("elapsed_s") and d.get("duration_s")]
         if paced:
             last = paced[-1]
             over = last["elapsed_s"] - last["duration_s"]
-            mins = abs(over) / 60
-            st.caption(
-                f"Last drill ran {mins:.0f} min "
-                f"{'over' if over > 0 else 'under'} the 1.5 min/question pace."
-            )
+            if abs(over) < 60:
+                st.caption("Last drill finished on the 1.5 min/question pace.")
+            else:
+                st.caption(
+                    f"Last drill ran {abs(over) / 60:.0f} min "
+                    f"{'over' if over > 0 else 'under'} the "
+                    f"1.5 min/question pace."
+                )

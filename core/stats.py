@@ -88,6 +88,25 @@ def weak_exams(library, prog, floor=0.70, ethics_floor=0.80):
     return out
 
 
+def drill_summary(prog):
+    """(correct, answered, rate) pooled across every submitted drill.
+
+    Pooled rather than the mean of each drill's percentage, because the last
+    drill of a round is short by design — whatever is left of the bank — and
+    averaging percentages would let a seven-question drill weigh as heavily
+    as a twenty-question one. Here every question counts the same, which is
+    what "how often am I right" actually means.
+    """
+    hist = (prog.get(drill._STATE_KEY) or {}).get("history", [])
+    correct = sum(h.get("correct", 0) for h in hist)
+    answered = sum(h.get("n", 0) for h in hist)
+    return correct, answered, (correct / answered if answered else 0.0)
+
+
+def drill_count(prog):
+    return len((prog.get(drill._STATE_KEY) or {}).get("history", []))
+
+
 def drill_trend(prog, last=8):
     """Recent drill scores, oldest first, for a sense of direction."""
     hist = (prog.get(drill._STATE_KEY) or {}).get("history", [])

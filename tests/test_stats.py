@@ -90,3 +90,21 @@ def test_totals_match_the_rows(library):
     prog = {"ethics/e1": {"finished": True, "wrong_ids": ["Q1", "Q2", "Q3"]}}
     rows = stats.by_subject(library, prog)
     assert stats.totals(rows) == (100, 3, 0.03)
+
+
+# --- the drill's own score ------------------------------------------------ #
+
+def test_drill_score_pools_questions_rather_than_averaging_drills():
+    """A short end-of-round drill must not weigh as much as a full one."""
+    prog = {drill._STATE_KEY: {"history": [
+        {"correct": 16, "n": 20}, {"correct": 14, "n": 20},
+        {"correct": 5, "n": 7}]}}
+    correct, answered, rate = stats.drill_summary(prog)
+    assert (correct, answered) == (35, 47)
+    assert round(rate, 3) == 0.745             # pooled
+    mean_of_percentages = (16 / 20 + 14 / 20 + 5 / 7) / 3
+    assert round(mean_of_percentages, 3) == 0.738    # what it is not
+
+
+def test_drill_score_is_zero_safe_before_any_drill():
+    assert stats.drill_summary({}) == (0, 0, 0.0)

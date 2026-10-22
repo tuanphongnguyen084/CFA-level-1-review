@@ -1,7 +1,7 @@
 """Home: the mixed drill, then a grid of subjects with per-subject progress."""
 import streamlit as st
 
-from core import drill, exam as exam_core, progress
+from core import drill, exam as exam_core, progress, stats
 from core.ui import go
 
 
@@ -50,9 +50,14 @@ def _mixed_drill(library):
             cols = st.columns([3, 2], vertical_alignment="center")
             with cols[0]:
                 if past:
+                    # The running score belongs here, not only in the error
+                    # log: this card is where it gets looked at.
+                    correct, answered, rate = stats.drill_summary(
+                        st.session_state.get("progress", {}))
                     recent = " · ".join(f"{h['correct']}/{h['n']}"
                                         for h in past[-5:])
-                    st.caption(f"Last drills: {recent}")
+                    st.caption(f"**{correct}/{answered} = {rate * 100:.0f}%** "
+                               f"over {len(past)} drill(s) · recent {recent}")
             with cols[1]:
                 # Past drills keep their questions and wrong answers, so they
                 # are reviewable like any other exam.

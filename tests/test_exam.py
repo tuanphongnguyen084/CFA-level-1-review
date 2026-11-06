@@ -325,3 +325,64 @@ def test_is_expired_false_when_fresh(fixture_content_dir):
 
     at = _run(script)
     assert at.session_state["_expired"] is False
+
+
+# --------------------------------------------------------------------- #
+# Tier 3: the subject-page card, which is where a finished exam is read #
+# --------------------------------------------------------------------- #
+def test_card_reflects_untimed_wrong_practice(fixture_content_dir):
+    """Fixing wrong answers untimed has to show on the card.
+
+    The card used to count ``exam_result["wrong_ids"]`` — the frozen record
+    of the timed submission — while core/quiz.py's "wrong" mode writes only
+    the live ``wrong_ids`` mirror. So a practice round left the card exactly
+    as it was: same score line, same "Practice 2 wrong", and once all of
+    them were fixed the button stayed enabled and opened an empty round.
+    """
+    def script():
+        import os
+        import streamlit as st
+        from core import content, exam, progress, quiz
+        from views import exam as exam_view
+        content.CONTENT_DIR = os.environ["_FIXTURE_CONTENT_DIR"]
+        content.load_library.clear()
+        progress.init()
+        lib = content.load_library()
+
+        # Each of these calls st.rerun(), so the phase has to advance before
+        # the call, not after (see this module's docstring).
+        phase = st.session_state.get("_phase", 0)
+        if phase == 0:
+            st.session_state["_phase"] = 1
+            exam.start(lib, "mock", "fixture-exam")
+        elif phase == 1:
+            st.session_state["_phase"] = 2
+            st.session_state.exam["answers"] = {"Q1": "B", "Q2": "A", "Q3": "A"}
+            exam.finish(lib)
+        elif phase == 2:
+            st.session_state["_phase"] = 3
+            quiz.start(lib, "mock", "fixture-exam", "wrong")
+        elif phase == 3:
+            st.session_state["_phase"] = 4
+            st.session_state.quiz["answers"] = {"Q2": "B", "Q3": "B"}
+            quiz.finish(lib)
+        else:
+            exam_view.render_exam_card(lib, lib.exam("mock", "fixture-exam"))
+
+    at = _run(script)
+    entry = at.session_state["progress"]["mock/fixture-exam"]
+
+    # The timed result is a measurement and must not be rewritten by practice.
+    assert entry["exam_result"]["correct"] == 1
+    assert entry["exam_result"]["wrong_ids"] == ["Q2", "Q3"]
+    # The live mirror is where the repair lands.
+    assert entry["wrong_ids"] == []
+
+    labels = [b.label for b in at.button]
+    assert "Practice 0 wrong (untimed)" in labels, labels
+    assert next(b for b in at.button
+                if b.label.startswith("Practice ")).disabled
+
+    shown = " ".join(m.value for m in at.markdown)
+    assert "1/3" in shown                  # timed score, unchanged
+    assert "2 fixed since, 0 wrong left" in shown, shown

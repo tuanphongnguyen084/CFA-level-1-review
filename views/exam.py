@@ -41,8 +41,20 @@ def render_exam_card(library, exam):
         elif result:
             pct = round(result["correct"] / result["total"] * 100) \
                 if result["total"] else 0
-            st.write(f"Completed — {result['correct']}/{result['total']} "
-                      f"({pct}%)")
+            line = (f"Completed — {result['correct']}/{result['total']} "
+                    f"({pct}%)")
+            # An untimed "practice wrong" round deliberately leaves the timed
+            # score alone — that score is a measurement, not a target to
+            # grind down. But with nothing said about the practice either,
+            # finishing a round looked like it had done nothing at all. The
+            # live mirror is the only place it shows up.
+            left = len(e.get("wrong_ids", []))
+            fixed = len(result.get("wrong_ids", [])) - left
+            if fixed > 0:
+                line += f" · {fixed} fixed since, {left} wrong left"
+            elif left:
+                line += f" · {left} wrong left"
+            st.write(line)
         else:
             st.write("Not started")
 
@@ -62,7 +74,13 @@ def render_exam_card(library, exam):
                     go("exam_result", subject_id=exam.subject_id,
                        review_exam_id=exam.exam_id)
             with cols[2]:
-                n_wrong = len(result.get("wrong_ids", []))
+                # Read the live mirror, not exam_result's frozen copy.
+                # core.quiz's "wrong" mode updates e["wrong_ids"] and never
+                # touches the timed result, so counting the snapshot kept
+                # offering questions already fixed — and once every one of
+                # them was, the button stayed enabled and opened a round with
+                # nothing in it.
+                n_wrong = len(e.get("wrong_ids", []))
                 if st.button(f"Practice {n_wrong} wrong (untimed)",
                              key=f"examwrong_{exam.exam_id}",
                              disabled=n_wrong == 0, use_container_width=True):
